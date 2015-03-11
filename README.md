@@ -5,7 +5,7 @@ Thank you for considering submitting your package to the rOpenSci suite. In orde
 
 ## How to begin the onboarding process
 
-* Begin by [opening a new issue](https://github.com/ropensci/onboarding).
+* Begin by [opening a new issue](https://github.com/ropensci/onboarding/issues/new).
 * 
 * Copy the following template into the issue and answer as concisely as possible:
 

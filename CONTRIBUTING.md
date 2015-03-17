@@ -3,7 +3,7 @@ CONTRIBUTING
 
 ## Steps
 
-1. Open a new issue
+1. [Open a new issue](https://github.com/ropensci/onboarding/issues/new)
 
 2. Copy the following template into the issue and answer as concisely as possible:
 

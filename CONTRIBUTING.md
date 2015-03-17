@@ -16,7 +16,7 @@ CONTRIBUTING
 * 6. Check the box next to each policy below, confirming that you agree. These are mandatory.
     * [ ] The repository has continuous integration with Travis and/or another service
     * [ ] The package contains a vignette
-    * [ ] The package contains a complete readme with devtools install instructions
+    * [ ] The package contains a reasonably complete readme with devtools install instructions
     * [ ] The package contains unit tests
 * 7. Do you agree to follow the [rOpenSci packaging guidelines](https://github.com/ropensci/packaging_guide)? These aren't mandatory, but we strongly suggest you follow them. If you disagree with anything, please explain.
     * [ ] Does the package have a CRAN accepted license?

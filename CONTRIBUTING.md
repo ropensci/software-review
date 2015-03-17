@@ -18,10 +18,11 @@ CONTRIBUTING
     * [ ] The package contains a vignette
     * [ ] The package contains a complete readme with devtools install instructions
     * [ ] The package contains unit tests
-* Do you agree to follow the [rOpenSci packaging guidelines](https://github.com/ropensci/packaging_guide)? These aren't mandatory, but we strongly suggest you follow them. If you disagree with anything, please explain.
+* 7. Do you agree to follow the [rOpenSci packaging guidelines](https://github.com/ropensci/packaging_guide)? These aren't mandatory, but we strongly suggest you follow them. If you disagree with anything, please explain.
     * [ ] Does the package have a CRAN accepted license?
     * [ ] Are there any packages that your package depends on that are not on CRAN?
     * [ ] Do you intend for this package to go on CRAN?
+* 8. Please add explanations below for any exceptions to the above:
     ```
 
 3. Once you have completed the template, submit the issue. Someone from our team will take a look within 5 business days and respond with next steps.  Once your package is approved, we will provide further instructions on transferring your repository to the rOpenSci organizational account.

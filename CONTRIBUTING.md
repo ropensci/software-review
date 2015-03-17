@@ -22,6 +22,7 @@ CONTRIBUTING
     * [ ] Does the package have a CRAN accepted license?
     * [ ] Are there any packages that your package depends on that are not on CRAN?
     * [ ] Do you intend for this package to go on CRAN?
+    * [ ] Did `devtools::check()` produce any errors or warnings? If so paste them below.
 * 8. Please add explanations below for any exceptions to the above:
     ```
 

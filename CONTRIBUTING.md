@@ -19,9 +19,9 @@ CONTRIBUTING
     * [ ] The package contains a reasonably complete readme with devtools install instructions
     * [ ] The package contains unit tests
 * 7. Do you agree to follow the [rOpenSci packaging guidelines](https://github.com/ropensci/packaging_guide)? These aren't mandatory, but we strongly suggest you follow them. If you disagree with anything, please explain.
-    * [ ] Does the package have a CRAN accepted license?
     * [ ] Are there any packages that your package depends on that are not on CRAN?
     * [ ] Do you intend for this package to go on CRAN?
+    * [ ] Does the package have a CRAN accepted license?
     * [ ] Did `devtools::check()` produce any errors or warnings? If so paste them below.
 * 8. Please add explanations below for any exceptions to the above:
     ```

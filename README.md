@@ -9,4 +9,11 @@ Thank you for considering submitting your package to the rOpenSci suite. In orde
 * Copy the template from `Step 2` in [CONTRIBUTING.md](CONTRIBUTING.md) into the issue body, and fill it out.  
 * Once you have completed the template, submit the issue. Someone from our team will take a look within 5 business days and respond with next steps.  Once your package is approved, we will provide further instructions on transferring your repository to the rOpenSci organizational account.
 
+# Reviewers
+
+We are grateful to the following individuals who have offered up their time and expertise to review packages submitted to rOpenSci.
+
+* [Stefan Widgren](https://github.com/stewid), National Veterinary Institute Uppsala, Sweden  
+
+
 [![repo_banner](http://ropensci.org/assets/ropensci_repo_banner.png)](http://ropensci.org)

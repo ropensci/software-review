@@ -16,6 +16,7 @@ We are grateful to the following individuals who have offered up their time and 
 * [Stefan Widgren](https://github.com/stewid), National Veterinary Institute Uppsala, Sweden  
 * [Noam Ross](https://github.com/noamross), University of California, Davis.
 * [Kevin Ushey](https://github.com/kevinushey), Rstudio, Inc.
+* [Mine Cetinkaya-Rundel](https://github.com/mine-cetinkaya-rundel) Duke University
 
 
 [![repo_banner](http://ropensci.org/assets/ropensci_repo_banner.png)](http://ropensci.org)

@@ -17,6 +17,7 @@ We are grateful to the following individuals who have offered up their time and 
 * [Noam Ross](https://github.com/noamross), University of California, Davis.
 * [Kevin Ushey](https://github.com/kevinushey), Rstudio, Inc.
 * [Mine Cetinkaya-Rundel](https://github.com/mine-cetinkaya-rundel) Duke University
+* [Julia Gustavsen](https://github.com/jooolia), University of British Columbia
 
 
 [![repo_banner](http://ropensci.org/assets/ropensci_repo_banner.png)](http://ropensci.org)

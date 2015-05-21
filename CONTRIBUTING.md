@@ -13,19 +13,20 @@ CONTRIBUTING
 * 3. URL for the package (the development repository, not a stylized html page)
 * 4. What data source(s) does it work with (if applicable)?
 * 5. Who is the target audience?
-* 6. Check the box next to each policy below, confirming that you agree. These are mandatory.
+* 6. Are there other R packages that accomplish the same thing? If so, what is different about yours?
+* 7. Check the box next to each policy below, confirming that you agree. These are mandatory.
     * [ ] This package does not violate the Terms of Service of any service it interacts with.
     * [ ] The repository has continuous integration with Travis and/or another service
     * [ ] The package contains a vignette
     * [ ] The package contains a reasonably complete readme with devtools install instructions
     * [ ] The package contains unit tests
-* 7. Do you agree to follow the [rOpenSci packaging guidelines](https://github.com/ropensci/packaging_guide)? These aren't mandatory, but we strongly suggest you follow them. If you disagree with anything, please explain.
+* 8. Do you agree to follow the [rOpenSci packaging guidelines](https://github.com/ropensci/packaging_guide)? These aren't mandatory, but we strongly suggest you follow them. If you disagree with anything, please explain.
     * [ ] Are there any package dependencies not on CRAN?
     * [ ] Do you intend for this package to go on CRAN?
     * [ ] Does the package have a CRAN accepted license?
     * [ ] Did `devtools::check()` produce any errors or warnings? If so paste them below.
-* 8. Please add explanations below for any exceptions to the above:
-* 9. If this is a resubmission following rejection, please explain the change in cirucmstances.
+* 9. Please add explanations below for any exceptions to the above:
+* 10. If this is a resubmission following rejection, please explain the change in cirucmstances.
     ```
 
 3. Once you have completed the template, submit the issue. Someone from our team will take a look within 5 business days and respond with next steps.  Once your package is approved, we will provide further instructions on transferring your repository to the rOpenSci organizational account.

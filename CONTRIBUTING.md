@@ -20,6 +20,7 @@ CONTRIBUTING
     * [ ] The package contains a vignette
     * [ ] The package contains a reasonably complete readme with devtools install instructions
     * [ ] The package contains unit tests
+    * [ ] The package only exports functions to the NAMESPACE that are intended for end users
 * 8. Do you agree to follow the [rOpenSci packaging guidelines](https://github.com/ropensci/packaging_guide)? These aren't mandatory, but we strongly suggest you follow them. If you disagree with anything, please explain.
     * [ ] Are there any package dependencies not on CRAN?
     * [ ] Do you intend for this package to go on CRAN?

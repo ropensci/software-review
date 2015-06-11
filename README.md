@@ -5,7 +5,8 @@ Thank you for considering submitting your package to the rOpenSci suite. In orde
 
 ## How to submit your package to the rOpenSci suite
 
-* Begin by [opening a new issue](https://github.com/ropensci/onboarding/issues/new).
+* First consult our [policies](https://github.com/ropensci/policies#ropensci-policies) and [packaging style guide](https://github.com/ropensci/packaging_guide#ropensci-packaging-guide) to ensure fit and consistency.    
+* Next, [open a new issue](https://github.com/ropensci/onboarding/issues/new).
 * Copy the template from `Step 2` in [CONTRIBUTING.md](CONTRIBUTING.md) into the issue body, and fill it out.  
 * Once you have completed the template, submit the issue. Someone from our team will take a look within 5 business days and respond with next steps.  Once your package is approved, we will provide further instructions on transferring your repository to the rOpenSci organizational account.
 

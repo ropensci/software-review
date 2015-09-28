@@ -15,7 +15,7 @@ Thank you for considering submitting your package to the rOpenSci suite. In orde
 We are grateful to the following individuals who have offered up their time and expertise to review packages submitted to rOpenSci.
 
 * [Stefan Widgren](https://github.com/stewid), National Veterinary Institute Uppsala, Sweden  
-* [Noam Ross](https://github.com/noamross), University of California, Davis.
+* [Noam Ross](https://github.com/noamross), EcoHealth Alliance.
 * [Kevin Ushey](https://github.com/kevinushey), Rstudio, Inc.
 * [Mine Cetinkaya-Rundel](https://github.com/mine-cetinkaya-rundel) Duke University
 * [Julia Gustavsen](https://github.com/jooolia), University of British Columbia

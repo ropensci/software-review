@@ -12,7 +12,10 @@ Thank you for considering submitting your package to the rOpenSci suite. In orde
 
 # Associate editors
 
-* [Noam Ross](https://github.com/noamross), EcoHealth Alliance. 
+* [Noam Ross](https://github.com/noamross), EcoHealth Alliance.   
+* [Scott Chamberlain](https://github.com/sckott), rOpenSci  
+* [Karthik Ram](https://github.com/karthik), rOpenSci  
+
 
 # Review board
 

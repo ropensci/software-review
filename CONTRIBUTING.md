@@ -27,7 +27,7 @@ CONTRIBUTING
     * [ ] Does the package have a CRAN accepted license?
     * [ ] Did `devtools::check()` produce any errors or warnings? If so paste them below.
 * 9. Please add explanations below for any exceptions to the above:
-* 10. If this is a resubmission following rejection, please explain the change in cirucmstances.
+* 10. If this is a resubmission following rejection, please explain the change in circumstances.
     ```
 
 3. Once you have completed the template, submit the issue. Someone from our team will take a look within 5 business days and respond with next steps.  Once your package is approved, we will provide further instructions on transferring your repository to the rOpenSci organizational account.

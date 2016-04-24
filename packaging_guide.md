@@ -110,7 +110,7 @@ Only include reviewers after asking for their consent.
 
 * We strongly recommend that rOpenSci packages use semantic versioning. A detailed explanation is available on the [description chapter](http://r-pkgs.had.co.nz/description.html#version).
 
-* Git tag each release after every submissiont o cran. [[more info](http://marker.to/ZYd3kZ)]
+* Git tag each release after every submission to CRAN. [[more info](http://marker.to/ZYd3kZ)]
 
 ## <a href="#ci" name="ci"></a> Continuous integration
 

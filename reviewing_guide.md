@@ -17,7 +17,9 @@ First time reviewers may find it helpful to read some previous reviews.  Here ar
 _Also ensure that_  
 -  tests pass for you locally.
 -  vignettes, README, and documentation examples run without issues.
--  and last but not least, please be respectful and kind to the authors in your reviews.
+-  and last but not least, please be respectful and kind to the authors
+   in your reviews. Our [code of conduct](policies.md#code-of-conduct) is
+   mandatory for everyone involved in our review process.
 
 ## Submitting the review
 

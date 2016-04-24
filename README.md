@@ -70,6 +70,9 @@ this repository and fill out the template.
 Our [code of conduct](policies.md/#code-of-conduct) is mandatory for everyone
 involved in our review process.
 
+Our review process is always development, and we encourage feedback and discussion
+on how to improve the process on our [forum](https://discuss.ropensci.org/)
+
 # <a href="#editors" name="editors"></a> Editors
 
 ### Associate editors

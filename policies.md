@@ -8,17 +8,25 @@
 * Once all major issues and questions, and those addressable with reasonable effort, are resolved, the editor assigned to a package will make a decision (accept, hold, or reject). Rejections are usually done early (before the review process begins), but in rare cases a package may also be rejected after review & revision.
 
 
-### Package fit
+### <a href="#fit" name="#fit"></a>Package fit
 
 rOpenSci develops software to complement and leverage R's rich suite of existing tools in order to support scientific computing. Our primary areas of focus are: 
 * __data retrieval__ (from APIs, data storage services, journals, and other remote servers). The data retrieved must have a scientific application and merely wrapping an API that serves data does not meet our criteria.  
-* __data visualization__ (interactive graphics in R that extend beyond base and `ggplot2`).  
-* __Data deposition__ into research repositories, including metadata generation.  
-* __Data munging__ (In the context of the tools described above. Generic tools such as `reshape2`, `tidyr` do not fit this criteria). Geospatial tools fall under this category.  
-* __Reproducibility__ (any tools that facilitate reproducible research, such as interfacing with git to track provenance or similar).
+* __data visualization__ (interactive graphics in R that extend beyond base and `ggplot2`). 
+* __data deposition__ into research repositories, including metadata generation.  
+* __data munging__ (In the context of the tools described above. Generic tools such as `reshape2`, `tidyr` do not fit this criteria). Geospatial tools fall under this category.
+* __data packages__ that aggregate large, heterogenous data sets of scientific
+value or provide R-specific formats for widely-used data (e.g., shapefiles for
+geographic boundaries). Data packages that only contain data from a small number of studies
+or from other, easily accessible sources do not meet our criteria, and may be
+more suitable for data repositories.
+* __reproducibility__ (tools that facilitate reproducible research, such as interfacing with git to track provenance or similar).
 
-Packages that fall into above categories but without any scientific applications are generally not accepted into rOpenSci. Government data and health data are areas that we do not currently support (see related projects below). Standalone statistical tools (i.e. not associated with any of the categories above) are also not included in the suite (we encourage submitting those directly to CRAN).
+Packages that fall into above categories but without any scientific applications are generally not accepted into rOpenSci. Standalone statistical tools (i.e. not associated with any of the categories above) are also not included in the suite (we encourage submitting those directly to CRAN).
 
+At this time rOpenSci does not support packages that fall under government or
+healthcare. We suggest contacting [rOpenGov](http://ropengov.github.io/) or
+[rOpenHealth](https://github.com/rOpenHealth) for further advice.
 
 ### Role of the rOpenSci leadership team
 
@@ -38,7 +46,7 @@ rOpenSci strives to develop and promote high quality research software. To ensur
 
 Despite our best efforts to support contributed software, errors are the responsibility of individual maintainers. Buggy, unmaintained software may be removed from our suite at any time.
 
-### Code of Conduct
+### <a href="#code-of-conduct" name="code-of-conduct"></a>Code of Conduct
 
 
 * We are committed to providing a friendly, safe and welcoming
@@ -78,5 +86,5 @@ CoC](https://github.com/rust-lang/rust/wiki/Note-development-policy#conduct)._
 
 ## Related projects
 
-At this time rOpenSci does not support packages that fall under government or healthcare. We suggest contacting [rOpenGov](http://ropengov.github.io/) or [rOpenHealth](https://github.com/rOpenHealth) for further advice.
+
 

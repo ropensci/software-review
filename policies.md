@@ -28,6 +28,19 @@ At this time rOpenSci does not support packages that fall under government or
 healthcare. We suggest contacting [rOpenGov](http://ropengov.github.io/) or
 [rOpenHealth](https://github.com/rOpenHealth) for further advice.
 
+### <a href="#overlap" name="#overlap"></a>Package overlap
+
+rOpenSci encourages competition among packages, forking and re-implementation as they improve options of users overall. However, as we want packages in the rOpenSci suite to be our top recommendations for the tasks they perform, we aim to avoid duplication of functionality of existing R packages in any repo without significant improvements. An R package that replicates the functionality of an existing R package may be considered for inclusion in the ROpenSci suite if it significantly improves on alternatives in any repository (RO, CRAN, BioC) by being:
+
+-   More open in licensing or development practices.
+-   Broader in functionality (e.g., providing access to more data sets, providing a greater suite of functions), but not only by duplicating additional packages
+-   Better in usability and performance
+-  Actively maintained while alternatives are poorly or no longer actively maintained
+
+These factors should be considered *as a whole* to determine if the package is a significant improvement. A new package would not meet this standard only by following our package guidelines while others do not, unless this leads to a significant difference in the areas above.
+
+We encourage developers whose packages are not accepted due to overlap to still consider submittal to other repositories or journals.
+
 ### Role of the rOpenSci leadership team
 
 Package authors will continue to maintain and develop their software after acceptance into rOpenSci. Unless explicitly added as collaborators, rOpenSci's [staff](http://ropensci.org/about/#leadership) will not interfere much with day to day operations. However, this team may intervene with critical bug fixes, or address urgent issues if package authors do not respond in a timely manner.

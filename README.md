@@ -49,7 +49,7 @@ requested.
 # <a href="#how-submit" name="how-submit"></a>How to submit your package for review
 
 -   Consult our [policies](policies.md) see if your package meets our
-    inclusion criteria.  
+    criteria for fitting into our suite and not overlapping with other packages.
 -   Follow our [packaging style guide](packaging-guide.md) to ensure your package
   meets our style and quality criteria. 
 -   Next, [open a new issue](https://github.com/ropensci/onboarding/issues/new) in
@@ -57,7 +57,7 @@ this repository and fill out the template.
 -   An [editor](#editors) will review your submission within 5 business 
     days and respond with next steps. The editor may assign the package to
     reviewers, request that the package be updated to meet minimal criteria
-    before review, or reject the package due to lack of fit.
+    before review, or reject the package due to lack of fit or overlap.
 -   If your package meets minimal criteria, the editor will assign  1-3 reviewers.
     They will be asked to provide reviews as comments on your issue within 3 weeks.
 -   We ask that you respond to reviewers' comments within 2 weeks of the 
@@ -70,8 +70,8 @@ this repository and fill out the template.
 Our [code of conduct](policies.md/#code-of-conduct) is mandatory for everyone
 involved in our review process.
 
-Our review process is always development, and we encourage feedback and discussion
-on how to improve the process on our [forum](https://discuss.ropensci.org/)
+Our review process is always in development, and we encourage feedback and discussion
+on how to improve the process on our [forum](https://discuss.ropensci.org/).
 
 # <a href="#editors" name="editors"></a> Editors
 
@@ -80,7 +80,6 @@ on how to improve the process on our [forum](https://discuss.ropensci.org/)
 * [Noam Ross](https://github.com/noamross), EcoHealth Alliance.   
 * [Scott Chamberlain](https://github.com/sckott), rOpenSci  
 * [Karthik Ram](https://github.com/karthik), rOpenSci  
-
 
 ### Review board
 

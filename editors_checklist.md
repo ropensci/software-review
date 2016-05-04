@@ -15,20 +15,35 @@ Upon submission:
       Reviewers: @githubname 
       Due date: YYYY-MM-DD
 
+-   Add the tag `editor-assigned` once reviewers are assigned.
+-   If the package raises a new issue for ROpenSci policy, open a discussion on the
+    [ROpenSci forum](https://discuss.ropensci.org/) to discuss it with other
+    editors ([example]()https://discuss.ropensci.org/t/overlap-policy-for-package-onboarding/368)
+
 During review:
 
 -   Check in with reviewers and authors occaisionally.
-
+-   Upon reviews being submitted, change the review status tag to
+    `review-in-awaiting-changes` to update the reminder bot.
+    
 After review:
 
--   If authors intend to submit to CRAN, check against CRAN gotchas.
+-   Add review/er information to the review database (work-in-progress)
+-   If authors intend to submit to CRAN, check against CRAN gotchas and provide
+    support through this process.
 -   If packages work with an unstable API or are expected to have significant
     additions post-review, they should be migrated to `ropenscilabs`. Otherwise,
     they should me be migrated to `ropensci`.
 -   Add rOpenSci footer to README.  
--   Close issue.
--   Check if authors are interested in writing summary blog post for blog.
-    Otherwise, write a short summary for regular "round-up" blog posts.
+-   Close issue and mark with tag `approved`.
+-   Do appropriate promotion for package, which may include:
+    -   Check if authors are interested in writing summary blog post for blog if
+        appropriate
+    -   Write a short summary for a regular "new packages round-up" blog post.
+    -   Tweet
+    -   Alert maintainers of appropriate [task views](https://github.com/search?utf8=%E2%9C%93&q=user%3Aropensci+%22task+view%22&type=Repositories&ref=searchresults)
+    -   Add package to [rOpenSci web site](https://github.com/ropensci/roweb)
+    -   Tweet, etc.
 
 ## Automated reminders
 

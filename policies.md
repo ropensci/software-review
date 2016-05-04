@@ -39,6 +39,9 @@ rOpenSci encourages competition among packages, forking and re-implementation as
 
 These factors should be considered *as a whole* to determine if the package is a significant improvement. A new package would not meet this standard only by following our package guidelines while others do not, unless this leads to a significant difference in the areas above.
 
+We recommend that packages highlight differences from and improvements over
+overlapping packages in their README and/or vignettes.
+
 We encourage developers whose packages are not accepted due to overlap to still consider submittal to other repositories or journals.
 
 ### Role of the rOpenSci leadership team

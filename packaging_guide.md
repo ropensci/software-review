@@ -72,7 +72,7 @@ rOpenSci accepts packages that meet our guidelines via a streamlined [onboarding
 ## <a href="#news" name="news"></a> News
 
 * It is mandatory to use a `NEWS` or `NEWS.md` file in the root of your package.
-See the sample [NEWS file](NEWS_sample.md)
+See the sample [NEWS file](news_template.md)
 * Update the news file before every CRAN release, with a section with the package name,
 version and date of release, like:
 

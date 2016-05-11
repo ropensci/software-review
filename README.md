@@ -2,8 +2,7 @@
 ===================
 
 Thank you for considering submitting your package to the rOpenSci suite. All
-our packages go through a process of [open peer review](https://ropensci.org/
-blog/2016/03/28/software-review) to ensure a consistent level of quality
+our packages go through a process of [open peer review](https://ropensci.org/blog/2016/03/28/software-review) to ensure a consistent level of quality
 for our users. This process also allows us to ensure that your package meets
 our guidelines and provides opportunity for discussion where exceptions are
 requested.

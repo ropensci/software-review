@@ -20,6 +20,6 @@
     * [ ] Are there any package dependencies not on CRAN?  
     * [ ] Do you intend for this package to go on CRAN?  
     * [ ] Does the package have a CRAN accepted license?    
-    * [ ] Did `devtools::check()` produce any errors or warnings? If so paste them below.  
+    * [ ] Did `R CMD check` (or `devtools::check()`) produce any errors or warnings? If so paste them below.  
 * 9. Please add explanations below for any exceptions to the above:  
 * 10. If this is a resubmission following rejection, please explain the change in circumstances.  

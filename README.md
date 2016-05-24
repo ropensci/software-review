@@ -49,7 +49,7 @@ requested.
 
 -   Consult our [policies](policies.md) see if your package meets our
     criteria for fitting into our suite and not overlapping with other packages.
--   Follow our [packaging style guide](packaging-guide.md) to ensure your package
+-   Follow our [packaging style guide](packaging_guide.md) to ensure your package
   meets our style and quality criteria. 
 -   Next, [open a new issue](https://github.com/ropensci/onboarding/issues/new) in
 this repository and fill out the template.

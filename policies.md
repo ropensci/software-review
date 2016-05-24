@@ -4,7 +4,7 @@
 
 * For a package to be considered for the rOpenSci suite, package authors must initiate a request on the [ropensci/onboarding](https://github.com/ropensci/onboarding) repository.
 * Upon an initial assessment (see package fit below), an rOpenSci member will assign a reviewer or follow up with additional steps. This process usually happens within 5 business days.
-* Packages are reviewed for quality, fit, documentation, clarity and the review process is quite similar to a manuscript review. Unlike a manuscript review, this process will be an ongoing conversation.
+* Packages are reviewed for quality, fit, documentation, clarity and the review process is quite similar to a manuscript review (see our [packaging guide](packaging_guide.md) and [reviewing guide](reviewing_guide.md) for more details). Unlike a manuscript review, this process will be an ongoing conversation.
 * Once all major issues and questions, and those addressable with reasonable effort, are resolved, the editor assigned to a package will make a decision (accept, hold, or reject). Rejections are usually done early (before the review process begins), but in rare cases a package may also be rejected after review & revision.
 
 

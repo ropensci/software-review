@@ -15,7 +15,7 @@
 
 - [ ] Are there other R packages that accomplish the same thing? If so, what is different about yours?  
 
-### Requirements
+#### Requirements
 
 Confirm each of the following by checking the box.  This package:
 
@@ -27,14 +27,14 @@ Confirm each of the following by checking the box.  This package:
 - [ ] contains a README with instructions for installing the development version. 
 - [ ] has a CRAN and OSI accepted license.
 
-### Publication options
+#### Publication options
 
 - [ ] Do you intend for this package to go on CRAN?  
 - [ ] Do you wish to automatically submit to the [Journal of Open Source Software](http://joss.theoj.org/)?
 - [ ] The package contains a [`paper.md`](http://joss.theoj.org/about#paper_structure) with a high-level description.
 - [ ] The package is deposited in a long-term repository with the DOI: 
 
-### Detail
+#### Detail
 
 - [ ] Does `R CMD check` (or `devtools::check()`) succeed?  Paste and describe any errors or warnings:
 

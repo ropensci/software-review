@@ -24,3 +24,11 @@ We encourage you to ask questions and provide feedback on the review process on 
 - Please strive to complete your review within 3 weeks of accepting a review request.
 - Comments are welcome in the same issue as a package onboarding request. If your review comments come as a series of issues (perhaps connected to a milestone), please submit those directly to the authors' repository and make a note in the review issue. We hope that package reviews will work as an ongoing conversation with the authors as opposed to a single round of reviews typical of manuscripts.
 - Please include an estimate of how many hours you spent on your review at the end of your review.
+
+## Review follow-up
+
+Authors should respond to the review within 2 weeks with their changes to the package
+in response to your review.  At this stage, we ask that you respond as to whether
+the change sufficiently address any issues raised in your review. We encourage
+ongoing discussion between package authors and reviewers, and you may ask editors
+to clarify issues in the review thread, as well.

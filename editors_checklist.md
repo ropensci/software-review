@@ -31,9 +31,7 @@ After review:
 -   Add review/er information to the review database (work-in-progress)
 -   If authors intend to submit to CRAN, check against CRAN gotchas and provide
     support through this process.
--   If packages work with an unstable API or are expected to have significant
-    additions post-review, they should be migrated to `ropenscilabs`. Otherwise,
-    they should me be migrated to `ropensci`.
+-   Ask authors to miigrate to `ropenscilabs`. (Tranfer to `ropensci` will take place later).
 -   Add rOpenSci footer to README.  
 -   Close issue and mark with tag `approved`.
 -   Do appropriate promotion for package, which may include:

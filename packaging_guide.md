@@ -49,9 +49,8 @@ rOpenSci accepts packages that meet our guidelines via a streamlined [onboarding
 
 * We recommend not creating `README.md` directly, but from a `README.Rmd` file (an Rmarkdown file) where possible. The advantage of the `.Rmd` file is you can combine text with code that can be easily updated whenever your package is updated.
 
-* See `devtools::use_readme_rmd()` to get a template for a `README.Rmd` file in your package.
-
-* Consider setting up pre-commit hooks to ensure that `README.md` is always newer than `README.Rmd` (see `devtools::use_git_hook`)
+* Consider using `devtools::use_readme_rmd()` to get a template for a `README.Rmd` file
+and to automatically set up a pre-commit hook to ensure that `README.md` is always newer than `README.Rmd`.
 
 * See the [gistr README](https://github.com/ropensci/gistr#gistr) for a good example README to follow.
 

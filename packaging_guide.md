@@ -61,6 +61,14 @@ rOpenSci accepts packages that meet our guidelines via a streamlined [onboarding
 
 ## <a href="#docs" name="docs"></a> Documentation
 
+* All exported package functions should be fully documented with examples.
+
+* The package should contain top-level documentation for `?package_name`, (or
+`?package_name-package` if there is a naming conflict.
+
+* The package should contain at least one vignette providing an introduction to
+the primary package functions and use-cases.
+
 * We strongly encourage all submissions to use `roxygen2` for documentation.  `roxygen2` is [an R package](http://cran.r-project.org/web/packages/roxygen2/index.html) that automatically compiles `.Rd` files to your `man` folder in your package from simple tags written above each function.
 
 * More information on using roxygen2 [documentation](http://r-pkgs.had.co.nz/man.html) is available on the R packages book.

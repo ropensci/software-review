@@ -23,6 +23,7 @@ _Also ensure that_
 
 ## Submitting the review
 
+- Submit your review directly in the comments of the package issue in the onboarding repository.
+- If your review comes as a series of issues (perhaps connected to a milestone), please submit those directly to the authors' repository and make a note in the review issue. We hope that package reviews will work as an ongoing conversation with the authors as opposed to a single round of reviews typical of manuscripts.
 - Please strive to complete your review within 3 weeks of accepting a review request.
-- Comments are welcome in the same issue as a package onboarding request. If your review comes as a series of issues (perhaps connected to a milestone), please submit those directly to the authors' repository and make a note in the review issue. We hope that package reviews will work as an ongoing conversation with the authors as opposed to a single round of reviews typical of manuscripts.
 - Please include an estimate of how many hours you spent on your review at the end of your review.

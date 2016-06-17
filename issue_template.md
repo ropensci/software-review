@@ -31,8 +31,8 @@ Confirm each of the following by checking the box.  This package:
 
 - [ ] Do you intend for this package to go on CRAN?  
 - [ ] Do you wish to automatically submit to the [Journal of Open Source Software](http://joss.theoj.org/)?
-- [ ] The package contains a [`paper.md`](http://joss.theoj.org/about#paper_structure) with a high-level description.
-- [ ] The package is deposited in a long-term repository with the DOI: 
+    - [ ] The package contains a [`paper.md`](http://joss.theoj.org/about#paper_structure) with a high-level description.
+    - [ ] The package is deposited in a long-term repository with the DOI: 
 
 #### Detail
 

@@ -20,12 +20,12 @@
 Confirm each of the following by checking the box.  This package:
 
 - [ ] does not violate the Terms of Service of any service it interacts with. 
-- [ ] only exports functions to the NAMESPACE that are intended for end users
-- [ ] has a test suite
-- [ ] has continuous integration with Travis CI and/or another service  
-- [ ] contains a vignette with examples of its essential functions and uses
-- [ ] contains a README with instructions for installing the development version. 
 - [ ] has a CRAN and OSI accepted license.
+- [ ] contains a README with instructions for installing the development version. 
+- [ ] includes documentation with examples for all functions.
+- [ ] contains a vignette with examples of its essential functions and uses.
+- [ ] has a test suite.
+- [ ] has continuous integration with Travis CI and/or another service.
 
 #### Publication options
 

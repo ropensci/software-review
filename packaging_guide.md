@@ -61,13 +61,17 @@ rOpenSci accepts packages that meet our guidelines via a streamlined [onboarding
 
 ## <a href="#docs" name="docs"></a> Documentation
 
+*  All exported functions should have full documentation with examples. 
+
+*  Only functions intended for the end-user should be exported.  Avoid exporting all functions by default.  
+
 * We strongly encourage all submissions to use `roxygen2` for documentation.  `roxygen2` is [an R package](http://cran.r-project.org/web/packages/roxygen2/index.html) that automatically compiles `.Rd` files to your `man` folder in your package from simple tags written above each function.
 
 * More information on using roxygen2 [documentation](http://r-pkgs.had.co.nz/man.html) is available on the R packages book.
 
 * One key advantage of using `roxygen2` is that your `NAMESPACE` will always be automatically generated and up to date.
 
-* Avoid exporting all functions by default. Add `#' @noRd` to internal functions.
+* When using `roxygen2`, add `#' @noRd` to internal functions.
 
 ## <a href="#news" name="news"></a> News
 
@@ -126,7 +130,6 @@ Only include reviewers after asking for their consent.
 
 * Use `Imports` instead of `Depends` for packages providing functions you use internally only. Use `Depends` only if you intend for the user to have functions available from your package dependencies. Make sure to list packages used for testing (`testthat`), and documentation (`knitr`, `roxygen2`) in your `Suggests` section of package dependencies. If you use any packages in your examples sections, make sure to list those, if not already listed elsewhere, in `Enhances` section of package dependencies.
 
-
 ## <a href="#tools" name="tools"></a> Recommended scaffolding
 
 
@@ -139,6 +142,9 @@ Only include reviewers after asking for their consent.
 
 * Use `message()` and `warning()` to communicate with the user in your functions. Please do not use `print()` or `cat()` unless it's for a `print.*()` method, as these methods of printing messages are harder for the user to suppress.
 
+## Miscellaneous
+
+Include files such as `paper.md`, `.travis.yml` in your `.Rbuildignore` file.
 
 ## <a href="#further" name="further"></a> Further guidance
 

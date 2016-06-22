@@ -44,6 +44,8 @@ requested.
     colleagues and collaborators** through the review process.  Our community
     is friendly and filled with supportive members expert in R development and
     many other areas of science and scientific computing.
+-   To volunteer to be one of our reviewers, please e-mail us at info@ropensci.org
+-   or contact us on Twitter at [@rOpenSci](https://twitter.com/rOpenSci).
     
 # <a href="#how-submit" name="how-submit"></a>How to submit your package for review
 

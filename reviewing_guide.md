@@ -2,7 +2,7 @@ Reviewers should refer to the [Mozilla reviewing guide](https://mozillascience.g
 
 We encourage you to ask questions and provide feedback on the review process on our [forum](https://discuss.ropensci.org). 
 
-First time reviewers may find it helpful to read some previous reviews.  Here are reviews of [**rusda**](https://github.com/ropensci/onboarding/issues/18), [**textreuse**](https://github.com/ropensci/onboarding/issues/20), and [**Ropenaq**](https://github.com/ropensci/onboarding/issues/24).
+First time reviewers may find it helpful to read some previous reviews.  Here are reviews of [**geoparser**](https://github.com/ropensci/onboarding/issues/43#issuecomment-225089007),  [**rusda**](https://github.com/ropensci/onboarding/issues/18), [**textreuse**](https://github.com/ropensci/onboarding/issues/20), and [**Ropenaq**](https://github.com/ropensci/onboarding/issues/24).
 
 # General Review criteria
 

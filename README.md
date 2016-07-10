@@ -30,6 +30,10 @@ requested.
     in our [task views](https://github.com/search?utf8=%E2%9C%93&q=user%3Aropensci+%22task+view%22&type=Repositories&ref=searchresults).
 -   rOpenSci **packages can be cross-listed** with other repositories such as CRAN
     and BioConductor.
+-   rOpenSci packages that contain a short accomanying paper can, after review,
+    be automatically submitted to the
+    [Journal of Open-Source Software](http://joss.theoj.org/) for fast-tracked
+    publication.
     
 ## <a href="#why-review" name="why-review"></a>Why review packages for rOpenSci?
 
@@ -45,7 +49,9 @@ requested.
     is friendly and filled with supportive members expert in R development and
     many other areas of science and scientific computing.
 -   To volunteer to be one of our reviewers, please e-mail us at info@ropensci.org
-    or contact us on Twitter at [@rOpenSci](https://twitter.com/rOpenSci).
+    or contact us on Twitter at [@rOpenSci](https://twitter.com/rOpenSci). We
+    are always looking for more reviewers with both general package-writing experience
+    and domain expertise in the fields packages are used for.
     
 # <a href="#how-submit" name="how-submit"></a>How to submit your package for review
 
@@ -53,6 +59,9 @@ requested.
     criteria for fitting into our suite and not overlapping with other packages.
 -   Follow our [packaging style guide](packaging_guide.md) to ensure your package
   meets our style and quality criteria. 
+    -   If you would like your package also submitted to
+        [Journal of Open-Source Software](http://joss.theoj.org/), it should a `paper.md`
+        file describing the package. JOSS's requirements [here](http://joss.theoj.org/about#author_guidelines).
 -   Next, [open a new issue](https://github.com/ropensci/onboarding/issues/new) in
 this repository and fill out the template.
 -   An [editor](#editors) will review your submission within 5 business 

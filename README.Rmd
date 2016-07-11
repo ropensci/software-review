@@ -45,7 +45,7 @@ requested.
     in our [task views](https://github.com/search?utf8=%E2%9C%93&q=user%3Aropensci+%22task+view%22&type=Repositories&ref=searchresults).
 -   rOpenSci **packages can be cross-listed** with other repositories such as CRAN
     and BioConductor.
--   rOpenSci packages that contain a short accomanying paper can, after review,
+-   rOpenSci packages that contain a short accompanying paper can, after review,
     be automatically submitted to the
     [Journal of Open-Source Software](http://joss.theoj.org/) for fast-tracked
     publication.

@@ -18,7 +18,7 @@ Thank you for considering submitting your package to the rOpenSci suite. All our
 -   Once aboard, your package will continue to recieve **support from rOpenSci members**. You'll retain ownership and control of of your package, but we can help with ongoing maintenance issues such as those associated with updates to R and dependencies and CRAN policies.
 -   rOpenSci will **promote your package** through our [web page](https://ropensci.org/packages/), [blog](https://ropensci.org/blog/), and [social media](https://twitter.com/ropensci). Packages in our suite are also distributed via our [drat repository](http://packages.ropensci.org/) and [Docker images](https://hub.docker.com/r/rocker/ropensci/), and listed in our [task views](https://github.com/search?utf8=%E2%9C%93&q=user%3Aropensci+%22task+view%22&type=Repositories&ref=searchresults).
 -   rOpenSci **packages can be cross-listed** with other repositories such as CRAN and BioConductor.
--   rOpenSci packages that contain a short accomanying paper can, after review, be automatically submitted to the [Journal of Open-Source Software](http://joss.theoj.org/) for fast-tracked publication.
+-   rOpenSci packages that contain a short accompanying paper can, after review, be automatically submitted to the [Journal of Open-Source Software](http://joss.theoj.org/) for fast-tracked publication.
 
 <a href="#why-review" name="why-review"></a>Why review packages for rOpenSci?
 -----------------------------------------------------------------------------
@@ -78,6 +78,7 @@ We are grateful to the following individuals who have offered up their time and 
 -   [Brooke Anderson](https://github.com/geanders)
 -   [Daniel Emaasit](https://github.com/Emaasit)
 -   [David Gohel](https://github.com/davidgohel)
+-   [David Lawrence Miller](https://github.com/millerdl)
 -   [David Winter](https://github.com/dwinter)
 -   [Dean Attali](https://github.com/daattali)
 -   [Dillon Niederhut](https://github.com/deniederhut)

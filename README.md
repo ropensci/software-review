@@ -55,7 +55,7 @@ Our review process is always in development, and we encourage feedback and discu
 -   [`reviewer_template.md`](reviewer_template.md) - a template and checklist for reviews
 -   [`editor_template.md`](editor_template.md) - a template and checklist for editors' preliminary review
 -   [`issue_template.md`](issue_template.md) - automatically-used template and checklist for authors upon submittal
--   [`review_requuest_template.md`](review_requuest_template.md) - template for e-mails to prospective reviewers
+-   [`review_request_template.md`](review_requuest_template.md) - template for e-mails to prospective reviewers
 -   [`news_template.md`](news_template.md) - a template for authors to use for NEWS files in their packages.
 
 <a href="#editors" name="editors"></a> Editors and reviewers

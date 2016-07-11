@@ -12,7 +12,8 @@
 
 rOpenSci develops software to complement and leverage R's rich suite of existing tools in order to support scientific computing. Our primary areas of focus are: 
 * __data retrieval__ (from APIs, data storage services, journals, and other remote servers). The data retrieved must have a scientific application and merely wrapping an API that serves data does not meet our criteria.
-* __data extraction__ tools that aid in retrieving data from unstructured sources such as text, images and PDFs.
+* __data extraction__ tools that aid in retrieving data from unstructured sources such as text, images and PDFs, as well as scientific
+data formats and outputs from scientific equipment.
 * __data visualization__ (interactive graphics in R that extend beyond base and `ggplot2`). 
 * __data deposition__ into research repositories, including metadata generation.  
 * __data munging__ (In the context of the tools described above. Generic tools such as `reshape2`, `tidyr` do not fit this criteria). Geospatial tools fall under this category.

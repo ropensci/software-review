@@ -26,7 +26,7 @@ Thank you for considering submitting your package to the rOpenSci suite. All our
 -   As in any peer-review process, we hope you choose to review **to give back to the rOpenSci and scientific communities.** Our mission to expand access to scientific data and promote a culture of reproducible research is only possible through the volunteer efforts of community members like you.
 -   Review is a two-way conversation. By reviewing packages, you'll have the chance to **continue to learn development practices from authors and other reviewers**.
 -   The open nature of our review process allows you to **network and meet colleagues and collaborators** through the review process. Our community is friendly and filled with supportive members expert in R development and many other areas of science and scientific computing.
--   To volunteer to be one of our reviewers, please e-mail us at <info@ropensci.org> or contact us on Twitter at \[@rOpenSci\](<https://twitter.com/rOpenSci>). We are always looking for more reviewers with both general package-writing experience and domain expertise in the fields packages are used for.
+-   To volunteer to be one of our reviewers, please e-mail us at <info@ropensci.org> or contact us on Twitter at [@rOpenSci](https://twitter.com/rOpenSci). We are always looking for more reviewers with both general package-writing experience and domain expertise in the fields packages are used for.
 
 <a href="#how-submit" name="how-submit"></a>How to submit your package for review
 =================================================================================

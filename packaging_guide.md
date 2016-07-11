@@ -16,7 +16,9 @@ rOpenSci accepts packages that meet our guidelines via a streamlined [onboarding
 * [Continuous integration](#ci)
 * [Console messages](#messages)
 * [Recommended software scaffolding](#tools)
+* [Miscellaneous CRAN gotchas](#misc)
 * [Further guidance](#further)
+* [Suggestions and Updates](#suggestions)
 
 ## <a href="#pkgnaming" name="pkgnaming"></a> Package naming
 
@@ -141,9 +143,16 @@ Only include reviewers after asking for their consent.
 
 * Use `message()` and `warning()` to communicate with the user in your functions. Please do not use `print()` or `cat()` unless it's for a `print.*()` method, as these methods of printing messages are harder for the user to suppress.
 
-## Miscellaneous
+##  <a href="#misc" name="messages"></a> Miscellaneous
 
-Include files such as `paper.md`, `.travis.yml` in your `.Rbuildignore` file.
+This is a collection of CRAN gotchas that are worth avoiding at the outset.
+
+* Make sure your package title is in Title Case.
+* Do not put a period on the end of your title
+* Avoid starting the description with the package name or This package ...
+* Make sure you include links to websites if you wrap a web API, scrape data from a site, etc. in the `Description` field of your `DESCRIPTION` file
+* Avoid long running tests and examples.  Consider `testthat::skip_on_cran` in tests to skip things that take a long time but still test them locally and on Travis.
+* Include top-level files such as `paper.md`, `.travis.yml` in your `.Rbuildignore` file.
 
 ## <a href="#further" name="further"></a> Further guidance
 
@@ -151,6 +160,6 @@ Include files such as `paper.md`, `.travis.yml` in your `.Rbuildignore` file.
 
 * If you are submitting a package to rOpenSci via the [onboarding repo](https://github.com/ropensci/onboarding), you can direct further questions to the rOpenSci team in the issue tracker, or in our [discussion forum](https://discuss.ropensci.org/).
 
-## Suggestions and updates
+## <a href="#suggestions" name="suggestions"></a> Suggestions and updates
 
-* These packaging guidelines are a work in progress for packages contributed to the rOpenSci suite. Corrections, suggestions and general improvements are welcome on [our issue tracker](https://github.com/ropensci/packaging_guide/issues).
+* These packaging guidelines are a work in progress for packages contributed to the rOpenSci suite. Corrections, suggestions and general improvements are welcome as [issue submissions in this repository](https://github.com/ropensci/onboarding/issues?utf8=%E2%9C%93&q=is%3Aissue%20label%3Ameta%20). Open discussions are welome in our [forum](https://discuss.ropensci.org/).

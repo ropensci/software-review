@@ -22,7 +22,8 @@ We encourage you to ask questions and provide feedback on the review process on 
 
 - When your review is complete, paste it as a comment into the package onboarding issue.
 - Please strive to complete your review within 3 weeks of accepting a review request.
-- Comments are welcome in the same issue as a package onboarding request. If your review comments come as a series of issues (perhaps connected to a milestone), please submit those directly to the authors' repository and make a note in the review issue. We hope that package reviews will work as an ongoing conversation with the authors as opposed to a single round of reviews typical of manuscripts.
+- Additional comments are welcome in the same issue as a package onboarding request. We hope that package reviews will work as an ongoing conversation with the authors as opposed to a single round of reviews typical of manuscripts.
+- You may also submit issues or pull requests directly to the package repo if you choose, but if you do, please link to them in the onboarding repo comment thread so we have a centralized record of your review.
 - Please include an estimate of how many hours you spent on your review at the end of your review.
 
 ## Review follow-up

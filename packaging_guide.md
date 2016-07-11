@@ -156,7 +156,7 @@ This is a collection of CRAN gotchas that are worth avoiding at the outset.
 
 ## <a href="#further" name="further"></a> Further guidance
 
-* The [`devtools` package](https://github.com/hadley/devtools) and its wiki are an excellent resource for in-depth package development help.
+* Hadley Wickham's _R Packages_ is an excellent resource for package development and is available a a [free book on the web](http://r-pkgs.had.co.nz/).
 
 * If you are submitting a package to rOpenSci via the [onboarding repo](https://github.com/ropensci/onboarding), you can direct further questions to the rOpenSci team in the issue tracker, or in our [discussion forum](https://discuss.ropensci.org/).
 

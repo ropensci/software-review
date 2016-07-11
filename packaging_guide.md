@@ -16,7 +16,9 @@ rOpenSci accepts packages that meet our guidelines via a streamlined [onboarding
 * [Continuous integration](#ci)
 * [Console messages](#messages)
 * [Recommended software scaffolding](#tools)
+* [Miscellaneous CRAN gotchas](#misc)
 * [Further guidance](#further)
+* [Suggestions and Updates](#suggestions)
 
 ## <a href="#pkgnaming" name="pkgnaming"></a> Package naming
 
@@ -74,7 +76,7 @@ the primary package functions and use-cases.
 
 * One key advantage of using `roxygen2` is that your `NAMESPACE` will always be automatically generated and up to date.
 
-* Avoid exporting all functions by default. Add `#' @noRd` to internal functions.
+* When using `roxygen2`, add `#' @noRd` to internal functions.
 
 ## <a href="#news" name="news"></a> News
 
@@ -133,7 +135,6 @@ Only include reviewers after asking for their consent.
 
 * Use `Imports` instead of `Depends` for packages providing functions you use internally only. Use `Depends` only if you intend for the user to have functions available from your package dependencies. Make sure to list packages used for testing (`testthat`), and documentation (`knitr`, `roxygen2`) in your `Suggests` section of package dependencies. If you use any packages in your examples sections, make sure to list those, if not already listed elsewhere, in `Enhances` section of package dependencies.
 
-
 ## <a href="#tools" name="tools"></a> Recommended scaffolding
 
 
@@ -146,13 +147,23 @@ Only include reviewers after asking for their consent.
 
 * Use `message()` and `warning()` to communicate with the user in your functions. Please do not use `print()` or `cat()` unless it's for a `print.*()` method, as these methods of printing messages are harder for the user to suppress.
 
+##  <a href="#misc" name="messages"></a> Miscellaneous
+
+This is a collection of CRAN gotchas that are worth avoiding at the outset.
+
+* Make sure your package title is in Title Case.
+* Do not put a period on the end of your title
+* Avoid starting the description with the package name or This package ...
+* Make sure you include links to websites if you wrap a web API, scrape data from a site, etc. in the `Description` field of your `DESCRIPTION` file
+* Avoid long running tests and examples.  Consider `testthat::skip_on_cran` in tests to skip things that take a long time but still test them locally and on Travis.
+* Include top-level files such as `paper.md`, `.travis.yml` in your `.Rbuildignore` file.
 
 ## <a href="#further" name="further"></a> Further guidance
 
-* The [`devtools` package](https://github.com/hadley/devtools) and its wiki are an excellent resource for in-depth package development help.
+* Hadley Wickham's _R Packages_ is an excellent resource for package development and is available a a [free book on the web](http://r-pkgs.had.co.nz/).
 
 * If you are submitting a package to rOpenSci via the [onboarding repo](https://github.com/ropensci/onboarding), you can direct further questions to the rOpenSci team in the issue tracker, or in our [discussion forum](https://discuss.ropensci.org/).
 
-## Suggestions and updates
+## <a href="#suggestions" name="suggestions"></a> Suggestions and updates
 
-* These packaging guidelines are a work in progress for packages contributed to the rOpenSci suite. Corrections, suggestions and general improvements are welcome on [our issue tracker](https://github.com/ropensci/packaging_guide/issues).
+* These packaging guidelines are a work in progress for packages contributed to the rOpenSci suite. Corrections, suggestions and general improvements are welcome as [issue submissions in this repository](https://github.com/ropensci/onboarding/issues?utf8=%E2%9C%93&q=is%3Aissue%20label%3Ameta%20). Open discussions are welome in our [forum](https://discuss.ropensci.org/).

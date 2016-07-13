@@ -41,3 +41,6 @@ Confirm each of the following by checking the box.  This package:
 - [ ] Does the package conform to [rOpenSci packaging guidelines](https://github.com/ropensci/packaging_guide)? Please describe any exceptions:
 
 - If this is a resubmission following rejection, please explain the change in circumstances:
+
+- If possible, please provide recommendations of reviewers - those with experience with similar packages and/or likely users of your package - and their GitHub user names:
+

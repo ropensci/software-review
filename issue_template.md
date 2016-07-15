@@ -1,19 +1,19 @@
 ### Summary
 
-- [ ] What does this package do? (explain in 50 words or less):
+-   What does this package do? (explain in 50 words or less):
 
 
-- [ ] Paste the full DESCRIPTION file inside a code block below:
-
-```
+-   Paste the full DESCRIPTION file inside a code block below:
 
 ```
 
-- [ ] URL for the package (the development repository, not a stylized html page):
+```
 
-- [ ] Who is the target audience?  
+-   URL for the package (the development repository, not a stylized html page):
 
-- [ ] Are there other R packages that accomplish the same thing? If so, what is different about yours?  
+-   Who is the target audience?  
+
+-   Are there other R packages that accomplish the same thing? If so, what is different about yours?  
 
 ### Requirements
 

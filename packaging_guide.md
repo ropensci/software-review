@@ -123,7 +123,7 @@ Only include reviewers after asking for their consent.
 
 ## <a href="#ci" name="ci"></a> Continuous integration
 
-* All rOpenSci packages must use continuous integration. This ensures that all commits, pull requests, and new branches are run through `R CMD CHECK`. R is now a [natively supported language on Travis-CI](http://blog.travis-ci.com/2015-02-26-test-your-r-applications-on-travis-ci/), making it easier than ever to do continuous integration. See [R Packages](http://marker.to/NEr8Bd) for more help.
+* All rOpenSci packages must use one form of continuous integration. This ensures that all commits, pull requests, and new branches are run through `R CMD CHECK`. R is now a [natively supported language on Travis-CI](http://blog.travis-ci.com/2015-02-26-test-your-r-applications-on-travis-ci/), making it easier than ever to do continuous integration. See [R Packages](http://marker.to/NEr8Bd) and Julia Silge's [Beginner's Guide to Travis-CI for R](http://juliasilge.com/blog/Beginners-Guide-to-Travis/) for more help. Travis offers continuous integration for Linux and Mac OSX. For continuous integration on Windows, see [R + Appveyor](https://github.com/krlmlr/r-appveyor).
 
 
 ## <a href="#egs" name="egs"></a> Examples

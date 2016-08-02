@@ -114,6 +114,10 @@ Only include reviewers after asking for their consent.
 
 * `testthat` has a function `skip_on_cran()` that you can use to not run tests on CRAN. We recommend using this on all functions that are API calls since they are quite likely to fail on CRAN. These tests will still run on Travis.
 
+* Check the extent of your test coverage using 
+
+* Even if your use [continuous integration](#ci), we recommend that you run tests locally prior to submitting your package, as some tests are often skipped.  In addition, we recommend that prior to submitting your package, you use Gabor Csardi's [**goodpractice**](https://github.com/MangoTheCat/goodpractice/) package to check your package
+for likely sources of errors.
 
 ## <a href="#ver" name="ver"></a> Versioning
 
@@ -125,6 +129,7 @@ Only include reviewers after asking for their consent.
 
 * All rOpenSci packages must use one form of continuous integration. This ensures that all commits, pull requests, and new branches are run through `R CMD CHECK`. R is now a [natively supported language on Travis-CI](http://blog.travis-ci.com/2015-02-26-test-your-r-applications-on-travis-ci/), making it easier than ever to do continuous integration. See [R Packages](http://marker.to/NEr8Bd) and Julia Silge's [Beginner's Guide to Travis-CI for R](http://juliasilge.com/blog/Beginners-Guide-to-Travis/) for more help. Travis offers continuous integration for Linux and Mac OSX. For continuous integration on Windows, see [R + Appveyor](https://github.com/krlmlr/r-appveyor).
 
+* We recommend that you also use a coverage service to report on the extent to which your test cover your code.  See the [README for the **covr** package](https://github.com/jimhester/covr) for instructions.
 
 ## <a href="#egs" name="egs"></a> Examples
 

@@ -12,6 +12,14 @@ we ask you provide general comments addressing the following:
 - Are there performance improvements that could be made?
 - Is the documentation (installation instructions/vignettes/examples/demos) clear and sufficient?
 
+We encourage you to use automated tools to facilitate your reviewing.  These
+include:
+
+-  Checking the packages logs on its continuous integration services (Travs-CI, Codecov, etc.)
+-  Running `devtools::check()` and `devtools::test()` on the package to find any errors that may be missed on the author's system.
+-  Using the **covr** package to examine the extent of test coverage.
+-  Using the **goodpractice** package (`goodpractice::gp()`) to identify likely sources of errors and style issues.
+
 Please be respectful and kind to the authors in your reviews. Our [code of conduct](policies.md#code-of-conduct) is mandatory for everyone involved in our review process.
 
 First time reviewers may find it helpful to read some previous reviews.  Here are reviews of [**rusda**](https://github.com/ropensci/onboarding/issues/18), [**textreuse**](https://github.com/ropensci/onboarding/issues/20), and [**Ropenaq**](https://github.com/ropensci/onboarding/issues/24).

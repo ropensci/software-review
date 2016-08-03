@@ -49,13 +49,13 @@ Our review process is always in development, and we encourage feedback and discu
 ==========================================================================
 
 -   [`policies.md`](policies.md) - policies as to what packages to accept and how to conduct the review process
--   [`reviewing_guide`](reviewing_guide) - high-level guide for reviewers
+-   [`reviewing_guide.md`](reviewing_guide.md) - high-level guide for reviewers
 -   [`packaging_guide.md`](packaging_guide.md) - detailed requirements and recommendations for rOpenSci packages
 -   [`editors_checklist.md`](editors_checklist.md) - steps for editors to take throughout the review process
 -   [`reviewer_template.md`](reviewer_template.md) - a template and checklist for reviews
 -   [`editor_template.md`](editor_template.md) - a template and checklist for editors' preliminary review
 -   [`issue_template.md`](issue_template.md) - automatically-used template and checklist for authors upon submittal
--   [`review_request_template.md`](review_requuest_template.md) - template for e-mails to prospective reviewers
+-   [`review_request_template.md`](review_request_template.md) - template for e-mails to prospective reviewers
 -   [`news_template.md`](news_template.md) - a template for authors to use for NEWS files in their packages.
 
 <a href="#editors" name="editors"></a> Editors and reviewers
@@ -71,9 +71,10 @@ rOpenSci's onboarding process is run by:
 
 We are grateful to the following individuals who have offered up their time and expertise to review packages submitted to rOpenSci.
 
--   [Andee Kaplan](https://github.com/NA)
+-   [Andee Kaplan](https://github.com/andeek)
 -   [Andrew MacDonald](https://github.com/aammd)
 -   [Andy Teucher](https://github.com/ateucher)
+-   [Benjamin Leutner](https://github.com/bleutner)
 -   [Bob Rudis](https://github.com/hrbrmstr)
 -   [Brooke Anderson](https://github.com/geanders)
 -   [Daniel Emaasit](https://github.com/Emaasit)
@@ -89,6 +90,7 @@ We are grateful to the following individuals who have offered up their time and 
 -   [Jeroen Ooms](https://github.com/jeroenooms)
 -   [Julia Gustavsen](https://github.com/joolia)
 -   [Julia Silge](https://github.com/juliasilge)
+-   [Kent Russel](https://github.com/timelyportfolio)
 -   [Kevin Ushey](https://github.com/kevinushey)
 -   [Lauren Yamane](https://github.com/layamane)
 -   [Lincoln Mullen](https://github.com/lmullen)

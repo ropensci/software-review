@@ -103,7 +103,7 @@ on how to improve the process on our [forum](https://discuss.ropensci.org/).
 # <a href="#editors" name="editors"></a> Useful documents in this repository
 
 - [`policies.md`](policies.md) - policies as to what packages to accept and how to conduct the review process
-- [`reviewing_guide`](reviewing_guide) - high-level guide for reviewers
+- [`reviewing_guide.md`](reviewing_guide.md) - high-level guide for reviewers
 - [`packaging_guide.md`](packaging_guide.md) - detailed requirements and recommendations for rOpenSci packages
 - [`editors_checklist.md`](editors_checklist.md) - steps for editors to take throughout the review process
 - [`reviewer_template.md`](reviewer_template.md) - a template and checklist for reviews

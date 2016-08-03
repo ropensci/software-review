@@ -6,6 +6,7 @@ output: github_document
 
 ```{r, echo = FALSE, message=FALSE, warning=FALSE}
 library(airtabler)
+library(purrr)
 knitr::opts_chunk$set(
   collapse = TRUE,
   comment = "#>",
@@ -127,7 +128,7 @@ We are grateful to the following individuals who have offered up their time and 
 ```{r reviewers, echo=FALSE, results='asis'}
 editors <- c("Noam Ross", "Scott Chamberlain", "Karthik Ram")
 reviewers <- airtable(base = "appZIB8hgtvjoV99D", tables = "Reviewers")$Reviewers$get()
-reviewers <- reviewers[!is.null(reviewers$Reviews) & !(reviewers$name %in% editors), ]
+reviewers <- reviewers[map_lgl(reviewers$Reviews, ~!is.null(.)) & !(reviewers$name %in% editors), ]
 reviewers <- reviewers[order(reviewers$name), ]
 cat(paste0("-   [", reviewers$name, "](https://github.com/", reviewers$github, ")", collapse = "\n"))
 ```

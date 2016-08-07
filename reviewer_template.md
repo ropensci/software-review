@@ -35,7 +35,7 @@ The package includes all the following forms of documentation:
 
 #### Final approval (post-review)
 
-- [ ] **The author has responded to my review and made changes to my satisfaction. I recemmend approving this package.**
+- [ ] **The author has responded to my review and made changes to my satisfaction. I recommend approving this package.**
 
 Estimated hours spent reviewing: 
 

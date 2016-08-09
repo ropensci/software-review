@@ -14,7 +14,7 @@ Thank you for considering submitting your package to the rOpenSci suite. All our
 <a href="#why-submit" name="why-submit"></a>Why submit your package to rOpenSci?
 ================================================================================
 
--   First, and foremost, we hope you submit your package for review **because you value the feedback**. We aim to provide useful feedback to package authors and for \[our review process\] to be open, non-adversarial, and focused on improving software quality.
+-   First, and foremost, we hope you submit your package for review **because you value the feedback**. We aim to provide useful feedback to package authors and for [our review process] to be open, non-adversarial, and focused on improving software quality.
 -   Once aboard, your package will continue to recieve **support from rOpenSci members**. You'll retain ownership and control of of your package, but we can help with ongoing maintenance issues such as those associated with updates to R and dependencies and CRAN policies.
 -   rOpenSci will **promote your package** through our [web page](https://ropensci.org/packages/), [blog](https://ropensci.org/blog/), and [social media](https://twitter.com/ropensci). Packages in our suite are also distributed via our [drat repository](http://packages.ropensci.org/) and [Docker images](https://hub.docker.com/r/rocker/ropensci/), and listed in our [task views](https://github.com/search?utf8=%E2%9C%93&q=user%3Aropensci+%22task+view%22&type=Repositories&ref=searchresults).
 -   rOpenSci **packages can be cross-listed** with other repositories such as CRAN and BioConductor.
@@ -71,6 +71,7 @@ rOpenSci's onboarding process is run by:
 
 We are grateful to the following individuals who have offered up their time and expertise to review packages submitted to rOpenSci.
 
+-   [Alison Appling](https://github.com/aappling-usgs)
 -   [Andee Kaplan](https://github.com/andeek)
 -   [Andrew MacDonald](https://github.com/aammd)
 -   [Andy Teucher](https://github.com/ateucher)
@@ -79,6 +80,7 @@ We are grateful to the following individuals who have offered up their time and 
 -   [David Gohel](https://github.com/davidgohel)
 -   [David Winter](https://github.com/dwinter)
 -   [Dean Attali](https://github.com/daattali)
+-   [Hao Zhu](https://github.com/haozhu233)
 -   [Jeff Hollister](https://github.com/jhollist)
 -   [Jeroen Ooms](https://github.com/jeroenooms)
 -   [Julia Gustavsen](https://github.com/joolia)
@@ -87,12 +89,14 @@ We are grateful to the following individuals who have offered up their time and 
 -   [Lauren Yamane](https://github.com/layamane)
 -   [Lincoln Mullen](https://github.com/lmullen)
 -   [Maëlle Salmon](https://github.com/masalmon)
+-   [Marcus Beck](https://github.com/fawda123)
 -   [Michael Sumner](https://github.com/mdsumner)
 -   [Oliver Keyes](https://github.com/Ironholds)
 -   [Remko Duursma](https://github.com/RemkoDuursma)
 -   [Rich FitzJohn](https://github.com/richfitz)
 -   [Robin Lovelace](https://github.com/Robinlovelace)
 -   [Stefan Widgren](https://github.com/stewid)
+-   [Thomas Leeper](https://github.com/leeper)
 -   [Tiffany Timbers](https://github.com/ttimbers)
 -   [Toph Allen](https://github.com/toph-allen)
 

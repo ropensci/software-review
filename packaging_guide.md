@@ -46,17 +46,18 @@ rOpenSci accepts packages that meet our guidelines via a streamlined [onboarding
 * Short description of the package
 * Installation instructions
 * Example usage
-* rOpenSci footer image - use this markdown line
-```
-
-```
-[![ropensci_footer](http://ropensci.org/public_images/github_footer.png)](http://ropensci.org)
 ```
 
 * We recommend not creating `README.md` directly, but from a `README.Rmd` file (an Rmarkdown file) where possible. The advantage of the `.Rmd` file is you can combine text with code that can be easily updated whenever your package is updated.
 
 * Consider using `devtools::use_readme_rmd()` to get a template for a `README.Rmd` file
 and to automatically set up a pre-commit hook to ensure that `README.md` is always newer than `README.Rmd`.
+
+* _After_ a package is accepted, the rOpenSci footer should be added to the bottom of the README file with the following markdown line:
+
+```
+[![ropensci_footer](http://ropensci.org/public_images/github_footer.png)](http://ropensci.org)
+```
 
 * See the [gistr README](https://github.com/ropensci/gistr#gistr) for a good example README to follow.
 

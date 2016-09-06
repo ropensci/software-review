@@ -119,7 +119,7 @@ Only include reviewers after asking for their consent.
 
 * `testthat` has a function `skip_on_cran()` that you can use to not run tests on CRAN. We recommend using this on all functions that are API calls since they are quite likely to fail on CRAN. These tests will still run on Travis.
 
-* Check the extent of your test coverage using 
+* We recommend check the extent of your test coverage using the [**covr** package](https://github.com/jimhester/covr). Including a coverage badge in your package's README makes it easy for reviewers to see how well-tested your package is.
 
 * Even if your use [continuous integration](#ci), we recommend that you run tests locally prior to submitting your package, as some tests are often skipped.  In addition, we recommend that prior to submitting your package, you use Gabor Csardi's [**goodpractice**](https://github.com/MangoTheCat/goodpractice/) package to check your package
 for likely sources of errors.

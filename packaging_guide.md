@@ -48,7 +48,7 @@ rOpenSci accepts packages that meet our guidelines via a streamlined [onboarding
 * Example usage
 ```
 
-* We recommend not creating `README.md` directly, but from a `README.Rmd` file (an Rmarkdown file) where possible. The advantage of the `.Rmd` file is you can combine text with code that can be easily updated whenever your package is updated.
+* We recommend not creating `README.md` directly, but from a `README.Rmd` file (an Rmarkdown file) if you have any demonstration code. The advantage of the `.Rmd` file is you can combine text with code that can be easily updated whenever your package is updated.
 
 * Consider using `devtools::use_readme_rmd()` to get a template for a `README.Rmd` file
 and to automatically set up a pre-commit hook to ensure that `README.md` is always newer than `README.Rmd`.

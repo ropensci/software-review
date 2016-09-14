@@ -95,7 +95,7 @@ foobar 0.2.0 (2016-04-01)
 =========================
 ```
 
-* Under that header, put in sections as neeed, including: `NEW FEATURES`, `MINOR IMPROVEMENTS`,
+* Under that header, put in sections as needed, including: `NEW FEATURES`, `MINOR IMPROVEMENTS`,
 `BUG FIXES`, `DEPRECATED AND DEFUNCT`. Under each header list items as needed. For each item give
 a description of the new feature, improvement, bug fix, or deprecated function/feature. Link
 to any related GitHub issue like `(#12)`. The `(#12)` will resolve on GitHub in Releases to a

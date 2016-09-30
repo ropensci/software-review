@@ -170,7 +170,9 @@ This is a collection of CRAN gotchas that are worth avoiding at the outset.
 
 ## <a href="#further" name="further"></a> Further guidance
 
-* Hadley Wickham's _R Packages_ is an excellent resource for package development and is available a a [free book on the web](http://r-pkgs.had.co.nz/).
+* Hadley Wickham's _R Packages_ is an excellent, readable, resource on package development and is available a a [free book on the web](http://r-pkgs.had.co.nz/).
+
+* [Writing R Extensions](https://cran.r-project.org/doc/manuals/r-release/R-exts.html) is the canonical, usually most up-to-date, reference for creating R pacakges.
 
 * If you are submitting a package to rOpenSci via the [onboarding repo](https://github.com/ropensci/onboarding), you can direct further questions to the rOpenSci team in the issue tracker, or in our [discussion forum](https://discuss.ropensci.org/).
 

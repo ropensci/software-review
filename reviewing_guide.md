@@ -22,7 +22,7 @@ include:
 
 Please be respectful and kind to the authors in your reviews. Our [code of conduct](policies.md#code-of-conduct) is mandatory for everyone involved in our review process.
 
-First time reviewers may find it helpful to read some previous reviews.  Here are reviews of [**rusda**](https://github.com/ropensci/onboarding/issues/18), [**textreuse**](https://github.com/ropensci/onboarding/issues/20), and [**Ropenaq**](https://github.com/ropensci/onboarding/issues/24).
+First-time reviewers may find it helpful to read some previous reviews.  Here are reviews of [**rusda**](https://github.com/ropensci/onboarding/issues/18), [**textreuse**](https://github.com/ropensci/onboarding/issues/20), and [**Ropenaq**](https://github.com/ropensci/onboarding/issues/24).  The review of [**dbhydroR**](https://github.com/ropensci/onboarding/issues/61) uses our up-to-date reviewer's template.
 
 We encourage you to ask questions and provide feedback on the review process on our [forum](https://discuss.ropensci.org). 
 

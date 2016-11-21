@@ -14,7 +14,7 @@ Thank you for considering submitting your package to the rOpenSci suite. All our
 <a href="#why-submit" name="why-submit"></a>Why submit your package to rOpenSci?
 ================================================================================
 
--   First, and foremost, we hope you submit your package for review **because you value the feedback**. We aim to provide useful feedback to package authors and for \[our review process\] to be open, non-adversarial, and focused on improving software quality.
+-   First, and foremost, we hope you submit your package for review **because you value the feedback**. We aim to provide useful feedback to package authors and for [our review process] to be open, non-adversarial, and focused on improving software quality.
 -   Once aboard, your package will continue to recieve **support from rOpenSci members**. You'll retain ownership and control of of your package, but we can help with ongoing maintenance issues such as those associated with updates to R and dependencies and CRAN policies.
 -   rOpenSci will **promote your package** through our [web page](https://ropensci.org/packages/), [blog](https://ropensci.org/blog/), and [social media](https://twitter.com/ropensci). Packages in our suite are also distributed via our [drat repository](http://packages.ropensci.org/) and [Docker images](https://hub.docker.com/r/rocker/ropensci/), and listed in our [task views](https://github.com/search?utf8=%E2%9C%93&q=user%3Aropensci+%22task+view%22&type=Repositories&ref=searchresults).
 -   rOpenSci **packages can be cross-listed** with other repositories such as CRAN and BioConductor.
@@ -26,7 +26,7 @@ Thank you for considering submitting your package to the rOpenSci suite. All our
 -   As in any peer-review process, we hope you choose to review **to give back to the rOpenSci and scientific communities.** Our mission to expand access to scientific data and promote a culture of reproducible research is only possible through the volunteer efforts of community members like you.
 -   Review is a two-way conversation. By reviewing packages, you'll have the chance to **continue to learn development practices from authors and other reviewers**.
 -   The open nature of our review process allows you to **network and meet colleagues and collaborators** through the review process. Our community is friendly and filled with supportive members expert in R development and many other areas of science and scientific computing.
--   To volunteer to be one of our reviewers, just click [here](http://ropensci.org/onboarding/) to fill out a short form providing your contact information and areas or expertise. We are always looking for more reviewers with both general package-writing experience and domain expertise in the fields packages are used for.
+-   To volunteer to be one of our reviewers, just click [here](https://ropensci.org/onboarding/) to fill out a short form providing your contact information and areas or expertise. We are always looking for more reviewers with both general package-writing experience and domain expertise in the fields packages are used for.
 
 <a href="#how-submit" name="how-submit"></a>How to submit your package for review
 =================================================================================
@@ -78,12 +78,14 @@ We are grateful to the following individuals who have offered up their time and 
 -   [Andy Teucher](https://github.com/ateucher)
 -   [Bob Rudis](https://github.com/hrbrmstr)
 -   [Brooke Anderson](https://github.com/geanders)
+-   [Corinna Gries](https://github.com/cgries)
 -   [David Gohel](https://github.com/davidgohel)
 -   [David Winter](https://github.com/dwinter)
 -   [Dean Attali](https://github.com/daattali)
 -   [Dillon Niederhut](https://github.com/deniederhut)
 -   [Erin Ledell](https://github.com/NA)
 -   [Francois Michonneau](https://github.com/fmichonneau)
+-   [Gabe Becker](https://github.com/gmbecker)
 -   [Hao Zhu](https://github.com/haozhu233)
 -   [Jason Becker](https://github.com/jsonbecker)
 -   [Jeff Hanson](https://github.com/jeffreyhanson)
@@ -96,7 +98,9 @@ We are grateful to the following individuals who have offered up their time and 
 -   [Lauren Yamane](https://github.com/layamane)
 -   [Lincoln Mullen](https://github.com/lmullen)
 -   [Maëlle Salmon](https://github.com/masalmon)
+-   [Manuel Fernandez](https://github.com/manuramon)
 -   [Marcus Beck](https://github.com/fawda123)
+-   [Michael Koontz](https://github.com/mikoontz)
 -   [Michael Sumner](https://github.com/mdsumner)
 -   [Najko Jahn](https://github.com/njahn82)
 -   [Oliver Keyes](https://github.com/Ironholds)
@@ -108,4 +112,4 @@ We are grateful to the following individuals who have offered up their time and 
 -   [Tiffany Timbers](https://github.com/ttimbers)
 -   [Toph Allen](https://github.com/toph-allen)
 
-[![repo\_banner](http://ropensci.org/assets/ropensci_repo_banner.png)](http://ropensci.org)
+[![repo\_banner](https://ropensci.org/assets/ropensci_repo_banner.png)](https://ropensci.org)

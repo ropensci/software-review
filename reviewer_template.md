@@ -21,7 +21,7 @@ The package includes all the following forms of documentation:
 >
 >- [ ] **A short summary** describing the high-level functionality of the software
 >- [ ] **Authors:**  A list of authors with their affiliations
->- [ ] **A statement of need** clearly staing problems the software is designed to solve and its target audience.
+>- [ ] **A statement of need** clearly stating problems the software is designed to solve and its target audience.
 >- [ ] **References:** with DOIs for all those that have one (e.g. papers, datasets, software).
 
 #### Functionality

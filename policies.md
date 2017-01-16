@@ -24,6 +24,11 @@ or from other, easily accessible sources do not meet our criteria, and may be
 more suitable for data repositories.
 * __reproducibility__ (tools that facilitate reproducible research, such as interfacing with git to track provenance or similar).
 
+Packages should be *general* in that they should solve a problem as broadly as
+possible while maintaining a coherent user interface and code base. For instance
+if several data sources use an identical API, we prefer a package that provides
+access to all the data sources, rather than just one. 
+
 Packages that fall into above categories but without any scientific applications are generally not accepted into rOpenSci. Standalone statistical tools (i.e. not associated with any of the categories above) are also not included in the suite (we encourage submitting those directly to CRAN).
 
 At this time rOpenSci does not support packages that fall under government or

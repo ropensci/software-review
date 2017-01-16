@@ -165,7 +165,14 @@ package README.
 
 ## <a href="#deps" name="deps"></a> Package dependencies
 
-* Use `Imports` instead of `Depends` for packages providing functions you use internally only. Use `Depends` only if you intend for the user to have functions available from your package dependencies. Make sure to list packages used for testing (`testthat`), and documentation (`knitr`, `roxygen2`) in your `Suggests` section of package dependencies. If you use any packages in your examples sections, make sure to list those, if not already listed elsewhere, in `Enhances` section of package dependencies.
+* Use `Imports` instead of `Depends` for packages providing functions from other
+packages. Make sure to list packages used for testing (`testthat`), and documentation (`knitr`, `roxygen2`) in your `Suggests` section of package dependencies. If you use any packages in your examples sections, make sure to list those, if not already listed elsewhere, in `Enhances` section of package dependencies.
+
+* For most cases where you must expose functions from dependencies to the user,
+you should import and re-export those individual functions rather than listing
+them in the `Depends` fields.  For instance, if functions in your package produce
+`raster` objects, you might re-export only printing and plotting functions from the
+**raster** package.
 
 ## <a href="#tools" name="tools"></a> Recommended scaffolding
 

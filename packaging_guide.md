@@ -137,8 +137,9 @@ Only include reviewers after asking for their consent.
 
 * We recommend check the extent of your test coverage using the [**covr** package](https://github.com/jimhester/covr). Including a coverage badge in your package's README makes it easy for reviewers to see how well-tested your package is.
 
-* Even if your use [continuous integration](#ci), we recommend that you run tests locally prior to submitting your package, as some tests are often skipped.  In addition, we recommend that prior to submitting your package, you use Gabor Csardi's [**goodpractice**](https://github.com/MangoTheCat/goodpractice/) package to check your package
-for likely sources of errors.
+* Even if your use [continuous integration](#ci), we recommend that you run tests locally prior to submitting your package, as some tests are often skipped. (You will want
+to set `Sys.setenv(NOT_CRAN="true")` in order to ensure all tests are run.) In addition, we recommend that prior to submitting your package, you use Gabor Csardi's [**goodpractice**](https://github.com/MangoTheCat/goodpractice/) package to check your packagee for likely sources of errors, and run `devtools::spell_check()` to 
+find spelling errors in documentation.
 
 ## <a href="#ver" name="ver"></a> Versioning
 
@@ -150,7 +151,7 @@ for likely sources of errors.
 
 * All rOpenSci packages must use one form of continuous integration. This ensures that all commits, pull requests, and new branches are run through `R CMD check`. R is now a [natively supported language on Travis-CI](http://blog.travis-ci.com/2015-02-26-test-your-r-applications-on-travis-ci/), making it easier than ever to do continuous integration. See [R Packages](http://marker.to/NEr8Bd) and Julia Silge's [Beginner's Guide to Travis-CI for R](http://juliasilge.com/blog/Beginners-Guide-to-Travis/) for more help. Travis offers continuous integration for Linux and Mac OSX. For continuous integration on Windows, see [R + Appveyor](https://github.com/krlmlr/r-appveyor).
 
-* We recommend that you also use a coverage service to report on the extent to which your test cover your code.  See the [README for the **covr** package](https://github.com/jimhester/covr) for instructions.
+* We recommend that you also use a coverage service to report on the extent to which your tests cover your code.  See the [README for the **covr** package](https://github.com/jimhester/covr) for instructions.
 
 ## <a href="#egs" name="egs"></a> Examples
 

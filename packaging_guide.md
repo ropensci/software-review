@@ -42,7 +42,7 @@ rOpenSci accepts packages that meet our guidelines via a streamlined [onboarding
 
 ```
 * The package name
-* Badges for Travis-CI (and any other badges)
+* Badges for continuous integration and test coverage (and any other badges)
 * Short description of the package
 * Installation instructions
 * Example usage
@@ -135,10 +135,10 @@ Only include reviewers after asking for their consent.
 
 * `testthat` has a function `skip_on_cran()` that you can use to not run tests on CRAN. We recommend using this on all functions that are API calls since they are quite likely to fail on CRAN. These tests will still run on Travis.
 
-* We recommend check the extent of your test coverage using the [**covr** package](https://github.com/jimhester/covr). Including a coverage badge in your package's README makes it easy for reviewers to see how well-tested your package is.
+* Check the extent of your test coverage using the [**covr** package](https://github.com/jimhester/covr). Including a coverage badge in your package's README makes it easy for reviewers to see how well-tested your package is.
 
-* Even if your use [continuous integration](#ci), we recommend that you run tests locally prior to submitting your package, as some tests are often skipped. (You will want
-to set `Sys.setenv(NOT_CRAN="true")` in order to ensure all tests are run.) In addition, we recommend that prior to submitting your package, you use Gabor Csardi's [**goodpractice**](https://github.com/MangoTheCat/goodpractice/) package to check your packagee for likely sources of errors, and run `devtools::spell_check()` to 
+* Even if your use [continuous integration](#ci), we recommend that you run tests locally prior to submitting your package, as some tests are often skipped. (You may need
+to set `Sys.setenv(NOT_CRAN="true")` in order to ensure all tests are run.) In addition, we recommend that prior to submitting your package, you use Gabor Csardi's [**goodpractice**](https://github.com/MangoTheCat/goodpractice/) package to check your package for likely sources of errors, and run `devtools::spell_check()` to 
 find spelling errors in documentation.
 
 ## <a href="#ver" name="ver"></a> Versioning
@@ -151,7 +151,12 @@ find spelling errors in documentation.
 
 * All rOpenSci packages must use one form of continuous integration. This ensures that all commits, pull requests, and new branches are run through `R CMD check`. R is now a [natively supported language on Travis-CI](http://blog.travis-ci.com/2015-02-26-test-your-r-applications-on-travis-ci/), making it easier than ever to do continuous integration. See [R Packages](http://marker.to/NEr8Bd) and Julia Silge's [Beginner's Guide to Travis-CI for R](http://juliasilge.com/blog/Beginners-Guide-to-Travis/) for more help. Travis offers continuous integration for Linux and Mac OSX. For continuous integration on Windows, see [R + Appveyor](https://github.com/krlmlr/r-appveyor).
 
-* We recommend that you also use a coverage service to report on the extent to which your tests cover your code.  See the [README for the **covr** package](https://github.com/jimhester/covr) for instructions.
+* Continuous integration should also include reporting of test coverage via
+a testing service such [CodeCov](https://codecov.io/) or [Coveralls](https://coveralls.io/).  See the [README for the **covr** package](https://github.com/jimhester/covr) for instructions, as well
+as `devtools::use_coverage()`. 
+
+* Both test status and code coverage should be reported via a badge in your
+package README.
 
 ## <a href="#egs" name="egs"></a> Examples
 

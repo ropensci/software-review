@@ -172,7 +172,7 @@ package README.
 
 * For http requests we strongly recommend using `httr` over `RCurl`.
 * For parsing JSON, use `jsonlite` instead of `rjson` or `RJSONIO`.
-* For parsing XML, if you only need to parse XML data, `xml2` is a good option as it makes parsing easier. However, if you need to create XML (in addition to parsing it), use the `XML` package. The `XML` package is more low level than `xml2`, and allows finer manipulation, and may be favored by those more familiar with XML data.
+* For parsing, creating, and manipulating XML, we strongly recommend `xml2` for most cases. The `XML` package is more low level than `xml2`, and allows finer manipulation for some tasks.
 
 
 ## <a href="#messages" name="messages"></a> Console messages

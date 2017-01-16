@@ -1,47 +1,91 @@
 # Editors' checklist
 
-Upon submission:
+## Upon submission:
 
 -   Check that template has been properly filled out
--   Tag issue appropriately with `package`, `topic:`, etc. tags
--   Check against policies for [fit](policies.md#fit) and [overlap](policies.md#fit)
+-   Tag issue appropriately with `package`, `topic:`, etc. tags. Add `1/editor-checks` tag.
+-   Check against policies for [fit](policies.md#fit) and [overlap](policies.md#fit).
+    Initiate discussion via slack #onboarding channel if needed for edge cases.
     If reject, close issue, direct authors to other groups/repos as appropriate.
 -   Check that mandatory parts of template are complete.  If not, close issue,
     direct authors toward appropriate instructions.
--   Assign reviewers.  Use the #onboarding slack channel for discussion about
-    potential reviewers.  Assign reviewer by tagging in the issue with the
-    following format to activate  the automated reminders bot:
-   
-      Reviewers: @githubname 
-      Due date: YYYY-MM-DD
-
--   Add the tag `editor-assigned` once reviewers are assigned.
+-   Run run automated tests: `devtools::check()`, `goodpractice::gp()`, `devtools::spell_check()`. Run
+    `covr::package_coverage()` using `NOT_CRAN` if needed, as well. Report
+    relevant outputs in the issue thread.
+-   If initial checks show major gaps, request changes before assigning reviewers.
 -   If the package raises a new issue for ROpenSci policy, open a discussion on the
     [ROpenSci forum](https://discuss.ropensci.org/) to discuss it with other
     editors ([example]()https://discuss.ropensci.org/t/overlap-policy-for-package-onboarding/368)
-
-During review:
-
--   Check in with reviewers and authors occaisionally.
--   Upon reviews being submitted, change the review status tag to
-    `review-in-awaiting-changes` to update the reminder bot.
     
-After review:
+## Assign reviewers:
 
--   Add review/er information to the review database (work-in-progress)
+-   Switch numbered tag to `2/seeking-reviewers`
+-   Use the #onboarding slack channel for discussion about potential reviewers.
+-   Assign a due date 3 weeks after all reviewers have been found.
+-   Once two or more reviwers are found, assign reviewer by tagging in the issue with the
+    following format to activate the automated reminders bot:
+   
+      Reviewers: @githubname1 @githubname2
+      Due date: YYYY-MM-DD
+
+-   Switch numbered tag `to 3/reviewers-assigned` once reviewers are assigned.
+
+
+## During review:
+
+-   Check in with reviewers and authors occaisionally. Offer clarification and
+help as needed.
+-   In general aim for 3 weeks for review, 2 weeks for
+    subsequent changes, and 1 week for reviewer approval of changes.
+-   Make sure ropensci-bot is pinging correctly.
+-   Upon all reviews being submitted, change the review status tag to
+    `4/review-in-awaiting-changes` to update the reminder bot.
+-   Upon changes being made, change the review status tag to `5/awaiting-reviewer-response`.
+    
+## After review:
+
+-  Change the staus tag to `6/approved`.
+-   Add review/er information to the review database.
 -   If authors intend to submit to CRAN, check against CRAN gotchas and provide
     support through this process.
--   Ask authors to miigrate to `ropenscilabs`. (Tranfer to `ropensci` will take place later).
--   Add rOpenSci footer to README.  
--   Close issue and mark with tag `approved`.
--   Do appropriate promotion for package, which may include:
-    -   Check if authors are interested in writing summary blog post for blog if
-        appropriate
-    -   Write a short summary for a regular "new packages round-up" blog post.
-    -   Tweet
-    -   Alert maintainers of appropriate [task views](https://github.com/search?utf8=%E2%9C%93&q=user%3Aropensci+%22task+view%22&type=Repositories&ref=searchresults)
-    -   Add package to [rOpenSci web site](https://github.com/ropensci/roweb)
-    -   Tweet, etc.
+-   Ask authors to migrate to `ropensci`
+    -   Create a two-person team in the ropensci organization, named for the
+        package, with yourself and the package author as members.
+    -   Have the author tranfer the repository to `ropensci`
+    -   Go to the repository settings in the `ropensci` organization and give
+        the two-person team "admin" access to the repository.
+-   Ask author to:
+    -   Add rOpenSci footer to README
+    -   Change any needed links, such those for CI badges
+    -   Re-activate CI services
+        -  For Travis, activating the project in the ropensci account should be
+           sufficient
+        -  For Appveyor, active the project in the ropensci account, then create
+           a permission profile that gives access to that project, and link
+           that profile to the two-person GitHub team.
+        -  For CodeCov, the webhook may need to be reset by the author.
+-   Close the onboarding issue. 
+
+## For joint JOSS submissions:
+
+-  After repo is transferred and admin rights assigned, have author generate
+   a new release with a DOI.
+-  Ask author to submit package via http://joss.theoj.org/papers/new
+-  Watch for paper to pop up at http://joss.theoj.org/papers, then
+   add the following comment to the submission thread:
+   
+   `This submission has been accepted to rOpenSci. The review thread can be
+    found at [LINK TO ONBOARDING ISSUE]`
+
+## Package promotion:
+
+-  Ask authors to write either a blog post or a tech-notes post for the package,
+   as appropriate.
+-   Write a short summary for a regular "new packages round-up" blog post.
+-   Alert maintainers of appropriate [task views](https://github.com/search?utf8=%E2%9C%93&q=user%3Aropensci+%22task+view%22&type=Repositories&ref=searchresults)
+-   Add package to [rOpenSci web site](https://github.com/ropensci/roweb)
+-   Tweet, etc.
+
 
 ## Automated reminders
 

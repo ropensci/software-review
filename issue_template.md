@@ -25,7 +25,8 @@ Confirm each of the following by checking the box.  This package:
 - [ ] includes documentation with examples for all functions.
 - [ ] contains a vignette with examples of its essential functions and uses.
 - [ ] has a test suite.
-- [ ] has continuous integration with Travis CI and/or another service.
+- [ ] has continuous integration, including reporting of test coverage, using
+services such as Travis CI, Coeveralls and/or CodeCov.
 
 #### Publication options
 

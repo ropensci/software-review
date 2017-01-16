@@ -125,7 +125,7 @@ tagged version to a Release on the Releases tab in your GitHub repo with a title
 
 The `DESCRIPTION` file of a package should list package authors and contributors to a package, using the `Authors@R` syntax to indicate their roles (author/creator/contributor etc.) if there is more than one author. See [this section of "Writing R Extensions"](https://cran.rstudio.com/doc/manuals/r-release/R-exts.html#The-DESCRIPTION-file) for details.  If you feel that your reviewers have made a substantial contribution to the development of your package, you may list them in the `Authors@R` field with a Reviewer contributor type (`"rev"`), like so:
 
-    person("Lincoln", "Mullen", role = c("rev"))
+    person("Lincoln", "Mullen", role = c("rev"), comment = "Lincoln Mullen reviewed the package for rOpenSci, see https://github.com/ropensci/onboarding/issues/45")
 
 Only include reviewers after asking for their consent.
 

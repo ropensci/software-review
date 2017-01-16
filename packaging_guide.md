@@ -48,6 +48,13 @@ rOpenSci accepts packages that meet our guidelines via a streamlined [onboarding
 * Example usage
 ```
 
+* If your package connects to a data source or online service, or wraps other software,
+consider that your package README may be the first point of entry for users.  It should provide enough information for users to understand the nature of the data, service, or software, and provide links to other relevant data and documentation.  For instance,
+a README should not merely read, "Provides access to GooberDB," but also include,
+"..., an online repository of Goober sightings in South America.  More
+information about GooberDB, and documentation of database structure and metadata
+can be found at *link*.
+
 * We recommend not creating `README.md` directly, but from a `README.Rmd` file (an Rmarkdown file) if you have any demonstration code. The advantage of the `.Rmd` file is you can combine text with code that can be easily updated whenever your package is updated.
 
 * Consider using `devtools::use_readme_rmd()` to get a template for a `README.Rmd` file
@@ -76,6 +83,13 @@ and to automatically set up a pre-commit hook to ensure that `README.md` is alwa
 
 * The package should contain at least one vignette providing an introduction to
 the primary package functions and use-cases.
+
+* As is the case for a README, top-level documentation or vignettes may
+be the first point of entry for users. If your package connects to a data source or online service, or wraps other software, it should provide enough information for users to understand the nature of the data, service, or software, and provide links to other relevant data and documentation.  For instance,
+a the vignette intro or documentation should not merely read, "Provides access to GooberDB," but also include,
+"..., an online repository of Goober sightings in South America.  More
+information about GooberDB, and documentation of database structure and metadata
+can be found at *link*.
 
 * We strongly encourage all submissions to use `roxygen2` for documentation.  `roxygen2` is [an R package](http://cran.r-project.org/web/packages/roxygen2/index.html) that automatically compiles `.Rd` files to your `man` folder in your package from simple tags written above each function.
 

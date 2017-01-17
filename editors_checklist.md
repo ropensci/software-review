@@ -53,7 +53,9 @@ help as needed.
         package, with yourself and the package author as members.
     -   Have the author tranfer the repository to `ropensci`
     -   Go to the repository settings in the `ropensci` organization and give
-        the two-person team "admin" access to the repository.
+        the two-person team "Write" access to the repository. ("Admin" access
+        may be temporarily granted for purposes such as creating Zenodo releases,
+        setting up package documentation options, etc.)
 -   Ask author to:
     -   Add rOpenSci footer to README
     -   Change any needed links, such those for CI badges

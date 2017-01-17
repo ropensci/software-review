@@ -59,7 +59,9 @@ when authors will respons to reviews.
 
 We currently have `r nrow(reviewers)` reviewers in the database, and `r sum(reviewers$last_review < as.POSIXct(Sys.Date() - lubridate::days(180)))` have
 not done a review in at least six months. `r sum(reviewers$status == "Never reviewed")`
-of these are new and have not yet started a review.
+of these are new and have not yet started a review.  We're not even including
+here package authors that we have not yet tapped for review, as they are not
+yet in the reviewer database.
 
 ```{r by-time}
 ggplot(reviewers, aes(x=last_review, fill=as.factor(n_reviews))) +
@@ -96,7 +98,8 @@ Overall, review times are holding steady or going down:
 ggplot(times, aes(x=opened, y=review_time)) + geom_point() + geom_smooth(method="lm")
 ```
 
-Here's the number of pacakges submitted per quarter.  Note that after a flurry
+Here's the number of pacakges submitted per quarter, highlighting authors with
+more than one submittal.  Note that after a flurry
 of submissions over last spring and summer, partially driven by our power users,
 we're back down to lower rates of submission.  
 
@@ -105,17 +108,20 @@ submittals <- gh("/repos/ropensci/onboarding/issues?labels=package&state=all&sor
 submits <- map_df(submittals, function(x) {
   data_frame(submitted = x$created_at,
              name = stringi::stri_extract_first_regex(x$body, "(?<=Package:\\s{0,5}).*\\b"),
-             scott = x$user$login == "sckott",
-             maelle = x$user$login == "masalmon")
+             author = x$user$login)
 }) %>% 
-  mutate(submitted = as.POSIXct(submitted)) %>% 
-  mutate(Author = if_else(scott, "Scott", if_else(maelle, "Maëlle", "Other"))) %>% 
-  mutate(Author = forcats::fct_relevel(Author, "Other", "Scott", "Maëlle"))
+  mutate(submitted = as.POSIXct(submitted))
+
+top_authors <- submits %>% count(author) %>% arrange(desc(n)) %>% filter(n  > 1)
+submits = submits %>% 
+  mutate(Author = if_else(author %in% top_authors$author, author, "other")) %>% 
+  mutate(Author = forcats::fct_relevel(Author, c("other", rev(top_authors$author))))
 
 ggplot(submits, aes(x=submitted, fill = Author)) +
   geom_histogram(binwidth = as.numeric(lubridate::days(90))) +
   scale_x_datetime(date_breaks = "90 days", date_labels = "%b %y") +
   scale_y_continuous(breaks = seq(0, 16, by=2), limits = c(0, 13), expand = c(0,0)) +
+  scale_fill_brewer(type = "qual") +
   theme(axis.text.x = element_text(angle = 45, margin =margin(t=10)))
 ```
 
@@ -124,3 +130,4 @@ effort into improving our process and expanding our reviewer pool, but we've
 lost some momentum in increasing rates of submission and expanding our author
 base.  This suggests we should be finding ways to do more outreach for new
 authors.
+

@@ -57,8 +57,9 @@ at today is those currently reviewing a package.  This is conservative as it
 includes packages that are in "holding" mode, with no current expectation as to
 when authors will respons to reviews.
 
-We currently have `nrow(reviewers)` in the database, and `r sum(reviewers$last_review < as.POSIXct(Sys.Date() - lubridate::days(180)))` have
-not done a review in at least six months.
+We currently have `r nrow(reviewers)` reviewers in the database, and `r sum(reviewers$last_review < as.POSIXct(Sys.Date() - lubridate::days(180)))` have
+not done a review in at least six months. `r sum(reviewers$status == "Never reviewed")`
+of these are new and have not yet started a review.
 
 ```{r by-time}
 ggplot(reviewers, aes(x=last_review, fill=as.factor(n_reviews))) +

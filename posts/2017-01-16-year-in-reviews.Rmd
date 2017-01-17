@@ -1,10 +1,125 @@
 ---
-title: "Another Year in Reviews at rOpenSci"
+title: "Another Year in Reviews at rOpenSci: DRAFT ANALYTICAL PART"
 author: "Noam Ross"
 date: "1/16/2017"
 output: html_document
 ---
 
+*Here are some initial stabs at a quantitative look at the review process,
+which will be part of my next "Year in Reviews" post.  I'll update with nicer
+styling and more text later.  For now this is just an exploration to prompt further
+questions. Please let me know if there's something else you want.*
+
 ```{r setup, include=FALSE}
-knitr::opts_chunk$set(include = FALSE)
+library(airtabler)
+library(tidyverse)
+library(gh)
+knitr::opts_chunk$set(echo = FALSE, message=FALSE, warning=FALSE)
 ```
+
+```{r get-airtable}
+baseID = "appZIB8hgtvjoV99D"
+reviewers <- air_get(baseID, "Reviewers") %>% as_tibble()
+reviews <- air_get(baseID, "Reviews") %>% as_tibble()
+```
+
+We've grown the reviewer pool considerably.  Here's the number of reviewers
+by the reviews they've started and completed:
+
+```{r reviewer-pool}
+reviewers = reviewers %>% 
+  mutate(n_reviews = map_int(Reviews, length)) %>% 
+  mutate(last_review = map_chr(Reviews, function(x) {
+    rev_reviews_urls = na.omit(filter(reviews, id %in% unlist(x))[["onboarding_url"]])
+    if(!length(rev_reviews_urls)) return(NA)
+    rev_reviews = map(stringi::stri_extract_first_regex(rev_reviews_urls, "(?<=https://github.com/).*$"),
+                      function(x) {
+                        gh_issue = gh(paste0("/repos/", x), .limit=200)
+                        closed = gh_issue[["closed_at"]]
+                        if(is.null(closed)) {
+                          closed = as.character(Sys.Date())
+                        }
+                        return(closed)
+                        })
+    last_date = max(as.POSIXct(unlist(rev_reviews)), na.rm=TRUE)
+    return(as.character(last_date))
+  })) %>% 
+  mutate(last_review = as.POSIXct(last_review)) %>% 
+  mutate(status = if_else(is.na(last_review), "Never reviewed",
+                          if_else(last_review >= as.POSIXct(Sys.Date() - 1), "Currently reviewing", "Has reviewed"))) %>% 
+  mutate(last_review = coalesce(last_review, as.POSIXct("2015-01-01")))
+ggplot(reviewers, aes(x=n_reviews)) + geom_bar()
+```
+
+And here they are by the date of the end of their last review, with the cutoff
+of 6 months shown.  The spike at the beginning is those with no reviews, the spike
+at today is those currently reviewing a package.  This is conservative as it
+includes packages that are in "holding" mode, with no current expectation as to
+when authors will respons to reviews.
+
+We currently have `nrow(reviewers)` in the database, and `r sum(reviewers$last_review < as.POSIXct(Sys.Date() - lubridate::days(180)))` have
+not done a review in at least six months.
+
+```{r by-time}
+ggplot(reviewers, aes(x=last_review, fill=as.factor(n_reviews))) +
+  geom_histogram() +
+  geom_vline(xintercept = as.numeric(as.POSIXct(Sys.Date() - lubridate::days(180))))
+```
+
+Here is the distribution of review times. Mean review time is ~77 days, with a
+long tail but also some being much faster.  This isn't bad considering in an
+absolutely perfect scenario:
+
+- 1 week with editor
+- 1 week finding reviewers
+- 3 weeks reviewing
+- 2 weeks revising
+- 1 week getting second reviews
+- = 8 weeks = 56 days
+
+```{r time-to-accept}
+packages <- gh("/repos/ropensci/onboarding/issues?labels=6/approved&state=closed", .limit=200)
+times <- map_df(packages, function(x) {
+  data_frame(opened = x$created_at, closed = x$closed_at)
+}) %>% 
+  mutate_all(funs(as.POSIXct)) %>% 
+  mutate(review_time = closed - opened)
+ggplot(times, aes(x=review_time)) + 
+  geom_histogram(binwidth = 10) +
+  geom_vline(xintercept = mean(times$review_time))
+```
+
+Overall, review times are holding steady or going down:
+
+```{r times}
+ggplot(times, aes(x=opened, y=review_time)) + geom_point() + geom_smooth(method="lm")
+```
+
+Here's the number of pacakges submitted per quarter.  Note that after a flurry
+of submissions over last spring and summer, partially driven by our power users,
+we're back down to lower rates of submission.  
+
+```{r submission-rate}
+submittals <- gh("/repos/ropensci/onboarding/issues?labels=package&state=all&sort=created", .limit=200)
+submits <- map_df(submittals, function(x) {
+  data_frame(submitted = x$created_at,
+             name = stringi::stri_extract_first_regex(x$body, "(?<=Package:\\s{0,5}).*\\b"),
+             scott = x$user$login == "sckott",
+             maelle = x$user$login == "masalmon")
+}) %>% 
+  mutate(submitted = as.POSIXct(submitted)) %>% 
+  mutate(Author = if_else(scott, "Scott", if_else(maelle, "Maëlle", "Other"))) %>% 
+  mutate(Author = forcats::fct_relevel(Author, "Other", "Scott", "Maëlle"))
+
+ggplot(submits, aes(x=submitted, fill = Author)) +
+  geom_histogram(binwidth = as.numeric(lubridate::days(90))) +
+  scale_x_datetime(date_breaks = "90 days", date_labels = "%b %y") +
+  scale_y_continuous(breaks = seq(0, 16, by=2), limits = c(0, 13), expand = c(0,0)) +
+  theme(axis.text.x = element_text(angle = 45, margin =margin(t=10)))
+```
+
+Overall, this analysis sort of confirms my priors - we've put a good deal of
+effort into improving our process and expanding our reviewer pool, but we've
+lost some momentum in increasing rates of submission and expanding our author
+base.  This suggests we should be finding ways to do more outreach for new
+authors.

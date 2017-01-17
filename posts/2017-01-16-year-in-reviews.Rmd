@@ -131,3 +131,10 @@ lost some momentum in increasing rates of submission and expanding our author
 base.  This suggests we should be finding ways to do more outreach for new
 authors.
 
+The reported time it takes to review remains similar.  The median time reported 
+to complete a review is `r median(reviews$review_hours, na.rm=TRUE)` hours.
+
+```{r review-hours}
+ggplot(reviews, aes(x=review_hours)) + geom_histogram(binwidth = 1)
+```
+

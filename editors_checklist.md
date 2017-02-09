@@ -2,8 +2,9 @@
 
 ## Upon submission:
 
+-   Tag issue appropriately with `package`, `topic:`, etc. tags. Add `1/editor-checks` tag
+    and assign a main editor if you haven't already.
 -   Check that template has been properly filled out
--   Tag issue appropriately with `package`, `topic:`, etc. tags. Add `1/editor-checks` tag.
 -   Check against policies for [fit](policies.md#fit) and [overlap](policies.md#fit).
     Initiate discussion via slack #onboarding channel if needed for edge cases.
     If reject, close issue, direct authors to other groups/repos as appropriate.
@@ -21,6 +22,9 @@
 
 -   Switch numbered tag to `2/seeking-reviewers`
 -   Use the #onboarding slack channel for discussion about potential reviewers.
+-   When inviting reviewers, include something like "if I don't hear from
+    you in a week, I'll assume you are unable to review," so as to give a
+    clear deadline when you'll move on to looking for someone else.
 -   Assign a due date 3 weeks after all reviewers have been found.
 -   Once two or more reviwers are found, assign reviewer by tagging in the issue with the
     following format to activate the automated reminders bot:

@@ -16,7 +16,10 @@ Our [reviewers guide] details what we look for in a package review, and includes
 
 {IF APPLICABLE: The authors have also chosen to jointly submit their package to the Journal of Open Source Software, so this package includes a short `paper.md` manuscript describing the software that we ask you include in your review.}
 
-Are you able to review? If you can not, suggestions for alternate reviewers are always helpful. Thank you for your time.
+Are you able to review? If you can not, suggestions for alternate reviewers are always helpful. If I don't hear from you within a week, I will assume you are unable to
+review at this time. 
+
+Thank you for your time.
 
 Sincerely,
 

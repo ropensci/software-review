@@ -69,6 +69,7 @@ rOpenSci's onboarding process is run by:
 -   [Noam Ross](https://github.com/noamross), EcoHealth Alliance
 -   [Scott Chamberlain](https://github.com/sckott), rOpenSci
 -   [Karthik Ram](https://github.com/karthik), rOpenSci
+-   [Maëlle Salmon](https://github.com/masalmon), [CHAI](http://www.chaiproject.org)
 
 We are grateful to the following individuals who have offered up their time and expertise to review packages submitted to rOpenSci.
 
@@ -87,6 +88,7 @@ We are grateful to the following individuals who have offered up their time and 
 -   [Francois Michonneau](https://github.com/fmichonneau)
 -   [Gabe Becker](https://github.com/gmbecker)
 -   [Hao Zhu](https://github.com/haozhu233)
+-   [Ivan Hanigan](https://github.com/ivanhanigan)
 -   [Jason Becker](https://github.com/jsonbecker)
 -   [Jeff Hanson](https://github.com/jeffreyhanson)
 -   [Jeff Hollister](https://github.com/jhollist)
@@ -95,21 +97,26 @@ We are grateful to the following individuals who have offered up their time and 
 -   [Julia Silge](https://github.com/juliasilge)
 -   [Kenneth Benoit](https://github.com/kbenoit)
 -   [Kevin Ushey](https://github.com/kevinushey)
+-   [Laura DeCicco](https://github.com/ldecicco-usgs)
 -   [Lauren Yamane](https://github.com/layamane)
 -   [Lincoln Mullen](https://github.com/lmullen)
--   [Maëlle Salmon](https://github.com/masalmon)
 -   [Manuel Fernandez](https://github.com/manuramon)
+-   [Mara Averick](https://github.com/batpigandme)
 -   [Marcus Beck](https://github.com/fawda123)
 -   [Michael Koontz](https://github.com/mikoontz)
 -   [Michael Sumner](https://github.com/mdsumner)
 -   [Najko Jahn](https://github.com/njahn82)
+-   [Naupaka Zimmerman](https://github.com/naupaka)
 -   [Oliver Keyes](https://github.com/Ironholds)
 -   [Remko Duursma](https://github.com/RemkoDuursma)
 -   [Rich FitzJohn](https://github.com/richfitz)
 -   [Robin Lovelace](https://github.com/Robinlovelace)
+-   [Sean Hughes](https://github.com/@seaaan)
 -   [Stefan Widgren](https://github.com/stewid)
+-   [Ted Underwood](https://github.com/tedunderwood)
 -   [Thomas Leeper](https://github.com/leeper)
 -   [Tiffany Timbers](https://github.com/ttimbers)
 -   [Toph Allen](https://github.com/toph-allen)
+-   [Tristan Mahr](https://github.com/tjmahr)
 
 [![repo\_banner](https://ropensci.org/assets/ropensci_repo_banner.png)](https://ropensci.org)

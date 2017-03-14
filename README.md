@@ -71,6 +71,8 @@ rOpenSci's onboarding process is run by:
 -   [Karthik Ram](https://github.com/karthik), rOpenSci
 -   [Maëlle Salmon](https://github.com/maelle), [CHAI](http://www.chaiproject.org)
 
+### Reviewers
+
 We are grateful to the following individuals who have offered up their time and expertise to review packages submitted to rOpenSci.
 
 -   [Alison Appling](https://github.com/aappling-usgs)

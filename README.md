@@ -92,7 +92,7 @@ We are grateful to the following individuals who have offered up their time and 
 -   [Jason Becker](https://github.com/jsonbecker)
 -   [Jeff Hanson](https://github.com/jeffreyhanson)
 -   [Jeff Hollister](https://github.com/jhollist)
--   [Jeroen Ooms](https://github.com/jeroenooms)
+-   [Jeroen Ooms](https://github.com/jeroen)
 -   [Julia Gustavsen](https://github.com/joolia)
 -   [Julia Silge](https://github.com/juliasilge)
 -   [Kenneth Benoit](https://github.com/kbenoit)

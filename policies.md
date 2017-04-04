@@ -10,12 +10,12 @@
 
 ### <a href="#fit" name="#fit"></a>Package fit
 
-rOpenSci develops software to complement and leverage R's rich suite of existing tools in order to support scientific computing. Our primary areas of focus are:
+rOpenSci develops software to complement and leverage R's rich suite of existing tools in order to support scientific computing. Our primary areas of focus are: 
 * __data retrieval__ (from APIs, data storage services, journals, and other remote servers). The data retrieved must have a scientific application and merely wrapping an API that serves data does not meet our criteria.
 * __data extraction__ tools that aid in retrieving data from unstructured sources such as text, images and PDFs, as well as scientific
 data formats and outputs from scientific equipment.
-* __data visualization__ (interactive graphics in R that extend beyond base and `ggplot2`).
-* __data deposition__ into research repositories, including metadata generation.
+* __data visualization__ (interactive graphics in R that extend beyond base and `ggplot2`). 
+* __data deposition__ into research repositories, including metadata generation.  
 * __data munging__ (In the context of the tools described above. Generic tools such as `reshape2`, `tidyr` do not fit this criteria). Geospatial tools fall under this category.
 * __data packages__ that aggregate large, heterogenous data sets of scientific
 value or provide R-specific formats for widely-used data (e.g., shapefiles for
@@ -52,15 +52,15 @@ Package authors will continue to maintain and develop their software after accep
 
 ### Ownership of packages
 
-Authors of contributed packages essentially maintain the same ownership they had prior to their package joining the rOpenSci suite. Contributors will have write access to their repositories, but will need an rOpenSci staff member to add any new contributors.
+Authors of contributed packages essentially maintain the same ownership they had prior to their package joining the rOpenSci suite. Contributors will have write access to their repositories, but will need an rOpenSci staff member to add any new contributors. 
 
 ### Package removal
 
-In the unlikely scenario that a contributor of a package requests removal of their package from the suite, we retain the right to maintain a version of the package in our suite for archival purposes.
+In the unlikely scenario that a contributor of a package requests removal of their package from the suite, we retain the right to maintain a version of the package in our suite for archival purposes. 
 
-### Quality commitment
+### Quality commitment 
 
-rOpenSci strives to develop and promote high quality research software. To ensure that your software meets our criteria, we review all of our submissions as part of the onboarding process, and even after acceptance will continue to chime in with improvements and bug fixes.
+rOpenSci strives to develop and promote high quality research software. To ensure that your software meets our criteria, we review all of our submissions as part of the onboarding process, and even after acceptance will continue to chime in with improvements and bug fixes. 
 
 Despite our best efforts to support contributed software, errors are the responsibility of individual maintainers. Buggy, unmaintained software may be removed from our suite at any time.
 
@@ -112,9 +112,9 @@ chat to rOpenSci staff and the greater rOpenSci community.
   excludes people in socially marginalized groups.
 * Private harassment is also unacceptable. No matter who you are, if
   you feel you have been or are being harassed or made uncomfortable
-  by a community member, please contact us at info@ropensci.org
-  immediately with a capture (log, photo, email) of the harassment if possible.
-  Whether you're a regular contributor or a newcomer, we
+  by a community member, please contact us at info@ropensci.org 
+  immediately with a capture (log, photo, email) of the harassment if possible. 
+  Whether you're a regular contributor or a newcomer, we 
   care about making this community a safe place for you and we've got
   your back.
 * Likewise, any spamming, trolling, flaming, baiting or other
@@ -123,7 +123,7 @@ chat to rOpenSci staff and the greater rOpenSci community.
   documentation. There is no need to address persons when explaining
   code (e.g. "When the developer")
 
-_This CoC adapted from the [io.js CoC](https://github.com/iojs/io.js/blob/v1.x/CONTRIBUTING.md#code-of-conduct), adapted from [Rust's
+_This CoC adapted from the [io.js CoC](https://github.com/iojs/io.js/blob/v1.x/CONTRIBUTING.md#code-of-conduct), adapted from [Rust's 
 CoC](https://github.com/rust-lang/rust/wiki/Note-development-policy#conduct)._
 
 ## Related projects

@@ -2,7 +2,7 @@
 
 *Please check off boxes as applicable, and elaborate in comments below.  Your review is not limited to these topics, as described in the reviewer guide*
 
-- [ ] As the reviewer I confirm that there are no conflicts of interest for me to review this work (such as being a major contributor to the software).
+- [ ] As the reviewer I confirm that there are no conflicts of interest for me to review this work (If you are unsure whether you are in conflict, please speak to your editor _before_ starting your review).
 
 #### Documentation
 

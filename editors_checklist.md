@@ -60,6 +60,7 @@ help as needed.
         the two-person team "Write" access to the repository. ("Admin" access
         may be temporarily granted for purposes such as creating Zenodo releases,
         setting up package documentation options, etc.)
+
 -   Ask author to:
     -   Add rOpenSci footer to README
     -   Change any needed links, such those for CI badges

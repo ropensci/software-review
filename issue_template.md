@@ -47,7 +47,7 @@ the review process and in maintaining my package should it be accepted.
 
 - [ ] Does the package conform to [rOpenSci packaging guidelines](https://github.com/ropensci/packaging_guide)? Please describe any exceptions:
 
-- Please indicate which category or categories this package falls under our [package fit policies](https://github.com/ropensci/onboarding/blob/master/policies.md#package-fit) and why:
+- Please indicate which category or categories from our [package fit policies](https://github.com/ropensci/onboarding/blob/master/policies.md#package-fit) this package falls under and why:
 
 - If this is a resubmission following rejection, please explain the change in circumstances:
 

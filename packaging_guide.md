@@ -179,8 +179,7 @@ them in the `Depends` fields.  For instance, if functions in your package produc
 
 * For http requests we strongly recommend using `httr` over `RCurl`.
 * For parsing JSON, use `jsonlite` instead of `rjson` or `RJSONIO`.
-* For parsing, creating, and manipulating XML, we strongly recommend `xml2` for most cases. The `XML` package is more low level than `xml2`, and allows finer manipulation for some tasks.
-
+* For parsing, creating, and manipulating XML, we strongly recommend `xml2` for most cases.
 
 ## <a href="#messages" name="messages"></a> Console messages
 

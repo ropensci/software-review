@@ -12,7 +12,7 @@ The package, [PACKAGE] by [AUTHOR(S)], does [FUNCTION]. You can find it on GitHu
 
 If you accept, note that we ask reviewers to complete reviews in three weeks. (We’ve found it takes a similar amount of time to review a package as an academic paper.) 
 
-Our [reviewers guide] details what we look for in a package review, and includes links to example reviews. Our standards are detailed in our [packaging guide], and we provide [reviewer template] for you to use. If you have questions or feedback, feel free to ask me or post to the [rOpenSci forum].
+Our [reviewers guide] details what we look for in a package review, and includes links to example reviews. Our standards are detailed in our [packaging guide], and we provide reviewer [template] for you to use. If you have questions or feedback, feel free to ask me or post to the [rOpenSci forum].
 
 {IF APPLICABLE: The authors have also chosen to jointly submit their package to the Journal of Open Source Software, so this package includes a short `paper.md` manuscript describing the software that we ask you include in your review.}
 
@@ -28,4 +28,4 @@ Sincerely,
 [reviewers guide]: https://github.com/ropensci/onboarding/blob/master/reviewing_guide.md
 [packaging guide]: https://github.com/ropensci/onboarding/blob/master/packaging_guide.md 
 [template]: https://github.com/ropensci/onboarding/blob/master/reviewer_template.md 
-[[rOpenSci forum]: https://discuss.ropensci.org/
+[rOpenSci forum]: https://discuss.ropensci.org/

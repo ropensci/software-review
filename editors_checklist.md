@@ -22,9 +22,10 @@
 
 -   Switch numbered tag to `2/seeking-reviewers`
 -   Use the #onboarding slack channel for discussion about potential reviewers.
--   When inviting reviewers, include something like "if I don't hear from
-    you in a week, I'll assume you are unable to review," so as to give a
-    clear deadline when you'll move on to looking for someone else.
+-   Use the [email template](https://github.com/ropensci/onboarding/blob/master/review_request_template.md) if needed for inviting reviewers
+    -   When inviting reviewers, include something like "if I don't hear from
+        you in a week, I'll assume you are unable to review," so as to give a
+        clear deadline when you'll move on to looking for someone else.
 -   Assign a due date 3 weeks after all reviewers have been found.
 -   Once two or more reviwers are found, assign reviewer by tagging in the issue with the
     following format to activate the automated reminders bot:

@@ -37,11 +37,10 @@
 
 ## During review:
 
--   Check in with reviewers and authors occaisionally. Offer clarification and
-help as needed.
+-   Check in with reviewers and authors occaisionally. Offer clarification and help as needed.
 -   In general aim for 3 weeks for review, 2 weeks for
     subsequent changes, and 1 week for reviewer approval of changes.
--   Make sure ropensci-bot is pinging correctly.
+-   Make sure ropensci-bot is pinging correctly. (currently defunct)
 -   Upon all reviews being submitted, change the review status tag to
     `4/review-in-awaiting-changes` to update the reminder bot.
 -   Upon changes being made, change the review status tag to `5/awaiting-reviewer-response`.
@@ -94,7 +93,7 @@ help as needed.
 -   Tweet, etc.
 
 
-## Automated reminders
+## Automated reminders (CURRENTLY NOT OPERATIONAL)
 
 Instead of manually reminding authors/reviewers to do X or Y, we thought we'd try to make a robot to do these reminders. 
 

@@ -42,11 +42,18 @@ rOpenSci accepts packages that meet our guidelines via a streamlined [onboarding
 
 ```
 * The package name
-* Badges for Travis-CI (and any other badges)
+* Badges for continuous integration and test coverage (and any other badges)
 * Short description of the package
 * Installation instructions
 * Example usage
 ```
+
+* If your package connects to a data source or online service, or wraps other software,
+consider that your package README may be the first point of entry for users.  It should provide enough information for users to understand the nature of the data, service, or software, and provide links to other relevant data and documentation.  For instance,
+a README should not merely read, "Provides access to GooberDB," but also include,
+"..., an online repository of Goober sightings in South America.  More
+information about GooberDB, and documentation of database structure and metadata
+can be found at *link*.
 
 * We recommend not creating `README.md` directly, but from a `README.Rmd` file (an Rmarkdown file) if you have any demonstration code. The advantage of the `.Rmd` file is you can combine text with code that can be easily updated whenever your package is updated.
 
@@ -76,6 +83,13 @@ and to automatically set up a pre-commit hook to ensure that `README.md` is alwa
 
 * The package should contain at least one vignette providing an introduction to
 the primary package functions and use-cases.
+
+* As is the case for a README, top-level documentation or vignettes may
+be the first point of entry for users. If your package connects to a data source or online service, or wraps other software, it should provide enough information for users to understand the nature of the data, service, or software, and provide links to other relevant data and documentation.  For instance,
+a the vignette intro or documentation should not merely read, "Provides access to GooberDB," but also include,
+"..., an online repository of Goober sightings in South America.  More
+information about GooberDB, and documentation of database structure and metadata
+can be found at *link*.
 
 * We strongly encourage all submissions to use `roxygen2` for documentation.  `roxygen2` is [an R package](http://cran.r-project.org/web/packages/roxygen2/index.html) that automatically compiles `.Rd` files to your `man` folder in your package from simple tags written above each function.
 
@@ -111,7 +125,7 @@ tagged version to a Release on the Releases tab in your GitHub repo with a title
 
 The `DESCRIPTION` file of a package should list package authors and contributors to a package, using the `Authors@R` syntax to indicate their roles (author/creator/contributor etc.) if there is more than one author. See [this section of "Writing R Extensions"](https://cran.rstudio.com/doc/manuals/r-release/R-exts.html#The-DESCRIPTION-file) for details.  If you feel that your reviewers have made a substantial contribution to the development of your package, you may list them in the `Authors@R` field with a Reviewer contributor type (`"rev"`), like so:
 
-    person("Lincoln", "Mullen", role = c("rev"))
+    person("Lincoln", "Mullen", role = c("rev"), comment = "Lincoln Mullen reviewed the package for rOpenSci, see https://github.com/ropensci/onboarding/issues/45")
 
 Only include reviewers after asking for their consent.
 
@@ -121,10 +135,11 @@ Only include reviewers after asking for their consent.
 
 * `testthat` has a function `skip_on_cran()` that you can use to not run tests on CRAN. We recommend using this on all functions that are API calls since they are quite likely to fail on CRAN. These tests will still run on Travis.
 
-* We recommend check the extent of your test coverage using the [**covr** package](https://github.com/jimhester/covr). Including a coverage badge in your package's README makes it easy for reviewers to see how well-tested your package is.
+* Check the extent of your test coverage using the [**covr** package](https://github.com/jimhester/covr). Including a coverage badge in your package's README makes it easy for reviewers to see how well-tested your package is.
 
-* Even if your use [continuous integration](#ci), we recommend that you run tests locally prior to submitting your package, as some tests are often skipped.  In addition, we recommend that prior to submitting your package, you use Gabor Csardi's [**goodpractice**](https://github.com/MangoTheCat/goodpractice/) package to check your package
-for likely sources of errors.
+* Even if your use [continuous integration](#ci), we recommend that you run tests locally prior to submitting your package, as some tests are often skipped. (You may need
+to set `Sys.setenv(NOT_CRAN="true")` in order to ensure all tests are run.) In addition, we recommend that prior to submitting your package, you use Gabor Csardi's [**goodpractice**](https://github.com/MangoTheCat/goodpractice/) package to check your package for likely sources of errors, and run `devtools::spell_check()` to 
+find spelling errors in documentation.
 
 ## <a href="#ver" name="ver"></a> Versioning
 
@@ -136,7 +151,12 @@ for likely sources of errors.
 
 * All rOpenSci packages must use one form of continuous integration. This ensures that all commits, pull requests, and new branches are run through `R CMD check`. R is now a [natively supported language on Travis-CI](http://blog.travis-ci.com/2015-02-26-test-your-r-applications-on-travis-ci/), making it easier than ever to do continuous integration. See [R Packages](http://marker.to/NEr8Bd) and Julia Silge's [Beginner's Guide to Travis-CI for R](http://juliasilge.com/blog/Beginners-Guide-to-Travis/) for more help. Travis offers continuous integration for Linux and Mac OSX. For continuous integration on Windows, see [R + Appveyor](https://github.com/krlmlr/r-appveyor).
 
-* We recommend that you also use a coverage service to report on the extent to which your test cover your code.  See the [README for the **covr** package](https://github.com/jimhester/covr) for instructions.
+* Continuous integration should also include reporting of test coverage via
+a testing service such [CodeCov](https://codecov.io/) or [Coveralls](https://coveralls.io/).  See the [README for the **covr** package](https://github.com/jimhester/covr) for instructions, as well
+as `devtools::use_coverage()`. 
+
+* Both test status and code coverage should be reported via a badge in your
+package README.
 
 ## <a href="#egs" name="egs"></a> Examples
 
@@ -145,15 +165,21 @@ for likely sources of errors.
 
 ## <a href="#deps" name="deps"></a> Package dependencies
 
-* Use `Imports` instead of `Depends` for packages providing functions you use internally only. Use `Depends` only if you intend for the user to have functions available from your package dependencies. Make sure to list packages used for testing (`testthat`), and documentation (`knitr`, `roxygen2`) in your `Suggests` section of package dependencies. If you use any packages in your examples sections, make sure to list those, if not already listed elsewhere, in `Enhances` section of package dependencies.
+* Use `Imports` instead of `Depends` for packages providing functions from other
+packages. Make sure to list packages used for testing (`testthat`), and documentation (`knitr`, `roxygen2`) in your `Suggests` section of package dependencies. If you use any packages in your examples sections, make sure to list those, if not already listed elsewhere, in `Enhances` section of package dependencies.
+
+* For most cases where you must expose functions from dependencies to the user,
+you should import and re-export those individual functions rather than listing
+them in the `Depends` fields.  For instance, if functions in your package produce
+`raster` objects, you might re-export only printing and plotting functions from the
+**raster** package.
 
 ## <a href="#tools" name="tools"></a> Recommended scaffolding
 
 
 * For http requests we strongly recommend using `httr` over `RCurl`.
 * For parsing JSON, use `jsonlite` instead of `rjson` or `RJSONIO`.
-* For parsing XML, if you only need to parse XML data, `xml2` is a good option as it makes parsing easier. However, if you need to create XML (in addition to parsing it), use the `XML` package. The `XML` package is more low level than `xml2`, and allows finer manipulation, and may be favored by those more familiar with XML data.
-
+* For parsing, creating, and manipulating XML, we strongly recommend `xml2` for most cases.
 
 ## <a href="#messages" name="messages"></a> Console messages
 

@@ -48,8 +48,7 @@ We encourage developers whose packages are not accepted due to overlap to still 
 
 ### Role of the rOpenSci leadership team
 
-Package authors will continue to maintain and develop their software after acceptance into rOpenSci. Unless explicitly added as collaborators, rOpenSci's [staff](http://ropensci.org/about/#leadership) will not interfere much with day to day operations. However, this team may intervene with critical bug fixes, or address urgent issues if package authors do not respond in a timely manner.  Should authors abandon the maintenance of an actively used package in our suite, we will
-consider petitioning CRAN to transfer package maintainer status to rOpenSci.
+Package authors will continue to maintain and develop their software after acceptance into rOpenSci. Unless explicitly added as collaborators, rOpenSci's [staff](http://ropensci.org/about/#leadership) will not interfere much with day to day operations. However, this team may intervene with critical bug fixes, or address urgent issues if package authors do not respond in a timely manner. 
 
 ### Ownership of packages
 
@@ -88,6 +87,9 @@ We urge package maintainers to make sure they are receiving GitHub notifications
 well as making sure emails from rOpenSci staff and CRAN maintainers are not going to their
 spam box. In addition, join the rOpenSci Slack <https://ropensci.signup.team/> to
 chat to rOpenSci staff and the greater rOpenSci community.
+
+Should authors abandon the maintenance of an actively used package in our suite, we will
+consider petitioning CRAN to transfer package maintainer status to rOpenSci.
 
 ### <a href="#code-of-conduct" name="code-of-conduct"></a>Code of Conduct
 

@@ -8,8 +8,13 @@ Upon submission:
     If reject, close issue, direct authors to other groups/repos as appropriate.
 -   Check that mandatory parts of template are complete.  If not, close issue,
     direct authors toward appropriate instructions.
--   Assign reviewers.  Use the #onboarding slack channel for discussion about
-    potential reviewers.  Assign reviewer by tagging in the issue with the
+-   Assign reviewers.  
+    -   Use the #onboarding slack channel for discussion about
+    potential reviewers.  
+    -   When inviting reviewers, include something like "if I don't hear from
+        you in a week, I'll assume you are unable to review," so as to give a
+        clear deadline when you'll move on to looking for someone else.
+    -   Assign reviewer by tagging in the issue with the
     following format to activate  the automated reminders bot:
    
       Reviewers: @githubname 

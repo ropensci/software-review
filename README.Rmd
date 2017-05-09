@@ -124,11 +124,14 @@ rOpenSci's onboarding process is run by:
 * [Noam Ross](https://github.com/noamross), EcoHealth Alliance
 * [Scott Chamberlain](https://github.com/sckott), rOpenSci
 * [Karthik Ram](https://github.com/karthik), rOpenSci
+* [Maëlle Salmon](https://github.com/maelle), [CHAI](http://www.chaiproject.org)
+
+### Reviewers
 
 We are grateful to the following individuals who have offered up their time and expertise to review packages submitted to rOpenSci.
 
 ```{r reviewers, echo=FALSE, results='asis'}
-editors <- c("Noam Ross", "Scott Chamberlain", "Karthik Ram")
+editors <- c("Noam Ross", "Scott Chamberlain", "Karthik Ram", "Maëlle Salmon")
 reviewers <- airtable(base = "appZIB8hgtvjoV99D", tables = "Reviewers")$Reviewers$get()
 reviewers <- reviewers[map_lgl(reviewers$Reviews, ~!is.null(.)) & !(reviewers$name %in% editors), ]
 reviewers <- reviewers[order(reviewers$name), ]

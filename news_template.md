@@ -1,27 +1,27 @@
 foobar 0.2.0 (2016-04-01)
 =========================
 
-  ### NEW FEATURES
+### NEW FEATURES
 
   * New function added `do_things()` to do things (#5)
 
-    ### MINOR IMPROVEMENTS
+### MINOR IMPROVEMENTS
 
-    * Improved documentaiton for `things()` (#4)
+  * Improved documentaiton for `things()` (#4)
 
-      ### BUG FIXES
+### BUG FIXES
 
-      * Fix parsing bug in `stuff()` (#3)
+  * Fix parsing bug in `stuff()` (#3)
 
-        ### DEPRECATED AND DEFUNCT
+### DEPRECATED AND DEFUNCT
 
-        * `hello_world()` now deprecated and will be removed in a
-        future version, use `hello_mars()`
+  * `hello_world()` now deprecated and will be removed in a
+     future version, use `hello_mars()`
 
 
-        foobar 0.1.0 (2016-01-01)
-        =========================
+foobar 0.1.0 (2016-01-01)
+=========================
 
-          ### NEW FEATURES
+### NEW FEATURES
 
-          * released to CRAN
+  * released to CRAN

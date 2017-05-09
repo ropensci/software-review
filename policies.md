@@ -65,6 +65,30 @@ rOpenSci strives to develop and promote high quality research software. To ensur
 
 Despite our best efforts to support contributed software, errors are the responsibility of individual maintainers. Buggy, unmaintained software may be removed from our suite at any time.
 
+### Maintainer responsiveness
+
+If package maintainers do not respond in a timely manner to requests for
+package fixes from CRAN or from us, we will remind the maintainer a number
+of times, but after 3 months (or shorter time frame, depending on how
+critical the fix is) we will make the changes ourselves.
+
+The above is a bit vague, so the following are a few areas of consideration.
+
+- Examples where we'd want to move quickly:
+    - Package `foo` is depended on by 1 or more packages on CRAN, and `foo` is
+    broken, and thus would break its reverse depenencies.
+    - Package `bar` may not have reverse dependencies on CRAN, but is widely used,
+    thus quickly fixing problems is of greater importance.
+- Examples where we can wait longer:
+    - Package `hello` is not on CRAN, or on CRAN, but has no reverse dependencies.
+    - Package `world` needs some fixes. The maintainer has responded but is simply
+    very busy with a new job, or other reason, and will attend to soon.
+
+We urge package maintainers to make sure they are receiving GitHub notifications, as
+well as making sure emails from rOpenSci staff and CRAN maintainers are not going to their
+spam box. In addition, join the rOpenSci Slack <https://ropensci.signup.team/> to
+chat to rOpenSci staff and the greater rOpenSci community.
+
 ### <a href="#code-of-conduct" name="code-of-conduct"></a>Code of Conduct
 
 * We are committed to providing a friendly, safe and welcoming

@@ -11,7 +11,7 @@
 
 -   URL for the package (the development repository, not a stylized html page):
 
--   Which categories does the package fall under from our [package fit policies](https://github.com/ropensci/onboarding/blob/master/policies.md#package-fit)? (e.g., data retrieval, reproducibility. If you are unsure, we suggest you make a pre-submission inquiry.):
+- Please indicate which category or categories from our [package fit policies](https://github.com/ropensci/onboarding/blob/master/policies.md#package-fit) this package falls under and why? (e.g., data retrieval, reproducibility. If you are unsure, we suggest you make a pre-submission inquiry.):
 
 -   Who is the target audience?  
 
@@ -46,8 +46,6 @@ the review process and in maintaining my package should it be accepted.
 - [ ] Does `R CMD check` (or `devtools::check()`) succeed?  Paste and describe any errors or warnings:
 
 - [ ] Does the package conform to [rOpenSci packaging guidelines](https://github.com/ropensci/packaging_guide)? Please describe any exceptions:
-
-- Please indicate which category or categories from our [package fit policies](https://github.com/ropensci/onboarding/blob/master/policies.md#package-fit) this package falls under and why:
 
 - If this is a resubmission following rejection, please explain the change in circumstances:
 

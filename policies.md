@@ -12,8 +12,7 @@
 
 rOpenSci develops software to complement and leverage R's rich suite of existing tools in order to support scientific computing. Our primary areas of focus are: 
 * __data retrieval__ (from APIs, data storage services, journals, and other remote servers). The data retrieved must have a scientific application and merely wrapping an API that serves data does not meet our criteria.
-* __data extraction__ tools that aid in retrieving data from unstructured sources such as text, images and PDFs, as well as scientific
-data formats and outputs from scientific equipment.
+* __data extraction__ tools that aid in retrieving data from unstructured sources such as text, images and PDFs, as well as scientific data formats and outputs from scientific equipment.
 * __data visualization__ (interactive graphics in R that extend beyond base and `ggplot2`). 
 * __data deposition__ into research repositories, including metadata generation.  
 * __data munging__ (In the context of the tools described above. Generic tools such as `reshape2`, `tidyr` do not fit this criteria). Geospatial tools fall under this category.
@@ -24,11 +23,12 @@ or from other, easily accessible sources do not meet our criteria, and may be
 more suitable for data repositories.
 * __reproducibility__ (tools that facilitate reproducible research, such as interfacing with git to track provenance or similar).
 
-Packages that fall into above categories but without any scientific applications are generally not accepted into rOpenSci. Standalone statistical tools (i.e. not associated with any of the categories above) are also not included in the suite (we encourage submitting those directly to CRAN).
+Packages should be *general* in that they should solve a problem as broadly as
+possible while maintaining a coherent user interface and code base. For instance
+if several data sources use an identical API, we prefer a package that provides
+access to all the data sources, rather than just one. 
 
-At this time rOpenSci does not support packages that fall under government or
-healthcare. We suggest contacting [rOpenGov](http://ropengov.github.io/) or
-[rOpenHealth](https://github.com/rOpenHealth) for further advice.
+Packages that fall into above categories but without any scientific applications are generally not accepted into rOpenSci. Standalone statistical tools (i.e. not associated with any of the categories above) are also not included in the suite. We encourage submitting those directly to CRAN as well as software journals such as JOSS, JSS, or the R journal
 
 ### <a href="#overlap" name="#overlap"></a>Package overlap
 
@@ -48,7 +48,7 @@ We encourage developers whose packages are not accepted due to overlap to still 
 
 ### Role of the rOpenSci leadership team
 
-Package authors will continue to maintain and develop their software after acceptance into rOpenSci. Unless explicitly added as collaborators, rOpenSci's [staff](http://ropensci.org/about/#leadership) will not interfere much with day to day operations. However, this team may intervene with critical bug fixes, or address urgent issues if package authors do not respond in a timely manner.
+Package authors will continue to maintain and develop their software after acceptance into rOpenSci. Unless explicitly added as collaborators, rOpenSci's [staff](http://ropensci.org/about/#leadership) will not interfere much with day to day operations. However, this team may intervene with critical bug fixes, or address urgent issues if package authors do not respond in a timely manner. 
 
 ### Ownership of packages
 
@@ -64,8 +64,34 @@ rOpenSci strives to develop and promote high quality research software. To ensur
 
 Despite our best efforts to support contributed software, errors are the responsibility of individual maintainers. Buggy, unmaintained software may be removed from our suite at any time.
 
-### <a href="#code-of-conduct" name="code-of-conduct"></a>Code of Conduct
+### Maintainer responsiveness
 
+If package maintainers do not respond in a timely manner to requests for
+package fixes from CRAN or from us, we will remind the maintainer a number
+of times, but after 3 months (or shorter time frame, depending on how
+critical the fix is) we will make the changes ourselves.
+
+The above is a bit vague, so the following are a few areas of consideration.
+
+- Examples where we'd want to move quickly:
+    - Package `foo` is depended on by 1 or more packages on CRAN, and `foo` is
+    broken, and thus would break its reverse depenencies.
+    - Package `bar` may not have reverse dependencies on CRAN, but is widely used,
+    thus quickly fixing problems is of greater importance.
+- Examples where we can wait longer:
+    - Package `hello` is not on CRAN, or on CRAN, but has no reverse dependencies.
+    - Package `world` needs some fixes. The maintainer has responded but is simply
+    very busy with a new job, or other reason, and will attend to soon.
+
+We urge package maintainers to make sure they are receiving GitHub notifications, as
+well as making sure emails from rOpenSci staff and CRAN maintainers are not going to their
+spam box. In addition, join the rOpenSci Slack <https://ropensci.signup.team/> to
+chat to rOpenSci staff and the greater rOpenSci community.
+
+Should authors abandon the maintenance of an actively used package in our suite, we will
+consider petitioning CRAN to transfer package maintainer status to rOpenSci.
+
+### <a href="#code-of-conduct" name="code-of-conduct"></a>Code of Conduct
 
 * We are committed to providing a friendly, safe and welcoming
   environment for all, regardless of gender, sexual orientation,
@@ -101,8 +127,3 @@ Despite our best efforts to support contributed software, errors are the respons
 
 _This CoC adapted from the [io.js CoC](https://github.com/iojs/io.js/blob/v1.x/CONTRIBUTING.md#code-of-conduct), adapted from [Rust's 
 CoC](https://github.com/rust-lang/rust/wiki/Note-development-policy#conduct)._
-
-## Related projects
-
-
-

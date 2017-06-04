@@ -13,6 +13,9 @@
 -   Run run automated tests: `devtools::check()`, `goodpractice::gp()`, `devtools::spell_check()`. Run
     `covr::package_coverage()` using `NOT_CRAN` if needed, as well. Report
     relevant outputs in the issue thread.
+    -   For packages with compiled code or linking to external libraries or languages,
+        check on multiple platforms, using win-builder, r-hub, or other editors
+        as needed.
 -   If initial checks show major gaps, request changes before assigning reviewers.
 -   If the package raises a new issue for ROpenSci policy, open a discussion on the
     [ROpenSci forum](https://discuss.ropensci.org/) to discuss it with other

@@ -7,28 +7,84 @@
 * Packages are reviewed for quality, fit, documentation, clarity and the review process is quite similar to a manuscript review (see our [packaging guide](packaging_guide.md) and [reviewing guide](reviewing_guide.md) for more details). Unlike a manuscript review, this process will be an ongoing conversation.
 * Once all major issues and questions, and those addressable with reasonable effort, are resolved, the editor assigned to a package will make a decision (accept, hold, or reject). Rejections are usually done early (before the review process begins), but in rare cases a package may also be rejected after review & revision.
 
-
 ### <a href="#fit" name="#fit"></a>Package fit
 
-rOpenSci develops software to complement and leverage R's rich suite of existing tools in order to support scientific computing. Our primary areas of focus are: 
-* __data retrieval__ (from APIs, data storage services, journals, and other remote servers). The data retrieved must have a scientific application and merely wrapping an API that serves data does not meet our criteria.
-* __data extraction__ tools that aid in retrieving data from unstructured sources such as text, images and PDFs, as well as scientific
-data formats and outputs from scientific equipment.
-* __data visualization__ (interactive graphics in R that extend beyond base and `ggplot2`). 
-* __data deposition__ into research repositories, including metadata generation.  
-* __data munging__ (In the context of the tools described above. Generic tools such as `reshape2`, `tidyr` do not fit this criteria). Geospatial tools fall under this category.
-* __data packages__ that aggregate large, heterogenous data sets of scientific
-value or provide R-specific formats for widely-used data (e.g., shapefiles for
-geographic boundaries). Data packages that only contain data from a small number of studies
-or from other, easily accessible sources do not meet our criteria, and may be
-more suitable for data repositories.
-* __reproducibility__ (tools that facilitate reproducible research, such as interfacing with git to track provenance or similar).
+rOpenSci aims to support packages that support reproducible research and
+managing the data lifecycle for scientits.  Packages submitted to rOpenSci should fit into one or more of the following
+categories.  If you are unsure whether your package fits into one of these
+categories, please open an issue as a pre-submission inquiry
+([**Examples**](https://github.com/ropensci/onboarding/issues?q=is%3Aissue+label%3A0%2Fpresubmission)).
 
-Packages that fall into above categories but without any scientific applications are generally not accepted into rOpenSci. Standalone statistical tools (i.e. not associated with any of the categories above) are also not included in the suite (we encourage submitting those directly to CRAN).
+* __data retrieval__: Packages for accessing and download data from online sources with
+scientific applications.  Our definition of scientific applications is broad,
+including data storage services, journals, and other remote servers, as many data
+sources may be of interest to researchers. However, retrieval packages should
+be focused on data _sources_ / _topics_, rather than _services_. For example
+a general client for Amazon Web Services data storage would not be in-scope.
+(Examples: [**rotl**](https://github.com/ropensci/onboarding/issues/17),
+[**gutenbergr**](https://github.com/ropensci/onboarding/issues/41))
 
-At this time rOpenSci does not support packages that fall under government or
-healthcare. We suggest contacting [rOpenGov](http://ropengov.github.io/) or
-[rOpenHealth](https://github.com/rOpenHealth) for further advice.
+* __data extraction__: Packages that aid in retrieving data from unstructured
+sources such as text, images and PDFs, as well as parsing scientific data types and
+outputs from scientific equipment. Statistical/ML libraries that enable data
+extraction are typically not included in this category.
+(Examples: [**tabulizer**](https://github.com/ropensci/onboarding/issues/42),
+[**robotstxt**](https://github.com/ropensci/onboarding/issues/25),
+[**genbankr**](https://github.com/ropensci/onboarding/issues/47))
+
+* __database access__: Bindings and wrappers generic databse APIs
+(Example: [**rrlite**](https://github.com/ropensci/onboarding/issues/6))
+
+* __data munging__: Packages for processing data from formats above. This
+area does not include broad data manipulations tools such as **reshape2** or
+**tidyr**, but rather tools for handling data in specific scientific formats.
+(Example: [**plateR**](https://github.com/ropensci/onboarding/issues/60))
+
+* __data deposition__*: Packages that support deposition of data  into research
+repositories, including data formatting and metadata generation.
+(Examples [**EML**](https://github.com/ropensci/onboarding/issues/80))
+
+* __reproducibility__*: Tools that facilitate reproducible research. This
+includes packages that facilitate use of version control, provenance tracking, 
+automated testing of data inputs and statistical outputs, citation of software
+and scientific literature.  It does not include general tools for literate.
+programming (e.g., R markdown extensions not under the previous topics).
+(Examples [****]())
+
+In addition, we have some specialty _topics_ with a slightly broader scope.
+
+* __geospatial data__: We accept packages focused on accessing geospatial data,
+manipulating geospatial data, and converting between geospatial data formats.
+(Example: [**rgeospatialquality**](https://github.com/ropensci/onboarding/issues/28),
+[**osmplotr**](https://github.com/ropensci/onboarding/issues/27)).
+
+* __text analysis__: We are currently _piloting_ a sub-specialty area for text
+analysis which includes implementation of statistical/ML methods for analyzing
+or extracting text data. As this is a pilot, the scope for this area is not fully
+defined and we are still developing a reviewer base and process for this area. Please open
+a pre-submission inquiry if you are considering submitting a package that falls under
+this topic.
+
+Packages should be *general* in that they should solve a problem as broadly as
+possible while maintaining a coherent user interface and code base. For instance
+if several data sources use an identical API, we prefer a package that provides
+access to all the data sources, rather than just one. 
+
+Here are some types of packages we are unlikely to accept:
+
+-  Packages that wrap or implement statistical or machine learning methods.  We
+   are not organized so as to review the correctness of these methods. (But 
+   see "text analysis", above)
+-  Exploratory data analysis packages that visualize or summarize data. 
+-  General workflow or package development support packages
+
+We encourage submitting packages not accepted to rOpenSci those directly to CRAN,
+to other R package development iniatives (e.g., [cloudyr](https://cloudyr.github.io/)),
+as well as software journals such as JOSS, JSS, or the R journal.
+
+Note that not all packages developed internally by rOpenSci or through our events
+or collaborations are in-scope for onboarding process.  As our scope has evolved
+over time, some previously packages would no longer be in-scope.
 
 ### <a href="#overlap" name="#overlap"></a>Package overlap
 
@@ -48,7 +104,7 @@ We encourage developers whose packages are not accepted due to overlap to still 
 
 ### Role of the rOpenSci leadership team
 
-Package authors will continue to maintain and develop their software after acceptance into rOpenSci. Unless explicitly added as collaborators, rOpenSci's [staff](http://ropensci.org/about/#leadership) will not interfere much with day to day operations. However, this team may intervene with critical bug fixes, or address urgent issues if package authors do not respond in a timely manner.
+Package authors will continue to maintain and develop their software after acceptance into rOpenSci. Unless explicitly added as collaborators, rOpenSci's [staff](http://ropensci.org/about/#leadership) will not interfere much with day to day operations. However, this team may intervene with critical bug fixes, or address urgent issues if package authors do not respond in a timely manner. 
 
 ### Ownership of packages
 
@@ -64,8 +120,34 @@ rOpenSci strives to develop and promote high quality research software. To ensur
 
 Despite our best efforts to support contributed software, errors are the responsibility of individual maintainers. Buggy, unmaintained software may be removed from our suite at any time.
 
-### <a href="#code-of-conduct" name="code-of-conduct"></a>Code of Conduct
+### Maintainer responsiveness
 
+If package maintainers do not respond in a timely manner to requests for
+package fixes from CRAN or from us, we will remind the maintainer a number
+of times, but after 3 months (or shorter time frame, depending on how
+critical the fix is) we will make the changes ourselves.
+
+The above is a bit vague, so the following are a few areas of consideration.
+
+- Examples where we'd want to move quickly:
+    - Package `foo` is depended on by 1 or more packages on CRAN, and `foo` is
+    broken, and thus would break its reverse depenencies.
+    - Package `bar` may not have reverse dependencies on CRAN, but is widely used,
+    thus quickly fixing problems is of greater importance.
+- Examples where we can wait longer:
+    - Package `hello` is not on CRAN, or on CRAN, but has no reverse dependencies.
+    - Package `world` needs some fixes. The maintainer has responded but is simply
+    very busy with a new job, or other reason, and will attend to soon.
+
+We urge package maintainers to make sure they are receiving GitHub notifications, as
+well as making sure emails from rOpenSci staff and CRAN maintainers are not going to their
+spam box. In addition, join the rOpenSci Slack <https://ropensci.signup.team/> to
+chat to rOpenSci staff and the greater rOpenSci community.
+
+Should authors abandon the maintenance of an actively used package in our suite, we will
+consider petitioning CRAN to transfer package maintainer status to rOpenSci.
+
+### <a href="#code-of-conduct" name="code-of-conduct"></a>Code of Conduct
 
 * We are committed to providing a friendly, safe and welcoming
   environment for all, regardless of gender, sexual orientation,
@@ -101,8 +183,3 @@ Despite our best efforts to support contributed software, errors are the respons
 
 _This CoC adapted from the [io.js CoC](https://github.com/iojs/io.js/blob/v1.x/CONTRIBUTING.md#code-of-conduct), adapted from [Rust's 
 CoC](https://github.com/rust-lang/rust/wiki/Note-development-policy#conduct)._
-
-## Related projects
-
-
-

@@ -19,6 +19,9 @@ include:
 -  Running `devtools::check()` and `devtools::test()` on the package to find any errors that may be missed on the author's system.
 -  Using the **covr** package to examine the extent of test coverage.
 -  Using the [**goodpractice**](https://github.com/MangoTheCat/goodpractice) package (`goodpractice::gp()`) to identify likely sources of errors and style issues.
+-  Using `devtools::spell_check()` to find spelling errors in DESCRIPTION and
+manual files, and RStudio's spellchecker to find spelling errors in vignettes and
+README files.
 
 Please be respectful and kind to the authors in your reviews. Our [code of conduct](policies.md#code-of-conduct) is mandatory for everyone involved in our review process.
 

@@ -144,6 +144,7 @@ the package.
 and reviewers will use coverage reports as a starting point to evaluate that
 your test suite covers the important functionality of your package.
 
+
 * Even if your use [continuous integration](#ci), we recommend that you run tests locally prior to submitting your package, as some tests are often skipped. (You may need
 to set `Sys.setenv(NOT_CRAN="true")` in order to ensure all tests are run.) In addition, we recommend that prior to submitting your package, you use Gabor Csardi's [**goodpractice**](https://github.com/MangoTheCat/goodpractice/) package to check your package for likely sources of errors, and run `devtools::spell_check()` to 
 find spelling errors in documentation.

@@ -3,17 +3,24 @@
 ### Package submission
 
 * For a package to be considered for the rOpenSci suite, package authors must initiate a request on the [ropensci/onboarding](https://github.com/ropensci/onboarding) repository.
-* Upon an initial assessment (see package fit below), an rOpenSci member will assign a reviewer or follow up with additional steps. This process usually happens within 5 business days.
+* Upon an initial assessment (see Aims and Scope below), an rOpenSci member will assign a reviewer or follow up with additional steps. This process usually happens within 5 business days.
 * Packages are reviewed for quality, fit, documentation, clarity and the review process is quite similar to a manuscript review (see our [packaging guide](packaging_guide.md) and [reviewing guide](reviewing_guide.md) for more details). Unlike a manuscript review, this process will be an ongoing conversation.
 * Once all major issues and questions, and those addressable with reasonable effort, are resolved, the editor assigned to a package will make a decision (accept, hold, or reject). Rejections are usually done early (before the review process begins), but in rare cases a package may also be rejected after review & revision.
 
-### <a href="#fit" name="#fit"></a>Package fit
+### <a href="#fit" name="#fit"></a>Aims and Scope
 
 rOpenSci aims to support packages that support reproducible research and
-managing the data lifecycle for scientits.  Packages submitted to rOpenSci should fit into one or more of the following
+managing the data lifecycle for scientists.  Packages submitted to rOpenSci should fit into one or more of the following
 categories.  If you are unsure whether your package fits into one of these
 categories, please open an issue as a pre-submission inquiry
 ([**Examples**](https://github.com/ropensci/onboarding/issues?q=is%3Aissue+label%3A0%2Fpresubmission)).
+
+As as this is a living document, these categories may change through
+time and not all previously onboarded packages would be in-scope today.  While
+we strive to be consistent, we evaluate packages on a case-by-case basis and may
+make exceptions.
+
+#### Package categories
 
 * __data retrieval__: Packages for accessing and download data from online sources with
 scientific applications.  Our definition of scientific applications is broad,
@@ -26,13 +33,14 @@ a general client for Amazon Web Services data storage would not be in-scope.
 
 * __data extraction__: Packages that aid in retrieving data from unstructured
 sources such as text, images and PDFs, as well as parsing scientific data types and
-outputs from scientific equipment. Statistical/ML libraries that enable data
-extraction are typically not included in this category.
+outputs from scientific equipment. Statistical/ML libraries for modeling or prediction
+are typically not included in this category, but trained models
+that act as utilities (e.g., for optical character recognition), may qualify.
 (Examples: [**tabulizer**](https://github.com/ropensci/onboarding/issues/42),
 [**robotstxt**](https://github.com/ropensci/onboarding/issues/25),
 [**genbankr**](https://github.com/ropensci/onboarding/issues/47))
 
-* __database access__: Bindings and wrappers generic databse APIs
+* __database access__: Bindings and wrappers generic database APIs
 (Example: [**rrlite**](https://github.com/ropensci/onboarding/issues/6))
 
 * __data munging__: Packages for processing data from formats above. This
@@ -49,7 +57,7 @@ includes packages that facilitate use of version control, provenance tracking,
 automated testing of data inputs and statistical outputs, citation of software
 and scientific literature.  It does not include general tools for literate.
 programming (e.g., R markdown extensions not under the previous topics).
-(Examples [****]())
+(Example [**assertr**](https://github.com/ropensci/onboarding/issues/23))
 
 In addition, we have some specialty _topics_ with a slightly broader scope.
 
@@ -60,10 +68,14 @@ manipulating geospatial data, and converting between geospatial data formats.
 
 * __text analysis__: We are currently _piloting_ a sub-specialty area for text
 analysis which includes implementation of statistical/ML methods for analyzing
-or extracting text data. As this is a pilot, the scope for this area is not fully
+or extracting text data. This does not include packages with new methods, but
+only implementation or wrapping of previously published methods.
+As this is a pilot, the scope for this area is not fully
 defined and we are still developing a reviewer base and process for this area. Please open
 a pre-submission inquiry if you are considering submitting a package that falls under
 this topic.
+
+#### Other Scope Considerations
 
 Packages should be *general* in that they should solve a problem as broadly as
 possible while maintaining a coherent user interface and code base. For instance
@@ -78,13 +90,13 @@ Here are some types of packages we are unlikely to accept:
 -  Exploratory data analysis packages that visualize or summarize data. 
 -  General workflow or package development support packages
 
-We encourage submitting packages not accepted to rOpenSci those directly to CRAN,
-to other R package development iniatives (e.g., [cloudyr](https://cloudyr.github.io/)),
-as well as software journals such as JOSS, JSS, or the R journal.
+We encourage submitting packages not accepted to rOpenSci to submit to CRAN,
+BioConductor, as well as 
+other R package development iniatives (e.g., [cloudyr](https://cloudyr.github.io/)),
+and software journals such as JOSS, JSS, or the R journal.
 
 Note that not all packages developed internally by rOpenSci or through our events
-or collaborations are in-scope for onboarding process.  As our scope has evolved
-over time, some previously packages would no longer be in-scope.
+or collaborations are in-scope for onboarding process.
 
 ### <a href="#overlap" name="#overlap"></a>Package overlap
 

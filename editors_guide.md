@@ -51,7 +51,7 @@ is posted to the rOpenSci Slack onboarding channel, tagging all editors.
         you in a week, I'll assume you are unable to review," so as to give a
         clear deadline when you'll move on to looking for someone else.
 -   Assign a due date 3 weeks after all reviewers have been found.
--   Once two or more reviwers are found, assign reviewer by tagging in the issue with the
+-   Once two or more reviewers are found, assign reviewer by tagging in the issue with the
     following format to activate the automated reminders bot:
    
       Reviewers: @githubname1 @githubname2

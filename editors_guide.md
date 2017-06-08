@@ -1,4 +1,25 @@
-# Editors' checklist
+# Editors' Guide
+
+Onboarding at rOpenSci is managed by a team of editors.  We are piloting
+a system of a rotating Editor-in-Chief (EiC).
+
+# EiC Responsibilities
+
+The EiC serves for 3 months or a time agreed to by all members of the editorial
+board. The EiC plays the following roles
+
+- Watch all issues posted to the onboarding repo:
+-  Assigns packages to other editors, including self, to handle. Mostly this just rotates among editors, unless the EiC thinks an editor is particularly suited to a package, or an editor rejects due to being too busy/conflict of interest.
+- Raises scope/overlap issue with all editors if they see an ambiguous case.  This
+may also be done by handling editors (see below). To initiate discussion, this
+is posted to the rOpenSci Slack onboarding channel, tagging all editors.
+ - Responds to pre-submission inquiries and `meta` issues posted to the onboarding
+ repo, similarly pinging channel if discussion needed.  But editors should all feel free to chime in on these if they want.
+ - Responds to referrals from JOSS or other publication partners.
+ - Monitors pace of review process and reminds other editors to move packages
+ along as needed.
+
+# Handling Editor's Checklist
 
 ## Upon submission:
 
@@ -13,6 +34,9 @@
 -   Run run automated tests: `devtools::check()`, `goodpractice::gp()`, `devtools::spell_check()`. Run
     `covr::package_coverage()` using `NOT_CRAN` if needed, as well. Report
     relevant outputs in the issue thread.
+    -   For packages with compiled code or linking to external libraries or languages,
+        check on multiple platforms, using win-builder, r-hub, or other editors
+        as needed.
 -   If initial checks show major gaps, request changes before assigning reviewers.
 -   If the package raises a new issue for ROpenSci policy, open a discussion on the
     [ROpenSci forum](https://discuss.ropensci.org/) to discuss it with other

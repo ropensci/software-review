@@ -11,13 +11,15 @@
 
 -   URL for the package (the development repository, not a stylized html page):
 
-- Please indicate which category or categories from our [package fit policies](https://github.com/ropensci/onboarding/blob/master/policies.md#package-fit) this package falls under and ***why***? (e.g., data retrieval, reproducibility. If you are unsure, we suggest you make a pre-submission inquiry.):
+- Please indicate which category or categories from our [package fit policies](https://github.com/ropensci/onboarding/blob/master/policies.md#package-fit) this package falls under ***and why**(? (e.g., data retrieval, reproducibility. If you are unsure, we suggest you make a pre-submission inquiry.):
 
 [e.g., "data extraction, because the package parses a scientific data file format"]
 
+
 -   Who is the target audience?  
 
--   Are there other R packages that accomplish the same thing? If so, what is different about yours?  
+-   Are there other R packages that accomplish the same thing? If so, how does
+yours differ or meet [our criteria for best-in-category](https://github.com/ropensci/onboarding/blob/master/policies.md#overlap)?
 
 ### Requirements
 

@@ -79,7 +79,7 @@ is posted to the rOpenSci Slack onboarding channel, tagging all editors.
 -   Ask authors to migrate to `ropensci`
     -   Create a two-person team in the ropensci organization, named for the
         package, with yourself and the package author as members.
-    -   Have the author tranfer the repository to `ropensci`
+    -   Have the author transfer the repository to `ropensci`
     -   Go to the repository settings in the `ropensci` organization and give
         the two-person team "Write" access to the repository. ("Admin" access
         may be temporarily granted for purposes such as creating Zenodo releases,

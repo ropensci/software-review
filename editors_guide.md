@@ -54,7 +54,8 @@ is posted to the rOpenSci Slack onboarding channel, tagging all editors.
 -   Once two or more reviewers are found, assign reviewer by tagging in the issue with the
     following format to activate the automated reminders bot:
    
-      Reviewers: @githubname1 @githubname2
+      Reviewer: @githubname1 
+      Reviewer: @githubname2
       Due date: YYYY-MM-DD
 
 -   Switch numbered tag `to 3/reviewers-assigned` once reviewers are assigned.

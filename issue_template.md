@@ -46,7 +46,7 @@ Confirm each of the following by checking the box.  This package:
 
 - [ ] Does `R CMD check` (or `devtools::check()`) succeed?  Paste and describe any errors or warnings:
 
-- [ ] Does the package conform to [rOpenSci packaging guidelines](https://github.com/ropensci/packaging_guide)? Please describe any exceptions:
+- [ ] Does the package conform to [rOpenSci packaging guidelines](https://github.com/ropensci/onboarding/blob/master/packaging_guide.md)? Please describe any exceptions:
 
 - If this is a resubmission following rejection, please explain the change in circumstances:
 

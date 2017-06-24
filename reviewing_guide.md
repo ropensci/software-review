@@ -5,7 +5,7 @@ and using it as a high-level checklist.  In addition to checking off the minimum
 we ask you provide general comments addressing the following:
 
 - Does the code comply with general principles in the [Mozilla reviewing guide](https://mozillascience.github.io/codeReview/review.html)?
-- Does the package comply with the [ROpenSci packaging guide](https://github.com/ropensci/packaging_guide)?
+- Does the package comply with the [ROpenSci packaging guide](https://github.com/ropensci/onboarding/blob/master/packaging_guide.md)?
 - Are there improvements that could be made to the code style?
 - Is there code duplication in the package that should be reduced?
 - Are there user interface improvements that could be made?

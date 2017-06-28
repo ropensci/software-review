@@ -45,6 +45,12 @@ is posted to the rOpenSci Slack onboarding channel, tagging all editors.
 ## Assign reviewers:
 
 -   Switch numbered tag to `2/seeking-reviewers`
+-   Ask author to add a rOpenSci review badge to their README. Badge URL is `https://ropensci.org/badges/<issue_id>_status.svg`. Full link should be:
+
+```
+[![](https://ropensci.org/badges/<issue_id>_status.svg)](https://github.com/ropensci/onboarding/issues/<issue_id>)
+```
+
 -   Use the #onboarding slack channel for discussion about potential reviewers.
 -   Use the [email template](https://github.com/ropensci/onboarding/blob/master/review_request_template.md) if needed for inviting reviewers
     -   When inviting reviewers, include something like "if I don't hear from

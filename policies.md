@@ -55,7 +55,7 @@ repositories, including data formatting and metadata generation.
 * __reproducibility__*: Tools that facilitate reproducible research. This
 includes packages that facilitate use of version control, provenance tracking, 
 automated testing of data inputs and statistical outputs, citation of software
-and scientific literature.  It does not include general tools for literate.
+and scientific literature.  It does not include general tools for literate
 programming (e.g., R markdown extensions not under the previous topics).
 (Example [**assertr**](https://github.com/ropensci/onboarding/issues/23))
 

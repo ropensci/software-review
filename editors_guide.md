@@ -65,7 +65,7 @@ is posted to the rOpenSci Slack onboarding channel, tagging all editors.
       Due date: YYYY-MM-DD
 
 -   Switch numbered tag `to 3/reviewers-assigned` once reviewers are assigned.
-
+-   Invite authors and reviewers to rOpenSci Slack if they aren't on already.
 
 ## During review:
 
@@ -103,7 +103,6 @@ is posted to the rOpenSci Slack onboarding channel, tagging all editors.
            that profile to the two-person GitHub team.
         -  For CodeCov, the webhook may need to be reset by the author.
 -   Close the onboarding issue. 
--   Invite authors and reviewers to rOpenSci Slack if they aren't on already.
 
 ## For joint JOSS submissions:
 

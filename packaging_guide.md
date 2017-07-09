@@ -38,14 +38,15 @@ rOpenSci accepts packages that meet our guidelines via a streamlined [onboarding
 
 ## <a href="#rme" name="rme"></a> README
 
-* All packages should have a README file, named `README.md`, in the root of the repository. The README should include, from top to bottom:
+* All packages should have a README file, named `README.md`, in the root of the repository. The README should include, from top to bottom (see [this example](https://github.com/karthik/badge-test/)):
 
 ```
 * The package name
 * Badges for continuous integration and test coverage (and any other badges)
 * Short description of the package
 * Installation instructions
-* Example usage
+* Brief demonstration usage
+* Citation information
 ```
 
 * If your package connects to a data source or online service, or wraps other software,
@@ -56,6 +57,8 @@ information about GooberDB, and documentation of database structure and metadata
 can be found at *link*.
 
 * We recommend not creating `README.md` directly, but from a `README.Rmd` file (an Rmarkdown file) if you have any demonstration code. The advantage of the `.Rmd` file is you can combine text with code that can be easily updated whenever your package is updated.
+
+* Extensive examples should be kept for a vignette. If you want to make the vignettes more accessible before installing the package, we suggest creating a website for your package with [`pkgdown`](https://github.com/hadley/pkgdown)
 
 * Consider using `devtools::use_readme_rmd()` to get a template for a `README.Rmd` file
 and to automatically set up a pre-commit hook to ensure that `README.md` is always newer than `README.Rmd`.

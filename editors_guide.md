@@ -65,7 +65,7 @@ is posted to the rOpenSci Slack onboarding channel, tagging all editors.
       Due date: YYYY-MM-DD
 
 -   Switch numbered tag `to 3/reviewers-assigned` once reviewers are assigned.
-
+-   Invite authors and reviewers to rOpenSci Slack if they aren't on already.
 
 ## During review:
 

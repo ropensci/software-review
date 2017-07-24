@@ -130,10 +130,6 @@ The `DESCRIPTION` file of a package should list package authors and contributors
 Only include reviewers after asking for their consent.
 
 ## <a href="#testing" name="testing"></a> Testing
- 
-* All packages should pass R CMD check/devtools::check() on all major platforms.
-
-* All packages should have a test suite that covers major functionality of the package.
 
 * All packages should pass `R CMD check`/`devtools::check()` on all major platforms.
 

@@ -32,7 +32,7 @@ requested.
 
 -   First, and foremost, we hope you submit your package for review **because you
     value the feedback**.  We aim to provide useful feedback to package authors
-    and for [our review process] to be open, non-adversarial, and focused on
+    and for our review process to be open, non-adversarial, and focused on
     improving software quality.
 -   Once aboard, your package will continue to recieve **support from rOpenSci
     members**.  You'll retain ownership  and control of of your package, but we
@@ -132,11 +132,12 @@ We are grateful to the following individuals who have offered up their time and 
 
 ```{r reviewers, echo=FALSE, results='asis'}
 editors <- c("Noam Ross", "Scott Chamberlain", "Karthik Ram", "Maëlle Salmon")
-reviewers <- airtable(base = "appZIB8hgtvjoV99D", tables = "Reviewers")$Reviewers$get()
-reviewers <- reviewers[map_lgl(reviewers$Reviews, ~!is.null(.)) & !(reviewers$name %in% editors), ]
+reviewers <- air_get(base = "appZIB8hgtvjoV99D", table = "Reviewers", combined_result = FALSE)
+reviewers2 <- air_get(base = "appZIB8hgtvjoV99D", table = "Reviewers", combined_result = FALSE, offset=get_offset(reviewers))
+reviewers <- rbind(reviewers$fields, reviewers2$field)
+reviewers <- reviewers[map_lgl(reviewers$Reviews, ~!is.null(.)) & !(reviewers$name %in% c(editors, "???")), ]
 reviewers <- reviewers[order(reviewers$name), ]
-cat(paste0("-   [", reviewers$name, "](https://github.com/", reviewers$github, ")", collapse = "\n"))
+cat(paste0("[", reviewers$name, "](https://github.com/", reviewers$github, ")", collapse = " \U00B7 "))
 ```
 
-
-[![repo_banner](https://ropensci.org/assets/ropensci_repo_banner.png)](https://ropensci.org)
+[![repo_banner](https://ropensci.org/public_images/github_footer.png)](https://ropensci.org)

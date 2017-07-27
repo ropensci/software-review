@@ -14,7 +14,7 @@ Thank you for considering submitting your package to the rOpenSci suite. All our
 <a href="#why-submit" name="why-submit"></a>Why submit your package to rOpenSci?
 ================================================================================
 
--   First, and foremost, we hope you submit your package for review **because you value the feedback**. We aim to provide useful feedback to package authors and for [our review process] to be open, non-adversarial, and focused on improving software quality.
+-   First, and foremost, we hope you submit your package for review **because you value the feedback**. We aim to provide useful feedback to package authors and for our review process to be open, non-adversarial, and focused on improving software quality.
 -   Once aboard, your package will continue to recieve **support from rOpenSci members**. You'll retain ownership and control of of your package, but we can help with ongoing maintenance issues such as those associated with updates to R and dependencies and CRAN policies.
 -   rOpenSci will **promote your package** through our [web page](https://ropensci.org/packages/), [blog](https://ropensci.org/blog/), and [social media](https://twitter.com/ropensci). Packages in our suite are also distributed via our [drat repository](http://packages.ropensci.org/) and [Docker images](https://hub.docker.com/r/rocker/ropensci/), and listed in our [task views](https://github.com/search?utf8=%E2%9C%93&q=user%3Aropensci+%22task+view%22&type=Repositories&ref=searchresults).
 -   rOpenSci **packages can be cross-listed** with other repositories such as CRAN and BioConductor.
@@ -52,7 +52,7 @@ Our review process is always in development, and we encourage feedback and discu
 -   [`policies.md`](policies.md) - policies as to what packages to accept and how to conduct the review process
 -   [`reviewing_guide.md`](reviewing_guide.md) - high-level guide for reviewers
 -   [`packaging_guide.md`](packaging_guide.md) - detailed requirements and recommendations for rOpenSci packages
--   [`editors_checklist.md`](editors_checklist.md) - steps for editors to take throughout the review process
+-   [`editors_guide.md`](editors_guide.md) - steps for editors to take throughout the review process
 -   [`reviewer_template.md`](reviewer_template.md) - a template and checklist for reviews
 -   [`editor_template.md`](editor_template.md) - a template and checklist for editors' preliminary review
 -   [`issue_template.md`](issue_template.md) - automatically-used template and checklist for authors upon submittal
@@ -75,57 +75,6 @@ rOpenSci's onboarding process is run by:
 
 We are grateful to the following individuals who have offered up their time and expertise to review packages submitted to rOpenSci.
 
--   [Alison Appling](https://github.com/aappling-usgs)
--   [Andee Kaplan](https://github.com/andeek)
--   [Andrew MacDonald](https://github.com/aammd)
--   [Andy Teucher](https://github.com/ateucher)
--   [Ben Bond-Lamberty](https://github.com/bpbond)
--   [Bob Rudis](https://github.com/hrbrmstr)
--   [Brooke Anderson](https://github.com/geanders)
--   [Claudia Vitolo](https://github.com/cvitolo)
--   [Corinna Gries](https://github.com/cgries)
--   [David Gohel](https://github.com/davidgohel)
--   [David Winter](https://github.com/dwinter)
--   [Dean Attali](https://github.com/daattali)
--   [Dillon Niederhut](https://github.com/deniederhut)
--   [Erin LeDell](https://github.com/ledell)
--   [Francois Michonneau](https://github.com/fmichonneau)
--   [Frans van Dunné](https://github.com/FvD)
--   [Gabe Becker](https://github.com/gmbecker)
--   [Gaurav Sood](https://github.com/soodoku)
--   [Hao Zhu](https://github.com/haozhu233)
--   [Ivan Hanigan](https://github.com/ivanhanigan)
--   [Jason Becker](https://github.com/jsonbecker)
--   [Jeff Hanson](https://github.com/jeffreyhanson)
--   [Jeff Hollister](https://github.com/jhollist)
--   [Jeroen Ooms](https://github.com/jeroen)
--   [Julia Gustavsen](https://github.com/joolia)
--   [Julia Silge](https://github.com/juliasilge)
--   [Kenneth Benoit](https://github.com/kbenoit)
--   [Kent Russel](https://github.com/timelyportfolio)
--   [Kevin Ushey](https://github.com/kevinushey)
--   [Laura DeCicco](https://github.com/ldecicco-usgs)
--   [Lauren Yamane](https://github.com/layamane)
--   [Lincoln Mullen](https://github.com/lmullen)
--   [Manuel Fernandez](https://github.com/manuramon)
--   [Mara Averick](https://github.com/batpigandme)
--   [Marcus Beck](https://github.com/fawda123)
--   [Michael Koontz](https://github.com/mikoontz)
--   [Michael Sumner](https://github.com/mdsumner)
--   [Mike Smith](https://github.com/grimbough)
--   [Najko Jahn](https://github.com/njahn82)
--   [Naupaka Zimmerman](https://github.com/naupaka)
--   [Oliver Keyes](https://github.com/Ironholds)
--   [Remko Duursma](https://github.com/RemkoDuursma)
--   [Rich FitzJohn](https://github.com/richfitz)
--   [Robin Lovelace](https://github.com/Robinlovelace)
--   [Sean Hughes](https://github.com/seaaan)
--   [Stefan Widgren](https://github.com/stewid)
--   [Taras Zakharko](https://github.com/tzakharko)
--   [Ted Underwood](https://github.com/tedunderwood)
--   [Thomas Leeper](https://github.com/leeper)
--   [Tiffany Timbers](https://github.com/ttimbers)
--   [Toph Allen](https://github.com/toph-allen)
--   [Tristan Mahr](https://github.com/tjmahr)
+[Adam Sparks](https://github.com/adamhsparks) · [Alison Appling](https://github.com/aappling-usgs) · [Amelia McNamara](https://github.com/ameliamn) · [Andee Kaplan](https://github.com/andeek) · [Andrew MacDonald](https://github.com/aammd) · [Andy Teucher](https://github.com/ateucher) · [Anna Krystalli](https://github.com/annakrystalli) · [Bea Hernandez](https://github.com/chucheria) · [Ben Bond-Lamberty](https://github.com/bpbond) · [Bob Rudis](https://github.com/hrbrmstr) · [Brooke Anderson](https://github.com/geanders) · [Carl Boettiger](https://github.com/cboettig) · [Carl Ganz](https://github.com/carlganz) · [Claudia Vitolo](https://github.com/cvitolo) · [Corinna Gries](https://github.com/cgries) · [David Gohel](https://github.com/davidgohel) · [David Winter](https://github.com/dwinter) · [Dean Attali](https://github.com/daattali) · [Dillon Niederhut](https://github.com/deniederhut) · [Edzer Pebesma](https://github.com/edzer) · [Elaine McVey](https://github.com/eamcvey) · [Emily Robinson](https://github.com/robinsones) · [Erin LeDell](https://github.com/ledell) · [Francois Michonneau](https://github.com/fmichonneau) · [Frans van Dunné](https://github.com/FvD) · [Gabe Becker](https://github.com/gmbecker) · [Gaurav Sood](https://github.com/soodoku) · [Hao Zhu](https://github.com/haozhu233) · [Ivan Hanigan](https://github.com/ivanhanigan) · [Jason Becker](https://github.com/jsonbecker) · [Jeff Hanson](https://github.com/jeffreyhanson) · [Jeff Hollister](https://github.com/jhollist) · [Jenny Bryan](https://github.com/jennybc) · [Jeroen Ooms](https://github.com/jeroen) · [Joseph Stachelek](https://github.com/jsta) · [Julia Gustavsen](https://github.com/joolia) · [Julia Silge](https://github.com/juliasilge) · [Kara Woo](https://github.com/karawoo) · [Kenneth Benoit](https://github.com/kbenoit) · [Kent Russel](https://github.com/timelyportfolio) · [Kevin Ushey](https://github.com/kevinushey) · [Laura DeCicco](https://github.com/ldecicco-usgs) · [Lauren Yamane](https://github.com/layamane) · [Lincoln Mullen](https://github.com/lmullen) · [Lucy D'Agostino McGowan](https://github.com/LucyMcGowan) · [Manuel Fernandez](https://github.com/manuramon) · [Mara Averick](https://github.com/batpigandme) · [Marcus Beck](https://github.com/fawda123) · [Mark Edmondson](https://github.com/MarkEdmondson1234) · [mark padgham](https://github.com/mpadge) · [Michael Koontz](https://github.com/mikoontz) · [Michael Sumner](https://github.com/mdsumner) · [Mike Smith](https://github.com/grimbough) · [Najko Jahn](https://github.com/njahn82) · [Naupaka Zimmerman](https://github.com/naupaka) · [Neal Richardson](https://github.com/nealrichardson) · [Nistara Randhawa](https://github.com/nistara) · [Oliver Keyes](https://github.com/Ironholds) · [Paul Oldham](https://github.com/poldham) · [Remko Duursma](https://github.com/RemkoDuursma) · [Rich FitzJohn](https://github.com/richfitz) · [Robert Flight](https://github.com/rmflight) · [Robin Lovelace](https://github.com/Robinlovelace) · [Ross Mounce](https://github.com/rossmounce) · [Sean Hughes](https://github.com/seaaan) · [Stefan Widgren](https://github.com/stewid) · [Stephanie Locke](https://github.com/stephlocke) · [Taras Zakharko](https://github.com/tzakharko) · [Taylor Arnold](https://github.com/statsmaths) · [Ted Underwood](https://github.com/tedunderwood) · [Thomas Leeper](https://github.com/leeper) · [Tiffany Timbers](https://github.com/ttimbers) · [Toph Allen](https://github.com/toph-allen) · [Tristan Mahr](https://github.com/tjmahr) · [Tuija Sonkkila](https://github.com/tts) · [Verena Haunschmid](https://github.com/expectopatronum) · [W Kyle Hamilton](https://github.com/kylehamilton)
 
-[![repo\_banner](https://ropensci.org/assets/ropensci_repo_banner.png)](https://ropensci.org)
+[![repo_banner](https://ropensci.org/public_images/github_footer.png)](https://ropensci.org)

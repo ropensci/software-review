@@ -42,12 +42,20 @@ rOpenSci accepts packages that meet our guidelines via a streamlined [onboarding
 
 ```
 * The package name
-* Badges for continuous integration and test coverage (and any other badges)
+* Badges for continuous integration and test coverage, the badge for rOpenSci peer-review once it has started (see below), and any other badges
 * Short description of the package
 * Installation instructions
 * Brief demonstration usage
 * Citation information
 ```
+
+* Once you have submitted a package and it has passed editor checks, add a peer-review badge via
+
+```
+[![](https://badges.ropensci.org/<issue_id>_status.svg)](https://github.com/ropensci/onboarding/issues/<issue_id>)
+```
+
+where issue_id is the number of the issue in the onboarding repository. For instance, the badge for [`rtimicropem`](https://github.com/ropensci/rtimicropem) review uses the number 126 since it's the [review issue number](https://github.com/ropensci/onboarding/issues/126). The badge will first indicated "under review" and then "peer-reviewed" once your package has been onboarded, and will link to the review issue.
 
 * If your package connects to a data source or online service, or wraps other software,
 consider that your package README may be the first point of entry for users.  It should provide enough information for users to understand the nature of the data, service, or software, and provide links to other relevant data and documentation.  For instance,

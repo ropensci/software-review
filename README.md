@@ -26,7 +26,7 @@ Thank you for considering submitting your package to the rOpenSci suite. All our
 -   As in any peer-review process, we hope you choose to review **to give back to the rOpenSci and scientific communities.** Our mission to expand access to scientific data and promote a culture of reproducible research is only possible through the volunteer efforts of community members like you.
 -   Review is a two-way conversation. By reviewing packages, you'll have the chance to **continue to learn development practices from authors and other reviewers**.
 -   The open nature of our review process allows you to **network and meet colleagues and collaborators** through the review process. Our community is friendly and filled with supportive members expert in R development and many other areas of science and scientific computing.
--   To volunteer to be one of our reviewers, please e-mail us at <info@ropensci.org> or contact us on Twitter at [@rOpenSci](https://twitter.com/rOpenSci). We are always looking for more reviewers with both general package-writing experience and domain expertise in the fields packages are used for.
+-   To volunteer to be one of our reviewers, just click [here](https://ropensci.org/onboarding/) to fill out a short form providing your contact information and areas or expertise. We are always looking for more reviewers with both general package-writing experience and domain expertise in the fields packages are used for.
 
 <a href="#how-submit" name="how-submit"></a>How to submit your package for review
 =================================================================================
@@ -69,6 +69,9 @@ rOpenSci's onboarding process is run by:
 -   [Noam Ross](https://github.com/noamross), EcoHealth Alliance
 -   [Scott Chamberlain](https://github.com/sckott), rOpenSci
 -   [Karthik Ram](https://github.com/karthik), rOpenSci
+-   [Maëlle Salmon](https://github.com/maelle), [CHAI](http://www.chaiproject.org)
+
+### Reviewers
 
 We are grateful to the following individuals who have offered up their time and expertise to review packages submitted to rOpenSci.
 
@@ -76,31 +79,53 @@ We are grateful to the following individuals who have offered up their time and 
 -   [Andee Kaplan](https://github.com/andeek)
 -   [Andrew MacDonald](https://github.com/aammd)
 -   [Andy Teucher](https://github.com/ateucher)
+-   [Ben Bond-Lamberty](https://github.com/bpbond)
 -   [Bob Rudis](https://github.com/hrbrmstr)
 -   [Brooke Anderson](https://github.com/geanders)
--   [Daniel Emaasit](https://github.com/Emaasit)
+-   [Claudia Vitolo](https://github.com/cvitolo)
+-   [Corinna Gries](https://github.com/cgries)
 -   [David Gohel](https://github.com/davidgohel)
 -   [David Winter](https://github.com/dwinter)
 -   [Dean Attali](https://github.com/daattali)
+-   [Dillon Niederhut](https://github.com/deniederhut)
+-   [Erin LeDell](https://github.com/ledell)
+-   [Francois Michonneau](https://github.com/fmichonneau)
+-   [Frans van Dunné](https://github.com/FvD)
+-   [Gabe Becker](https://github.com/gmbecker)
+-   [Gaurav Sood](https://github.com/soodoku)
 -   [Hao Zhu](https://github.com/haozhu233)
+-   [Ivan Hanigan](https://github.com/ivanhanigan)
 -   [Jason Becker](https://github.com/jsonbecker)
+-   [Jeff Hanson](https://github.com/jeffreyhanson)
 -   [Jeff Hollister](https://github.com/jhollist)
--   [Jeroen Ooms](https://github.com/jeroenooms)
+-   [Jeroen Ooms](https://github.com/jeroen)
 -   [Julia Gustavsen](https://github.com/joolia)
 -   [Julia Silge](https://github.com/juliasilge)
+-   [Kenneth Benoit](https://github.com/kbenoit)
+-   [Kent Russel](https://github.com/timelyportfolio)
 -   [Kevin Ushey](https://github.com/kevinushey)
+-   [Laura DeCicco](https://github.com/ldecicco-usgs)
 -   [Lauren Yamane](https://github.com/layamane)
 -   [Lincoln Mullen](https://github.com/lmullen)
--   [Maëlle Salmon](https://github.com/masalmon)
+-   [Manuel Fernandez](https://github.com/manuramon)
+-   [Mara Averick](https://github.com/batpigandme)
 -   [Marcus Beck](https://github.com/fawda123)
+-   [Michael Koontz](https://github.com/mikoontz)
 -   [Michael Sumner](https://github.com/mdsumner)
+-   [Mike Smith](https://github.com/grimbough)
+-   [Najko Jahn](https://github.com/njahn82)
+-   [Naupaka Zimmerman](https://github.com/naupaka)
 -   [Oliver Keyes](https://github.com/Ironholds)
 -   [Remko Duursma](https://github.com/RemkoDuursma)
 -   [Rich FitzJohn](https://github.com/richfitz)
 -   [Robin Lovelace](https://github.com/Robinlovelace)
+-   [Sean Hughes](https://github.com/seaaan)
 -   [Stefan Widgren](https://github.com/stewid)
+-   [Taras Zakharko](https://github.com/tzakharko)
+-   [Ted Underwood](https://github.com/tedunderwood)
 -   [Thomas Leeper](https://github.com/leeper)
 -   [Tiffany Timbers](https://github.com/ttimbers)
 -   [Toph Allen](https://github.com/toph-allen)
+-   [Tristan Mahr](https://github.com/tjmahr)
 
-[![repo\_banner](http://ropensci.org/assets/ropensci_repo_banner.png)](http://ropensci.org)
+[![repo\_banner](https://ropensci.org/assets/ropensci_repo_banner.png)](https://ropensci.org)

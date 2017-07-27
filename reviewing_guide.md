@@ -5,7 +5,7 @@ and using it as a high-level checklist.  In addition to checking off the minimum
 we ask you provide general comments addressing the following:
 
 - Does the code comply with general principles in the [Mozilla reviewing guide](https://mozillascience.github.io/codeReview/review.html)?
-- Does the package comply with the [ROpenSci packaging guide](https://github.com/ropensci/packaging_guide)?
+- Does the package comply with the [ROpenSci packaging guide](https://github.com/ropensci/onboarding/blob/master/packaging_guide.md)?
 - Are there improvements that could be made to the code style?
 - Is there code duplication in the package that should be reduced?
 - Are there user interface improvements that could be made?
@@ -15,10 +15,13 @@ we ask you provide general comments addressing the following:
 We encourage you to use automated tools to facilitate your reviewing.  These
 include:
 
--  Checking the packages logs on its continuous integration services (Travs-CI, Codecov, etc.)
+-  Checking the package's logs on its continuous integration services (Travs-CI, Codecov, etc.)
 -  Running `devtools::check()` and `devtools::test()` on the package to find any errors that may be missed on the author's system.
 -  Using the **covr** package to examine the extent of test coverage.
 -  Using the [**goodpractice**](https://github.com/MangoTheCat/goodpractice) package (`goodpractice::gp()`) to identify likely sources of errors and style issues.
+-  Using `devtools::spell_check()` to find spelling errors in DESCRIPTION and
+manual files, and RStudio's spellchecker to find spelling errors in vignettes and
+README files.
 
 Please be respectful and kind to the authors in your reviews. Our [code of conduct](policies.md#code-of-conduct) is mandatory for everyone involved in our review process.
 

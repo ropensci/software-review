@@ -11,9 +11,15 @@
 
 -   URL for the package (the development repository, not a stylized html page):
 
+- Please indicate which category or categories from our [package fit policies](https://github.com/ropensci/onboarding/blob/master/policies.md#package-fit) this package falls under ***and why**(? (e.g., data retrieval, reproducibility. If you are unsure, we suggest you make a pre-submission inquiry.):
+
+[e.g., "data extraction, because the package parses a scientific data file format"]
+
+
 -   Who is the target audience?  
 
--   Are there other R packages that accomplish the same thing? If so, what is different about yours?  
+-   Are there other R packages that accomplish the same thing? If so, how does
+yours differ or meet [our criteria for best-in-category](https://github.com/ropensci/onboarding/blob/master/policies.md#overlap)?
 
 ### Requirements
 
@@ -25,7 +31,8 @@ Confirm each of the following by checking the box.  This package:
 - [ ] includes documentation with examples for all functions.
 - [ ] contains a vignette with examples of its essential functions and uses.
 - [ ] has a test suite.
-- [ ] has continuous integration with Travis CI and/or another service.
+- [ ] has continuous integration, including reporting of test coverage, using services such as Travis CI, Coeveralls and/or CodeCov.
+- [ ] I agree to abide by [ROpenSci's Code of Conduct](https://github.com/ropensci/onboarding/blob/master/policies.md#code-of-conduct) during the review process and in maintaining my package should it be accepted.
 
 #### Publication options
 
@@ -39,7 +46,7 @@ Confirm each of the following by checking the box.  This package:
 
 - [ ] Does `R CMD check` (or `devtools::check()`) succeed?  Paste and describe any errors or warnings:
 
-- [ ] Does the package conform to [rOpenSci packaging guidelines](https://github.com/ropensci/packaging_guide)? Please describe any exceptions:
+- [ ] Does the package conform to [rOpenSci packaging guidelines](https://github.com/ropensci/onboarding/blob/master/packaging_guide.md)? Please describe any exceptions:
 
 - If this is a resubmission following rejection, please explain the change in circumstances:
 

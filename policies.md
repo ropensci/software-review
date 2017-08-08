@@ -92,7 +92,7 @@ Here are some types of packages we are unlikely to accept:
 
 We encourage submitting packages not accepted to rOpenSci to submit to CRAN,
 BioConductor, as well as 
-other R package development iniatives (e.g., [cloudyr](https://cloudyr.github.io/)),
+other R package development initiatives (e.g., [cloudyr](https://cloudyr.github.io/)),
 and software journals such as JOSS, JSS, or the R journal.
 
 Note that not all packages developed internally by rOpenSci or through our events
@@ -143,7 +143,7 @@ The above is a bit vague, so the following are a few areas of consideration.
 
 - Examples where we'd want to move quickly:
     - Package `foo` is depended on by 1 or more packages on CRAN, and `foo` is
-    broken, and thus would break its reverse depenencies.
+    broken, and thus would break its reverse dependencies.
     - Package `bar` may not have reverse dependencies on CRAN, but is widely used,
     thus quickly fixing problems is of greater importance.
 - Examples where we can wait longer:

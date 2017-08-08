@@ -15,7 +15,7 @@ Thank you for considering submitting your package to the rOpenSci suite. All our
 ================================================================================
 
 -   First, and foremost, we hope you submit your package for review **because you value the feedback**. We aim to provide useful feedback to package authors and for our review process to be open, non-adversarial, and focused on improving software quality.
--   Once aboard, your package will continue to recieve **support from rOpenSci members**. You'll retain ownership and control of of your package, but we can help with ongoing maintenance issues such as those associated with updates to R and dependencies and CRAN policies.
+-   Once aboard, your package will continue to receive **support from rOpenSci members**. You'll retain ownership and control of of your package, but we can help with ongoing maintenance issues such as those associated with updates to R and dependencies and CRAN policies.
 -   rOpenSci will **promote your package** through our [web page](https://ropensci.org/packages/), [blog](https://ropensci.org/blog/), and [social media](https://twitter.com/ropensci). Packages in our suite are also distributed via our [drat repository](http://packages.ropensci.org/) and [Docker images](https://hub.docker.com/r/rocker/ropensci/), and listed in our [task views](https://github.com/search?utf8=%E2%9C%93&q=user%3Aropensci+%22task+view%22&type=Repositories&ref=searchresults).
 -   rOpenSci **packages can be cross-listed** with other repositories such as CRAN and BioConductor.
 -   rOpenSci packages that contain a short accompanying paper can, after review, be automatically submitted to the [Journal of Open-Source Software](http://joss.theoj.org/) for fast-tracked publication.

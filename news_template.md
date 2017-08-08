@@ -7,7 +7,7 @@ foobar 0.2.0 (2016-04-01)
 
 ### MINOR IMPROVEMENTS
 
-  * Improved documentaiton for `things()` (#4)
+  * Improved documentation for `things()` (#4)
 
 ### BUG FIXES
 

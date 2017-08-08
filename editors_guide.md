@@ -69,7 +69,7 @@ is posted to the rOpenSci Slack onboarding channel, tagging all editors.
 
 ## During review:
 
--   Check in with reviewers and authors occaisionally. Offer clarification and help as needed.
+-   Check in with reviewers and authors occasionally. Offer clarification and help as needed.
 -   In general aim for 3 weeks for review, 2 weeks for
     subsequent changes, and 1 week for reviewer approval of changes.
 -   Make sure ropensci-bot is pinging correctly. (currently defunct)
@@ -79,7 +79,7 @@ is posted to the rOpenSci Slack onboarding channel, tagging all editors.
     
 ## After review:
 
--  Change the staus tag to `6/approved`.
+-  Change the status tag to `6/approved`.
 -   Add review/er information to the review database.
 -   If authors intend to submit to CRAN, check against CRAN gotchas and provide
     support through this process.

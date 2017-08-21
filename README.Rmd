@@ -2,7 +2,6 @@
 output: github_document
 ---
 
-<!-- README.md is generated from README.Rmd. Please edit that file -->
 
 ```{r, echo = FALSE, message=FALSE, warning=FALSE}
 library(airtabler)
@@ -14,7 +13,13 @@ knitr::opts_chunk$set(
 )
 ```
 
+![ropensci](icon_lettering_color.png)
+
 # rOpenSci Onboarding
+
+
+
+<!-- README.md is generated from README.Rmd. Please edit that file -->
 
 Thank you for considering submitting your package to the rOpenSci suite. All
 our packages go through a process of [open peer review](https://ropensci.org/blog/2016/03/28/software-review) to ensure a consistent level of quality
@@ -140,4 +145,3 @@ reviewers <- reviewers[order(reviewers$name), ]
 cat(paste0("[", reviewers$name, "](https://github.com/", reviewers$github, ")", collapse = " \U00B7 "))
 ```
 
-[![repo_banner](https://ropensci.org/public_images/github_footer.png)](https://ropensci.org)

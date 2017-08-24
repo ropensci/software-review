@@ -38,7 +38,7 @@ Confirm each of the following by checking the box.  This package:
 
 - [ ] Do you intend for this package to go on CRAN?  
 - [ ] Do you wish to automatically submit to the [Journal of Open Source Software](http://joss.theoj.org/)? If so:
-    - [ ] The package has a an **obvious research application** according to [JOSS's definition](http://joss.theoj.org/about#submission_requirements).
+    - [ ] The package has an **obvious research application** according to [JOSS's definition](http://joss.theoj.org/about#submission_requirements).
     - [ ] The package contains a `paper.md` matching [JOSS's requirements](http://joss.theoj.org/about#paper_structure) with a high-level description in the package root or in `inst/`.
     - [ ] The package is deposited in a long-term repository with the DOI: 
     - (*Do not submit your package separately to JOSS*)

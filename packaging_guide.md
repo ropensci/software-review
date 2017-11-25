@@ -22,7 +22,7 @@ rOpenSci accepts packages that meet our guidelines via a streamlined [onboarding
 
 ## <a href="#pkgnaming" name="pkgnaming"></a> Package naming
 
-* We strongly recommend short, descriptive names in lower case. If your package deals with one or more commercial services, please make sure the name does not violate branding guidelines.
+* We strongly recommend short, descriptive names in lower case. If your package deals with one or more commercial services, please make sure the name does not violate branding guidelines. You can check if your package name is available, informative and not offensive by using the [`available` package](https://github.com/ropenscilabs/available).
 
 ## <a href="#funvar" name="funvar"></a> Function/variable naming & general syntax
 

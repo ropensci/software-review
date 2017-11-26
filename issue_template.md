@@ -21,6 +21,8 @@
 -   Are there other R packages that accomplish the same thing? If so, how does
 yours differ or meet [our criteria for best-in-category](https://github.com/ropensci/onboarding/blob/master/policies.md#overlap)?
 
+-   If you had made a successful pre-submission enquiry, please copy below the link to the corresponding issue.
+
 ### Requirements
 
 Confirm each of the following by checking the box.  This package:

@@ -44,6 +44,11 @@ Confirm each of the following by checking the box.  This package:
     - [ ] The package contains a `paper.md` matching [JOSS's requirements](http://joss.theoj.org/about#paper_structure) with a high-level description in the package root or in `inst/`.
     - [ ] The package is deposited in a long-term repository with the DOI: 
     - (*Do not submit your package separately to JOSS*)
+- [ ] Do you wish to submit an Applications Article about your package to [Methods in Ecology and Evolution](http://besjournals.onlinelibrary.wiley.com/hub/journal/10.1111/(ISSN)2041-210X/)? If so:
+	- [ ] The package is novel and will be of interest to the broad readership of the journal.
+	- [ ] The manuscript describing the package is no longer than 3000 words.
+	- [ ] You intend to archive the code for the package in a long-term repository which meets the requirements of the journal.
+	- (*Please do not submit your package separately to Methods in Ecology and Evolution*)
 
 ### Detail
 

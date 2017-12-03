@@ -16,7 +16,7 @@
 [e.g., "data extraction, because the package parses a scientific data file format"]
 
 
--   Who is the target audience?  
+-   Who is the target audience and what are scientific applications of this package?  
 
 -   Are there other R packages that accomplish the same thing? If so, how does
 yours differ or meet [our criteria for best-in-category](https://github.com/ropensci/onboarding/blob/master/policies.md#overlap)?

@@ -46,6 +46,7 @@ rOpenSci accepts packages that meet our guidelines via a streamlined [onboarding
 * Short description of the package
 * Installation instructions
 * Brief demonstration usage
+* If applicable, how the package compares to other similar packages and/or how it relates to other packages
 * Citation information
 ```
 

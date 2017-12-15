@@ -143,6 +143,8 @@ The `DESCRIPTION` file of a package should list package authors and contributors
 
 Only include reviewers after asking for their consent.  Note that 'rev' will raise a CRAN NOTE unless the package is built using R v3.5 (r-devel as of 2017-09-21).
 
+Please do not list editors as contributors. Your participation in and contribution to rOpenSci is thanks enough. 🙂
+
 ## <a href="#testing" name="testing"></a> Testing
 
 * All packages should pass `R CMD check`/`devtools::check()` on all major platforms.

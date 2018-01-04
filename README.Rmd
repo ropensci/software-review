@@ -97,7 +97,7 @@ this repository and fill out the template.
     They will be asked to provide reviews as comments on your issue within 3 weeks.
 -   We ask that you respond to reviewers' comments within 2 weeks of the
     last-submitted review, but you may make updates to your package or respond
-    at any time.  We encourage ongoing conversations between authors and
+    at any time. Here is [an author response example](https://github.com/ropensci/onboarding/issues/160#issuecomment-355043656).  We encourage ongoing conversations between authors and
     reviewers. See the [reviewing guide](reviewing_guide.md) for more details.
 -   Once your package is approved, we will provide further instructions on
     transferring your repository to the rOpenSci repository.
@@ -129,7 +129,7 @@ rOpenSci's onboarding process is run by:
 * [Noam Ross](https://github.com/noamross), EcoHealth Alliance
 * [Scott Chamberlain](https://github.com/sckott), rOpenSci
 * [Karthik Ram](https://github.com/karthik), rOpenSci
-* [Maëlle Salmon](https://github.com/maelle), [CHAI](http://www.chaiproject.org)
+* [Maëlle Salmon](https://github.com/maelle)
 
 ### Reviewers
 

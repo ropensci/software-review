@@ -38,8 +38,8 @@ is posted to the rOpenSci Slack onboarding channel, tagging all editors.
         check on multiple platforms, using win-builder, r-hub, or other editors
         as needed.
 -   If initial checks show major gaps, request changes before assigning reviewers.
--   If the package raises a new issue for ROpenSci policy, open a discussion on the
-    [ROpenSci forum](https://discuss.ropensci.org/) to discuss it with other
+-   If the package raises a new issue for rOpenSci policy, open a discussion on the
+    [rOpenSci forum](https://discuss.ropensci.org/) to discuss it with other
     editors ([example]()https://discuss.ropensci.org/t/overlap-policy-for-package-onboarding/368)
     
 ## Assign reviewers:

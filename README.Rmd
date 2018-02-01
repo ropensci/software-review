@@ -129,7 +129,7 @@ rOpenSci's onboarding process is run by:
 * [Noam Ross](https://github.com/noamross), EcoHealth Alliance
 * [Scott Chamberlain](https://github.com/sckott), rOpenSci
 * [Karthik Ram](https://github.com/karthik), rOpenSci
-* [Maëlle Salmon](https://github.com/maelle)
+* [Maëlle Salmon](https://github.com/maelle), rOpenSci
 
 ### Reviewers
 

@@ -47,7 +47,7 @@ Confirm each of the following by checking the box.  This package:
 - [ ] Do you wish to submit an Applications Article about your package to [Methods in Ecology and Evolution](http://besjournals.onlinelibrary.wiley.com/hub/journal/10.1111/(ISSN)2041-210X/)? If so:
     - [ ] The package is novel and will be of interest to the broad readership of the journal. 
     - [ ] The manuscript describing the package is no longer than 3000 words.
-    - [ ] You intend to archive the code for the package in a long-term repository which meets the requirements of the journal.
+    - [ ] You intend to archive the code for the package in a long-term repository which meets the requirements of the journal (see [MEE's Policy on Publishing Code](http://besjournals.onlinelibrary.wiley.com/hub/journal/10.1111/(ISSN)2041-210X/journal-resources/policy-on-publishing-code.html))
     - (*Scope: Do consider MEE's [Aims and Scope](http://besjournals.onlinelibrary.wiley.com/hub/journal/10.1111/(ISSN)2041-210X/aims-and-scope/read-full-aims-and-scope.html) for your manuscript. We make no gaurantee that your manuscript willl be within MEE scope.*)
     - (*Although not required, we strongly recommend having a full manuscript prepared when you submit here.*)
     - (*Please do not submit your package separately to Methods in Ecology and Evolution*)

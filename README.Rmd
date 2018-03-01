@@ -86,7 +86,7 @@ information and areas or expertise. We
         [Journal of Open-Source Software](http://joss.theoj.org/) (JOSS), it should include a `paper.md`
         file describing the package. More detail on JOSS's requirements can be found [at their website](http://joss.theoj.org/about#author_guidelines).
     -   If you choose this option you should *not* submit your package
-        to JOSS separately. It will evaluated by JOSS based on the rOpenSci review.
+        to JOSS separately. It will be evaluated by JOSS based on the rOpenSci review.
 -   Next, [open a new issue](https://github.com/ropensci/onboarding/issues/new) in
 this repository and fill out the template.
 -   An [editor](#editors) will review your submission within 5 business

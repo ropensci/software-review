@@ -88,8 +88,8 @@ information and areas or expertise. We
     -   If you choose this option you should *not* submit your package
         to JOSS separately. It will be evaluated by JOSS based on the rOpenSci review.
 -   We strongly suggest submitting your package for review _before_ publishing
-    on CRAN, as the review feedback may result in major changes to your package,
-    including breaking changes to your function usage.
+    on CRAN, as the review feedback may result in major improvements and updates to your package,
+    including renaming and breaking changes to functions.
 -   Next, [open a new issue](https://github.com/ropensci/onboarding/issues/new) in
 this repository and fill out the template.
 -   An [editor](#editors) will review your submission within 5 business

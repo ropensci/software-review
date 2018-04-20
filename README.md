@@ -5,7 +5,7 @@ rOpenSci Onboarding
 ===================
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
-Thank you for considering submitting your package to the rOpenSci suite. All our packages go through a process of [open peer review](https://ropensci.org/blog/2016/03/28/software-review) to ensure a consistent level of quality for our users. This process also allows us to ensure that your package meets our guidelines and provides opportunity for discussion where exceptions are requested.
+Thank you for considering submitting your package to the rOpenSci suite. All our packages go through a process of [open peer review](https://ropensci.org/blog/2017/09/01/nf-softwarereview/) to ensure a consistent level of quality for our users. This process also allows us to ensure that your package meets our guidelines and provides opportunity for discussion where exceptions are requested.
 
 -   [Why submit your package to rOpenSci?](#why-submit)
 -   [Why review for rOpenSci?](#why-review)

@@ -48,11 +48,11 @@ area does not include broad data manipulations tools such as **reshape2** or
 **tidyr**, but rather tools for handling data in specific scientific formats.
 (Example: [**plateR**](https://github.com/ropensci/onboarding/issues/60))
 
-* __data deposition__*: Packages that support deposition of data  into research
+* __data deposition__: Packages that support deposition of data  into research
 repositories, including data formatting and metadata generation.
 (Examples [**EML**](https://github.com/ropensci/onboarding/issues/80))
 
-* __reproducibility__*: Tools that facilitate reproducible research. This
+* __reproducibility__: Tools that facilitate reproducible research. This
 includes packages that facilitate use of version control, provenance tracking, 
 automated testing of data inputs and statistical outputs, citation of software
 and scientific literature.  It does not include general tools for literate

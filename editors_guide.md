@@ -84,13 +84,13 @@ is posted to the rOpenSci Slack onboarding channel, tagging all editors.
 -   If authors intend to submit to CRAN, check against CRAN gotchas and provide
     support through this process.
 -   Ask authors to migrate to `ropensci`
+    -   Ask the author to make the editor admin of their repo
     -   Create a two-person team in the ropensci organization, named for the
         package, with yourself and the package author as members.
-    -   Have the author transfer the repository to `ropensci`
+    -   Transfer the repository to `ropensci`
     -   Go to the repository settings in the `ropensci` organization and give
-        the two-person team "Write" access to the repository. ("Admin" access
-        may be temporarily granted for purposes such as creating Zenodo releases,
-        setting up package documentation options, etc.)
+        the two-person team "Write" access to the repository. 
+    - Invite the author to the repo as admin (authors need admin access to their repo).
 
 -   Ask author to:
     -   Add rOpenSci footer to README

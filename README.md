@@ -148,6 +148,10 @@ rOpenSci’s onboarding process is run by:
   - [Scott Chamberlain](https://github.com/sckott), rOpenSci
   - [Karthik Ram](https://github.com/karthik), rOpenSci
   - [Maëlle Salmon](https://github.com/maelle), rOpenSci
+  - [Lincoln Mullen](https://github.com/lmullen), George Mason
+    University
+  - [Anna Krystalli](https://github.com/annakrystalli), University of
+    Sheffield RSE
 
 ### Reviewers
 

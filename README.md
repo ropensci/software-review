@@ -87,7 +87,7 @@ for.
         rOpenSci review.
   - We strongly suggest submitting your package for review *before*
     publishing on CRAN or submitting a software paper describing the
-    pacakge to a journal. Review feedback may result in major
+    package to a journal. Review feedback may result in major
     improvements and updates to your package, including renaming and
     breaking changes to functions.
   - Next, [open a new

@@ -14,8 +14,9 @@ allows us to ensure that your package meets our guidelines and provides
 opportunity for discussion where exceptions are requested.
 
 This README is a short intro to onboarding for you as a potential author
-or reviewer. For more information, consult our [guide for rOpenSci
-package developers](https://ropensci.github.io/dev_guide/).
+or reviewer. For more information, consult our [gitbook “rOpenSci
+Packages: Development, Maintenance, and Peer
+Review”](https://ropensci.github.io/dev_guide/).
 
 **Our [code of
 conduct](https://ropensci.github.io/dev_guide/policies.html#code-of-conduct)
@@ -84,8 +85,8 @@ reviewers](https://ropensci.github.io/dev_guide/onboarding-guide-for-reviewers.h
 
 ## <a href="#further" name="further"></a>Further resources
 
-Our [guide for rOpenSci package
-developers](https://ropensci.github.io/dev_guide/) also includes:
+Our [gitbook “rOpenSci Packages: Development, Maintenance, and Peer
+Review”](https://ropensci.github.io/dev_guide/) also includes:
 
   - [a guide for
     editors](https://ropensci.github.io/dev_guide/onboarding-guide-for-editors.html)

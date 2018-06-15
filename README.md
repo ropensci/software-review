@@ -6,20 +6,28 @@
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
 Thank you for considering submitting your package to the rOpenSci suite.
-All our packages go through a process of [open peer
+All the packages contributed by community members go through a process
+of [open peer
 review](https://ropensci.org/blog/2017/09/01/nf-softwarereview/) to
 ensure a consistent level of quality for our users. This process also
 allows us to ensure that your package meets our guidelines and provides
 opportunity for discussion where exceptions are requested.
 
-  - [Why submit your package to rOpenSci?](#why-submit)
-  - [Why review for rOpenSci?](#why-review)
-  - [How to submit your package](#how-submit)
-  - [Useful documents in this repository](#files)
+This README is a short intro to onboarding for you as a potential author
+or reviewer. For more information, consult our [guide for rOpenSci
+package developers](https://ropensci.github.io/dev_guide/).
+
+**Our [code of
+conduct](https://ropensci.github.io/dev_guide/policies.html#code-of-conduct)
+is mandatory for everyone involved in our review process.**
+
+  - [Why and how submit your package to rOpenSci?](#why-submit)
+  - [Why and how review for rOpenSci?](#why-review)
+  - [Further resources](#further)
   - [Editors and
 reviewers](#editors)
 
-# <a href="#why-submit" name="why-submit"></a>Why submit your package to rOpenSci?
+# <a href="#why-submit" name="why-submit"></a>Why and how submit your package to rOpenSci?
 
   - First, and foremost, we hope you submit your package for review
     **because you value the feedback**. We aim to provide useful
@@ -42,10 +50,14 @@ reviewers](#editors)
     such as CRAN and BioConductor.
   - rOpenSci packages that contain a short accompanying paper can, after
     review, be automatically submitted to the [Journal of Open-Source
-    Software](http://joss.theoj.org/) for fast-tracked
-publication.
+    Software](http://joss.theoj.org/) for fast-tracked publication.
 
-## <a href="#why-review" name="why-review"></a>Why review packages for rOpenSci?
+If you want to submit a package, read our [guide for
+authors](https://ropensci.github.io/dev_guide/onboarding-guide-for-authors.html)
+before opening a submission issue in this
+repository.
+
+## <a href="#why-review" name="why-review"></a>Why and how review packages for rOpenSci?
 
   - As in any peer-review process, we hope you choose to review **to
     give back to the rOpenSci and scientific communities.** Our mission
@@ -60,83 +72,40 @@ publication.
     community is friendly and filled with supportive members expert in R
     development and many other areas of science and scientific
     computing.
-  - To volunteer to be one of our reviewers, just click
-    [here](https://ropensci.org/onboarding/) to fill out a short form
-    providing your contact information and areas or expertise. We are
-    always looking for more reviewers with both general package-writing
-    experience and domain expertise in the fields packages are used
-for.
 
-# <a href="#how-submit" name="how-submit"></a>How to submit your package for review
+To volunteer to be one of our reviewers, just click
+[here](https://ropensci.org/onboarding/) to fill out a short form
+providing your contact information and areas or expertise. We are always
+looking for more reviewers with both general package-writing experience
+and domain expertise in the fields packages are used for.
 
-  - Consult our [policies](policies.md) see if your package meets our
-    criteria for fitting into our suite and not overlapping with other
-    packages.
-      - If you are unsure whether a package meets our criteria, feel
-        free to open an issue as a pre-submission inquiry to ask if the
-        package is appropriate.
-  - Follow our [packaging style guide](packaging_guide.md) to ensure
-    your package meets our style and quality criteria.
-      - If you would like your package also submitted to [Journal of
-        Open-Source Software](http://joss.theoj.org/) (JOSS), it should
-        include a `paper.md` file describing the package. More detail on
-        JOSS’s requirements can be found [at their
-        website](http://joss.theoj.org/about#author_guidelines).
-      - If you choose this option you should *not* submit your package
-        to JOSS separately. It will be evaluated by JOSS based on the
-        rOpenSci review.
-  - We strongly suggest submitting your package for review *before*
-    publishing on CRAN or submitting a software paper describing the
-    package to a journal. Review feedback may result in major
-    improvements and updates to your package, including renaming and
-    breaking changes to functions.
-  - Next, [open a new
-    issue](https://github.com/ropensci/onboarding/issues/new) in this
-    repository and fill out the template.
-  - An [editor](#editors) will review your submission within 5 business
-    days and respond with next steps. The editor may assign the package
-    to reviewers, request that the package be updated to meet minimal
-    criteria before review, or reject the package due to lack of fit or
-    overlap.
-  - If your package meets minimal criteria, the editor will assign 1-3
-    reviewers. They will be asked to provide reviews as comments on your
-    issue within 3 weeks.
-  - We ask that you respond to reviewers’ comments within 2 weeks of the
-    last-submitted review, but you may make updates to your package or
-    respond at any time. Here is [an author response
-    example](https://github.com/ropensci/onboarding/issues/160#issuecomment-355043656).
-    We encourage ongoing conversations between authors and reviewers.
-    See the [reviewing guide](reviewing_guide.md) for more details.
-  - Once your package is approved, we will provide further instructions
-    on transferring your repository to the rOpenSci repository.
+Please also read [our guide for
+reviewers](https://ropensci.github.io/dev_guide/onboarding-guide-for-reviewers.html).
 
-Our [code of conduct](policies.md/#code-of-conduct) is mandatory for
-everyone involved in our review process.
+## <a href="#further" name="further"></a>Further resources
+
+Our [guide for rOpenSci package
+developers](https://ropensci.github.io/dev_guide/) also includes:
+
+  - [a guide for
+    editors](https://ropensci.github.io/dev_guide/onboarding-guide-for-editors.html)
+
+  - [our policies](https://ropensci.github.io/dev_guide/policies.html)
+
+  - chapters dedicating to good practice for package maintenance
+
+  - different templates: [review
+    template](https://ropensci.github.io/dev_guide/reviewtemplate.html),
+    [editor’s
+    template](https://ropensci.github.io/dev_guide/editortemplate.html),
+    [review request
+    template](https://ropensci.github.io/dev_guide/reviewrequesttemplate.html).
 
 Our review process is always in development, and we encourage feedback
 and discussion on how to improve the process on our
-[forum](https://discuss.ropensci.org/).
-
-# <a href="#files" name="files"></a> Useful documents in this repository
-
-  - [`policies.md`](policies.md) - policies as to what packages to
-    accept and how to conduct the review process
-  - [`reviewing_guide.md`](reviewing_guide.md) - high-level guide for
-    reviewers
-  - [`packaging_guide.md`](packaging_guide.md) - detailed requirements
-    and recommendations for rOpenSci packages
-  - [`editors_guide.md`](editors_guide.md) - steps for editors to take
-    throughout the review process
-  - [`reviewer_template.md`](reviewer_template.md) - a template and
-    checklist for reviews
-  - [`editor_template.md`](editor_template.md) - a template and
-    checklist for editors’ preliminary review
-  - [`issue_template.md`](issue_template.md) - automatically-used
-    template and checklist for authors upon submittal
-  - [`review_request_template.md`](review_request_template.md) -
-    template for e-mails to prospective reviewers
-  - [`news_template.md`](news_template.md) - a template for authors to
-    use for NEWS files in their packages.
+[forum](https://discuss.ropensci.org/) and in the
+[ropensci/onboarding-meta issue
+tracker](https://github.com/ropensci/onboarding-meta/issues).
 
 # <a href="#editors" name="editors"></a> Editors and reviewers
 
@@ -161,7 +130,8 @@ time and expertise to review packages submitted to rOpenSci.
 [Aaron Berdanier](https://github.com/berdaniera) · [Alicia
 Schep](https://github.com/AliciaSchep) · [Alison
 Appling](https://github.com/aappling-usgs) · [Alison
-Boyer](https://github.com/alisonboyer) · [Amelia
+Boyer](https://github.com/alisonboyer) · [Amanda
+Dobbyn](https://github.com/aedobbyn) · [Amelia
 McNamara](https://github.com/ameliamn) · [Andy
 Teucher](https://github.com/ateucher) · [Bea
 Hernandez](https://github.com/chucheria) · [Ben
@@ -169,7 +139,8 @@ Bond-Lamberty](https://github.com/bpbond) ·
 [bjoelle](https://github.com/bjoelle) · [Bob
 Rudis](https://github.com/hrbrmstr) · [Brooke
 Anderson](https://github.com/geanders) · [Bryce
-Mecum](https://github.com/amoeba) · [Carl
+Mecum](https://github.com/amoeba) · [Cale
+Basaraba](https://github.com/calebasaraba) · [Carl
 Boettiger](https://github.com/cboettig) · [Carl
 Ganz](https://github.com/carlganz) · [Christophe
 Dervieux](https://github.com/cderv) · [Claudia
@@ -189,7 +160,7 @@ Dunné](https://github.com/FvD) · [Gabe
 Becker](https://github.com/gmbecker) · [Gaurav
 Sood](https://github.com/soodoku) · [Hao
 Zhu](https://github.com/haozhu233) · [Hazel
-Kavılı](https://github.com/UniversalTourist) ·
+Kavili](https://github.com/UniversalTourist) ·
 [isteves](https://github.com/isteves) · [Ivan
 Hanigan](https://github.com/ivanhanigan) · [Jakub
 Nowosad](https://github.com/Nowosad) · [Jason
@@ -213,12 +184,10 @@ Ushey](https://github.com/kevinushey) · [Laura
 DeCicco](https://github.com/ldecicco-usgs) · [Laura
 Graham](https://github.com/laurajanegraham) · [Lauren
 Yamane](https://github.com/layamane) · [Leah
-Wasser](https://github.com/lwasser) · [Lincoln
-Mullen](https://github.com/lmullen) · [Lorenzo
+Wasser](https://github.com/lwasser) · [Lorenzo
 Busetto](https://github.com/lbusett) · [Luke
 Winslow](https://github.com/lawinslow) · [Mara
-Averick](https://github.com/batpigandme) · [Mark
-Edmondson](https://github.com/MarkEdmondson1234) · [mark
+Averick](https://github.com/batpigandme) · [mark
 padgham](https://github.com/mpadge) · [Matt
 Mulvahill](https://github.com/mmulvahill) · [Michael
 Kane](https://github.com/kaneplusplus) · [Michael
@@ -238,7 +207,8 @@ Supp](https://github.com/sarahsupp) · [Sean
 Hughes](https://github.com/seaaan) · [Soumya
 Kalra](https://github.com/sokal1456) · [Stefan
 Widgren](https://github.com/stewid) · [Stephanie
-Locke](https://github.com/stephlocke) · [Taras
+Locke](https://github.com/stephlocke) · [Suzan
+Baert](https://github.com/suzanbaert) · [Taras
 Zakharko](https://github.com/tzakharko) · [Taylor
 Arnold](https://github.com/statsmaths) · [TD
 James](https://github.com/tdjames1) · [Ted

@@ -64,7 +64,7 @@ rOpenSci's onboarding process is run by:
 We are grateful to the following individuals who have offered up their time and expertise to review packages submitted to rOpenSci.
 
 ```{r reviewers, echo=FALSE, results='asis'}
-editors <- c("Noam Ross", "Scott Chamberlain", "Karthik Ram", "Maëlle Salmon")
+editors <- c("Noam Ross", "Scott Chamberlain", "Karthik Ram", "Maëlle Salmon", "Lincoln Mullen", "Anna Krystalli")
 reviewers <- air_get(base = "appZIB8hgtvjoV99D", table = "Reviewers", combined_result = FALSE)
 reviewers2 <- air_get(base = "appZIB8hgtvjoV99D", table = "Reviewers", combined_result = FALSE, offset=get_offset(reviewers))
 reviewers <- rbind(reviewers$fields[, c('name', 'github', 'Reviews')], reviewers2$fields[, c('name', 'github', 'Reviews')])

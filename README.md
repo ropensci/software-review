@@ -136,7 +136,8 @@ Arnold](https://github.com/statsmaths) · [Dean
 Attali](https://github.com/daattali) · [Mara
 Averick](https://github.com/batpigandme) · [Suzan
 Baert](https://github.com/suzanbaert) · [James
-Balamuta](https://github.com/NA) · [Cale
+Balamuta](https://github.com/NA) · [Joëlle
+Barido-Sottani](https://github.com/bjoelle) · [Cale
 Basaraba](https://github.com/calebasaraba) · [John
 Baumgartner](https://github.com/johnbaums) · [Marcus
 Beck](https://github.com/fawda123) · [Gabe
@@ -219,8 +220,8 @@ Niederhut](https://github.com/deniederhut) · [Jakub
 Nowosad](https://github.com/Nowosad) · [Paul
 Oldham](https://github.com/poldham) · [Jeroen
 Ooms](https://github.com/jeroen) · [Philipp
-Ottolinger](https://github.com/ottlngr) · [mark
-padgham](https://github.com/mpadge) · [Edzer
+Ottolinger](https://github.com/ottlngr) · [Mark
+Padgham](https://github.com/mpadge) · [Edzer
 Pebesma](https://github.com/edzer) · [Nistara
 Randhawa](https://github.com/nistara) · [Neal
 Richardson](https://github.com/nealrichardson) · [tyler
@@ -261,5 +262,4 @@ Woo](https://github.com/karawoo) · [Lauren
 Yamane](https://github.com/layamane) · [Taras
 Zakharko](https://github.com/tzakharko) · [Hao
 Zhu](https://github.com/haozhu233) · [Naupaka
-Zimmerman](https://github.com/naupaka) ·
-[bjoelle](https://github.com/bjoelle)
+Zimmerman](https://github.com/naupaka)

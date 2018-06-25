@@ -191,7 +191,7 @@ James](https://github.com/tdjames1) · [Soumya
 Kalra](https://github.com/sokal1456) · [Michael
 Kane](https://github.com/kaneplusplus) · [Andee
 Kaplan](https://github.com/andeek) · [Hazel
-Kavili](https://github.com/UniversalTourist) · [Oliver
+Kavili](https://github.com/UniversalTourist) · [Os
 Keyes](https://github.com/Ironholds) · [Michael
 Koontz](https://github.com/mikoontz) · [Anna
 Krystalli](https://github.com/annakrystalli) · [Erin

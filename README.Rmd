@@ -99,7 +99,7 @@ rOpenSci's onboarding process is run by:
 * [Noam Ross](https://github.com/noamross), EcoHealth Alliance
 * [Scott Chamberlain](https://github.com/sckott), rOpenSci
 * [Karthik Ram](https://github.com/karthik), rOpenSci
-* [MaÃ«lle Salmon](https://github.com/maelle), rOpenSci
+* [Maëlle Salmon](https://github.com/maelle), rOpenSci
 * [Lincoln Mullen](https://github.com/lmullen), George Mason University
 * [Anna Krystalli](https://github.com/annakrystalli), University of Sheffield RSE
 
@@ -108,12 +108,16 @@ rOpenSci's onboarding process is run by:
 We are grateful to the following individuals who have offered up their time and expertise to review packages submitted to rOpenSci.
 
 ```{r reviewers, echo=FALSE, results='asis'}
-editors <- c("Noam Ross", "Scott Chamberlain", "Karthik Ram", "MaÃ«lle Salmon", "Lincoln Mullen", "Anna Krystalli")
-reviewers <- air_get(base = "appZIB8hgtvjoV99D", table = "Reviewers", combined_result = FALSE)
-reviewers2 <- air_get(base = "appZIB8hgtvjoV99D", table = "Reviewers", combined_result = FALSE, offset=get_offset(reviewers))
-reviewers <- rbind(reviewers$fields[, c('name', 'github', 'Reviews')], reviewers2$fields[, c('name', 'github', 'Reviews')])
-reviewers <- reviewers[map_lgl(reviewers$Reviews, ~!is.null(.)) & !(reviewers$name %in% c(editors, "???")), ]
-reviewers <- reviewers[order(reviewers$name), ]
+editors <- c("Noam Ross", "Scott Chamberlain", "Karthik Ram", "Maëlle Salmon")
+reviewers <- airtabler::airtable(base = "appZIB8hgtvjoV99D", 
+                                table = "Reviewers")
+reviewers <- reviewers$Reviewers$select_all()
+reviewers <- reviewers[map_lgl(reviewers$Reviews, 
+                               ~!is.null(.)) & 
+                         !(reviewers$name %in% c(editors, "???")), ]
+# get last names
+last_names <- humaniformat::last_name(trimws(reviewers$name))
+reviewers <- reviewers[order(last_names), ]
 cat(paste0("[", reviewers$name, "](https://github.com/", reviewers$github, ")", collapse = " \U00B7 "))
 ```
 

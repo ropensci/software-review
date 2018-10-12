@@ -56,7 +56,7 @@ This README is a short intro to onboarding for you as a potential author or revi
     
 If you want to submit a package, read our [guide for authors](https://ropensci.github.io/dev_guide/onboarding-guide-for-authors.html) before opening a submission issue in this repository.
 
-## <a href="#why-review" name="why-review"></a>Why and how review packages for rOpenSci?
+## <a href="#why-review" name="why-review"></a>Why and to how review packages for rOpenSci?
 
 -   As in any peer-review process, we hope you choose to review **to give back
     to the rOpenSci and scientific communities.**  Our mission to expand

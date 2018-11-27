@@ -171,7 +171,8 @@ Foster](https://github.com/zachary-foster) · [Auriel
 Fournier](https://github.com/aurielfournier) · [Carl
 Ganz](https://github.com/carlganz) · [Duncan
 Garmonsway](https://github.com/nacnudus) · [Sharla
-Gelfand](https://github.com/sharlagelfand) · [David
+Gelfand](https://github.com/sharlagelfand) · [Duncan
+Gillespie](https://github.com/dosgillespie) · [David
 Gohel](https://github.com/davidgohel) · [Laura
 Graham](https://github.com/laurajanegraham) · [Charles
 Gray](https://github.com/softloud) · [Corinna
@@ -198,7 +199,8 @@ Kane](https://github.com/kaneplusplus) · [Andee
 Kaplan](https://github.com/andeek) · [Hazel
 Kavılı](https://github.com/UniversalTourist) · [Os
 Keyes](https://github.com/Ironholds) · [Michael
-Koontz](https://github.com/mikoontz) · [Anna
+Koontz](https://github.com/mikoontz) · [Bianca
+Kramer](https://github.com/bmkramer) · [Anna
 Krystalli](https://github.com/annakrystalli) · [Will
 Landau](https://github.com/wlandau) · [Erin
 LeDell](https://github.com/ledell) · [Thomas
@@ -228,8 +230,11 @@ Nowosad](https://github.com/Nowosad) · [Paul
 Oldham](https://github.com/poldham) · [Jeroen
 Ooms](https://github.com/jeroen) · [Philipp
 Ottolinger](https://github.com/ottlngr) · [Mark
-Padgham](https://github.com/mpadge) · [Edzer
-Pebesma](https://github.com/edzer) · [Nistara
+Padgham](https://github.com/mpadge) · [Marina
+Papadopoulou](https://github.com/marinapapa) · [Edzer
+Pebesma](https://github.com/edzer) · [Thomas Lin
+Pedersen](https://github.com/thomasp85) · [Etienne
+Racine](https://github.com/etiennebr) · [Nistara
 Randhawa](https://github.com/nistara) · [Neal
 Richardson](https://github.com/nealrichardson) · [tyler
 rinker](https://github.com/trinker) · [Emily

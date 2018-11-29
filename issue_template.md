@@ -1,11 +1,11 @@
-Submitting Author: Name (@github_handle)
-Repository: 
-Version submitted: 
-Editor: TBD
-Reviewer 1: TBD
-Reviewer 2: TBD
-Archive: TBD
-Version accepted: TBD 
+Submitting Author: Name (@github_handle)  
+Repository:   
+Version submitted:   
+Editor: TBD  
+Reviewer 1: TBD  
+Reviewer 2: TBD  
+Archive: TBD  
+Version accepted: TBD   
 
 ---
 

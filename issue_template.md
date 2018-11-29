@@ -15,6 +15,9 @@ Version accepted: TBD
 
 ```
 
+
+## Scope 
+
 - Please indicate which category or categories from our [package fit policies](https://ropensci.github.io/dev_guide/policies.html#package-categories) this package falls under ***and why**(? (Please check an appropriate box below. If you are unsure, we suggest you make a pre-submission inquiry.):
 
 	- [ ] data retrieval
@@ -44,7 +47,7 @@ Confirm each of the following by checking the box.  This package:
 - [ ] has a test suite.
 - [ ] has continuous integration, including reporting of test coverage using services such as Travis CI, Coveralls and/or CodeCov.
 
-#### Publication options
+## Publication options
 
 - [ ] Do you intend for this package to go on CRAN?  
 - [ ] Do you wish to automatically submit to the [Journal of Open Source Software](http://joss.theoj.org/)? If so:

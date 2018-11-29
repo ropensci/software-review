@@ -52,7 +52,7 @@ Confirm each of the following by checking the box.  This package:
 <details>
  <summary>JOSS Options</summary>  
 
-    - [ ] The package has an **obvious research application** according to [JOSS's definition](https://joss.readthedocs.io/en/latest/submitting.html#submission-requirements).
+  - [ ] The package has an **obvious research application** according to [JOSS's definition](https://joss.readthedocs.io/en/latest/submitting.html#submission-requirements).
     - [ ] The package contains a `paper.md` matching [JOSS's requirements](https://joss.readthedocs.io/en/latest/submitting.html#what-should-my-paper-contain) with a high-level description in the package root or in `inst/`.
     - [ ] The package is deposited in a long-term repository with the DOI: 
     - (*Do not submit your package separately to JOSS*)  

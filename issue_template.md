@@ -28,6 +28,8 @@ Version accepted: TBD
 	- [ ] reproducibility
 	- [ ] geospatial data
 	- [ ] text analysis
+	
+	- Explain how the and why the package falls under these categories (briefly, 1-2 sentences):
 
 
 -   Who is the target audience and what are scientific applications of this package?  

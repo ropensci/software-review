@@ -38,6 +38,7 @@ Version accepted: TBD
 
 -   If you made a pre-submission enquiry, please paste the link to the corresponding issue, forum post, or other discussion, or @tag the editor you contacted.
 
+## Technical checks
 
 Confirm each of the following by checking the box.  This package:
 

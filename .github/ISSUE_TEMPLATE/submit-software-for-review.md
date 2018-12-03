@@ -83,6 +83,7 @@ Confirm each of the following by checking the box.  This package:
 - (*Scope: Do consider MEE's [Aims and Scope](http://besjournals.onlinelibrary.wiley.com/hub/journal/10.1111/(ISSN)2041-210X/aims-and-scope/read-full-aims-and-scope.html) for your manuscript. We make no guarantee that your manuscript will be within MEE scope.*)
 - (*Although not required, we strongly recommend having a full manuscript prepared when you submit here.*)
 - (*Please do not submit your package separately to Methods in Ecology and Evolution*)
+
 </details>
 
 ## Code of conduct

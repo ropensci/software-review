@@ -7,7 +7,6 @@ about: Not sure your software fits? Use this template to get a quick response fr
 
 Submitting Author: Name (@github_handle)  
 Repository:   
-Version submitted:   
 
 ---
 

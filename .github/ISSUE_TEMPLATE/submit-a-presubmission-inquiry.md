@@ -31,7 +31,7 @@ Repository:
 	- [ ] text analysis
 	
 
-- Explain how the and why the package falls under these categories (briefly, 1-2 sentences):
+- Explain how the and why the package falls under these categories (briefly, 1-2 sentences).  Please note any areas you are unsure of:
 
 
 -   Who is the target audience and what are scientific applications of this package?  

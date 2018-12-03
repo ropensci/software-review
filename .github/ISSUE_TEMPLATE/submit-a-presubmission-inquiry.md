@@ -19,7 +19,7 @@ Repository:
 
 ## Scope 
 
-- Please indicate which category or categories from our [package fit policies](https://ropensci.github.io/dev_guide/policies.html#package-categories) this package falls under: (Please check an appropriate box below. If you are unsure, we suggest you make a pre-submission inquiry.):
+- Please indicate which category or categories from our [package fit policies](https://ropensci.github.io/dev_guide/policies.html#package-categories) this package falls under: (Please check an appropriate box below.:
 
 	- [ ] data retrieval
 	- [ ] data extraction

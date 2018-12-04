@@ -1,3 +1,9 @@
+---
+name: Submit software for review
+about: Use this template to submit software for review
+
+---
+
 Submitting Author: Name (@github_handle)  
 Repository:   
 Version submitted:   
@@ -35,7 +41,7 @@ Version accepted: TBD
 
 -   Who is the target audience and what are scientific applications of this package?  
 
--   Are there other R packages that accomplish the same thing? If so, how does yours differ or meet [our criteria for best-in-category](https://github.com/ropensci/onboarding/blob/master/policies.md#overlap)?
+-   Are there other R packages that accomplish the same thing? If so, how does yours differ or meet [our criteria for best-in-category](https://ropensci.github.io/dev_guide/policies.html#overlap)?
 
 -   If you made a pre-submission enquiry, please paste the link to the corresponding issue, forum post, or other discussion, or @tag the editor you contacted.
 
@@ -45,11 +51,11 @@ Confirm each of the following by checking the box.  This package:
 
 - [ ] does not violate the Terms of Service of any service it interacts with. 
 - [ ] has a CRAN and OSI accepted license.
-- [ ] contains a README with instructions for installing the development version. 
-- [ ] includes documentation with examples for all functions.
+- [ ] contains a [README with instructions for installing the development version](https://ropensci.github.io/dev_guide/building.html#readme). 
+- [ ] includes [documentation with examples for all functions](https://ropensci.github.io/dev_guide/building.html#documentation).
 - [ ] contains a vignette with examples of its essential functions and uses.
-- [ ] has a test suite.
-- [ ] has continuous integration, including reporting of test coverage using services such as Travis CI, Coveralls and/or CodeCov.
+- [ ] has a [test suite](https://ropensci.github.io/dev_guide/building.html#testing).
+- [ ] has [continuous integration](https://ropensci.github.io/dev_guide/ci.html), including reporting of test coverage using services such as Travis CI, Coveralls and/or CodeCov.
 
 ## Publication options
 
@@ -77,6 +83,7 @@ Confirm each of the following by checking the box.  This package:
 - (*Scope: Do consider MEE's [Aims and Scope](http://besjournals.onlinelibrary.wiley.com/hub/journal/10.1111/(ISSN)2041-210X/aims-and-scope/read-full-aims-and-scope.html) for your manuscript. We make no guarantee that your manuscript will be within MEE scope.*)
 - (*Although not required, we strongly recommend having a full manuscript prepared when you submit here.*)
 - (*Please do not submit your package separately to Methods in Ecology and Evolution*)
+
 </details>
 
 ## Code of conduct

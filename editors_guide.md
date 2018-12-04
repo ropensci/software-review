@@ -1,1 +1,1 @@
-Please refer to https://ropensci.github.io/dev_guide/onboarding-guide-for-editors.html
+Please refer to https://ropensci.github.io/dev_guide/editorguide.html

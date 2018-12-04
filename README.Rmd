@@ -15,14 +15,14 @@ knitr::opts_chunk$set(
 
 ![ropensci](icon_lettering_color.png)
 
-# rOpenSci Onboarding
+# rOpenSci Software Peer Review
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
 Thank you for considering submitting your package to the rOpenSci suite. All
 the packages contributed by community members go through a process of [open peer review](https://ropensci.org/blog/2017/09/01/nf-softwarereview/) to ensure a consistent level of quality for our users. This process also allows us to ensure that your package meets our guidelines and provides opportunity for discussion where exceptions are requested. 
 
-This README is a short intro to onboarding for you as a potential author or reviewer. For more information, consult our [gitbook "rOpenSci Packages: Development, Maintenance, and Peer Review"](https://ropensci.github.io/dev_guide/).
+This README is a short intro to Software Peer Review  for you as a potential author or reviewer. For more information, consult our [gitbook "rOpenSci Packages: Development, Maintenance, and Peer Review"](https://ropensci.github.io/dev_guide/).
 
 **Our [code of conduct](https://ropensci.github.io/dev_guide/policies.html#code-of-conduct) is mandatory for everyone involved in our review process.**
 
@@ -54,7 +54,7 @@ This README is a short intro to onboarding for you as a potential author or revi
     [Journal of Open-Source Software](http://joss.theoj.org/) for fast-tracked
     publication.
     
-If you want to submit a package, read our [guide for authors](https://ropensci.github.io/dev_guide/onboarding-guide-for-authors.html) before opening a submission issue in this repository.
+If you want to submit a package, read our [guide for authors](https://ropensci.github.io/dev_guide/software-peer-review-guide-for-authors.html) before opening a submission issue in this repository.
 
 ## <a href="#why-review" name="why-review"></a>Why and how to review packages for rOpenSci?
 
@@ -73,13 +73,13 @@ If you want to submit a package, read our [guide for authors](https://ropensci.g
 
 To volunteer to be one of our reviewers, just click [here](https://ropensci.org/onboarding/) to fill out a short form providing your contact information and areas or expertise. We are always looking for more reviewers with both general package-writing experience and domain expertise in the fields packages are used for.
 
-Please also read [our guide for reviewers](https://ropensci.github.io/dev_guide/onboarding-guide-for-reviewers.html).
+Please also read [our guide for reviewers](https://ropensci.github.io/dev_guide/reviewerguide.html).
 
 ## <a href="#further" name="further"></a>Further resources
 
 Our [gitbook "rOpenSci Packages: Development, Maintenance, and Peer Review"](https://ropensci.github.io/dev_guide/) also includes:
 
-* [a guide for editors](https://ropensci.github.io/dev_guide/onboarding-guide-for-editors.html)
+* [a guide for editors](https://ropensci.github.io/dev_guide/editorguide.html)
 
 * [our policies](https://ropensci.github.io/dev_guide/policies.html)
 
@@ -88,13 +88,13 @@ Our [gitbook "rOpenSci Packages: Development, Maintenance, and Peer Review"](htt
 * different templates: [review template](https://ropensci.github.io/dev_guide/reviewtemplate.html), [editor's template](https://ropensci.github.io/dev_guide/editortemplate.html), [review request template](https://ropensci.github.io/dev_guide/reviewrequesttemplate.html).
 
 Our review process is always in development, and we encourage feedback and discussion
-on how to improve the process on our [forum](https://discuss.ropensci.org/) and in the [ropensci/onboarding-meta issue tracker](https://github.com/ropensci/onboarding-meta/issues).
+on how to improve the process on our [forum](https://discuss.ropensci.org/) and in the [ropensci/software-review-meta issue tracker](https://github.com/ropensci/software-review-meta/issues).
 
 # <a href="#editors" name="editors"></a> Editors and reviewers
 
 ### Associate editors
 
-rOpenSci's onboarding process is run by:
+rOpenSci's Software Peer Review process is run by:
 
 * [Noam Ross](https://github.com/noamross), EcoHealth Alliance
 * [Scott Chamberlain](https://github.com/sckott), rOpenSci

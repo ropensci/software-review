@@ -1,7 +1,7 @@
 
 ![ropensci](icon_lettering_color.png)
 
-# rOpenSci Onboarding
+# rOpenSci Software Peer Review
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
@@ -13,9 +13,9 @@ ensure a consistent level of quality for our users. This process also
 allows us to ensure that your package meets our guidelines and provides
 opportunity for discussion where exceptions are requested.
 
-This README is a short intro to onboarding for you as a potential author
-or reviewer. For more information, consult our [gitbook “rOpenSci
-Packages: Development, Maintenance, and Peer
+This README is a short intro to Software Peer Review for you as a
+potential author or reviewer. For more information, consult our [gitbook
+“rOpenSci Packages: Development, Maintenance, and Peer
 Review”](https://ropensci.github.io/dev_guide/).
 
 **Our [code of
@@ -54,7 +54,7 @@ reviewers](#editors)
     Software](http://joss.theoj.org/) for fast-tracked publication.
 
 If you want to submit a package, read our [guide for
-authors](https://ropensci.github.io/dev_guide/onboarding-guide-for-authors.html)
+authors](https://ropensci.github.io/dev_guide/software-peer-review-guide-for-authors.html)
 before opening a submission issue in this
 repository.
 
@@ -81,7 +81,7 @@ looking for more reviewers with both general package-writing experience
 and domain expertise in the fields packages are used for.
 
 Please also read [our guide for
-reviewers](https://ropensci.github.io/dev_guide/onboarding-guide-for-reviewers.html).
+reviewers](https://ropensci.github.io/dev_guide/reviewerguide.html).
 
 ## <a href="#further" name="further"></a>Further resources
 
@@ -89,7 +89,7 @@ Our [gitbook “rOpenSci Packages: Development, Maintenance, and Peer
 Review”](https://ropensci.github.io/dev_guide/) also includes:
 
   - [a guide for
-    editors](https://ropensci.github.io/dev_guide/onboarding-guide-for-editors.html)
+    editors](https://ropensci.github.io/dev_guide/editorguide.html)
 
   - [our policies](https://ropensci.github.io/dev_guide/policies.html)
 
@@ -105,14 +105,14 @@ Review”](https://ropensci.github.io/dev_guide/) also includes:
 Our review process is always in development, and we encourage feedback
 and discussion on how to improve the process on our
 [forum](https://discuss.ropensci.org/) and in the
-[ropensci/onboarding-meta issue
-tracker](https://github.com/ropensci/onboarding-meta/issues).
+[ropensci/software-review-meta issue
+tracker](https://github.com/ropensci/software-review-meta/issues).
 
 # <a href="#editors" name="editors"></a> Editors and reviewers
 
 ### Associate editors
 
-rOpenSci’s onboarding process is run by:
+rOpenSci’s Software Peer Review process is run by:
 
   - [Noam Ross](https://github.com/noamross), EcoHealth Alliance
   - [Scott Chamberlain](https://github.com/sckott), rOpenSci
@@ -197,7 +197,7 @@ Joseph](https://github.com/mbjoseph) · [Soumya
 Kalra](https://github.com/sokal1456) · [Michael
 Kane](https://github.com/kaneplusplus) · [Andee
 Kaplan](https://github.com/andeek) · [Hazel
-Kavılı](https://github.com/UniversalTourist) · [Os
+Kavili](https://github.com/UniversalTourist) · [Os
 Keyes](https://github.com/Ironholds) · [Michael
 Koontz](https://github.com/mikoontz) · [Bianca
 Kramer](https://github.com/bmkramer) · [Anna
@@ -277,5 +277,6 @@ Winter](https://github.com/dwinter) · [Kara
 Woo](https://github.com/karawoo) · [Lauren
 Yamane](https://github.com/layamane) · [Taras
 Zakharko](https://github.com/tzakharko) · [Hao
-Zhu](https://github.com/haozhu233) · [Naupaka
+Zhu](https://github.com/haozhu233) · [Chava
+Zibman](https://github.com/czibman) · [Naupaka
 Zimmerman](https://github.com/naupaka)

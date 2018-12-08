@@ -122,6 +122,9 @@ rOpenSci’s Software Peer Review process is run by:
     University
   - [Anna Krystalli](https://github.com/annakrystalli), University of
     Sheffield RSE
+  - [Melina Vidoni](https://github.com/melvidoni), INGAR CONICET-UTN
+  - [Brooke Anderson](https://github.com/geanders), Colorado State
+    University
 
 ### Reviewers
 
@@ -189,7 +192,8 @@ Hernandez](https://github.com/chucheria) · [Jim
 Hester](https://github.com/jimhester) · [Peter
 Hickey](https://github.com/PeteHaitch) · [Roel M.
 Hogervorst](https://github.com/rmhogervorst) · [Jeff
-Hollister](https://github.com/jhollist) · [Sean
+Hollister](https://github.com/jhollist) · [Kelly
+Hondula](https://github.com/khondula) · [Sean
 Hughes](https://github.com/seaaan) · [Najko
 Jahn](https://github.com/njahn82) · [Tamora D
 James](https://github.com/tdjames1) · [Max
@@ -197,7 +201,7 @@ Joseph](https://github.com/mbjoseph) · [Soumya
 Kalra](https://github.com/sokal1456) · [Michael
 Kane](https://github.com/kaneplusplus) · [Andee
 Kaplan](https://github.com/andeek) · [Hazel
-Kavili](https://github.com/UniversalTourist) · [Os
+Kavılı](https://github.com/UniversalTourist) · [Os
 Keyes](https://github.com/Ironholds) · [Michael
 Koontz](https://github.com/mikoontz) · [Bianca
 Kramer](https://github.com/bmkramer) · [Anna
@@ -235,7 +239,8 @@ Papadopoulou](https://github.com/marinapapa) · [Edzer
 Pebesma](https://github.com/edzer) · [Thomas Lin
 Pedersen](https://github.com/thomasp85) · [Etienne
 Racine](https://github.com/etiennebr) · [Nistara
-Randhawa](https://github.com/nistara) · [Neal
+Randhawa](https://github.com/nistara) · [David
+Ranzolin](https://github.com/daranzolin) · [Neal
 Richardson](https://github.com/nealrichardson) · [tyler
 rinker](https://github.com/trinker) · [Emily
 Robinson](https://github.com/robinsones) · [Bob

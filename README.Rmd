@@ -102,6 +102,8 @@ rOpenSci's Software Peer Review process is run by:
 * [Maëlle Salmon](https://github.com/maelle), rOpenSci
 * [Lincoln Mullen](https://github.com/lmullen), George Mason University
 * [Anna Krystalli](https://github.com/annakrystalli), University of Sheffield RSE
+* [Melina Vidoni](https://github.com/melvidoni), INGAR CONICET-UTN
+* [Brooke Anderson](https://github.com/geanders), Colorado State University
 
 ### Reviewers
 

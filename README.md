@@ -131,8 +131,7 @@ rOpenSci’s Software Peer Review process is run by:
 We are grateful to the following individuals who have offered up their
 time and expertise to review packages submitted to rOpenSci.
 
-[Toph Allen](https://github.com/toph-allen) · [Brooke
-Anderson](https://github.com/geanders) · [Alison
+[Toph Allen](https://github.com/toph-allen) · [Alison
 Appling](https://github.com/aappling-usgs) · [Zebulun
 Arendsee](https://github.com/arendsee) · [Taylor
 Arnold](https://github.com/statsmaths) · [Dean
@@ -201,7 +200,7 @@ Joseph](https://github.com/mbjoseph) · [Soumya
 Kalra](https://github.com/sokal1456) · [Michael
 Kane](https://github.com/kaneplusplus) · [Andee
 Kaplan](https://github.com/andeek) · [Hazel
-Kavılı](https://github.com/UniversalTourist) · [Os
+Kavili](https://github.com/UniversalTourist) · [Os
 Keyes](https://github.com/Ironholds) · [Michael
 Koontz](https://github.com/mikoontz) · [Bianca
 Kramer](https://github.com/bmkramer) · [Anna

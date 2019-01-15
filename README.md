@@ -54,7 +54,7 @@ reviewers](#editors)
     Software](http://joss.theoj.org/) for fast-tracked publication.
 
 If you want to submit a package, read our [guide for
-authors](https://ropensci.github.io/dev_guide/software-peer-review-guide-for-authors.html)
+authors](https://ropensci.github.io/dev_guide/guide-for-authors.html)
 before opening a submission issue in this
 repository.
 
@@ -200,7 +200,7 @@ Joseph](https://github.com/mbjoseph) · [Soumya
 Kalra](https://github.com/sokal1456) · [Michael
 Kane](https://github.com/kaneplusplus) · [Andee
 Kaplan](https://github.com/andeek) · [Hazel
-Kavili](https://github.com/UniversalTourist) · [Os
+Kavılı](https://github.com/UniversalTourist) · [Os
 Keyes](https://github.com/Ironholds) · [Michael
 Koontz](https://github.com/mikoontz) · [Bianca
 Kramer](https://github.com/bmkramer) · [Anna
@@ -240,10 +240,12 @@ Pedersen](https://github.com/thomasp85) · [Etienne
 Racine](https://github.com/etiennebr) · [Nistara
 Randhawa](https://github.com/nistara) · [David
 Ranzolin](https://github.com/daranzolin) · [Neal
-Richardson](https://github.com/nealrichardson) · [tyler
+Richardson](https://github.com/nealrichardson) · [Emily
+Riederer](https://github.com/emilyriederer) · [tyler
 rinker](https://github.com/trinker) · [Emily
 Robinson](https://github.com/robinsones) · [Bob
-Rudis](https://github.com/hrbrmstr) · [Kent
+Rudis](https://github.com/hrbrmstr) · [Edgar
+Ruiz](https://github.com/edgararuiz) · [Kent
 Russel](https://github.com/timelyportfolio) · [Francisco Rodriguez
 Sanchez](https://github.com/Pakillo) · [Alicia
 Schep](https://github.com/AliciaSchep) · [Marco

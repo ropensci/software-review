@@ -1,0 +1,11 @@
+Package: placeholder
+Type: Website
+Title: rOpenSci Software Peer Review
+Version: 0.0.1
+Imports:
+  airtabler,
+  purrr,
+  humaniformat,
+  rmarkdown
+Remotes: 
+  bergant/airtabler

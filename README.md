@@ -1,5 +1,6 @@
 
-![ropensci](icon_lettering_color.png)
+![ropensci](icon_lettering_color.png) [![Build
+Status](https://travis-ci.org/ropensci/software-review.svg?branch=master)](https://travis-ci.org/ropensci/software-review)
 
 # rOpenSci Software Peer Review
 

@@ -1,8 +1,10 @@
 
-![ropensci](icon_lettering_color.png) [![Build
-Status](https://travis-ci.org/ropensci/software-review.svg?branch=master)](https://travis-ci.org/ropensci/software-review)
+![ropensci](icon_lettering_color.png)
 
 # rOpenSci Software Peer Review
+
+[![Build
+Status](https://travis-ci.org/ropensci/software-review.svg?branch=master)](https://travis-ci.org/ropensci/software-review)
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 

@@ -21,9 +21,8 @@ potential author or reviewer. For more information, consult our [gitbook
 “rOpenSci Packages: Development, Maintenance, and Peer
 Review”](https://ropensci.github.io/dev_guide/).
 
-**Our [code of
-conduct](https://ropensci.github.io/dev_guide/policies.html#code-of-conduct)
-is mandatory for everyone involved in our review process.**
+**Our [code of conduct](https://ropensci.org/code-of-conduct/) is
+mandatory for everyone involved in our review process.**
 
   - [Why and how submit your package to rOpenSci?](#why-submit)
   - [Why and how review for rOpenSci?](#why-review)

@@ -251,7 +251,8 @@ Ruiz](https://github.com/edgararuiz) · [Kent
 Russel](https://github.com/timelyportfolio) · [Francisco Rodriguez
 Sanchez](https://github.com/Pakillo) · [Alicia
 Schep](https://github.com/AliciaSchep) · [Marco
-Sciaini](https://github.com/marcosci) · [Julia
+Sciaini](https://github.com/marcosci) · [Heidi
+Seibold](https://github.com/HeidiSeibold) · [Julia
 Silge](https://github.com/juliasilge) · [Margaret
 Siple](https://github.com/mcsiple) · [Peter
 Slaughter](https://github.com/gothub) · [Mike

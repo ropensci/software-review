@@ -195,7 +195,8 @@ Hickey](https://github.com/PeteHaitch) · [Roel M.
 Hogervorst](https://github.com/rmhogervorst) · [Jeff
 Hollister](https://github.com/jhollist) · [Kelly
 Hondula](https://github.com/khondula) · [Sean
-Hughes](https://github.com/seaaan) · [Najko
+Hughes](https://github.com/seaaan) · [Brandon
+Hurr](https://github.com/bhive01) · [Najko
 Jahn](https://github.com/njahn82) · [Tamora D
 James](https://github.com/tdjames1) · [Max
 Joseph](https://github.com/mbjoseph) · [Soumya

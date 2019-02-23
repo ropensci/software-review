@@ -232,7 +232,8 @@ Mounce](https://github.com/rossmounce) · [Lincoln
 Mullen](https://github.com/lmullen) · [Matt
 Mulvahill](https://github.com/mmulvahill) · [Dillon
 Niederhut](https://github.com/deniederhut) · [Jakub
-Nowosad](https://github.com/Nowosad) · [Paul
+Nowosad](https://github.com/Nowosad) · [Daniel
+Nüst](https://github.com/nuest) · [Paul
 Oldham](https://github.com/poldham) · [Jeroen
 Ooms](https://github.com/jeroen) · [Philipp
 Ottolinger](https://github.com/ottlngr) · [Mark

@@ -88,4 +88,4 @@ Confirm each of the following by checking the box.  This package:
 
 ## Code of conduct
 
-- [ ] I agree to abide by [ROpenSci's Code of Conduct](https://ropensci.github.io/dev_guide/policies.html#code-of-conduct) during the review process and in maintaining my package should it be accepted.
+- [ ] I agree to abide by [rOpenSci's Code of Conduct](https://ropensci.github.io/dev_guide/policies.html#code-of-conduct) during the review process and in maintaining my package should it be accepted.

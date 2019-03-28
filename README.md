@@ -236,7 +236,8 @@ Mulvahill](https://github.com/mmulvahill) · [Dillon
 Niederhut](https://github.com/deniederhut) · [Jakub
 Nowosad](https://github.com/Nowosad) · [Daniel
 Nüst](https://github.com/nuest) · [Paul
-Oldham](https://github.com/poldham) · [Jeroen
+Oldham](https://github.com/poldham) · [Samantha
+Oliver](https://github.com/limnoliver) · [Jeroen
 Ooms](https://github.com/jeroen) · [Philipp
 Ottolinger](https://github.com/ottlngr) · [Mark
 Padgham](https://github.com/mpadge) · [Marina

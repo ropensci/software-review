@@ -288,7 +288,8 @@ Wasser](https://github.com/lwasser) · [Stefan
 Widgren](https://github.com/stewid) · [Luke
 Winslow](https://github.com/lawinslow) · [David
 Winter](https://github.com/dwinter) · [Kara
-Woo](https://github.com/karawoo) · [Lauren
+Woo](https://github.com/karawoo) · [Bruna
+Wundervald](https://github.com/brunaw) · [Lauren
 Yamane](https://github.com/layamane) · [Taras
 Zakharko](https://github.com/tzakharko) · [Hao
 Zhu](https://github.com/haozhu233) · [Chava

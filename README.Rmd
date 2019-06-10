@@ -24,7 +24,7 @@ knitr::opts_chunk$set(
 Thank you for considering submitting your package to the rOpenSci suite. All
 the packages contributed by community members go through a process of [open peer review](https://ropensci.org/blog/2017/09/01/nf-softwarereview/) to ensure a consistent level of quality for our users. This process also allows us to ensure that your package meets our guidelines and provides opportunity for discussion where exceptions are requested. 
 
-This README is a short intro to Software Peer Review  for you as a potential author or reviewer. For more information, consult our [gitbook "rOpenSci Packages: Development, Maintenance, and Peer Review"](https://ropensci.github.io/dev_guide/).
+This README is a short intro to Software Peer Review  for you as a potential author or reviewer. For more information, consult our [gitbook "rOpenSci Packages: Development, Maintenance, and Peer Review"](https://devguide.ropensci.org/).
 
 **Our [code of conduct](https://ropensci.org/code-of-conduct/) is mandatory for everyone involved in our review process.**
 
@@ -56,7 +56,7 @@ This README is a short intro to Software Peer Review  for you as a potential aut
     [Journal of Open-Source Software](http://joss.theoj.org/) for fast-tracked
     publication.
     
-If you want to submit a package, read our [guide for authors](https://ropensci.github.io/dev_guide/guide-for-authors.html) before opening a submission issue in this repository.
+If you want to submit a package, read our [guide for authors](https://devguide.ropensci.org/guide-for-authors.html) before opening a submission issue in this repository.
 
 ## <a href="#why-review" name="why-review"></a>Why and how to review packages for rOpenSci?
 
@@ -75,19 +75,19 @@ If you want to submit a package, read our [guide for authors](https://ropensci.g
 
 To volunteer to be one of our reviewers, just click [here](https://ropensci.org/onboarding/) to fill out a short form providing your contact information and areas or expertise. We are always looking for more reviewers with both general package-writing experience and domain expertise in the fields packages are used for.
 
-Please also read [our guide for reviewers](https://ropensci.github.io/dev_guide/reviewerguide.html).
+Please also read [our guide for reviewers](https://devguide.ropensci.org/reviewerguide.html).
 
 ## <a href="#further" name="further"></a>Further resources
 
-Our [gitbook "rOpenSci Packages: Development, Maintenance, and Peer Review"](https://ropensci.github.io/dev_guide/) also includes:
+Our [gitbook "rOpenSci Packages: Development, Maintenance, and Peer Review"](https://devguide.ropensci.org/) also includes:
 
-* [a guide for editors](https://ropensci.github.io/dev_guide/editorguide.html)
+* [a guide for editors](https://devguide.ropensci.org/editorguide.html)
 
-* [our policies](https://ropensci.github.io/dev_guide/policies.html)
+* [our policies](https://devguide.ropensci.org/policies.html)
 
 * chapters dedicating to good practice for package maintenance
 
-* different templates: [review template](https://ropensci.github.io/dev_guide/reviewtemplate.html), [editor's template](https://ropensci.github.io/dev_guide/editortemplate.html), [review request template](https://ropensci.github.io/dev_guide/reviewrequesttemplate.html).
+* different templates: [review template](https://devguide.ropensci.org/reviewtemplate.html), [editor's template](https://devguide.ropensci.org/editortemplate.html), [review request template](https://devguide.ropensci.org/reviewrequesttemplate.html).
 
 Our review process is always in development, and we encourage feedback and discussion
 on how to improve the process on our [forum](https://discuss.ropensci.org/) and in the [ropensci/software-review-meta issue tracker](https://github.com/ropensci/software-review-meta/issues).

@@ -40,7 +40,7 @@ This README is a short intro to Software Peer Review  for you as a potential aut
     and for our review process to be open, non-adversarial, and focused on
     improving software quality.
 -   Once aboard, your package will continue to receive **support from rOpenSci
-    members**.  You'll retain ownership  and control of of your package, but we
+    members**.  You'll retain ownership and control of your package, but we
     can help with ongoing maintenance issues such as those associated with
     updates to R and dependencies and CRAN policies.
 -   rOpenSci will **promote your package** through our [web

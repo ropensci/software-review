@@ -19,7 +19,7 @@ opportunity for discussion where exceptions are requested.
 This README is a short intro to Software Peer Review for you as a
 potential author or reviewer. For more information, consult our [gitbook
 “rOpenSci Packages: Development, Maintenance, and Peer
-Review”](https://ropensci.github.io/dev_guide/).
+Review”](https://devguide.ropensci.org/).
 
 **Our [code of conduct](https://ropensci.org/code-of-conduct/) is
 mandatory for everyone involved in our review process.**
@@ -37,7 +37,7 @@ reviewers](#editors)
     feedback to package authors and for our review process to be open,
     non-adversarial, and focused on improving software quality.
   - Once aboard, your package will continue to receive **support from
-    rOpenSci members**. You’ll retain ownership and control of of your
+    rOpenSci members**. You’ll retain ownership and control of your
     package, but we can help with ongoing maintenance issues such as
     those associated with updates to R and dependencies and CRAN
     policies.
@@ -56,8 +56,8 @@ reviewers](#editors)
     Software](http://joss.theoj.org/) for fast-tracked publication.
 
 If you want to submit a package, read our [guide for
-authors](https://ropensci.github.io/dev_guide/guide-for-authors.html)
-before opening a submission issue in this
+authors](https://devguide.ropensci.org/guide-for-authors.html) before
+opening a submission issue in this
 repository.
 
 ## <a href="#why-review" name="why-review"></a>Why and how to review packages for rOpenSci?
@@ -83,26 +83,26 @@ looking for more reviewers with both general package-writing experience
 and domain expertise in the fields packages are used for.
 
 Please also read [our guide for
-reviewers](https://ropensci.github.io/dev_guide/reviewerguide.html).
+reviewers](https://devguide.ropensci.org/reviewerguide.html).
 
 ## <a href="#further" name="further"></a>Further resources
 
 Our [gitbook “rOpenSci Packages: Development, Maintenance, and Peer
-Review”](https://ropensci.github.io/dev_guide/) also includes:
+Review”](https://devguide.ropensci.org/) also includes:
 
   - [a guide for
-    editors](https://ropensci.github.io/dev_guide/editorguide.html)
+    editors](https://devguide.ropensci.org/editorguide.html)
 
-  - [our policies](https://ropensci.github.io/dev_guide/policies.html)
+  - [our policies](https://devguide.ropensci.org/policies.html)
 
   - chapters dedicating to good practice for package maintenance
 
   - different templates: [review
-    template](https://ropensci.github.io/dev_guide/reviewtemplate.html),
+    template](https://devguide.ropensci.org/reviewtemplate.html),
     [editor’s
-    template](https://ropensci.github.io/dev_guide/editortemplate.html),
+    template](https://devguide.ropensci.org/editortemplate.html),
     [review request
-    template](https://ropensci.github.io/dev_guide/reviewrequesttemplate.html).
+    template](https://devguide.ropensci.org/reviewrequesttemplate.html).
 
 Our review process is always in development, and we encourage feedback
 and discussion on how to improve the process on our
@@ -154,7 +154,8 @@ Benoit](https://github.com/kbenoit) · [Aaron
 Berdanier](https://github.com/berdaniera) · [Carl
 Boettiger](https://github.com/cboettig) · [Ben
 Bond-Lamberty](https://github.com/bpbond) · [Alison
-Boyer](https://github.com/alisonboyer) · [Jenny
+Boyer](https://github.com/alisonboyer) · [François
+Briatte](https://github.com/briatte) · [Jenny
 Bryan](https://github.com/jennybc) · [Lorenzo
 Busetto](https://github.com/lbusett) · [Jorge
 Cimentada](https://github.com/cimentadaj) · [Jon
@@ -169,14 +170,16 @@ Duursma](https://github.com/RemkoDuursma) · [Mark
 Edmondson](https://github.com/MarkEdmondson1234) · [Paul
 Egeler](https://github.com/pegeler) · [Evan
 Eskew](https://github.com/eveskew) · [Manuel
-Fernandez](https://github.com/manuramon) · [Rich
+Fernandez](https://github.com/manuramon) · [Kim
+Fitter](https://github.com/kimnewzealand) · [Rich
 FitzJohn](https://github.com/richfitz) · [Robert
 Flight](https://github.com/rmflight) · [Zachary
 Foster](https://github.com/zachary-foster) · [Auriel
 Fournier](https://github.com/aurielfournier) · [Carl
 Ganz](https://github.com/carlganz) · [Duncan
 Garmonsway](https://github.com/nacnudus) · [Sharla
-Gelfand](https://github.com/sharlagelfand) · [Duncan
+Gelfand](https://github.com/sharlagelfand) · [Monica
+Gerber](https://github.com/monicagerber) · [Duncan
 Gillespie](https://github.com/dosgillespie) · [David
 Gohel](https://github.com/davidgohel) · [Laura
 Graham](https://github.com/laurajanegraham) · [Charles
@@ -188,7 +191,9 @@ Hanigan](https://github.com/ivanhanigan) · [Jeff
 Hanson](https://github.com/jeffreyhanson) · [Ted
 Hart](https://github.com/emhart) · [Nujcharee
 Haswell](https://github.com/nujcharee) · [Verena
-Haunschmid](https://github.com/expectopatronum) · [Rafael Pilliard
+Haunschmid](https://github.com/expectopatronum) · [Andrew
+Heiss](https://github.com/andrewheiss) · [Max
+Held](https://github.com/maxheld83) · [Rafael Pilliard
 Hellwig](https://github.com/rtaph) · [Bea
 Hernandez](https://github.com/chucheria) · [Jim
 Hester](https://github.com/jimhester) · [Peter
@@ -212,7 +217,8 @@ Kramer](https://github.com/bmkramer) · [Anna
 Krystalli](https://github.com/annakrystalli) · [Will
 Landau](https://github.com/wlandau) · [Erin
 LeDell](https://github.com/ledell) · [Thomas
-Leeper](https://github.com/leeper) · [Stephanie
+Leeper](https://github.com/leeper) · [Mauro
+Lepore](https://github.com/maurolepore) · [Stephanie
 Locke](https://github.com/stephlocke) · [Robin
 Lovelace](https://github.com/Robinlovelace) · [Julia Stewart
 Lowndes](https://github.com/jules32) · [Tim
@@ -228,12 +234,13 @@ McVey](https://github.com/eamcvey) · [Bryce
 Mecum](https://github.com/amoeba) · [Francois
 Michonneau](https://github.com/fmichonneau) · [Jessica
 Minnier](https://github.com/jminnier) · [Priscilla
-Minotti](https://github.com/pmnatural) · [Paula
+Minotti](https://github.com/pmnatural) · [Nicole
+Monhait](https://github.com/nmonhait) · [Paula
 Moraga](https://github.com/Paula-Moraga) · [Ross
-Mounce](https://github.com/rossmounce) · [Lincoln
-Mullen](https://github.com/lmullen) · [Matt
+Mounce](https://github.com/rossmounce) · [Matt
 Mulvahill](https://github.com/mmulvahill) · [Dillon
-Niederhut](https://github.com/deniederhut) · [Jakub
+Niederhut](https://github.com/deniederhut) · [Rory
+Nolan](https://github.com/rorynolan) · [Jakub
 Nowosad](https://github.com/Nowosad) · [Daniel
 Nüst](https://github.com/nuest) · [Paul
 Oldham](https://github.com/poldham) · [Samantha
@@ -243,14 +250,16 @@ Ottolinger](https://github.com/ottlngr) · [Mark
 Padgham](https://github.com/mpadge) · [Marina
 Papadopoulou](https://github.com/marinapapa) · [Edzer
 Pebesma](https://github.com/edzer) · [Thomas Lin
-Pedersen](https://github.com/thomasp85) · [Etienne
+Pedersen](https://github.com/thomasp85) · [Nicholas
+Potter](https://github.com/potterzot) · [Etienne
 Racine](https://github.com/etiennebr) · [Nistara
 Randhawa](https://github.com/nistara) · [David
 Ranzolin](https://github.com/daranzolin) · [Neal
 Richardson](https://github.com/nealrichardson) · [Emily
 Riederer](https://github.com/emilyriederer) · [tyler
 rinker](https://github.com/trinker) · [Emily
-Robinson](https://github.com/robinsones) · [Bob
+Robinson](https://github.com/robinsones) · [Xavier
+Rotllan-Puig](https://github.com/xavi-rp) · [Bob
 Rudis](https://github.com/hrbrmstr) · [Edgar
 Ruiz](https://github.com/edgararuiz) · [Kent
 Russel](https://github.com/timelyportfolio) · [Francisco Rodriguez
@@ -261,11 +270,13 @@ Seibold](https://github.com/HeidiSeibold) · [Julia
 Silge](https://github.com/juliasilge) · [Margaret
 Siple](https://github.com/mcsiple) · [Peter
 Slaughter](https://github.com/gothub) · [Mike
-Smith](https://github.com/grimbough) · [Tuija
+Smith](https://github.com/grimbough) · [Frank
+Soboczenski](https://github.com/h21k) · [Tuija
 Sonkkila](https://github.com/tts) · [Gaurav
 Sood](https://github.com/soodoku) · [Adam
 Sparks](https://github.com/adamhsparks) · [Joseph
-Stachelek](https://github.com/jsta) · [Irene
+Stachelek](https://github.com/jsta) · [Christine
+Stawitz](https://github.com/ChristineStawitz-NOAA) · [Irene
 Steves](https://github.com/isteves) · [Michael
 Sumner](https://github.com/mdsumner) · [Sarah
 Supp](https://github.com/sarahsupp) · [Filipe
@@ -278,14 +289,18 @@ Trice](https://github.com/timtrice) · [Ted
 Underwood](https://github.com/tedunderwood) · [Kevin
 Ushey](https://github.com/kevinushey) · [Josef
 Uyeda](https://github.com/uyedaj) · [Frans van
-Dunné](https://github.com/FvD) · [Remi
+Dunné](https://github.com/FvD) · [Mauricio
+Vargas](https://github.com/pachamaltese) · [Remi
 Vergnon](https://github.com/remsamp) · [Claudia
-Vitolo](https://github.com/cvitolo) · [Ben
+Vitolo](https://github.com/cvitolo) · [Jake
+Wagner](https://github.com/jacobpwagner) · [Ben
 Ward](https://github.com/BenJWard) · [Elin
 Waring](https://github.com/elinw) · [Rachel
 Warnock](https://github.com/rachelwarnock) · [Leah
-Wasser](https://github.com/lwasser) · [Stefan
-Widgren](https://github.com/stewid) · [Luke
+Wasser](https://github.com/lwasser) · [Lukas
+Weber](https://github.com/lmweber) · [Stefan
+Widgren](https://github.com/stewid) · [Anna
+Willoughby](https://github.com/arw36) · [Luke
 Winslow](https://github.com/lawinslow) · [David
 Winter](https://github.com/dwinter) · [Kara
 Woo](https://github.com/karawoo) · [Bruna

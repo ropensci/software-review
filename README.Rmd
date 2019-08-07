@@ -112,7 +112,8 @@ rOpenSci's Software Peer Review process is run by:
 We are grateful to the following individuals who have offered up their time and expertise to review packages submitted to rOpenSci.
 
 ```{r reviewers, echo=FALSE, results='asis'}
-editors <- c("Noam Ross", "Scott Chamberlain", "Karthik Ram", "Maëlle Salmon", "Brooke Anderson", "Melina Vidoni")
+editors <- c("Noam Ross", "Scott Chamberlain", "Karthik Ram", "Maëlle Salmon", "Brooke Anderson",
+    "Melina Vidoni", "Lincoln Mullen", "nna Krystalli")
 reviewers <- airtabler::airtable(base = "appZIB8hgtvjoV99D", 
                                 table = "Reviewers")
 reviewers <- reviewers$Reviewers$select_all()
@@ -124,4 +125,3 @@ last_names <- humaniformat::last_name(trimws(reviewers$name))
 reviewers <- reviewers[order(last_names), ]
 cat(paste0("[", reviewers$name, "](https://github.com/", reviewers$github, ")", collapse = " \U00B7 "))
 ```
-

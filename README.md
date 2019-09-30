@@ -151,16 +151,19 @@ Becker](https://github.com/gmbecker) · [Jason
 Becker](https://github.com/jsonbecker) · [Dom
 Bennett](https://github.com/DomBennett) · [Kenneth
 Benoit](https://github.com/kbenoit) · [Aaron
-Berdanier](https://github.com/berdaniera) · [Carl
+Berdanier](https://github.com/berdaniera) · [Fred
+Boehm](https://github.com/fboehm) · [Carl
 Boettiger](https://github.com/cboettig) · [Ben
 Bond-Lamberty](https://github.com/bpbond) · [Alison
 Boyer](https://github.com/alisonboyer) · [François
 Briatte](https://github.com/briatte) · [Jenny
 Bryan](https://github.com/jennybc) · [Lorenzo
 Busetto](https://github.com/lbusett) · [Jorge
-Cimentada](https://github.com/cimentadaj) · [Jon
+Cimentada](https://github.com/cimentadaj) · [Chase
+Clark](https://github.com/chasemc) · [Jon
 Clayden](https://github.com/jonclayden) · [Will
-Cornwell](https://github.com/wcornwell) · [Ildiko
+Cornwell](https://github.com/wcornwell) · [Enrico
+Crema](https://github.com/ercrema) · [Ildiko
 Czeller](https://github.com/czeildi) · [Laura
 DeCicco](https://github.com/ldecicco-usgs) · [Christophe
 Dervieux](https://github.com/cderv) · [Amanda
@@ -188,7 +191,8 @@ Gries](https://github.com/cgries) · [Julia
 Gustavsen](https://github.com/joolia) · [W Kyle
 Hamilton](https://github.com/kylehamilton) · [Ivan
 Hanigan](https://github.com/ivanhanigan) · [Jeff
-Hanson](https://github.com/jeffreyhanson) · [Ted
+Hanson](https://github.com/jeffreyhanson) · [Rayna
+Harris](https://github.com/raynamharris) · [Ted
 Hart](https://github.com/emhart) · [Nujcharee
 Haswell](https://github.com/nujcharee) · [Verena
 Haunschmid](https://github.com/expectopatronum) · [Andrew
@@ -207,7 +211,8 @@ Jahn](https://github.com/njahn82) · [Tamora D
 James](https://github.com/tdjames1) · [Max
 Joseph](https://github.com/mbjoseph) · [Krunoslav
 Juraic](https://github.com/kjuraic) · [Soumya
-Kalra](https://github.com/sokal1456) · [Michael
+Kalra](https://github.com/sokal1456) · [Zhian N.
+Kamvar](https://github.com/zkamvar) · [Michael
 Kane](https://github.com/kaneplusplus) · [Andee
 Kaplan](https://github.com/andeek) · [Hazel
 Kavılı](https://github.com/UniversalTourist) · [Os
@@ -258,13 +263,15 @@ Ranzolin](https://github.com/daranzolin) · [Neal
 Richardson](https://github.com/nealrichardson) · [Emily
 Riederer](https://github.com/emilyriederer) · [tyler
 rinker](https://github.com/trinker) · [Emily
-Robinson](https://github.com/robinsones) · [Xavier
+Robinson](https://github.com/robinsones) · [Julia
+Romanowska](https://github.com/jromanowska) · [Xavier
 Rotllan-Puig](https://github.com/xavi-rp) · [Bob
 Rudis](https://github.com/hrbrmstr) · [Edgar
 Ruiz](https://github.com/edgararuiz) · [Kent
 Russel](https://github.com/timelyportfolio) · [Francisco Rodriguez
 Sanchez](https://github.com/Pakillo) · [Alicia
-Schep](https://github.com/AliciaSchep) · [Marco
+Schep](https://github.com/AliciaSchep) · [Clemens
+Schmid](https://github.com/nevrome) · [Marco
 Sciaini](https://github.com/marcosci) · [Heidi
 Seibold](https://github.com/HeidiSeibold) · [Julia
 Silge](https://github.com/juliasilge) · [Margaret
@@ -279,7 +286,8 @@ Stachelek](https://github.com/jsta) · [Christine
 Stawitz](https://github.com/ChristineStawitz-NOAA) · [Irene
 Steves](https://github.com/isteves) · [Michael
 Sumner](https://github.com/mdsumner) · [Sarah
-Supp](https://github.com/sarahsupp) · [Filipe
+Supp](https://github.com/sarahsupp) · [Jason
+Taylor](https://github.com/jmt2080ad) · [Filipe
 Teixeira](https://github.com/FilipeamTeixeira) · [Andy
 Teucher](https://github.com/ateucher) · [Jennifer
 Thompson](https://github.com/jenniferthompson) · [Joe
@@ -298,7 +306,8 @@ Ward](https://github.com/BenJWard) · [Elin
 Waring](https://github.com/elinw) · [Rachel
 Warnock](https://github.com/rachelwarnock) · [Leah
 Wasser](https://github.com/lwasser) · [Lukas
-Weber](https://github.com/lmweber) · [Stefan
+Weber](https://github.com/lmweber) · [Karissa
+Whiting](https://github.com/karissawhiting) · [Stefan
 Widgren](https://github.com/stewid) · [Anna
 Willoughby](https://github.com/arw36) · [Luke
 Winslow](https://github.com/lawinslow) · [David
@@ -309,4 +318,5 @@ Yamane](https://github.com/layamane) · [Taras
 Zakharko](https://github.com/tzakharko) · [Hao
 Zhu](https://github.com/haozhu233) · [Chava
 Zibman](https://github.com/czibman) · [Naupaka
-Zimmerman](https://github.com/naupaka)
+Zimmerman](https://github.com/naupaka) ·
+[Lluís](https://github.com/llrs)

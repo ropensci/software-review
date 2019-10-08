@@ -26,7 +26,7 @@ Repository:
 	- [ ] database access
 	- [ ] data munging
 	- [ ] data deposition
-	- [ ] workflow automataion
+	- [ ] workflow automation
 	- [ ] version control
 	- [ ] citation management and bibliometrics
 	- [ ] scientific software wrappers

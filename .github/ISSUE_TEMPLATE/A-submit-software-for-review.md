@@ -31,11 +31,14 @@ Version accepted: TBD
 	- [ ] database access
 	- [ ] data munging
 	- [ ] data deposition
-	- [ ] reproducibility
+	- [ ] workflow automataion
+	- [ ] version control
+	- [ ] citation management and bibliometrics
+	- [ ] scientific software wrappers
+	- [ ] database software bindings
 	- [ ] geospatial data
 	- [ ] text analysis
 	
-
 - Explain how and why the package falls under these categories (briefly, 1-2 sentences):
 
 

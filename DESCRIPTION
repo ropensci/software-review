@@ -6,6 +6,7 @@ Imports:
   airtabler,
   purrr,
   humaniformat,
-  rmarkdown
+  rmarkdown,
+  knitr
 Remotes: 
   bergant/airtabler

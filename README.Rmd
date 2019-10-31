@@ -2,7 +2,6 @@
 output: github_document
 ---
 
-
 ```{r, echo = FALSE, message=FALSE, warning=FALSE}
 library(airtabler)
 library(purrr)

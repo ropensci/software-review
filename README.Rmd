@@ -116,5 +116,14 @@ if (Sys.getenv("AIRTABLE_API_KEY") == ""){
 }
 editors <- c("Noam Ross", "Scott Chamberlain", "Karthik Ram", "Maëlle Salmon", "Brooke Anderson",
     "Melina Vidoni", "Lincoln Mullen", "nna Krystalli")
-nchar(Sys.getenv("AIRTABLE_API_KEY"))
+reviewers <- airtabler::airtable(base = "appZIB8hgtvjoV99D", 
+                                table = "Reviewers")
+reviewers <- reviewers$Reviewers$select_all()
+reviewers <- reviewers[map_lgl(reviewers$Reviews, 
+                               ~!is.null(.)) & 
+                         !(reviewers$name %in% c(editors, "???")), ]
+# get last names
+last_names <- humaniformat::last_name(trimws(reviewers$name))
+reviewers <- reviewers[order(last_names), ]
+cat(paste0("[", reviewers$name, "](https://github.com/", reviewers$github, ")", collapse = " \U00B7 "))
 ```

@@ -2,6 +2,7 @@ on:
   push:
     paths:
       - README.Rmd
+      - .github/workflows/main.yml
   schedule:
     - cron:  '0 12 * * *'
 
@@ -18,8 +19,8 @@ jobs:
       - name: Install dependencies
         run: Rscript -e 'install.packages(c("remotes", "roxygen2"))' -e 'remotes::install_deps(dependencies = TRUE)'
       - name: Render README
-        run: Rscript -e 'rmarkdown::render("examples/README.Rmd")'
+        run: Rscript -e 'rmarkdown::render("README.Rmd")'
       - name: Commit results
         run: |
-          git commit examples/README.md -m 'Re-build README.Rmd'
+          git commit README.md -m 'Re-build README.Rmd'
           git push https://${{github.actor}}:${{secrets.GITHUB_TOKEN}}@github.com/${{github.repository}}.git HEAD:master

@@ -111,6 +111,9 @@ rOpenSci's Software Peer Review process is run by:
 We are grateful to the following individuals who have offered up their time and expertise to review packages submitted to rOpenSci.
 
 ```{r reviewers, echo=FALSE, results='asis'}
+if (Sys.getenv("AIRTABLE_API_KEY") == ""){
+  Sys.setenv(AIRTABLE_API_KEY = params$AIRTABLE_API_KEY)
+}
 editors <- c("Noam Ross", "Scott Chamberlain", "Karthik Ram", "Maëlle Salmon", "Brooke Anderson",
     "Melina Vidoni", "Lincoln Mullen", "nna Krystalli")
 reviewers <- airtabler::airtable(base = "appZIB8hgtvjoV99D", 

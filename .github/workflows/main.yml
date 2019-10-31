@@ -18,10 +18,10 @@ jobs:
       - uses: r-lib/actions/setup-pandoc@v1
       - name: Install dependencies
         run: Rscript -e 'install.packages(c("remotes", "roxygen2"))' -e 'remotes::install_deps(dependencies = TRUE)'
-      - name: Set env variable
-        run: Rscript -e 'Sys.setenv(AIRTABLE_API_KEY = {{secrets.AIRTABLE_API_KEY}})'
       - name: Render README
         run: Rscript -e 'rmarkdown::render("README.Rmd")'
+        with: # Set the secret as an input
+          AIRTABLE_API_KEY: ${{ secrets.AIRTABLE_API_KEY }}
       - name: Commit results
         run: |
           git commit README.md -m 'Re-build README.Rmd'

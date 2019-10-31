@@ -16,7 +16,7 @@ jobs:
       - uses: r-lib/actions/setup-r@v1
       - uses: r-lib/actions/setup-pandoc@v1
       - name: Install dependencies
-        run: Rscript -e 'remotes::install_deps(dependencies = TRUE)'
+        run: Rscript -e 'install.packages(c("remotes", "roxygen2"))' -e 'remotes::install_deps(dependencies = TRUE)'
       - name: Render README
         run: Rscript -e 'rmarkdown::render("examples/README.Rmd")'
       - name: Commit results

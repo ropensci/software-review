@@ -3,8 +3,8 @@ output: github_document
 ---
 
 ```{r, echo = FALSE, message=FALSE, warning=FALSE}
-library(airtabler)
-library(purrr)
+library("airtabler")
+library("purrr")
 knitr::opts_chunk$set(
   collapse = TRUE,
   comment = "#>",

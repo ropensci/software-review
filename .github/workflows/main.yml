@@ -1,8 +1,9 @@
 on:
   push:
     paths:
-      - examples/README.Rmd
-      - examples/*yaml
+      - README.Rmd
+  schedule:
+    - cron:  '0 12 * * *'
 
 name: Render README
 

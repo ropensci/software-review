@@ -37,14 +37,13 @@ mandatory for everyone involved in our review process.**
     package, but we can help with ongoing maintenance issues such as
     those associated with updates to R and dependencies and CRAN
     policies.
-  - rOpenSci will **promote your package** through our [web
-    page](https://ropensci.org/packages/),
+  - rOpenSci will **promote your package** through our
+    [webpage](https://ropensci.org/packages/),
     [blog](https://ropensci.org/blog/), and [social
-    media](https://twitter.com/ropensci). Packages in our suite are also
-    distributed via our [drat repository](http://packages.ropensci.org/)
-    and [Docker images](https://hub.docker.com/r/rocker/ropensci/), and
-    listed in our [task
-    views](https://github.com/search?utf8=%E2%9C%93&q=user%3Aropensci+%22task+view%22&type=Repositories&ref=searchresults).
+    media](https://twitter.com/ropensci). Packages in our suite also get
+    a [documentation website that is automatically built and deployed
+    after each
+    push](https://devguide.ropensci.org/building.html#docsropensci).
   - rOpenSci **packages can be cross-listed** with other repositories
     such as CRAN and BioConductor.
   - rOpenSci packages that contain a short accompanying paper can, after

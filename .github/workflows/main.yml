@@ -23,7 +23,7 @@ jobs:
       - name: Install dependencies
         run: Rscript -e 'install.packages("remotes")' -e 'remotes::install_deps(dependencies = TRUE)'
       - name: Render README
-        run: Rscript -e 'rmarkdown::render("README.Rmd", params = list(output = "github_document", AIRTABLE_API_KEY = ${{ secrets.AIRTABLE_API_KEY }}))'
+        run: Rscript -e 'rmarkdown::render("README.Rmd", output_format = "github_document", params = list(AIRTABLE_API_KEY = ${{ secrets.AIRTABLE_API_KEY }}))'
         env: # Set the secret as an input
           AIRTABLE_API_KEY: ${{ secrets.AIRTABLE_API_KEY }}
       - name: Commit results

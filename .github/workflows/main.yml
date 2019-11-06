@@ -1,5 +1,7 @@
 on:
   push:
+    branches:
+      - master
     paths:
       - README.Rmd
       - .github/workflows/main.yml

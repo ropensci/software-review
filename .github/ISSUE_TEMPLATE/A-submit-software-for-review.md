@@ -35,6 +35,7 @@ Version accepted: TBD
 	- [ ] version control
 	- [ ] citation management and bibliometrics
 	- [ ] scientific software wrappers
+	- [ ] field and lab reproducibility tools
 	- [ ] database software bindings
 	- [ ] geospatial data
 	- [ ] text analysis

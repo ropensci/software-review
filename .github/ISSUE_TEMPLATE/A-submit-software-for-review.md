@@ -55,7 +55,7 @@ Confirm each of the following by checking the box.  This package:
 - [ ] does not violate the Terms of Service of any service it interacts with. 
 - [ ] has a CRAN and OSI accepted license.
 - [ ] contains a [README with instructions for installing the development version](https://ropensci.github.io/dev_guide/building.html#readme). 
-- [ ] includes [documentation with examples for all functions](https://ropensci.github.io/dev_guide/building.html#documentation).
+- [ ] includes [documentation with examples for all functions, created with roxygen2](https://ropensci.github.io/dev_guide/building.html#documentation).
 - [ ] contains a vignette with examples of its essential functions and uses.
 - [ ] has a [test suite](https://ropensci.github.io/dev_guide/building.html#testing).
 - [ ] has [continuous integration](https://ropensci.github.io/dev_guide/ci.html), including reporting of test coverage using services such as Travis CI, Coveralls and/or CodeCov.

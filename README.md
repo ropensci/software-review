@@ -125,7 +125,7 @@ rOpenSci’s Software Peer Review process is run by:
   - [Brooke Anderson](https://github.com/geanders), Colorado State
     University
 
-### Reviewers
+### Reviewers and guest editors
 
 We are grateful to the following individuals who have offered up their
 time and expertise to review packages submitted to rOpenSci.

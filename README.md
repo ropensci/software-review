@@ -24,8 +24,7 @@ mandatory for everyone involved in our review process.**
   - [Why and how submit your package to rOpenSci?](#why-submit)
   - [Why and how review for rOpenSci?](#why-review)
   - [Further resources](#further)
-  - [Editors and
-reviewers](#editors)
+  - [Editors and reviewers](#editors)
 
 # <a href="#why-submit" name="why-submit"></a>Why and how submit your package to rOpenSci?
 
@@ -53,8 +52,7 @@ reviewers](#editors)
 
 If you want to submit a package, read our [guide for
 authors](https://devguide.ropensci.org/guide-for-authors.html) before
-opening a submission issue in this
-repository.
+opening a submission issue in this repository.
 
 ## <a href="#why-review" name="why-review"></a>Why and how to review packages for rOpenSci?
 

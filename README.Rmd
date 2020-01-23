@@ -99,7 +99,7 @@ rOpenSci's Software Peer Review process is run by:
 * [Melina Vidoni](https://github.com/melvidoni), INGAR CONICET-UTN
 * [Brooke Anderson](https://github.com/geanders), Colorado State University
 
-### Reviewers
+### Reviewers and guest editors
 
 We are grateful to the following individuals who have offered up their time and expertise to review packages submitted to rOpenSci.
 
@@ -108,11 +108,11 @@ if (Sys.getenv("AIRTABLE_API_KEY") == ""){
   Sys.setenv(AIRTABLE_API_KEY = params$AIRTABLE_API_KEY)
 }
 editors <- c("Noam Ross", "Scott Chamberlain", "Karthik Ram", "Maëlle Salmon", "Brooke Anderson",
-    "Melina Vidoni", "Lincoln Mullen", "nna Krystalli")
+    "Melina Vidoni", "Lincoln Mullen", "Anna Krystalli")
 reviewers <- airtabler::airtable(base = "appZIB8hgtvjoV99D", 
                                 table = "Reviewers")
 reviewers <- reviewers$Reviewers$select_all()
-reviewers <- reviewers[map_lgl(reviewers$Reviews, 
+reviewers <- reviewers[purrr::map_lgl(reviewers$Reviews, 
                                ~!is.null(.)) & 
                          !(reviewers$name %in% c(editors, "???")), ]
 # get last names
@@ -120,3 +120,17 @@ last_names <- humaniformat::last_name(trimws(reviewers$name))
 reviewers <- reviewers[order(last_names), ]
 cat(paste0("[", reviewers$name, "](https://github.com/", reviewers$github, ")", collapse = " \U00B7 "))
 ```
+
+We are also grateful to the following individuals who have served as guest editors.
+
+```{r guesteditors, echo=FALSE, results='asis'}
+guest_editors <- airtabler::airtable(base = "appZIB8hgtvjoV99D", 
+                                table = "guest-editors")
+guest_editors <- guest_editors$`guest-editors`$select_all()
+guest_editors <- guest_editors[!(guest_editors$name %in% c(editors, "???")), ]
+# get last names
+last_names <- humaniformat::last_name(trimws(guest_editors$name))
+guest_editors <- guest_editors[order(last_names), ]
+cat(paste0("[", guest_editors$name, "](https://github.com/", guest_editors$github, ")", collapse = " \U00B7 "))
+```
+

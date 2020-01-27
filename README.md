@@ -135,7 +135,8 @@ Arnold](https://github.com/statsmaths) · [Dean
 Attali](https://github.com/daattali) · [Mara
 Averick](https://github.com/batpigandme) · [Suzan
 Baert](https://github.com/suzanbaert) · [James
-Balamuta](https://github.com/coatless) · [David
+Balamuta](https://github.com/coatless) · [Vikram
+Baliga](https://github.com/vbaliga) · [David
 Bapst](https://github.com/dwbapst) · [Joëlle
 Barido-Sottani](https://github.com/bjoelle) · [Cale
 Basaraba](https://github.com/calebasaraba) · [John
@@ -151,7 +152,8 @@ Boettiger](https://github.com/cboettig) · [Ben
 Bond-Lamberty](https://github.com/bpbond) · [Alison
 Boyer](https://github.com/alisonboyer) · [François
 Briatte](https://github.com/briatte) · [Eric
-Brown](https://github.com/eebrown) · [Jenny
+Brown](https://github.com/eebrown) · [Julien
+Brun](https://github.com/brunj7) · [Jenny
 Bryan](https://github.com/jennybc) · [Lorenzo
 Busetto](https://github.com/lbusett) · [Jorge
 Cimentada](https://github.com/cimentadaj) · [Chase
@@ -313,8 +315,9 @@ Yamane](https://github.com/layamane) · [Taras
 Zakharko](https://github.com/tzakharko) · [Hao
 Zhu](https://github.com/haozhu233) · [Chava
 Zibman](https://github.com/czibman) · [Naupaka
-Zimmerman](https://github.com/naupaka) ·
-[Lluís](https://github.com/llrs)
+Zimmerman](https://github.com/naupaka) · [Jake
+Zwart](https://github.com/jzwart) · [Lluís](https://github.com/llrs) ·
+[NA](https://github.com/mvickm)
 
 We are also grateful to the following individuals who have served as
 guest editors.

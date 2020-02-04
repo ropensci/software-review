@@ -239,7 +239,8 @@ Minotti](https://github.com/pmnatural) · [Nicole
 Monhait](https://github.com/nmonhait) · [Paula
 Moraga](https://github.com/Paula-Moraga) · [Ross
 Mounce](https://github.com/rossmounce) · [Matt
-Mulvahill](https://github.com/mmulvahill) · [Dillon
+Mulvahill](https://github.com/mmulvahill) · [Maria Victoria
+Munafó](https://github.com/mvickm) · [Dillon
 Niederhut](https://github.com/deniederhut) · [Rory
 Nolan](https://github.com/rorynolan) · [Jakub
 Nowosad](https://github.com/Nowosad) · [Daniel
@@ -316,8 +317,7 @@ Zakharko](https://github.com/tzakharko) · [Hao
 Zhu](https://github.com/haozhu233) · [Chava
 Zibman](https://github.com/czibman) · [Naupaka
 Zimmerman](https://github.com/naupaka) · [Jake
-Zwart](https://github.com/jzwart) · [Lluís](https://github.com/llrs) ·
-[NA](https://github.com/mvickm)
+Zwart](https://github.com/jzwart) · [Lluís](https://github.com/llrs)
 
 We are also grateful to the following individuals who have served as
 guest editors.

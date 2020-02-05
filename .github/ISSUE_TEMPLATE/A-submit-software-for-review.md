@@ -50,7 +50,11 @@ Version accepted: TBD
 
 ## Technical checks
 
-Confirm each of the following by checking the box.  This package:
+Confirm each of the following by checking the box.  
+
+- [ ] I have read the [guide for authors](https://devguide.ropensci.org/guide-for-authors.html) and [rOpenSci packaging guide](https://devguide.ropensci.org/building.html).
+
+This package:
 
 - [ ] does not violate the Terms of Service of any service it interacts with. 
 - [ ] has a CRAN and OSI accepted license.

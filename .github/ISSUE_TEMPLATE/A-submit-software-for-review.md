@@ -67,6 +67,7 @@ This package:
 ## Publication options
 
 - [ ] Do you intend for this package to go on CRAN?  
+- [ ] Do you intend for this package to go on Bioconductor?  
 - [ ] Do you wish to automatically submit to the [Journal of Open Source Software](http://joss.theoj.org/)? If so:
 
 <details>

@@ -235,7 +235,7 @@ McVey](https://github.com/eamcvey) · [Bryce
 Mecum](https://github.com/amoeba) · [Francois
 Michonneau](https://github.com/fmichonneau) · [Jessica
 Minnier](https://github.com/jminnier) · [Priscilla
-Minotti](https://github.com/pmnatural) · [Nicole
+Minotti](https://github.com/pmnatural) · [Nichole
 Monhait](https://github.com/nmonhait) · [Paula
 Moraga](https://github.com/Paula-Moraga) · [Ross
 Mounce](https://github.com/rossmounce) · [Matt

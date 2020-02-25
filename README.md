@@ -323,4 +323,5 @@ We are also grateful to the following individuals who have served as
 guest editors.
 
 [Laura DeCicco](https://github.com/ldecicco-USGS) · [Ana Laura
-Diedrichs](https://github.com/anadiedrichs)
+Diedrichs](https://github.com/anadiedrichs) · [Julia
+Gustavsen](https://github.com/jooolia)

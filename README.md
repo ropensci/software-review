@@ -283,7 +283,8 @@ Sparks](https://github.com/adamhsparks) · [Joseph
 Stachelek](https://github.com/jsta) · [Christine
 Stawitz](https://github.com/ChristineStawitz-NOAA) · [Irene
 Steves](https://github.com/isteves) · [Michael
-Sumner](https://github.com/mdsumner) · [Sarah
+Sumner](https://github.com/mdsumner) · [Chung-Kai
+Sun](https://github.com/cksun-usc) · [Sarah
 Supp](https://github.com/sarahsupp) · [Jason
 Taylor](https://github.com/jmt2080ad) · [Filipe
 Teixeira](https://github.com/FilipeamTeixeira) · [Andy

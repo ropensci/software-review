@@ -28,7 +28,6 @@ Version accepted: TBD
 
 	- [ ] data retrieval
 	- [ ] data extraction
-	- [ ] database access
 	- [ ] data munging
 	- [ ] data deposition
 	- [ ] workflow automataion

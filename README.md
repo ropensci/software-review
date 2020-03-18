@@ -256,7 +256,8 @@ McGowan](https://github.com/LucyMcGowan) · [Amelia
 McNamara](https://github.com/ameliamn) · [Elaine
 McVey](https://github.com/eamcvey) · [Bryce
 Mecum](https://github.com/amoeba) · [Francois
-Michonneau](https://github.com/fmichonneau) · [Jessica
+Michonneau](https://github.com/fmichonneau) · [Helen Rodgers
+Miller](https://github.com/helenmiller16) · [Jessica
 Minnier](https://github.com/jminnier) · [Priscilla
 Minotti](https://github.com/pmnatural) · [Nichole
 Monhait](https://github.com/nmonhait) · [Paula

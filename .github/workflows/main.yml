@@ -15,7 +15,7 @@ jobs:
     name: Render README
     runs-on: macOS-latest
     steps:
-      - uses: actions/checkout@v1
+      - uses: actions/checkout@v2
       - name: Prepare repository
         run: git checkout "${GITHUB_REF:11}"
       - uses: r-lib/actions/setup-r@v1

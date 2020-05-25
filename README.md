@@ -1,6 +1,27 @@
 
 -----
 
+⚠️⚠️⚠️⚠️⚠️
+
+***In the interest of reducing load on reviewers and editors as we
+manage the COVID-19 crisis, rOpenSci is temporarily pausing new
+submissions for software peer review. Please check back here again after
+May the 7th for updates.***
+
+***In this period new submissions will not be handled, nor new reviewers
+assigned. Reviews and responses to reviews will be handled on a ‘best
+effort’ basis, but no follow-up reminders will be sent.***
+
+***Other rOpenSci community activities continue. We express our
+continued great appreciation for the work of our authors and reviewers.
+Stay healthy and take care of one other.***
+
+***The rOpenSci Editorial Board***
+
+⚠️⚠️⚠️⚠️⚠️
+
+-----
+
 ![ropensci](icon_lettering_color.png)
 
 # rOpenSci Software Peer Review

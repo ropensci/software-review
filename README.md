@@ -155,7 +155,8 @@ Briatte](https://github.com/briatte) · [Eric
 Brown](https://github.com/eebrown) · [Julien
 Brun](https://github.com/brunj7) · [Jenny
 Bryan](https://github.com/jennybc) · [Lorenzo
-Busetto](https://github.com/lbusett) · [Jorge
+Busetto](https://github.com/lbusett) · [Jennifer
+Chang](https://github.com/j23414) · [Jorge
 Cimentada](https://github.com/cimentadaj) · [Chase
 Clark](https://github.com/chasemc) · [Jon
 Clayden](https://github.com/jonclayden) · [Will
@@ -219,7 +220,8 @@ Kramer](https://github.com/bmkramer) · [Will
 Landau](https://github.com/wlandau) · [Erin
 LeDell](https://github.com/ledell) · [Thomas
 Leeper](https://github.com/leeper) · [Mauro
-Lepore](https://github.com/maurolepore) · [Stephanie
+Lepore](https://github.com/maurolepore) · [Sam
+Levin](https://github.com/Levisc8) · [Stephanie
 Locke](https://github.com/stephlocke) · [Robin
 Lovelace](https://github.com/Robinlovelace) · [Julia Stewart
 Lowndes](https://github.com/jules32) · [Tim
@@ -274,6 +276,7 @@ Schmid](https://github.com/nevrome) · [Marco
 Sciaini](https://github.com/marcosci) · [Heidi
 Seibold](https://github.com/HeidiSeibold) · [Julia
 Silge](https://github.com/juliasilge) · [Margaret
+Siple](https://github.com/mcsiple) · [Margaret
 Siple](https://github.com/mcsiple) · [Peter
 Slaughter](https://github.com/gothub) · [Mike
 Smith](https://github.com/grimbough) · [Frank
@@ -326,4 +329,5 @@ guest editors.
 
 [Laura DeCicco](https://github.com/ldecicco-USGS) · [Ana Laura
 Diedrichs](https://github.com/anadiedrichs) · [Julia
-Gustavsen](https://github.com/jooolia)
+Gustavsen](https://github.com/jooolia) · [Mauro
+Lepore](https://github.com/maurolepore)

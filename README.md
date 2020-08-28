@@ -185,7 +185,8 @@ Gillespie](https://github.com/dosgillespie) · [David
 Gohel](https://github.com/davidgohel) · [Laura
 Graham](https://github.com/laurajanegraham) · [Charles
 Gray](https://github.com/softloud) · [Corinna
-Gries](https://github.com/cgries) · [Julia
+Gries](https://github.com/cgries) · [Hugo
+Gruson](https://github.com/bisaloo) · [Julia
 Gustavsen](https://github.com/joolia) · [W Kyle
 Hamilton](https://github.com/kylehamilton) · [Ivan
 Hanigan](https://github.com/ivanhanigan) · [Jeff
@@ -245,7 +246,8 @@ Mounce](https://github.com/rossmounce) · [Matt
 Mulvahill](https://github.com/mmulvahill) · [Maria Victoria
 Munafó](https://github.com/mvickm) · [Dillon
 Niederhut](https://github.com/deniederhut) · [Rory
-Nolan](https://github.com/rorynolan) · [Jakub
+Nolan](https://github.com/rorynolan) · [Kari
+Norman](https://github.com/karinorman) · [Jakub
 Nowosad](https://github.com/Nowosad) · [Daniel
 Nüst](https://github.com/nuest) · [Paul
 Oldham](https://github.com/poldham) · [Samantha

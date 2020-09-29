@@ -111,16 +111,15 @@ tracker](https://github.com/ropensci/software-review-meta/issues).
 rOpenSci’s Software Peer Review process is run by:
 
   - [Noam Ross](https://github.com/noamross), EcoHealth Alliance
-  - [Scott Chamberlain](https://github.com/sckott), rOpenSci
   - [Karthik Ram](https://github.com/karthik), rOpenSci
   - [Maëlle Salmon](https://github.com/maelle), rOpenSci
-  - [Lincoln Mullen](https://github.com/lmullen), George Mason
-    University
   - [Anna Krystalli](https://github.com/annakrystalli), University of
     Sheffield RSE
   - [Melina Vidoni](https://github.com/melvidoni), INGAR CONICET-UTN
   - [Brooke Anderson](https://github.com/geanders), Colorado State
     University
+  - [Mauro Lepore](https://github.com/maurolepore), 2 Degrees Investing
+    Initiative
 
 ### Reviewers and guest editors
 

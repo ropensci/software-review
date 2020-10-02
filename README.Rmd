@@ -98,6 +98,7 @@ rOpenSci's Software Peer Review process is run by:
 * [Melina Vidoni](https://github.com/melvidoni), INGAR CONICET-UTN
 * [Brooke Anderson](https://github.com/geanders), Colorado State University
 * [Mauro Lepore](https://github.com/maurolepore), 2 Degrees Investing Initiative
+* [Laura DeCicco](https://github.com/ldecicco-USGS), USGS
 
 ### Reviewers and guest editors
 

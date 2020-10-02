@@ -120,6 +120,7 @@ rOpenSci’s Software Peer Review process is run by:
     University
   - [Mauro Lepore](https://github.com/maurolepore), 2 Degrees Investing
     Initiative
+  - [Laura DeCicco](https://github.com/ldecicco-USGS), USGS
 
 ### Reviewers and guest editors
 
@@ -154,15 +155,15 @@ Briatte](https://github.com/briatte) · [Eric
 Brown](https://github.com/eebrown) · [Julien
 Brun](https://github.com/brunj7) · [Jenny
 Bryan](https://github.com/jennybc) · [Lorenzo
-Busetto](https://github.com/lbusett) · [Jennifer
+Busetto](https://github.com/lbusett) · [Scott
+Chamberlain](https://github.com/sckott) · [Jennifer
 Chang](https://github.com/j23414) · [Jorge
 Cimentada](https://github.com/cimentadaj) · [Chase
 Clark](https://github.com/chasemc) · [Jon
 Clayden](https://github.com/jonclayden) · [Will
 Cornwell](https://github.com/wcornwell) · [Enrico
 Crema](https://github.com/ercrema) · [Ildiko
-Czeller](https://github.com/czeildi) · [Laura
-DeCicco](https://github.com/ldecicco-usgs) · [Christophe
+Czeller](https://github.com/czeildi) · [Christophe
 Dervieux](https://github.com/cderv) · [Amanda
 Dobbyn](https://github.com/aedobbyn) · [Jasmine
 Dumas](https://github.com/jasdumas) · [Remko
@@ -219,8 +220,7 @@ Koontz](https://github.com/mikoontz) · [Bianca
 Kramer](https://github.com/bmkramer) · [Will
 Landau](https://github.com/wlandau) · [Erin
 LeDell](https://github.com/ledell) · [Thomas
-Leeper](https://github.com/leeper) · [Mauro
-Lepore](https://github.com/maurolepore) · [Sam
+Leeper](https://github.com/leeper) · [Sam
 Levin](https://github.com/Levisc8) · [Stephanie
 Locke](https://github.com/stephlocke) · [Robin
 Lovelace](https://github.com/Robinlovelace) · [Julia Stewart
@@ -241,7 +241,8 @@ Minnier](https://github.com/jminnier) · [Priscilla
 Minotti](https://github.com/pmnatural) · [Nichole
 Monhait](https://github.com/nmonhait) · [Paula
 Moraga](https://github.com/Paula-Moraga) · [Ross
-Mounce](https://github.com/rossmounce) · [Matt
+Mounce](https://github.com/rossmounce) · [Lincoln
+Mullen](https://github.com/lmullen) · [Matt
 Mulvahill](https://github.com/mmulvahill) · [Maria Victoria
 Munafó](https://github.com/mvickm) · [Dillon
 Niederhut](https://github.com/deniederhut) · [Rory
@@ -330,7 +331,5 @@ Zwart](https://github.com/jzwart) · [Lluís](https://github.com/llrs) ·
 We are also grateful to the following individuals who have served as
 guest editors.
 
-[Laura DeCicco](https://github.com/ldecicco-USGS) · [Ana Laura
-Diedrichs](https://github.com/anadiedrichs) · [Julia
-Gustavsen](https://github.com/jooolia) · [Mauro
-Lepore](https://github.com/maurolepore)
+[Ana Laura Diedrichs](https://github.com/anadiedrichs) · [Julia
+Gustavsen](https://github.com/jooolia)

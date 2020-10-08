@@ -121,6 +121,7 @@ rOpenSci’s Software Peer Review process is run by:
   - [Mauro Lepore](https://github.com/maurolepore), 2 Degrees Investing
     Initiative
   - [Laura DeCicco](https://github.com/ldecicco-USGS), USGS
+  - [Julia Gustavsen](https://github.com/jooolia), SOPHiA GENETICS
 
 ### Reviewers and guest editors
 
@@ -186,8 +187,7 @@ Gohel](https://github.com/davidgohel) · [Laura
 Graham](https://github.com/laurajanegraham) · [Charles
 Gray](https://github.com/softloud) · [Corinna
 Gries](https://github.com/cgries) · [Hugo
-Gruson](https://github.com/bisaloo) · [Julia
-Gustavsen](https://github.com/joolia) · [W Kyle
+Gruson](https://github.com/bisaloo) · [W Kyle
 Hamilton](https://github.com/kylehamilton) · [Ivan
 Hanigan](https://github.com/ivanhanigan) · [Jeff
 Hanson](https://github.com/jeffreyhanson) · [Rayna
@@ -331,5 +331,4 @@ Zwart](https://github.com/jzwart) · [Lluís](https://github.com/llrs) ·
 We are also grateful to the following individuals who have served as
 guest editors.
 
-[Ana Laura Diedrichs](https://github.com/anadiedrichs) · [Julia
-Gustavsen](https://github.com/jooolia)
+[Ana Laura Diedrichs](https://github.com/anadiedrichs)

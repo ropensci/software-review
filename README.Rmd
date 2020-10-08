@@ -99,6 +99,7 @@ rOpenSci's Software Peer Review process is run by:
 * [Brooke Anderson](https://github.com/geanders), Colorado State University
 * [Mauro Lepore](https://github.com/maurolepore), 2 Degrees Investing Initiative
 * [Laura DeCicco](https://github.com/ldecicco-USGS), USGS
+* [Julia Gustavsen](https://github.com/jooolia), SOPHiA GENETICS 
 
 ### Reviewers and guest editors
 
@@ -109,7 +110,7 @@ if (Sys.getenv("AIRTABLE_API_KEY") == ""){
   Sys.setenv(AIRTABLE_API_KEY = params$AIRTABLE_API_KEY)
 }
 editors <- c("Noam Ross", "Karthik Ram", "Maëlle Salmon", "Brooke Anderson",
-    "Melina Vidoni", "Anna Krystalli", "Mauro Lepore", "Laura DeCicco")
+    "Melina Vidoni", "Anna Krystalli", "Mauro Lepore", "Laura DeCicco", "Julia Gustavsen")
 reviewers <- airtabler::airtable(base = "appZIB8hgtvjoV99D", 
                                 table = "Reviewers")
 reviewers <- reviewers$Reviewers$select_all()

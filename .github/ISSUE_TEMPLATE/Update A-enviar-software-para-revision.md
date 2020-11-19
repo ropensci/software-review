@@ -95,7 +95,7 @@ Este paquete:
 - [ ] El manuscrito que describe el paquete no tiene más de 3000 palabras y está escrito en Inglés.
 - [ ] Tienes intenciones de archivar el código del paquete en un repositorio a largo plazo, que cumple los requerimientos de la revista (mira las [Políticas de Publicación de MEE (documento en Inglés)](http://besjournals.onlinelibrary.wiley.com/hub/journal/10.1111/(ISSN)2041-210X/journal-resources/policy-on-publishing-code.html))
 - (*Alcance: Considera los [Objetivos y Alcance de MEE (documento en Inglés)](http://besjournals.onlinelibrary.wiley.com/hub/journal/10.1111/(ISSN)2041-210X/aims-and-scope/read-full-aims-and-scope.html) para tu manuscrito. No otorgamos garatías de que tu manuscrito esté en el ámbito de MEE.*)
-- (*Aunque no es requerido, recomenzamos tener un manuscrito completamente preparado y en Inglés, al momento de enviar.*)
+- (*Aunque no es requerido, recomendamos tener un manuscrito completamente preparado y en Inglés, al momento de enviar.*)
 - (*Por favor, no envíes tu paquete de forma separada a Methods in Ecology and Evolution*)
 
 </details>

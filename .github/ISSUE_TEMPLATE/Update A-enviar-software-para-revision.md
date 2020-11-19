@@ -64,7 +64,7 @@ Este paquete:
 
 - [ ] no viola los Términos de Servicio de ningún servicio con los que interactúa. 
 - [ ] tiene una licencia aceptada por CRAN y OSI.
-- [ ] contiene un [archivo README con instrucciones para isntalar la versión de desarrollo](https://ropensci.github.io/dev_guide/building.html#readme). 
+- [ ] contiene un [archivo README con instrucciones para instalar la versión de desarrollo](https://ropensci.github.io/dev_guide/building.html#readme). 
 - [ ] incluye [documentación con ejemplos para todas las funciones, creada con roxygen2](https://ropensci.github.io/dev_guide/building.html#documentation).
 - [ ] contiene una viñeta con ejemplos de sus funciones esenciales y su uso.
 - [ ] tiene una [suite de tests (documento en Inglés)](https://ropensci.github.io/dev_guide/building.html#testing).

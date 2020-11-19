@@ -4,7 +4,7 @@ about: Usa esta plantilla para enviar un software a revisar en Español (Experim
 ---
 
 
-Autor Encargado: nombre (@github_handle)  
+Persona Encargada: nombre (@github_handle)  
 Repositorio:   
 Versión Enviada:   
 Editor: TBD  
@@ -26,7 +26,7 @@ Versión Aceptada: TBD
 
 ## Alcance 
 
-- Por favor, indica qué categoria(s) aplican a este paquete. Las puedes encontrar en nuestras [políticas de inclusión de paquetes (Inglés=](https://ropensci.github.io/dev_guide/policies.html#package-categories). Por favor, tilda todas las apropiadas. Si no estás seguro, te sugerimos que comiences un pre-envío.
+- Por favor, indica qué categoría(s) aplican a este paquete. Las puedes encontrar en nuestras [políticas de inclusión de paquetes (Inglés)](https://ropensci.github.io/dev_guide/policies.html#package-categories). Por favor, tilda todas las apropiadas. Si no estás seguro, te sugerimos que comiences un pre-envío.
 
 	- [ ] recuperación de datos (data retrieval)
 	- [ ] extracción de datos (data extraction)
@@ -41,7 +41,7 @@ Versión Aceptada: TBD
 	- [ ] datos geoespaciales (geospatial data)
 	- [ ] análisis de texto (text analysis)
 	
-- Explica cómo y por qué el paquete cae dentro de estas categorías (1 a 3 oraciones):
+- Explica cómo y por qué el paquete encaja dentro de estas categorías (1 a 3 oraciones):
 
 
 - ¿Cuál es la audiencia esperada y las aplicaciones científicas de este paquete? 
@@ -50,25 +50,25 @@ Versión Aceptada: TBD
 
 -   (Si aplica) ¿Tu paquete cumple con nuestras [guías de _Ética, Privacidad de Datos e Investigación de Sujetos Humanos_ (documento en Inglés)](https://devguide.ropensci.org/policies.html#ethics-data-privacy-and-human-subjects-research)?
 
-- Si ya has hecho una consulta de pre-envío, por favor pega el enlace al issue correspondiente, el post del foro, u otra discusión. Alternativamente, taguea al editor (con @tag) con el que te contactaste.
+- Si ya has hecho una consulta de pre-envío, por favor pega el enlace al _issue_ correspondiente, una publicación del foro, u otra discusión. Alternativamente, etiqueta al editor (con @tag) con el que te contactaste.
 
 
 
 ## Revisiones Técnicas
 
-Confirma cada uno de los siguientes al tildar en la caja.  
+Tilda los siguientes items para confirmar que los has completado:  
 
 - [ ] He leído la [guía para autores (documento en Inglés)](https://devguide.ropensci.org/guide-for-authors.html) y [la guía de paquetes de rOpenSci (documento en Inglés)](https://devguide.ropensci.org/building.html).
 
 Este paquete:
 
-- [ ] no viola los Términos de Servicio de ningún servicio con los que interactúa. 
-- [ ] tiene una licencia aceptada por CRAN y OSI.
-- [ ] contiene un [archivo README con instrucciones para instalar la versión de desarrollo](https://ropensci.github.io/dev_guide/building.html#readme). 
-- [ ] incluye [documentación con ejemplos para todas las funciones, creada con roxygen2](https://ropensci.github.io/dev_guide/building.html#documentation).
-- [ ] contiene una viñeta (_vignette_) con ejemplos de sus funciones esenciales y su uso.
-- [ ] tiene una [suite de tests (documento en Inglés)](https://ropensci.github.io/dev_guide/building.html#testing).
-- [ ] tiene [integración contínua (documento en Inglés)](https://ropensci.github.io/dev_guide/ci.html), incluyendo reporte de cobertura de tests, usando servicios como Travis CI, Coveralls y/o CodeCov.
+- [ ] No viola los Términos de Servicio de ningún servicio con los que interactúa. 
+- [ ] Tiene una licencia aceptada por CRAN y OSI.
+- [ ] Contiene un [archivo README con instrucciones para instalar la versión de desarrollo](https://ropensci.github.io/dev_guide/building.html#readme). 
+- [ ] Incluye [documentación con ejemplos para todas las funciones, creada con roxygen2](https://ropensci.github.io/dev_guide/building.html#documentation).
+- [ ] Contiene una viñeta (_vignette_) con ejemplos de sus funciones esenciales y su uso.
+- [ ] Tiene una [suite de tests (documento en Inglés)](https://ropensci.github.io/dev_guide/building.html#testing).
+- [ ] Tiene [integración contínua (documento en Inglés)](https://ropensci.github.io/dev_guide/ci.html), incluyendo reporte de cobertura de tests, usando servicios como Travis CI, Coveralls y/o CodeCov.
 
 ## Opciones de Publicación
 

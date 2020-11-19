@@ -150,7 +150,8 @@ Benoit](https://github.com/kbenoit) · [Aaron
 Berdanier](https://github.com/berdaniera) · [Fred
 Boehm](https://github.com/fboehm) · [Carl
 Boettiger](https://github.com/cboettig) · [Ben
-Bond-Lamberty](https://github.com/bpbond) · [Alison
+Bond-Lamberty](https://github.com/bpbond) · [Anne-Sophie
+Bonnet-Lebrun](https://github.com/asbonnetlebrun) · [Alison
 Boyer](https://github.com/alisonboyer) · [François
 Briatte](https://github.com/briatte) · [Eric
 Brown](https://github.com/eebrown) · [Julien

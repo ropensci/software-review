@@ -1,6 +1,6 @@
 ---
-name: Preguntar sobre el encajamiento software para revisión
-about: ¿No estas seguro·a que tu paquete encaja para revisión?Usa esta plantilla para obtener repuesta de les editores en Español (Experimental)
+name: Preguntar si el software está dentro del alcance de rOpenSci
+about: ¿Quieres confirmar que tu paquete encaja para revisión? Usa esta plantilla para obtener repuesta de les editores en Español (Experimental)
 ---
 
 

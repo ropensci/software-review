@@ -74,17 +74,6 @@ Este paquete:
 
 - [ ] ¿Tienes intenciones de subir este paquete a CRAN?  
 - [ ] ¿Tienes intenciones de enviar este paquete a Bioconductor?  
-- [ ] ¿Deseas automáticamente enviar a [Journal of Open Source Software (sólo en Inglés)](http://joss.theoj.org/)? En ese caso:
-
-<details>
- <summary>Opciones para JOSS</summary>  
-
-  - [ ] Este paquete tiene una **obvia aplicación para investigación**, de acuerdo con la [definición de JOSS (documento en Inglés)](https://joss.readthedocs.io/en/latest/submitting.html#submission-requirements).
-    - [ ] Este paquete contiene un `paper.md` siguiendo los  [requerimientos de JOSS (documento en Inglés)](https://joss.readthedocs.io/en/latest/submitting.html#what-should-my-paper-contain), con una descripción detallada en la raíz del paquete o en `inst/`.
-    - [ ] El paquete está depositorado en un repositorio a largo plazo con el DOI: 
-    - (*No envíes tu paquete independientemente a JOSS*)  
-  
-</details>
 
 - [ ] ¿Deseas enviar un Artículo de Aplicaciones sobre tu paquete a [Methods in Ecology and Evolution (documento en Inglés)](http://besjournals.onlinelibrary.wiley.com/hub/journal/10.1111/(ISSN)2041-210X/)? Si es así:  
 

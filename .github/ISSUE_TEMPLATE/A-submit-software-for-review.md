@@ -73,17 +73,6 @@ This package:
 
 - [ ] Do you intend for this package to go on CRAN?  
 - [ ] Do you intend for this package to go on Bioconductor?  
-- [ ] Do you wish to automatically submit to the [Journal of Open Source Software](http://joss.theoj.org/)? If so:
-
-<details>
- <summary>JOSS Options</summary>  
-
-  - [ ] The package has an **obvious research application** according to [JOSS's definition](https://joss.readthedocs.io/en/latest/submitting.html#submission-requirements).
-    - [ ] The package contains a `paper.md` matching [JOSS's requirements](https://joss.readthedocs.io/en/latest/submitting.html#what-should-my-paper-contain) with a high-level description in the package root or in `inst/`.
-    - [ ] The package is deposited in a long-term repository with the DOI: 
-    - (*Do not submit your package separately to JOSS*)  
-  
-</details>
 
 - [ ] Do you wish to submit an Applications Article about your package to [Methods in Ecology and Evolution](http://besjournals.onlinelibrary.wiley.com/hub/journal/10.1111/(ISSN)2041-210X/)? If so:  
 

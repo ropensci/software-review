@@ -7,9 +7,9 @@ about: Usa esta plantilla para enviar un software a revisar en Español (Experim
 Persona Encargada: nombre (@github_handle)  
 Repositorio:   
 Versión Enviada:   
-Editor·a: TBD  
-Revisor·a 1: TBD  
-Revisor·a 2: TBD  
+Editora: TBD  
+Revisora 1: TBD  
+Revisora 2: TBD  
 Archivo: TBD  
 Versión Aceptada: TBD   
 

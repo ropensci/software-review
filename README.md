@@ -172,7 +172,8 @@ Dumas](https://github.com/jasdumas) · [Remko
 Duursma](https://github.com/RemkoDuursma) · [Mark
 Edmondson](https://github.com/MarkEdmondson1234) · [Paul
 Egeler](https://github.com/pegeler) · [Evan
-Eskew](https://github.com/eveskew) · [Manuel
+Eskew](https://github.com/eveskew) · [Salvador
+Fernandez](https://github.com/salvafern) · [Manuel
 Fernandez](https://github.com/manuramon) · [Kim
 Fitter](https://github.com/kimnewzealand) · [Rich
 FitzJohn](https://github.com/richfitz) · [Robert

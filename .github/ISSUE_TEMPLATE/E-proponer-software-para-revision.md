@@ -5,6 +5,7 @@ about: ¿Quieres confirmar que tu paquete encaja para revisión? Usa esta planti
 
 
 Persona Encargada: nombre (@github_handle)  
+Otras Autoras: (borra si solo hay una autora) nombre (@github_handle)
 Repositorio:   
 
 ---

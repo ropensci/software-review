@@ -264,7 +264,8 @@ Platt](https://github.com/lindsayplatt) · [Nicholas
 Potter](https://github.com/potterzot) · [Etienne
 Racine](https://github.com/etiennebr) · [Nistara
 Randhawa](https://github.com/nistara) · [David
-Ranzolin](https://github.com/daranzolin) · [Neal
+Ranzolin](https://github.com/daranzolin) · [Quintin
+Read](https://github.com/qdread) · [Neal
 Richardson](https://github.com/nealrichardson) · [Emily
 Riederer](https://github.com/emilyriederer) · [tyler
 rinker](https://github.com/trinker) · [Emily

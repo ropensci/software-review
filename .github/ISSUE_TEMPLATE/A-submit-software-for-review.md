@@ -9,9 +9,9 @@ Submitting Author: Name (@github_handle)
 Other Authors: (delete if none) Name (@github_handle)
 Repository:   
 Version submitted:   
-Editor: TBD  
-Reviewer 1: TBD  
-Reviewer 2: TBD  
+Editor: <!--editor--> TBD <!--end-editor-->  
+Reviewer 1: <!--reviewer-1--> TBD <!--end-reviewer-1-->  
+Reviewer 2: <!--reviewer-2--> TBD <!--end-reviewer-2-->    
 Archive: TBD  
 Version accepted: TBD   
 

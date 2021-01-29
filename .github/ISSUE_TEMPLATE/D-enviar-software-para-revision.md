@@ -8,9 +8,9 @@ Persona Encargada: nombre (@github_handle)
 Otras Autoras: (borra si solo hay una autora) nombre (@github_handle)
 Repositorio:   
 Versión Enviada:   
-Editora: TBD  
-Revisora 1: TBD  
-Revisora 2: TBD  
+Editora: <!--editor--> TBD <!--end-editor-->    
+Revisora 1: <!--reviewer-1--> TBD <!--end-reviewer-1-->    
+Revisora 2: <!--reviewer-2--> TBD <!--end-reviewer-2-->  
 Archivo: TBD  
 Versión Aceptada: TBD   
 

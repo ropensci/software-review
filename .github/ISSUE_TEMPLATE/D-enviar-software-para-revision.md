@@ -4,15 +4,15 @@ about: Usa esta plantilla para enviar un software a revisar en Español (Experim
 ---
 
 
-Persona Encargada: nombre (@github_handle)  
+Persona Encargada: nombre (@github_handle)
 Otras Autoras: (borra si solo hay una autora) nombre (@github_handle)
-Repositorio:   
-Versión Enviada:   
-Editora: <!--editor--> TBD <!--end-editor-->    
-Revisora 1: <!--reviewer-1--> TBD <!--end-reviewer-1-->    
-Revisora 2: <!--reviewer-2--> TBD <!--end-reviewer-2-->  
-Archivo: TBD  
-Versión Aceptada: TBD   
+Repositorio:
+Versión Enviada:
+Editora: <!--editor--> TBD <!--end-editor-->
+Revisores: <!--reviewers-list--> TBD <!--end-reviewers-list-->
+<!--due-dates-list--><!--end-due-dates-list-->
+Archivo: TBD
+Versión Aceptada: TBD
 
 ---
 
@@ -25,7 +25,7 @@ Versión Aceptada: TBD
 ```
 
 
-## Alcance 
+## Alcance
 
 - Por favor, indica qué categoría(s) aplican a este paquete. Las puedes encontrar en nuestras [políticas de inclusión de paquetes (Inglés)](https://ropensci.github.io/dev_guide/policies.html#package-categories). Por favor, tilda todas las apropiadas. Si no estás seguro, te sugerimos que comiences un pre-envío.
 
@@ -41,11 +41,11 @@ Versión Aceptada: TBD
 	- [ ] ligamientos con software de base de datos (database software bindings)
 	- [ ] datos geoespaciales (geospatial data)
 	- [ ] análisis de texto (text analysis)
-	
+
 - Explica cómo y por qué el paquete encaja dentro de estas categorías (1 a 3 oraciones):
 
 
-- ¿Cuál es la audiencia esperada y las aplicaciones científicas de este paquete? 
+- ¿Cuál es la audiencia esperada y las aplicaciones científicas de este paquete?
 
 - ¿Hay otros paquetes de R que logren el mismo objetivo? Si los hay, ¿cómo se diferencian del tuyo, o alcanzan nuestro [criterio del mejor de su categoría (documento en Inglés)](https://ropensci.github.io/dev_guide/policies.html#overlap)?
 
@@ -57,15 +57,15 @@ Versión Aceptada: TBD
 
 ## Revisiones Técnicas
 
-Tilda los siguientes items para confirmar que los has completado:  
+Tilda los siguientes items para confirmar que los has completado:
 
 - [ ] He leído la [guía para autores (documento en Inglés)](https://devguide.ropensci.org/guide-for-authors.html) y [la guía de paquetes de rOpenSci (documento en Inglés)](https://devguide.ropensci.org/building.html).
 
 Este paquete:
 
-- [ ] No viola los Términos de Servicio de ningún servicio con los que interactúa. 
+- [ ] No viola los Términos de Servicio de ningún servicio con los que interactúa.
 - [ ] Tiene una licencia aceptada por CRAN y OSI.
-- [ ] Contiene un [archivo README con instrucciones para instalar la versión de desarrollo](https://ropensci.github.io/dev_guide/building.html#readme). 
+- [ ] Contiene un [archivo README con instrucciones para instalar la versión de desarrollo](https://ropensci.github.io/dev_guide/building.html#readme).
 - [ ] Incluye [documentación con ejemplos para todas las funciones, creada con roxygen2](https://ropensci.github.io/dev_guide/building.html#documentation).
 - [ ] Contiene una viñeta (_vignette_) con ejemplos de sus funciones esenciales y su uso.
 - [ ] Tiene una [suite de tests (documento en Inglés)](https://ropensci.github.io/dev_guide/building.html#testing).
@@ -73,15 +73,15 @@ Este paquete:
 
 ## Opciones de Publicación
 
-- [ ] ¿Tienes intenciones de subir este paquete a CRAN?  
-- [ ] ¿Tienes intenciones de enviar este paquete a Bioconductor?  
+- [ ] ¿Tienes intenciones de subir este paquete a CRAN?
+- [ ] ¿Tienes intenciones de enviar este paquete a Bioconductor?
 
-- [ ] ¿Deseas enviar un Artículo de Aplicaciones sobre tu paquete a [Methods in Ecology and Evolution (documento en Inglés)](http://besjournals.onlinelibrary.wiley.com/hub/journal/10.1111/(ISSN)2041-210X/)? Si es así:  
+- [ ] ¿Deseas enviar un Artículo de Aplicaciones sobre tu paquete a [Methods in Ecology and Evolution (documento en Inglés)](http://besjournals.onlinelibrary.wiley.com/hub/journal/10.1111/(ISSN)2041-210X/)? Si es así:
 
 <details>
-<summary>Opciones para MEE</summary>  
+<summary>Opciones para MEE</summary>
 
-- [ ] Este paquete es novedoso y será de interés para la mayoría de lectores de la revista. 
+- [ ] Este paquete es novedoso y será de interés para la mayoría de lectores de la revista.
 - [ ] El manuscrito que describe el paquete no tiene más de 3000 palabras y está escrito en Inglés.
 - [ ] Tienes intenciones de archivar el código del paquete en un repositorio a largo plazo, que cumple los requerimientos de la revista (mira las [Políticas de Publicación de MEE (documento en Inglés)](http://besjournals.onlinelibrary.wiley.com/hub/journal/10.1111/(ISSN)2041-210X/journal-resources/policy-on-publishing-code.html))
 - (*Alcance: Considera los [Objetivos y Alcance de MEE (documento en Inglés)](http://besjournals.onlinelibrary.wiley.com/hub/journal/10.1111/(ISSN)2041-210X/aims-and-scope/read-full-aims-and-scope.html) para tu manuscrito. No otorgamos garatías de que tu manuscrito esté en el ámbito de MEE.*)

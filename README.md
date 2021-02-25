@@ -336,4 +336,5 @@ Zwart](https://github.com/jzwart) · [Lluís](https://github.com/llrs) ·
 We are also grateful to the following individuals who have served as
 guest editors.
 
-[Ana Laura Diedrichs](https://github.com/anadiedrichs)
+[Ana Laura Diedrichs](https://github.com/anadiedrichs) · [Emily
+Riederer](https://github.com/emilyriederer)

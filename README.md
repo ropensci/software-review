@@ -152,7 +152,8 @@ Boehm](https://github.com/fboehm) · [Carl
 Boettiger](https://github.com/cboettig) · [Ben
 Bond-Lamberty](https://github.com/bpbond) · [Anne-Sophie
 Bonnet-Lebrun](https://github.com/asbonnetlebrun) · [Alison
-Boyer](https://github.com/alisonboyer) · [François
+Boyer](https://github.com/alisonboyer) · [Abby
+Bratt](https://github.com/aebratt) · [François
 Briatte](https://github.com/briatte) · [Eric
 Brown](https://github.com/eebrown) · [Julien
 Brun](https://github.com/brunj7) · [Jenny

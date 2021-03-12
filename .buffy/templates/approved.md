@@ -1,4 +1,4 @@
-Approved! Thanks @{{sender}} for submitting and {{reviewers-list}} for your reviews! :grin:
+Approved! Thanks @{{issue_author}} for submitting and {{reviewers-list}} for your reviews! :grin:
 
 To-dos:
 - [ ] Transfer the repo to rOpenSci's "ropensci" GitHub organization under "Settings" in your repo.  I have invited you to a team that should allow you to do so.  You'll be made admin once you do.

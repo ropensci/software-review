@@ -338,4 +338,5 @@ We are also grateful to the following individuals who have served as
 guest editors.
 
 [Ana Laura Diedrichs](https://github.com/anadiedrichs) · [Emily
-Riederer](https://github.com/emilyriederer)
+Riederer](https://github.com/emilyriederer) · [Adam
+Sparks](https://github.com/adamhsparks)

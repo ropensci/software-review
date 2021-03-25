@@ -20,3 +20,5 @@ Should you want to acknowledge your reviewers in your package DESCRIPTION, you c
 Welcome aboard! We'd love to host a post about your package - either a [short introduction to it with an example](https://ropensci.org/tech-notes/) for a technical audience or [a longer post with some narrative about its development or something you learned, and an example of its use](https://ropensci.org/blog/) for a broader readership. If you are interested, consult [the blog guide](https://blogguide.ropensci.org/), and tag @stefaniebutland in your reply. She will get in touch about timing and can answer any questions.
 
 We've put together an online book with our best practice and tips, [this chapter](https://devguide.ropensci.org/collaboration.html) starts the 3d section that's about guidance for after onboarding. Please tell us what could be improved, the corresponding repo is [here](https://github.com/ropensci/dev_guide).
+
+Last but not least, you can volunteer as a reviewer via filling a [short form](https://airtable.com/shrnfDI2S9uuyxtDw).

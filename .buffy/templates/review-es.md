@@ -17,17 +17,6 @@ El paquete incluye todos los siguiente tipos de documentación:
 - [ ] **Ejemplos** (que corren localmente) para todas las funciones exportadas 
 - [ ] **Directrices comunitarias** incluyendo una guia de contribución en el archivo README o el archivo CONTRIBUTING y un archivo DESCRIPTION que incluye `URL`, `BugReports` and `Maintainer` (todas en inglés por concenvión y para que puedan ser autogeneradas con `Authors@R`).
 
->##### For packages co-submitting to JOSS
->
->- [ ] The package has an **obvious research application** according to [JOSS's definition](https://joss.theoj.org/about#submission_requirements)
->
->The package contains a `paper.md` matching [JOSS's requirements](https://joss.theoj.org/about#paper_structure) with:
->
->- [ ] **A short summary** describing the high-level functionality of the software
->- [ ] **Authors:**  A list of authors with their affiliations
->- [ ] **A statement of need** clearly stating problems the software is designed to solve and its target audience.
->- [ ] **References:** with DOIs for all those that have one (e.g. papers, datasets, software).
-
 #### Funcionalidad
 
 - [ ] **Instalación:** La instalación se completa con éxito tal como fue documentada.

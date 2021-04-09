@@ -1,5 +1,5 @@
 :rocket:
 
-{{lint}}
+{{.}}
 
 :wave:

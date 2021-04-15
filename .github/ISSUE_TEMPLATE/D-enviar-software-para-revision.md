@@ -5,7 +5,7 @@ about: Usa esta plantilla para enviar un software a revisar en Español (Experim
 
 
 Persona Encargada: nombre (@github_handle)
-Otras Autoras: (borra si solo hay una autora) nombre (@github_handle)
+Otras Autoras del Paquete: (borra si solo hay una autora) nombre (@github_handle)
 Repositorio:
 Versión Enviada:
 Editora: <!--editor--> TBD <!--end-editor-->

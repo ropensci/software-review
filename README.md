@@ -70,11 +70,11 @@ opening a submission issue in this repository.
     development and many other areas of science and scientific
     computing.
 
-To volunteer to be one of our reviewers, just click
-[here](https://ropensci.org/software-reviewer/) to fill out a short form
-providing your contact information and areas or expertise. We are always
-looking for more reviewers with both general package-writing experience
-and domain expertise in the fields packages are used for.
+To volunteer to be one of our reviewers, please fill out this [short
+form](https://ropensci.org/software-reviewer/) providing your contact
+information and areas or expertise. We are always looking for more
+reviewers with both general package-writing experience and domain
+expertise in the fields packages are used for.
 
 Please also read [our guide for
 reviewers](https://devguide.ropensci.org/reviewerguide.html).

@@ -71,7 +71,7 @@ opening a submission issue in this repository.
     computing.
 
 To volunteer to be one of our reviewers, just click
-[here](https://ropensci.org/onboarding/) to fill out a short form
+[here](https://ropensci.org/software-reviewer/) to fill out a short form
 providing your contact information and areas or expertise. We are always
 looking for more reviewers with both general package-writing experience
 and domain expertise in the fields packages are used for.

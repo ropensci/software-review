@@ -116,8 +116,6 @@ rOpenSci’s Software Peer Review process is run by:
   - [Anna Krystalli](https://github.com/annakrystalli), University of
     Sheffield RSE
   - [Melina Vidoni](https://github.com/melvidoni), INGAR CONICET-UTN
-  - [Brooke Anderson](https://github.com/geanders), Colorado State
-    University
   - [Mauro Lepore](https://github.com/maurolepore), 2 Degrees Investing
     Initiative
   - [Laura DeCicco](https://github.com/ldecicco-USGS), USGS
@@ -129,7 +127,8 @@ We are grateful to the following individuals who have offered up their
 time and expertise to review packages submitted to rOpenSci.
 
 [Sam Albers](https://github.com/boshek) · [Toph
-Allen](https://github.com/toph-allen) · [Alison
+Allen](https://github.com/toph-allen) · [Brooke
+Anderson](https://github.com/geanders) · [Alison
 Appling](https://github.com/aappling-usgs) · [Zebulun
 Arendsee](https://github.com/arendsee) · [Taylor
 Arnold](https://github.com/statsmaths) · [Dean

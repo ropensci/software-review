@@ -7,7 +7,7 @@ about: Use this template to submit software for review
 
 Submitting Author: Name (@github_handle)
 Other Package Authors: (delete if none) Name (@github_handle)
-Repository:
+Repository:  <!--repourl--><!--end-repourl-->
 Version submitted:
 Editor: <!--editor--> TBD <!--end-editor-->
 Reviewers: <!--reviewers-list--> TBD <!--end-reviewers-list-->

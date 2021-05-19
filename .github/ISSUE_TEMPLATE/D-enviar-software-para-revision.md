@@ -8,6 +8,7 @@ Persona Encargada: <!--author1-->nombre (@github_handle)<!--end-author1-->
 Otras Autoras del Paquete: (borra si solo hay una autora) <!--author-others-->nombre (@github_handle)<!--end-author-others-->
 Repositorio: <!--repourl--><!--end-repourl-->
 Versión Enviada:
+Typo de Envio: <!--submission-type-->Estándar<!--end-submission-type-->
 Editora: <!--editor--> TBD <!--end-editor-->
 Revisores: <!--reviewers-list--> TBD <!--end-reviewers-list-->
 <!--due-dates-list--><!--end-due-dates-list-->

@@ -6,7 +6,8 @@ about: ¿Quieres confirmar que tu paquete encaja para revisión? Usa esta planti
 
 Persona Encargada: nombre (@github_handle)  
 Otras Autoras del Paquete: (borra si solo hay una autora) nombre (@github_handle)
-Repositorio:   
+Repositorio: <!--repourl--><!--end-repourl-->
+Tipo de Envio: <!--submission-type-->pre-envio<!--end-submission-type-->
 
 ---
 

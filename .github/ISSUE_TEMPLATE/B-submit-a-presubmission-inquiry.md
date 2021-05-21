@@ -8,7 +8,8 @@ about: Not sure your software fits? Use this template to get a quick response fr
 
 Submitting Author: Name (@github_handle)  
 Other Package Authors: (delete if none) Name (@github_handle)
-Repository:   
+Repository:  <!--repourl--><!--end-repourl-->
+Submission type: <!--submission-type-->Pre-submission<!--end-submission-type-->
 
 ---
 

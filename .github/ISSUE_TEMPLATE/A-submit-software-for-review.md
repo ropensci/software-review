@@ -9,6 +9,7 @@ Submitting Author: <!--author1-->Name (@github_handle)<!--end-author1-->
 Other Package Authors: (delete if none) <!--author-others-->Name (@github_handle)<!--end-author-others-->
 Repository:  <!--repourl--><!--end-repourl-->
 Version submitted:
+Submission type: <!--submission-type-->Standard<!--end-submission-type-->
 Editor: <!--editor--> TBD <!--end-editor-->
 Reviewers: <!--reviewers-list--> TBD <!--end-reviewers-list-->
 <!--due-dates-list--><!--end-due-dates-list-->

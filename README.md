@@ -120,6 +120,7 @@ rOpenSci’s Software Peer Review process is run by:
     Initiative
   - [Laura DeCicco](https://github.com/ldecicco-USGS), USGS
   - [Julia Gustavsen](https://github.com/jooolia), SOPHiA GENETICS
+  - [Emily Riederer](https://github.com/emilyriederer), Capital One
 
 ### Reviewers and guest editors
 

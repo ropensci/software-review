@@ -1,6 +1,6 @@
 ---
 name: Submit a presubmission inquiry
-about: Not sure your software fits? Use this template to get a quick response from
+about: Not sure your software fits, or submitting a statistical package? Use this template to get a quick response from
   the editors
 
 ---
@@ -22,7 +22,9 @@ Submission type: <!--submission-type-->Pre-submission<!--end-submission-type-->
 
 ## Scope 
 
-- Please indicate which category or categories from our [package fit policies](https://ropensci.github.io/dev_guide/policies.html#package-categories) this package falls under: (Please check an appropriate box below.:
+- Please indicate which category or categories from our [package fit policies](https://ropensci.github.io/dev_guide/policies.html#package-categories) or [statistical package categories](https://stats-devguide.ropensci.org/overview.html#overview-categories) this package falls under. (Please check an appropriate box below):
+
+    **Data Lifecycle Packages**
 
 	- [ ] data retrieval
 	- [ ] data extraction
@@ -35,11 +37,22 @@ Submission type: <!--submission-type-->Pre-submission<!--end-submission-type-->
 	- [ ] scientific software wrappers
 	- [ ] database software bindings
 	- [ ] geospatial data
-	- [ ] text analysis
-	
+	- [ ] text data
+    
+     **Statistical Packages**
+
+	- [ ] Bayesian and Monte Carlo Routines
+	- [ ] Dimensionality Reduction, Clustering, and Unsupervised Learning
+	- [ ] Machine Learning
+	- [ ] Regression and Supervised Learning
+	- [ ] Exploratory Data Analysis (EDA) and Summary Statistics
+	- [ ] Spatial Analyses
+	- [ ] Time Series Analyses
+
 
 - Explain how and why the package falls under these categories (briefly, 1-2 sentences).  Please note any areas you are unsure of:
 
+- If submitting a statistical package, have you already [incorporated documentation of standards into your code via the **srr** package](https://stats-devguide.ropensci.org/pkgdev.html#pkgdev-srr)?
 
 -   Who is the target audience and what are scientific applications of this package?  
 

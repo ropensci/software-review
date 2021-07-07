@@ -26,11 +26,9 @@ Version accepted: TBD
 
 ```
 
-## Pre-submission Enquiry
+## Pre-submission Inquiry
 
-(The following item must be cheked; `issue_num` replaced with reference to pre-submission enquiry; and this comment removed.)
-
-- [ ] A pre-submission enquiry has been approved in [issue#<issue_num>](#<issue_num>)
+- [ ] A pre-submission inquiry has been approved in [issue#<issue_num>](#<issue_num>)<!--Replace #<issue_num> with the issue number of the Pres-submission inquiry-->
 
 
 ## General Information

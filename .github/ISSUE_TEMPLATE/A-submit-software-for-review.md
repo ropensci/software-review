@@ -53,7 +53,7 @@ Version accepted: TBD
 
 -   (If applicable) Does your package comply with our [guidance around _Ethics, Data Privacy and Human Subjects Research_](https://devguide.ropensci.org/policies.html#ethics-data-privacy-and-human-subjects-research)?
 
--   If you made a pre-submission enquiry, please paste the link to the corresponding issue, forum post, or other discussion, or @tag the editor you contacted.
+-   If you made a pre-submission inquiry, please paste the link to the corresponding issue, forum post, or other discussion, or @tag the editor you contacted.
 
 ## Technical checks
 

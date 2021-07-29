@@ -1,6 +1,6 @@
 ---
 name: Preguntar si el software está dentro del alcance de rOpenSci
-about: ¿Quieres confirmar que tu paquete encaja para revisión? Usa esta plantilla para obtener repuesta de las editoras en Español (Experimental)
+about: ¿Quieres confirmar que tu paquete encaja para revisión, o quieres envia un paquete de estadística? Usa esta plantilla para obtener repuesta de las editoras en Español (Experimental)
 ---
 
 
@@ -22,8 +22,11 @@ Tipo de Envio: <!--submission-type-->pre-envio<!--end-submission-type-->
 
 ## Alcance 
 
-- Por favor, indica qué categoría(s) aplican a este paquete. Las puedes encontrar en nuestras [políticas de inclusión de paquetes (Inglés)](https://ropensci.github.io/dev_guide/policies.html#package-categories). Por favor, tilda todas las apropiadas. Si no estás seguro, te sugerimos que comiences un pre-envío.
+- Por favor, indica qué categoría(s) aplican a este paquete. Las puedes encontrar en nuestras [políticas de inclusión de paquetes (Inglés)](https://ropensci.github.io/dev_guide/policies.html#package-categories) y [categorías de paquetes de estadística (Inglés)](https://stats-devguide.ropensci.org/overview.html#overview-categories). Por favor, tilda todas las apropiadas. Si no estás seguro, te sugerimos que comiences un pre-envío.
 
+
+     **Packages de Ciclo de Vida de Datos**
+     
 	- [ ] recuperación de datos (data retrieval)
 	- [ ] extracción de datos (data extraction)
 	- [ ] munging de datos (data munging)
@@ -36,9 +39,21 @@ Tipo de Envio: <!--submission-type-->pre-envio<!--end-submission-type-->
 	- [ ] ligamientos con software de base de datos (database software bindings)
 	- [ ] datos geoespaciales (geospatial data)
 	- [ ] análisis de texto (text analysis)
+	
+     **Packages de Estadística**
+
+	- [ ] Rutinas Bayesianas y Monte Carlo (Bayesian and Monte Carlo Routines)
+	- [ ] Reducción de dimensionalidad, Análisis de Conglomerados y Aprendizaje no supervisado (Dimensionality Reduction, Clustering, and Unsupervised Learning)
+	- [ ] Aprendizaje automático (Machine Learning)
+	- [ ] Regresión y Aprendizaje supervisado (Regression and Supervised Learning)
+	- [ ] Análisis Exploratorio de Datos (Exploratory Data Analysis (EDA) and Summary Statistics)
+	- [ ] Análisis espacial (Spatial Analyses)
+	- [ ] Análisis de series temporales (Time Series Analyses)
+
 
 - Explica cómo y por qué el paquete encaja dentro de estas categorías (1 a 3 oraciones):
 
+- Si esta enviando un paquete de estadística, [incorporó documentación de los estandares en su codigo utilizando el paquete **srr**](https://stats-devguide.ropensci.org/pkgdev.html#pkgdev-srr)?
 
 - ¿Cuál es la audiencia esperada y las aplicaciones científicas de este paquete? 
 

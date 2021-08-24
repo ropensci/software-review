@@ -12,6 +12,8 @@ name: Render README
 
 jobs:
   render:
+    env:
+      GITHUB_PAT: ${{ secrets.GITHUB_TOKEN }}
     name: Render README
     runs-on: macOS-latest
     steps:

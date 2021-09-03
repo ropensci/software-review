@@ -91,15 +91,25 @@ on how to improve the process on our [forum](https://discuss.ropensci.org/) and 
 
 rOpenSci's Software Peer Review process is run by:
 
-* [Noam Ross](https://github.com/noamross), EcoHealth Alliance
-* [Karthik Ram](https://github.com/karthik), rOpenSci
-* [Maëlle Salmon](https://github.com/maelle), rOpenSci
-* [Anna Krystalli](https://github.com/annakrystalli), University of Sheffield RSE
-* [Melina Vidoni](https://github.com/melvidoni), INGAR CONICET-UTN
-* [Mauro Lepore](https://github.com/maurolepore), 2 Degrees Investing Initiative
-* [Laura DeCicco](https://github.com/ldecicco-USGS), USGS
-* [Julia Gustavsen](https://github.com/jooolia), Agroscope
-* [Emily Riederer](https://github.com/emilyriederer), Capital One 
+* [Noam Ross](https://github.com/noamross), EcoHealth Alliance, USA;
+* [Karthik Ram](https://github.com/karthik), rOpenSci, USA;
+* [Maëlle Salmon](https://github.com/maelle), rOpenSci, France;
+* [Anna Krystalli](https://github.com/annakrystalli), University of Sheffield RSE, UK;
+* [Melina Vidoni](https://github.com/melvidoni), INGAR CONICET-UTN, Australia;
+* [Mauro Lepore](https://github.com/maurolepore), 2 Degrees Investing Initiative, USA;
+* [Laura DeCicco](https://github.com/ldecicco-USGS), USGS, USA;
+* [Julia Gustavsen](https://github.com/jooolia), Agroscope, Switzerland;
+* [Emily Riederer](https://github.com/emilyriederer), Capital One, USA. 
+
+Associate editors for statistical software are:
+
+- [Ben Bolker](https://github.com/bbolker), McMaster University, Canada;
+- [Rebecca Killick](https://github.com/rkillick), Lancaster University, UK;
+- [Stephanie Hicks](https://github.com/stephaniehicks), Johns Hopkins University, USA;
+- [Paula Moraga](https://github.com/Paula-Moraga), King Abdullah University of Science and Technology, Saudi Arabia;
+- [Leonardo Collado-Torres](https://github.com/lcolladotor), Lieber Institute for Brain Development, USA;
+- [Toby Hocking](https://github.com/tdhock), Northern Arizona University, USA.
+
 
 Associate editors for statistical software are:
 

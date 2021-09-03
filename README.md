@@ -119,7 +119,7 @@ rOpenSci’s Software Peer Review process is run by:
   - [Mauro Lepore](https://github.com/maurolepore), 2 Degrees Investing
     Initiative
   - [Laura DeCicco](https://github.com/ldecicco-USGS), USGS
-  - [Julia Gustavsen](https://github.com/jooolia), SOPHiA GENETICS
+  - [Julia Gustavsen](https://github.com/jooolia), Agroscope
   - [Emily Riederer](https://github.com/emilyriederer), Capital One
 
 ### Reviewers and guest editors

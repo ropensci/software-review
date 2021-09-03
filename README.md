@@ -142,13 +142,18 @@ Associate editors for statistical software are:
 
 Associate editors for statistical software are:
 
-- [Ben Bolker](https://github.com/bbolker), McMaster University, Canada
-- [Rebecca Killick](https://github.com/rkillick), Lancaster University, UK
-- [Stephanie Hicks](https://github.com/stephaniehicks), Johns Hopkins University, USA
-- [Paula Moraga](https://github.com/Paula-Moraga), King Abdullah University of Science and Technology, Saudi Arabia
-- [Leonardo Collado-Torres](https://github.com/lcolladotor), Lieber Institute for Brain Development, USA
-- [Toby Hocking](https://github.com/tdhock), Northern Arizona University, USA
-
+  - [Ben Bolker](https://github.com/bbolker), McMaster University,
+    Canada
+  - [Rebecca Killick](https://github.com/rkillick), Lancaster
+    University, UK
+  - [Stephanie Hicks](https://github.com/stephaniehicks), Johns Hopkins
+    University, USA
+  - [Paula Moraga](https://github.com/Paula-Moraga), King Abdullah
+    University of Science and Technology, Saudi Arabia
+  - [Leonardo Collado-Torres](https://github.com/lcolladotor), Lieber
+    Institute for Brain Development, USA
+  - [Toby Hocking](https://github.com/tdhock), Northern Arizona
+    University, USA
 
 ### Reviewers and guest editors
 

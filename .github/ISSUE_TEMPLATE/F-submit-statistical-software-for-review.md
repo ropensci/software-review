@@ -10,6 +10,7 @@ Other Package Authors: (delete if none) Name (@github_handle)
 Repository:  <!--repourl--><!--end-repourl-->
 Version submitted:
 Submission type: <!--submission-type-->Stats<!--end-submission-type-->
+Badge grade: <!--statsgrade-->bronze/silver/gold (select one)<!--end-statsgrade-->
 Editor: <!--editor--> TBD <!--end-editor-->
 Reviewers: <!--reviewers-list--> TBD <!--end-reviewers-list-->
 <!--due-dates-list--><!--end-due-dates-list-->

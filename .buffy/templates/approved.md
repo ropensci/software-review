@@ -12,13 +12,13 @@ To-dos:
     * In addition, in your DESCRIPTION file, include the docs link in the `URL` field alongside the link to the GitHub repository, e.g.: `URL: https://docs.ropensci.org/foobar (website) https://github.com/ropensci/foobar`
 - [ ] Fix any links in badges for CI and coverage to point to the ropensci URL. We no longer transfer Appveyor projects to ropensci Appveyor account so after transfer of your repo to rOpenSci's "ropensci" GitHub organization the badge should be `[![AppVeyor Build Status](https://ci.appveyor.com/api/projects/status/github/ropensci/pkgname?branch=master&svg=true)](https://ci.appveyor.com/project/individualaccount/pkgname)`. If Appveyor does not pick up new commits after transfer, you might need to delete and re-create the Appveyor project. (Repo transfers are smoother with GitHub Actions)
 - [ ] Please check you have updated the package version to a post-review version and that you documented all changes in NEWS.md
-- [ ] We're starting to roll out software metadata files to all ropensci packages via the Codemeta initiative, see https://github.com/ropensci/codemetar/#codemetar for how to include it in your package, after installing the package - should be easy as running `codemetar::write_codemeta()` in the root of your package.
+- [ ] We're starting to roll out software metadata files to all rOpenSci packages via the Codemeta initiative, see https://docs.ropensci.org/codemetar/for how to include it in your package, after installing the package - should be easy as running `codemetar::write_codemeta()` in the root of your package.
 
-Should you want to acknowledge your reviewers in your package DESCRIPTION, you can do so by making them `"rev"`-type contributors in the `Authors@R` field (with their consent).  More info on this [here](https://devguide.ropensci.org/building.html#authorship).
+Should you want to acknowledge your reviewers in your package DESCRIPTION, you can do so by making them [`"rev"`-type contributors in the `Authors@R` field](https://devguide.ropensci.org/building.html#authorship) (with their consent). 
 
 
 Welcome aboard! We'd love to host a post about your package - either a [short introduction to it with an example](https://ropensci.org/tech-notes/) for a technical audience or [a longer post with some narrative about its development or something you learned, and an example of its use](https://ropensci.org/blog/) for a broader readership. If you are interested, consult [the blog guide](https://blogguide.ropensci.org/), and tag @stefaniebutland in your reply. She will get in touch about timing and can answer any questions.
 
-We've put together an online book with our best practice and tips, [this chapter](https://devguide.ropensci.org/collaboration.html) starts the 3d section that's about guidance for after onboarding. Please tell us what could be improved, the corresponding repo is [here](https://github.com/ropensci/dev_guide).
+We maintain an online book with our best practice and tips, [this chapter](https://devguide.ropensci.org/collaboration.html) starts the 3d section that's about guidance for after onboarding. Please [tell us](https://github.com/ropensci/dev_guide) what could be improved.
 
 Last but not least, you can volunteer as a reviewer via filling a [short form](https://airtable.com/shrnfDI2S9uuyxtDw).

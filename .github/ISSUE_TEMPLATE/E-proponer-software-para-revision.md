@@ -4,8 +4,9 @@ about: ¿Quieres confirmar que tu paquete encaja para revisión, o quieres envia
 ---
 
 
-Persona Encargada: nombre (@github_handle)  
-Otras Autoras del Paquete: (borra si solo hay una autora) nombre (@github_handle)
+Nombre de la Persona Encargada: Nombre
+Handle GitHub de la Persona Encargada: <!--author1-->@github_handle<!--end-author1-->
+Handle GitHub de las Otras Autoras del Paquete: (borra si solo hay una autora) <!--author-others-->@github_handle1, @github_handle2<!--end-author-others-->
 Repositorio: <!--repourl--><!--end-repourl-->
 Tipo de Envio: <!--submission-type-->pre-envio<!--end-submission-type-->
 

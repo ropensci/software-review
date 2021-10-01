@@ -4,9 +4,9 @@ about: Use this template to submit software for review
 
 ---
 
-
-Submitting Author: <!--author1-->Name (@github_handle)<!--end-author1-->
-Other Package Authors: (delete if none) <!--author-others-->Name (@github_handle)<!--end-author-others-->
+Submitting Author Name: Name
+Submitting Author Github Handle: <!--author1-->@github_handle<!--end-author1-->
+Other Package Authors Github handles: (comma separated, delete if none) <!--author-others-->@github_handle1, @github_handle2<!--end-author-others-->
 Repository:  <!--repourl--><!--end-repourl-->
 Version submitted:
 Submission type: <!--submission-type-->Standard<!--end-submission-type-->

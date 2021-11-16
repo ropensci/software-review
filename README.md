@@ -123,7 +123,11 @@ rOpenSci’s Software Peer Review process is run by:
   - [Julia Gustavsen](https://github.com/jooolia), Agroscope,
     Switzerland;
   - [Emily Riederer](https://github.com/emilyriederer), Capital One,
-    USA.
+    USA;
+  - [Adam Sparks](https://github.com/adamhsparks), Department of Primary
+    Industries and Regional Development;
+  - [Jeff Hollister](https://github.com/jhollist), US Environmental
+    Protection Agency.
 
 Associate editors for statistical software are:
 

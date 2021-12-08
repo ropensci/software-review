@@ -10,15 +10,15 @@ To-dos:
     * replace the whole current `pkgdown` website with a [redirecting page](https://devguide.ropensci.org/redirect.html)
     * replace your package docs URL with `https://docs.ropensci.org/package_name`
     * In addition, in your DESCRIPTION file, include the docs link in the `URL` field alongside the link to the GitHub repository, e.g.: `URL: https://docs.ropensci.org/foobar (website) https://github.com/ropensci/foobar`
-- [ ] Fix any links in badges for CI and coverage to point to the ropensci URL. We no longer transfer Appveyor projects to ropensci Appveyor account so after transfer of your repo to rOpenSci's "ropensci" GitHub organization the badge should be `[![AppVeyor Build Status](https://ci.appveyor.com/api/projects/status/github/ropensci/pkgname?branch=master&svg=true)](https://ci.appveyor.com/project/individualaccount/pkgname)`. If Appveyor does not pick up new commits after transfer, you might need to delete and re-create the Appveyor project. (Repo transfers are smoother with GitHub Actions)
-- [ ] Please check you have updated the package version to a post-review version and that you documented all changes in NEWS.md
+- [ ] Fix any links in badges for CI and coverage to point to the new repository URL. 
+- [ ] Increment the package version to reflect the changes you made during review. In NEWS.md, add a heading for the new version and one bullet for each user-facing change, and each developer-facing change that you think is relevant.
 - [ ] We're starting to roll out software metadata files to all rOpenSci packages via the Codemeta initiative, see https://docs.ropensci.org/codemetar/for how to include it in your package, after installing the package - should be easy as running `codemetar::write_codemeta()` in the root of your package.
+- [ ] You can add this installation method to your package README `install.packages("<package-name>", repos = "https://ropensci.r-universe.dev")` thanks to [R-universe](https://ropensci.org/blog/2021/06/22/setup-runiverse/).
 
 Should you want to acknowledge your reviewers in your package DESCRIPTION, you can do so by making them [`"rev"`-type contributors in the `Authors@R` field](https://devguide.ropensci.org/building.html#authorship) (with their consent). 
 
-
 Welcome aboard! We'd love to host a post about your package - either a [short introduction to it with an example](https://ropensci.org/tech-notes/) for a technical audience or [a longer post with some narrative about its development or something you learned, and an example of its use](https://ropensci.org/blog/) for a broader readership. If you are interested, consult [the blog guide](https://blogguide.ropensci.org/), and tag @stefaniebutland in your reply. She will get in touch about timing and can answer any questions.
 
-We maintain an online book with our best practice and tips, [this chapter](https://devguide.ropensci.org/collaboration.html) starts the 3d section that's about guidance for after onboarding. Please [tell us](https://github.com/ropensci/dev_guide) what could be improved.
+We maintain an online book with our best practice and tips, [this chapter](https://devguide.ropensci.org/collaboration.html) starts the 3d section that's about guidance for after onboarding (with advice on [releases](https://devguide.ropensci.org/editorguide.html#releases), [package marketing](https://devguide.ropensci.org/marketing.html#marketing), [GitHub grooming](https://devguide.ropensci.org/grooming.html#grooming)); the guide also feature [CRAN gotchas](https://devguide.ropensci.org/building.html#crangotchas). Please [tell us](https://github.com/ropensci/dev_guide) what could be improved.
 
 Last but not least, you can volunteer as a reviewer via filling a [short form](https://airtable.com/shrnfDI2S9uuyxtDw).

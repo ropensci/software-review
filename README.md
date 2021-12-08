@@ -51,7 +51,7 @@ mandatory for everyone involved in our review process.**
     Software](http://joss.theoj.org/) for fast-tracked publication.
 
 If you want to submit a package, read our [guide for
-authors](https://devguide.ropensci.org/guide-for-authors.html) before
+authors](https://devguide.ropensci.org/authors-guide.html) before
 opening a submission issue in this repository.
 
 ## <a href="#why-review" name="why-review"></a>Why and how to review packages for rOpenSci?
@@ -123,7 +123,11 @@ rOpenSci’s Software Peer Review process is run by:
   - [Julia Gustavsen](https://github.com/jooolia), Agroscope,
     Switzerland;
   - [Emily Riederer](https://github.com/emilyriederer), Capital One,
-    USA.
+    USA;
+  - [Adam Sparks](https://github.com/adamhsparks), Department of Primary
+    Industries and Regional Development;
+  - [Jeff Hollister](https://github.com/jhollist), US Environmental
+    Protection Agency.
 
 Associate editors for statistical software are:
 
@@ -139,21 +143,6 @@ Associate editors for statistical software are:
     Institute for Brain Development, USA;
   - [Toby Hocking](https://github.com/tdhock), Northern Arizona
     University, USA.
-
-Associate editors for statistical software are:
-
-  - [Ben Bolker](https://github.com/bbolker), McMaster University,
-    Canada
-  - [Rebecca Killick](https://github.com/rkillick), Lancaster
-    University, UK
-  - [Stephanie Hicks](https://github.com/stephaniehicks), Johns Hopkins
-    University, USA
-  - [Paula Moraga](https://github.com/Paula-Moraga), King Abdullah
-    University of Science and Technology, Saudi Arabia
-  - [Leonardo Collado-Torres](https://github.com/lcolladotor), Lieber
-    Institute for Brain Development, USA
-  - [Toby Hocking](https://github.com/tdhock), Northern Arizona
-    University, USA
 
 ### Reviewers and guest editors
 

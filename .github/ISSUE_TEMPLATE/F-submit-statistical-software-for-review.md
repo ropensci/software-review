@@ -77,4 +77,4 @@ This package:
 
 ## Code of conduct
 
-- [ ] I agree to abide by [rOpenSci's Code of Conduct](https://devguide.ropensci.org/policies.html#code-of-conduct) during the review process and in maintaining my package should it be accepted.
+- [ ] I agree to abide by [rOpenSci's Code of Conduct](https://ropensci.org/code-of-conduct/) during the review process and in maintaining my package should it be accepted.

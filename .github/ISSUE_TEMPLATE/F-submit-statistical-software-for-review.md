@@ -62,6 +62,7 @@ Confirm each of the following by checking the box.
 - [ ] I/we have read the [*Statistical Software Peer Review* Guide for Authors](https://stats-devguide.ropensci.org/pkgdev.html).
 - [ ] I/we have run [`autotest`](https://github.com/ropensci-review-tools/autotest) checks on the package, and ensured no tests fail.
 - [ ] The [`srr_stats_pre_submit()` function](https://ropensci-review-tools.github.io/srr/reference/srr_stats_pre_submit.html) confirms this package may be submitted.
+- [ ] The [`pkgcheck()` function](https://docs.ropensci.org/pkgcheck/reference/pkgcheck.html) confirms this package may be submitted - alternatively, please explain reasons for any checks which your package is unable to pass.
 
 This package:
 

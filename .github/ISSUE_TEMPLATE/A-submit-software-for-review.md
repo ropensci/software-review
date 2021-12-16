@@ -55,6 +55,8 @@ Language: <!--language-->en<!--end-language-->
 
 -   If you made a pre-submission inquiry, please paste the link to the corresponding issue, forum post, or other discussion, or @tag the editor you contacted.
 
+-   Explain reasons for any [`pkgcheck` items](https://docs.ropensci.org/pkgcheck/) which your package is unable to pass.
+
 ## Technical checks
 
 Confirm each of the following by checking the box.

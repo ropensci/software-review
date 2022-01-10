@@ -5,12 +5,12 @@ about: Use this template to submit statistical software for review
 ---
 
 <!---
-In the section that immediately follows, please enter the 2 values of (1) submitting author GitHub handle; and (2) Repository URL. Values for additional package authors may also be specified. Values for each must be placed between the two HTML sections, as illustrated for the "author1" value. The HTML symbols defining each variable must be left as they are - so the submitting author is specified by replacing "@github_handle" only, while leaving the enclosing HTML symbols as they are. This comment may be deleted once it has been read and understood.
+Below, please enter values for (1) submitting author GitHub handle (replacing "@github_handle@); and (2) Repository URL (replacing "https://repourl"). Values for additional package authors may also be specified, replacing "@github_handle1", "@github_handle2" - delete these if not needed. DO NOT DELETE HTML SYMBOLS. Replace only "@github_handle" and "https://repourl". This comment may be deleted once it has been read and understood.
 --->
 
 Submitting Author: <!--author1-->Name (@github_handle)<!--end-author1-->
 Other Package Authors: (delete if none) <!--author-others-->Name (@github_handle)<!--end-author-others-->
-Repository:  <!--repourl--><!--end-repourl-->
+Repository:  <!--repourl-->https://repourl<!--end-repourl-->
 Version submitted:
 Submission type: <!--submission-type-->Stats<!--end-submission-type-->
 Badge grade: <!--statsgrade-->bronze/silver/gold (select one)<!--end-statsgrade-->

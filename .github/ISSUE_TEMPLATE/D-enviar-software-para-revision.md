@@ -54,6 +54,8 @@ Idioma: <!--language-->es<!--end-language-->
 
 - Si ya has hecho una consulta de pre-envío, por favor pega el enlace al _issue_ correspondiente, una publicación del foro, u otra discusión. Alternativamente, etiqueta al editor (con @tag) con el que te contactaste.
 
+-   (Si aplica) Explique las razones de los [elementos `pkgcheck`](https://docs.ropensci.org/pkgcheck/) que su paquete no puede pasar.
+
 
 
 ## Revisiones Técnicas

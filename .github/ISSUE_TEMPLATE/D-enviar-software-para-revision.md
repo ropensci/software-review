@@ -3,10 +3,13 @@ name: Enviar software para revisión
 about: Usa esta plantilla para enviar un software a revisar en Español (Experimental)
 ---
 
+<!---
+A continuación, introduzca los valores de (1) el usuario de GitHub de la persona que envía el paquete (sustituyendo "@github_handle") y (2) la URL del repositorio (sustituyendo "https://repourl"). También se pueden especificar valores para autores de paquetes adicionales, sustituyendo "@github_handle1", "@github_handle2" - elimine esto si no lo necesita. NO BORRAR LOS SÍMBOLOS HTML (por ejemplo, "<!--author1-->", "<!--end-author1-->"). Austituir sólo "@github_handle" y "https://repourl". Este comentario puede ser eliminado una vez que haya sido leído y comprendido.
+--->
 
 Persona Encargada: <!--author1-->nombre (@github_handle)<!--end-author1-->
 Otras Autoras del Paquete: (borra si solo hay una autora) <!--author-others-->nombre (@github_handle)<!--end-author-others-->
-Repositorio: <!--repourl--><!--end-repourl-->
+Repositorio: <!--repourl-->https://repourl<!--end-repourl-->
 Versión Enviada:
 Tipo de Envio: <!--submission-type-->Estándar<!--end-submission-type-->
 Editora: <!--editor--> TBD <!--end-editor-->

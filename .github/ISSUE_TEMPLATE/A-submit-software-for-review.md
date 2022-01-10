@@ -4,10 +4,14 @@ about: Use this template to submit software for review
 
 ---
 
+<!---
+Below, please enter values for (1) submitting author GitHub handle (replacing "@github_handle@); and (2) Repository URL (replacing "https://repourl"). Values for additional package authors may also be specified, replacing "@github_handle1", "@github_handle2" - delete these if not needed. DO NOT DELETE HTML SYMBOLS (e.g., "<!--author1-->", "<!--end-author1-->"). Replace only "@github_handle" and "https://repourl". This comment may be deleted once it has been read and understood.
+--->
+
 Submitting Author Name: Name
 Submitting Author Github Handle: <!--author1-->@github_handle<!--end-author1-->
 Other Package Authors Github handles: (comma separated, delete if none) <!--author-others-->@github_handle1, @github_handle2<!--end-author-others-->
-Repository:  <!--repourl--><!--end-repourl-->
+Repository:  <!--repourl-->https://repourl<!--end-repourl-->
 Version submitted:
 Submission type: <!--submission-type-->Standard<!--end-submission-type-->
 Editor: <!--editor--> TBD <!--end-editor-->

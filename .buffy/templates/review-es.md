@@ -1,3 +1,12 @@
+---
+title: "review"
+output: 
+  rmarkdown::md_document:
+    pandoc_args: [
+      "--wrap=none"
+    ]
+---
+
 ## Revisión de un paquete
 
 *Por favor trata de marcar tantas casillas como te sea posible y elabora tus argumentos en comentarios abajo de cada una. Tu revisión no esta limitada a estos temas, tal como se describe en la guia para revisores (Reviewer Guide)*

@@ -300,7 +300,8 @@ Padgham](https://github.com/mpadge) · [Marina
 Papadopoulou](https://github.com/marinapapa) · [Edzer
 Pebesma](https://github.com/edzer) · [Thomas Lin
 Pedersen](https://github.com/thomasp85) · [Rafael
-Pilliard-Hellwig](https://github.com/rtaph) · [Lindsay
+Pilliard-Hellwig](https://github.com/rtaph) · [Rodrigo
+Pires](https://github.com/bozaah) · [Lindsay
 Platt](https://github.com/lindsayplatt) · [Nicholas
 Potter](https://github.com/potterzot) · [Etienne
 Racine](https://github.com/etiennebr) · [Nistara
@@ -374,8 +375,9 @@ Zimmerman](https://github.com/naupaka) · [Jake
 Zwart](https://github.com/jzwart) ·
 [Manuel](https://github.com/manuramon) ·
 [Rich](https://github.com/richfitz) ·
-[Claudia](https://github.com/cvitolo) · [Lluís](https://github.com/llrs)
-· [gaurav](https://github.com/soodoku)
+[Claudia](https://github.com/cvitolo) ·
+[Jasmine](https://github.com/laijasmine) ·
+[Lluís](https://github.com/llrs) · [gaurav](https://github.com/soodoku)
 
 We are also grateful to the following individuals who have served as
 guest editors.

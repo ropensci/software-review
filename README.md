@@ -232,7 +232,8 @@ Hester](https://github.com/jimhester) · [Peter
 Hickey](https://github.com/PeteHaitch) · [Roel
 Hogervorst](https://github.com/rmhogervorst) · [Jeff
 Hollister](https://github.com/jhollist) · [Kelly
-Hondula](https://github.com/khondula) · [Sean
+Hondula](https://github.com/khondula) · [Allison
+Horst](https://github.com/allisonhorst) · [Sean
 Hughes](https://github.com/seaaan) · [Brandon
 Hurr](https://github.com/bhive01) · [Ger
 Inberg](https://github.com/ginberg) · [Najko

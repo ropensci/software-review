@@ -301,7 +301,7 @@ Padgham](https://github.com/mpadge) · [Marina
 Papadopoulou](https://github.com/marinapapa) · [Edzer
 Pebesma](https://github.com/edzer) · [Thomas Lin
 Pedersen](https://github.com/thomasp85) · [Rafael
-Pilliard-Hellwig](https://github.com/rtaph) · [Rodrigo
+Pilliard-Hellwig](https://github.com/rtaph) · [Rodrigo Neto
 Pires](https://github.com/bozaah) · [Lindsay
 Platt](https://github.com/lindsayplatt) · [Nicholas
 Potter](https://github.com/potterzot) · [Etienne

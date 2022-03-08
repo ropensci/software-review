@@ -5,11 +5,16 @@ about: Not sure your software fits, or submitting a statistical package? Use thi
 
 ---
 
+<!---
+Below, please enter values for (1) submitting author GitHub handle (replacing "@github_handle@); and (2) Repository URL (replacing "https://repourl"). Values for additional package authors may also be specified, replacing "@github_handle1", "@github_handle2" - delete these if not needed. DO NOT DELETE HTML SYMBOLS (everything between "<!" and ">"). Replace only "@github_handle" and "https://repourl". This comment may be deleted once it has been read and understood.
+--->
 
-Submitting Author: Name (@github_handle)  
-Other Package Authors: (delete if none) Name (@github_handle)
-Repository:  <!--repourl--><!--end-repourl-->
+Submitting Author Name: Name
+Submitting Author Github Handle: <!--author1-->@github_handle<!--end-author1-->
+Other Package Authors Github handles: (comma separated, delete if none) <!--author-others-->@github_handle1, @github_handle2<!--end-author-others-->
+Repository:  <!--repourl-->https://repourl<!--end-repourl-->
 Submission type: <!--submission-type-->Pre-submission<!--end-submission-type-->
+Language: <!--language-->en<!--end-language-->
 
 ---
 

@@ -120,12 +120,15 @@ We are grateful to the following individuals who have offered up their time and 
 if (Sys.getenv("AIRTABLE_API_KEY") == ""){
   Sys.setenv(AIRTABLE_API_KEY = params$AIRTABLE_API_KEY)
 }
+if (Sys.getenv("AIRTABLE_ID") == ""){
+  Sys.setenv(AIRTABLE_ID = params$AIRTABLE_ID)
+}
 editors <- c("Noam Ross", "Karthik Ram", "Maëlle Salmon",
     "Melina Vidoni", "Anna Krystalli", "Mauro Lepore", "Laura DeCicco", "Julia Gustavsen")
-reviewers <- airtabler::airtable(base = "appZIB8hgtvjoV99D", 
-                                table = "Reviewers")
-reviewers <- reviewers$Reviewers$select_all()
-reviewers <- reviewers[purrr::map_lgl(reviewers$Reviews, 
+reviewers <- airtabler::airtable(base = "app8dssb6a7PG6Vwj", 
+                                table = "reviewers-prod")
+reviewers <- reviewers$`reviewers-prod`$select_all()
+reviewers <- reviewers[purrr::map_lgl(reviewers$reviews, 
                                ~!is.null(.)) & 
                          !(reviewers$name %in% c(editors, "???")), ]
 # get last names

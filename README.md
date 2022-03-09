@@ -322,7 +322,8 @@ Ruiz](https://github.com/edgararuiz) · [Kent
 Russel](https://github.com/timelyportfolio) · [Alicia
 Schep](https://github.com/AliciaSchep) · [Klaus
 Schliep](https://github.com/KlausVigo) · [Clemens
-Schmid](https://github.com/nevrome) · [Marco
+Schmid](https://github.com/nevrome) · [Patrick
+Schratz](https://github.com/pat-s) · [Marco
 Sciaini](https://github.com/marcosci) · [Heidi
 Seibold](https://github.com/HeidiSeibold) · [Julia
 Silge](https://github.com/juliasilge) · [Margaret

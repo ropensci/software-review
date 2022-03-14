@@ -214,7 +214,8 @@ Gerber](https://github.com/monicagerber) · [Duncan
 Gillespie](https://github.com/dosgillespie) · [David
 Gohel](https://github.com/davidgohel) · [Laura
 Graham](https://github.com/laurajanegraham) · [Charles
-Gray](https://github.com/softloud) · [Corinna
+Gray](https://github.com/softloud) · [Matthias
+Grenié](https://github.com/Rekyt) · [Corinna
 Gries](https://github.com/cgries) · [Hugo
 Gruson](https://github.com/bisaloo) · [W Kyle
 Hamilton](https://github.com/kylehamilton) · [Ivan

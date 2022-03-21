@@ -96,6 +96,11 @@ This package:
 
 </details>
 
+## Author's commitment
+
+- [ ] I have read the [author guide](https://devdevguide.netlify.app/authors-guide.html) and intend to fully participate in the process in particular respond to reviews, or will do my best to 
+find a successor if I e.g. change jobs.
+
 ## Code of conduct
 
 - [ ] I agree to abide by [rOpenSci's Code of Conduct](https://ropensci.org/code-of-conduct/) during the review process and in maintaining my package should it be accepted.

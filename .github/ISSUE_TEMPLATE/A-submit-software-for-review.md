@@ -98,8 +98,7 @@ This package:
 
 ## Author's commitment
 
-- [ ] I have read the [author guide](https://devdevguide.netlify.app/authors-guide.html) and intend to fully participate in the process in particular respond to reviews, or will do my best to 
-find a successor if necessary (for example because of a change in jobs).
+- [ ] I have read the [author guide](https://devdevguide.netlify.app/authors-guide.html) and I expect to maintain this package for at least 2 years or have another maintainer identified.
 
 ## Code of conduct
 

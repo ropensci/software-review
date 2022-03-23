@@ -1,5 +1,0 @@
-:rocket:
-
-{{response}}
-
-:wave:

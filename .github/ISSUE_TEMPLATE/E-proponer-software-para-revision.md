@@ -71,3 +71,43 @@ Si no estás seguro, te sugerimos que comiences un pre-envío.
 -   (Si aplica) ¿Tu paquete cumple con nuestras [guías de _Ética, Privacidad de Datos e Investigación de Sujetos Humanos_ (documento en Inglés)](https://devguide.ropensci.org/policies.html#ethics-data-privacy-and-human-subjects-research)?
 
 -  ¿Tienes otras preguntas u otros comentarios?
+
+## Technical checks
+
+Confirma (tilda):
+
+- [ ] He leído la [guía sobre paquetes de rOpenSci](https://devguide.ropensci.org/building.html).
+- [ ] He leído la [guía para autores](https://devdevguide.netlify.app/authors-guide.html) y pienso mantener este paquete durante al menos 2 años o tengo otra mantenedor identificada para el paquete.
+
+Este paquete:
+
+- [ ] no infringe las condiciones de servicio de ningún servicio con el que interactúa.
+- [ ] tiene una licencia aceptada por CRAN y OSI.
+- [ ] contiene un [README con instrucciones para instalar la versión de desarrollo](https://ropensci.github.io/dev_guide/building.html#readme).
+- [ ] incluye [documentación con ejemplos para todas las funciones, creada con roxygen2](https://ropensci.github.io/dev_guide/building.html#documentation).
+- [ ] contiene una viñeta (vignette) con ejemplos de sus funciones y usos esenciales.
+- [ ] tiene ["testos unitarios"](https://ropensci.github.io/dev_guide/building.html#testing).
+- [ ] tiene [integración continua](https://ropensci.github.io/dev_guide/ci.html), incluyendo el reporte de la cobertura de las pruebas utilizando servicios como Travis CI, Coveralls y/o CodeCov.
+
+## Opciones de publicación
+
+- [ ] ¿Tiene la intención de que este paquete vaya a CRAN?
+- [ ] ¿Tiene la intención de que este paquete vaya a Bioconductor?
+
+- [ ] ¿Desea enviar un artículo de aplicación sobre su paquete a [Methods in Ecology and Evolution](http://besjournals.onlinelibrary.wiley.com/hub/journal/10.1111/(ISSN)2041-210X/)? En este caso:
+
+<details>
+<summary>MEE Options</summary>
+
+- [ ] The package is novel and will be of interest to the broad readership of the journal.
+- [ ] The manuscript describing the package is no longer than 3000 words.
+- [ ] You intend to archive the code for the package in a long-term repository which meets the requirements of the journal (see [MEE's Policy on Publishing Code](http://besjournals.onlinelibrary.wiley.com/hub/journal/10.1111/(ISSN)2041-210X/journal-resources/policy-on-publishing-code.html))
+- (*Scope: Do consider MEE's [Aims and Scope](http://besjournals.onlinelibrary.wiley.com/hub/journal/10.1111/(ISSN)2041-210X/aims-and-scope/read-full-aims-and-scope.html) for your manuscript. We make no guarantee that your manuscript will be within MEE scope.*)
+- (*Although not required, we strongly recommend having a full manuscript prepared when you submit here.*)
+- (*Please do not submit your package separately to Methods in Ecology and Evolution*)
+
+</details>
+
+## Codigo de conducta
+
+- [ ] Me comprometo a respetar [rOpenSci's Code of Conduct](https://ropensci.org/code-of-conduct/) durante el proceso de revisión y en el mantenimiento de mi paquete en caso de que sea aceptado.

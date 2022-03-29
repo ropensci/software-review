@@ -66,7 +66,9 @@ Idioma: <!--language-->es<!--end-language-->
 
 Tilda los siguientes items para confirmar que los has completado:
 
-- [ ] He leído la [guía para autores (documento en Inglés)](https://devguide.ropensci.org/guide-for-authors.html) y [la guía de paquetes de rOpenSci (documento en Inglés)](https://devguide.ropensci.org/building.html).
+- [ ] He leído la [guía sobre paquetes de rOpenSci](https://devguide.ropensci.org/building.html).
+- [ ] He leído la [guía para autores](https://devdevguide.netlify.app/authors-guide.html) y pienso mantener este paquete durante al menos 2 años o encontrar un reemplazo.
+
 
 Este paquete:
 

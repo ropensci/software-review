@@ -344,7 +344,8 @@ Teixeira](https://github.com/FilipeamTeixeira) · [Andy
 Teucher](https://github.com/ateucher) · [Jennifer
 Thompson](https://github.com/jenniferthompson) · [Joe
 Thorley](https://github.com/joethorley) · [Tiffany
-Timbers](https://github.com/ttimbers) · [Tim
+Timbers](https://github.com/ttimbers) · [Tan
+Tran](https://github.com/vinhtantran) · [Tim
 Trice](https://github.com/timtrice) · [Ted
 Underwood](https://github.com/tedunderwood) · [Adithi R.
 Upadhya](https://github.com/adithirgis) · [Kevin

@@ -240,7 +240,8 @@ Hurr](https://github.com/bhive01) · [Ger
 Inberg](https://github.com/ginberg) · [Najko
 Jahn](https://github.com/njahn82) · [Tamora D
 James](https://github.com/tdjames1) · [Mike
-Johnson](https://github.com/mikejohnson51) · [Max
+Johnson](https://github.com/mikejohnson51) · [Will
+Jones](https://github.com/wjones127) · [Max
 Joseph](https://github.com/mbjoseph) · [Krunoslav
 Juraic](https://github.com/kjuraic) · [Soumya
 Kalra](https://github.com/sokal1456) · [Zhian N.
@@ -370,7 +371,7 @@ Winter](https://github.com/dwinter) · [Witold
 Wolski](https://github.com/wolski) · [Kara
 Woo](https://github.com/karawoo) · [Bruna
 Wundervald](https://github.com/brunaw) · [Lauren
-Yamane](https://github.com/layamane) · [Emily C.
+Yamane](https://github.com/layamane) · [Emily
 Zabor](https://github.com/zabore) · [Taras
 Zakharko](https://github.com/tzakharko) · [Hao
 Zhu](https://github.com/haozhu233) · [Chava

@@ -1,7 +1,7 @@
 Approved! Thanks @{{issue_author}} for submitting and {{reviewers-list}} for your reviews! :grin:
 
 To-dos:
-- [ ] Transfer the repo to rOpenSci's "ropensci" GitHub organization under "Settings" in your repo.  I have invited you to a team that should allow you to do so. 
+- [ ] Transfer the repo to rOpenSci's "ropensci" GitHub organization under "Settings" in your repo.  I have invited you to a team that should allow you to do so. You will need to [enable two-factor authentication](https://docs.github.com/en/authentication/securing-your-account-with-two-factor-authentication-2fa/configuring-two-factor-authentication) for your GitHub account.
 - [ ] After transfer write a comment `@ropensci-review-bot finalize transfer of <package-name>` where `<package-name>` is the repo/package name. This will give you admin access back.
 - [ ] Fix all links to the GitHub repo to point to the repo under the ropensci organization.
 - [ ] Delete your current code of conduct file if you had one since rOpenSci's default one will apply, see https://devguide.ropensci.org/collaboration.html#coc-file

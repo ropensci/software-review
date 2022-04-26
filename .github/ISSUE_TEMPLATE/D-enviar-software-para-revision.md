@@ -66,7 +66,9 @@ Idioma: <!--language-->es<!--end-language-->
 
 Tilda los siguientes items para confirmar que los has completado:
 
-- [ ] He leído la [guía para autores (documento en Inglés)](https://devguide.ropensci.org/guide-for-authors.html) y [la guía de paquetes de rOpenSci (documento en Inglés)](https://devguide.ropensci.org/building.html).
+- [ ] He leído la [guía sobre paquetes de rOpenSci](https://devguide.ropensci.org/building.html).
+- [ ] He leído la [guía para autores](https://devdevguide.netlify.app/authors-guide.html) y pienso mantener este paquete durante al menos 2 años o encontrar un reemplazo.
+
 
 Este paquete:
 
@@ -75,8 +77,8 @@ Este paquete:
 - [ ] Contiene un [archivo README con instrucciones para instalar la versión de desarrollo](https://ropensci.github.io/dev_guide/building.html#readme).
 - [ ] Incluye [documentación con ejemplos para todas las funciones, creada con roxygen2](https://ropensci.github.io/dev_guide/building.html#documentation).
 - [ ] Contiene una viñeta (_vignette_) con ejemplos de sus funciones esenciales y su uso.
-- [ ] Tiene una [suite de tests (documento en Inglés)](https://ropensci.github.io/dev_guide/building.html#testing).
-- [ ] Tiene [integración contínua (documento en Inglés)](https://ropensci.github.io/dev_guide/ci.html), incluyendo reporte de cobertura de tests, usando servicios como Travis CI, Coveralls y/o CodeCov.
+- [ ] Tiene una [suite de tests (documento en Inglés)](https://devguide.ropensci.org/building.html#testing).
+- [ ] Tiene [integración contínua (documento en Inglés)](https://devguide.ropensci.org/ci.html), incluyendo reporte de cobertura de tests.
 
 ## Opciones de Publicación
 

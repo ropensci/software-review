@@ -31,6 +31,20 @@ Language: <!--language-->en<!--end-language-->
 
 ```
 
+## Scope 
+
+- Please indicate which of our [statistical package categories](https://stats-devguide.ropensci.org/overview.html#overview-categories) this package falls under. (Please check one appropriate box below):
+
+     **Statistical Packages**
+
+	- [ ] Bayesian and Monte Carlo Routines
+	- [ ] Dimensionality Reduction, Clustering, and Unsupervised Learning
+	- [ ] Machine Learning
+	- [ ] Regression and Supervised Learning
+	- [ ] Exploratory Data Analysis (EDA) and Summary Statistics
+	- [ ] Spatial Analyses
+	- [ ] Time Series Analyses
+
 ## Pre-submission Inquiry
 
 - [ ] A pre-submission inquiry has been approved in [issue#<issue_num>](#<issue_num>)<!--Replace #<issue_num> with the issue number of the Pres-submission inquiry-->

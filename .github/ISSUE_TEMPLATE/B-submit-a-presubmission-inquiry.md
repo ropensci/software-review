@@ -36,7 +36,6 @@ Language: <!--language-->en<!--end-language-->
 	- [ ] database access
 	- [ ] data munging
 	- [ ] data deposition
-    - [ ] data validation and testing
 	- [ ] workflow automation
 	- [ ] version control
 	- [ ] citation management and bibliometrics

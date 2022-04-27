@@ -214,7 +214,8 @@ Gerber](https://github.com/monicagerber) · [Duncan
 Gillespie](https://github.com/dosgillespie) · [David
 Gohel](https://github.com/davidgohel) · [Laura
 Graham](https://github.com/laurajanegraham) · [Charles
-Gray](https://github.com/softloud) · [Corinna
+Gray](https://github.com/softloud) · [Matthias
+Grenié](https://github.com/Rekyt) · [Corinna
 Gries](https://github.com/cgries) · [Hugo
 Gruson](https://github.com/bisaloo) · [W Kyle
 Hamilton](https://github.com/kylehamilton) · [Ivan
@@ -239,7 +240,8 @@ Hurr](https://github.com/bhive01) · [Ger
 Inberg](https://github.com/ginberg) · [Najko
 Jahn](https://github.com/njahn82) · [Tamora D
 James](https://github.com/tdjames1) · [Mike
-Johnson](https://github.com/mikejohnson51) · [Max
+Johnson](https://github.com/mikejohnson51) · [Will
+Jones](https://github.com/wjones127) · [Max
 Joseph](https://github.com/mbjoseph) · [Krunoslav
 Juraic](https://github.com/kjuraic) · [Soumya
 Kalra](https://github.com/sokal1456) · [Zhian N.
@@ -322,7 +324,8 @@ Ruiz](https://github.com/edgararuiz) · [Kent
 Russel](https://github.com/timelyportfolio) · [Alicia
 Schep](https://github.com/AliciaSchep) · [Klaus
 Schliep](https://github.com/KlausVigo) · [Clemens
-Schmid](https://github.com/nevrome) · [Marco
+Schmid](https://github.com/nevrome) · [Patrick
+Schratz](https://github.com/pat-s) · [Marco
 Sciaini](https://github.com/marcosci) · [Heidi
 Seibold](https://github.com/HeidiSeibold) · [Julia
 Silge](https://github.com/juliasilge) · [Margaret
@@ -342,7 +345,8 @@ Teixeira](https://github.com/FilipeamTeixeira) · [Andy
 Teucher](https://github.com/ateucher) · [Jennifer
 Thompson](https://github.com/jenniferthompson) · [Joe
 Thorley](https://github.com/joethorley) · [Tiffany
-Timbers](https://github.com/ttimbers) · [Tim
+Timbers](https://github.com/ttimbers) · [Tan
+Tran](https://github.com/vinhtantran) · [Tim
 Trice](https://github.com/timtrice) · [Ted
 Underwood](https://github.com/tedunderwood) · [Adithi R.
 Upadhya](https://github.com/adithirgis) · [Kevin
@@ -367,7 +371,7 @@ Winter](https://github.com/dwinter) · [Witold
 Wolski](https://github.com/wolski) · [Kara
 Woo](https://github.com/karawoo) · [Bruna
 Wundervald](https://github.com/brunaw) · [Lauren
-Yamane](https://github.com/layamane) · [Emily C.
+Yamane](https://github.com/layamane) · [Emily
 Zabor](https://github.com/zabore) · [Taras
 Zakharko](https://github.com/tzakharko) · [Hao
 Zhu](https://github.com/haozhu233) · [Chava

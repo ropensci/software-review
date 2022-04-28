@@ -38,6 +38,7 @@ Idioma: <!--language-->es<!--end-language-->
 	- [ ] extracción de datos (data extraction)
 	- [ ] munging de datos (data munging)
 	- [ ] disposición o declaración de datos (data deposition)
+    - [ ] validación y prueba de datos (data validation and testing)
 	- [ ] automatización de flujos de trabajo (workflow automation)
 	- [ ] control de versiones (version control)
 	- [ ] manejo de citas y bibliometría (citation management and bibliometrics)

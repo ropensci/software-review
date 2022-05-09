@@ -125,7 +125,7 @@ if (Sys.getenv("AIRTABLE_ID") == ""){
 }
 editors <- c("Noam Ross", "Karthik Ram", "Maëlle Salmon",
     "Melina Vidoni", "Anna Krystalli", "Mauro Lepore", "Laura DeCicco", "Julia Gustavsen")
-reviewers <- airtabler::airtable(base = "app8dssb6a7PG6Vwj", 
+reviewers <- airtabler::airtable(base = Sys.getenv("AIRTABLE_ID"), 
                                 table = "reviewers-prod")
 reviewers <- reviewers$`reviewers-prod`$select_all()
 reviewers <- reviewers[purrr::map_lgl(reviewers$reviews, 
@@ -140,7 +140,7 @@ cat(paste0("[", reviewers$name, "](https://github.com/", reviewers$github, ")", 
 We are also grateful to the following individuals who have served as guest editors.
 
 ```{r guesteditors, echo=FALSE, results='asis'}
-guest_editors <- airtabler::airtable(base = "appZIB8hgtvjoV99D", 
+guest_editors <- airtabler::airtable(base = Sys.getenv("AIRTABLE_ID"), 
                                 table = "guest-editors")
 guest_editors <- guest_editors$`guest-editors`$select_all()
 guest_editors <- guest_editors[!(guest_editors$name %in% c(editors, "???")), ]

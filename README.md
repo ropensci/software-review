@@ -201,7 +201,8 @@ Duursma](https://github.com/RemkoDuursma) · [Mark
 Edmondson](https://github.com/MarkEdmondson1234) · [Paul
 Egeler](https://github.com/pegeler) · [Evan
 Eskew](https://github.com/eveskew) · [Salvador
-Fernandez](https://github.com/salvafern) · [Kim
+Fernandez](https://github.com/salvafern) · [Alexander
+Fischer](https://github.com/s3alfisc) · [Kim
 Fitter](https://github.com/kimnewzealand) · [Robert M
 Flight](https://github.com/rmflight) · [Sydney
 Foks](https://github.com/sfoks) · [Zachary Stephen Longiaru
@@ -250,7 +251,8 @@ Kane](https://github.com/kaneplusplus) · [Andee
 Kaplan](https://github.com/andeek) · [Hazel
 Kavılı](https://github.com/UniversalTourist) · [Jonathan
 Keane](https://github.com/jonkeane) · [Os
-Keyes](https://github.com/Ironholds) · [Michael
+Keyes](https://github.com/Ironholds) · [Aaron A
+King](https://github.com/kingaa) · [Michael
 Koontz](https://github.com/mikoontz) · [Bianca
 Kramer](https://github.com/bmkramer) · [Will
 Landau](https://github.com/wlandau) · [Erin
@@ -333,7 +335,7 @@ Siple](https://github.com/mcsiple) · [Peter
 Slaughter](https://github.com/gothub) · [Mike
 Smith](https://github.com/grimbough) · [Tuija
 Sonkkila](https://github.com/tts) · [Adam
-Sparks](https://github.com/Adamhsparks) · [Joseph
+Sparks](https://github.com/adamhsparks) · [Joseph
 Stachelek](https://github.com/jsta) · [Christine
 Stawitz](https://github.com/ChristineStawitz-NOAA) · [Irene
 Steves](https://github.com/isteves) · [Michael
@@ -379,6 +381,7 @@ Zibman](https://github.com/czibman) · [Naupaka
 Zimmerman](https://github.com/naupaka) · [Jake
 Zwart](https://github.com/jzwart) ·
 [Manuel](https://github.com/manuramon) ·
+[Daniela](https://github.com/Athene-ai) ·
 [Rich](https://github.com/richfitz) ·
 [Claudia](https://github.com/cvitolo) ·
 [Jasmine](https://github.com/laijasmine) ·
@@ -387,6 +390,8 @@ Zwart](https://github.com/jzwart) ·
 We are also grateful to the following individuals who have served as
 guest editors.
 
-[Ana Laura Diedrichs](https://github.com/anadiedrichs) · [Emily
+[Ana Laura Diedrichs](https://github.com/anadiedrichs) · [Jeff
+Hollister](https://github.com/jhollist) · [Emily
 Riederer](https://github.com/emilyriederer) · [Adam
-Sparks](https://github.com/adamhsparks)
+Sparks](https://github.com/adamhsparks) · [Hao
+Zhu](https://github.com/haozhu233)

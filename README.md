@@ -150,7 +150,8 @@ We are grateful to the following individuals who have offered up their
 time and expertise to review packages submitted to rOpenSci.
 
 [Sam Albers](https://github.com/boshek) · [Toph
-Allen](https://github.com/toph-allen) · [Brooke
+Allen](https://github.com/toph-allen) · [Kaique dos S.
+Alves](https://github.com/AlvesKS) · [Brooke
 Anderson](https://github.com/geanders) · [Alison
 Appling](https://github.com/aappling-usgs) · [Zebulun
 Arendsee](https://github.com/arendsee) · [Taylor
@@ -381,6 +382,7 @@ Zibman](https://github.com/czibman) · [Naupaka
 Zimmerman](https://github.com/naupaka) · [Jake
 Zwart](https://github.com/jzwart) ·
 [Manuel](https://github.com/manuramon) ·
+[NA](https://github.com/arhepworth) ·
 [Daniela](https://github.com/Athene-ai) ·
 [Rich](https://github.com/richfitz) ·
 [Claudia](https://github.com/cvitolo) ·

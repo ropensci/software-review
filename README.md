@@ -229,7 +229,8 @@ Haswell](https://github.com/nujcharee) · [Verena
 Haunschmid](https://github.com/expectopatronum) · [Stephanie
 Hazlitt](https://github.com/stephhazlitt) · [Andrew
 Heiss](https://github.com/andrewheiss) · [Max
-Held](https://github.com/maxheld83) · [Bea
+Held](https://github.com/maxheld83) · [Anna
+Hepworth](https://github.com/arhepworth) · [Bea
 Hernandez](https://github.com/chucheria) · [Jim
 Hester](https://github.com/jimhester) · [Peter
 Hickey](https://github.com/PeteHaitch) · [Roel
@@ -252,7 +253,7 @@ Kane](https://github.com/kaneplusplus) · [Andee
 Kaplan](https://github.com/andeek) · [Hazel
 Kavılı](https://github.com/UniversalTourist) · [Jonathan
 Keane](https://github.com/jonkeane) · [Os
-Keyes](https://github.com/Ironholds) · [Aaron A
+Keyes](https://github.com/Ironholds) · [Aaron A.
 King](https://github.com/kingaa) · [Michael
 Koontz](https://github.com/mikoontz) · [Bianca
 Kramer](https://github.com/bmkramer) · [Will
@@ -382,7 +383,6 @@ Zibman](https://github.com/czibman) · [Naupaka
 Zimmerman](https://github.com/naupaka) · [Jake
 Zwart](https://github.com/jzwart) ·
 [Manuel](https://github.com/manuramon) ·
-[NA](https://github.com/arhepworth) ·
 [Daniela](https://github.com/Athene-ai) ·
 [Rich](https://github.com/richfitz) ·
 [Claudia](https://github.com/cvitolo) ·

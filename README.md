@@ -351,7 +351,8 @@ Thompson](https://github.com/jenniferthompson) · [Joe
 Thorley](https://github.com/joethorley) · [Tiffany
 Timbers](https://github.com/ttimbers) · [Tan
 Tran](https://github.com/vinhtantran) · [Tim
-Trice](https://github.com/timtrice) · [Ted
+Trice](https://github.com/timtrice) · [Kyle
+Ueyama](https://github.com/khueyama) · [Ted
 Underwood](https://github.com/tedunderwood) · [Adithi R.
 Upadhya](https://github.com/adithirgis) · [Kevin
 Ushey](https://github.com/kevinushey) · [Josef

@@ -384,7 +384,6 @@ Zibman](https://github.com/czibman) · [Naupaka
 Zimmerman](https://github.com/naupaka) · [Jake
 Zwart](https://github.com/jzwart) ·
 [Manuel](https://github.com/manuramon) ·
-[Daniela](https://github.com/Athene-ai) ·
 [Rich](https://github.com/richfitz) ·
 [Claudia](https://github.com/cvitolo) ·
 [Jasmine](https://github.com/laijasmine) ·

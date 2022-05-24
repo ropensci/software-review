@@ -191,7 +191,8 @@ Chang](https://github.com/j23414) · [Jorge
 Cimentada](https://github.com/cimentadaj) · [Chase
 Clark](https://github.com/chasemc) · [Jon
 Clayden](https://github.com/jonclayden) · [Will
-Cornwell](https://github.com/wcornwell) · [Enrico
+Cornwell](https://github.com/wcornwell) · [Nic
+Crane](https://github.com/thisisnic) · [Enrico
 Crema](https://github.com/ercrema) · [Ildiko
 Czeller](https://github.com/czeildi) · [Kauê de
 Sousa](https://github.com/kauedesousa) · [Christophe

@@ -35,7 +35,7 @@ Language: <!--language-->en<!--end-language-->
 	- [ ] data extraction
 	- [ ] data munging
 	- [ ] data deposition
-        - [ ] data validation and testing
+    - [ ] data validation and testing
 	- [ ] workflow automation
 	- [ ] version control
 	- [ ] citation management and bibliometrics

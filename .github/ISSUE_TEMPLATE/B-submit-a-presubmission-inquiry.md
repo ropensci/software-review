@@ -33,7 +33,6 @@ Language: <!--language-->en<!--end-language-->
 
 	- [ ] data retrieval
 	- [ ] data extraction
-	- [ ] database access
 	- [ ] data munging
 	- [ ] data deposition
     - [ ] data validation and testing
@@ -41,9 +40,10 @@ Language: <!--language-->en<!--end-language-->
 	- [ ] version control
 	- [ ] citation management and bibliometrics
 	- [ ] scientific software wrappers
+	- [ ] field and lab reproducibility tools
 	- [ ] database software bindings
 	- [ ] geospatial data
-	- [ ] text data
+	- [ ] text analysis
     
      **Statistical Packages**
 

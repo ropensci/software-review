@@ -239,7 +239,8 @@ Hogervorst](https://github.com/rmhogervorst) · [Jeff
 Hollister](https://github.com/jhollist) · [Kelly
 Hondula](https://github.com/khondula) · [Allison
 Horst](https://github.com/allisonhorst) · [Sean
-Hughes](https://github.com/seaaan) · [Brandon
+Hughes](https://github.com/seaaan) · [James
+Hunter](https://github.com/jameshunterbr) · [Brandon
 Hurr](https://github.com/bhive01) · [Ger
 Inberg](https://github.com/ginberg) · [Najko
 Jahn](https://github.com/njahn82) · [Tamora D

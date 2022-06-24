@@ -21,32 +21,32 @@ Review”](https://devguide.ropensci.org/).
 **Our [code of conduct](https://ropensci.org/code-of-conduct/) is
 mandatory for everyone involved in our review process.**
 
-  - [Why and how submit your package to rOpenSci?](#why-submit)
-  - [Why and how review for rOpenSci?](#why-review)
-  - [Further resources](#further)
-  - [Editors and reviewers](#editors)
+-   [Why and how submit your package to rOpenSci?](#why-submit)
+-   [Why and how review for rOpenSci?](#why-review)
+-   [Further resources](#further)
+-   [Editors and reviewers](#editors)
 
 # <a href="#why-submit" name="why-submit"></a>Why and how submit your package to rOpenSci?
 
-  - First, and foremost, we hope you submit your package for review
+-   First, and foremost, we hope you submit your package for review
     **because you value the feedback**. We aim to provide useful
     feedback to package authors and for our review process to be open,
     non-adversarial, and focused on improving software quality.
-  - Once aboard, your package will continue to receive **support from
+-   Once aboard, your package will continue to receive **support from
     rOpenSci members**. You’ll retain ownership and control of your
     package, but we can help with ongoing maintenance issues such as
     those associated with updates to R and dependencies and CRAN
     policies.
-  - rOpenSci will **promote your package** through our
+-   rOpenSci will **promote your package** through our
     [webpage](https://ropensci.org/packages/),
     [blog](https://ropensci.org/blog/), and [social
     media](https://twitter.com/ropensci). Packages in our suite also get
     a [documentation website that is automatically built and deployed
     after each
     push](https://devguide.ropensci.org/building.html#docsropensci).
-  - rOpenSci **packages can be cross-listed** with other repositories
+-   rOpenSci **packages can be cross-listed** with other repositories
     such as CRAN and BioConductor.
-  - rOpenSci packages that contain a short accompanying paper can, after
+-   rOpenSci packages that contain a short accompanying paper can, after
     review, be automatically submitted to the [Journal of Open-Source
     Software](http://joss.theoj.org/) for fast-tracked publication.
 
@@ -56,15 +56,15 @@ opening a submission issue in this repository.
 
 ## <a href="#why-review" name="why-review"></a>Why and how to review packages for rOpenSci?
 
-  - As in any peer-review process, we hope you choose to review **to
+-   As in any peer-review process, we hope you choose to review **to
     give back to the rOpenSci and scientific communities.** Our mission
     to expand access to scientific data and promote a culture of
     reproducible research is only possible through the volunteer efforts
     of community members like you.
-  - Review is a two-way conversation. By reviewing packages, you’ll have
+-   Review is a two-way conversation. By reviewing packages, you’ll have
     the chance to **continue to learn development practices from authors
     and other reviewers**.
-  - The open nature of our review process allows you to **network and
+-   The open nature of our review process allows you to **network and
     meet colleagues and collaborators** through the review process. Our
     community is friendly and filled with supportive members expert in R
     development and many other areas of science and scientific
@@ -84,14 +84,14 @@ reviewers](https://devguide.ropensci.org/reviewerguide.html).
 Our [gitbook “rOpenSci Packages: Development, Maintenance, and Peer
 Review”](https://devguide.ropensci.org/) also includes:
 
-  - [a guide for
+-   [a guide for
     editors](https://devguide.ropensci.org/editorguide.html)
 
-  - [our policies](https://devguide.ropensci.org/policies.html)
+-   [our policies](https://devguide.ropensci.org/policies.html)
 
-  - chapters dedicating to good practice for package maintenance
+-   chapters dedicating to good practice for package maintenance
 
-  - different templates: [review
+-   different templates: [review
     template](https://devguide.ropensci.org/reviewtemplate.html),
     [editor’s
     template](https://devguide.ropensci.org/editortemplate.html),
@@ -110,38 +110,38 @@ tracker](https://github.com/ropensci/software-review-meta/issues).
 
 rOpenSci’s Software Peer Review process is run by:
 
-  - [Noam Ross](https://github.com/noamross), EcoHealth Alliance, USA;
-  - [Karthik Ram](https://github.com/karthik), rOpenSci, USA;
-  - [Maëlle Salmon](https://github.com/maelle), rOpenSci, France;
-  - [Anna Krystalli](https://github.com/annakrystalli), University of
+-   [Noam Ross](https://github.com/noamross), EcoHealth Alliance, USA;
+-   [Karthik Ram](https://github.com/karthik), rOpenSci, USA;
+-   [Maëlle Salmon](https://github.com/maelle), rOpenSci, France;
+-   [Anna Krystalli](https://github.com/annakrystalli), University of
     Sheffield RSE, UK;
-  - [Melina Vidoni](https://github.com/melvidoni), INGAR CONICET-UTN,
+-   [Melina Vidoni](https://github.com/melvidoni), INGAR CONICET-UTN,
     Australia;
-  - [Mauro Lepore](https://github.com/maurolepore), 2 Degrees Investing
+-   [Mauro Lepore](https://github.com/maurolepore), 2 Degrees Investing
     Initiative, USA;
-  - [Laura DeCicco](https://github.com/ldecicco-USGS), USGS, USA;
-  - [Julia Gustavsen](https://github.com/jooolia), Agroscope,
+-   [Laura DeCicco](https://github.com/ldecicco-USGS), USGS, USA;
+-   [Julia Gustavsen](https://github.com/jooolia), Agroscope,
     Switzerland;
-  - [Emily Riederer](https://github.com/emilyriederer), Capital One,
+-   [Emily Riederer](https://github.com/emilyriederer), Capital One,
     USA;
-  - [Adam Sparks](https://github.com/adamhsparks), Department of Primary
+-   [Adam Sparks](https://github.com/adamhsparks), Department of Primary
     Industries and Regional Development;
-  - [Jeff Hollister](https://github.com/jhollist), US Environmental
+-   [Jeff Hollister](https://github.com/jhollist), US Environmental
     Protection Agency.
 
 Associate editors for statistical software are:
 
-  - [Ben Bolker](https://github.com/bbolker), McMaster University,
+-   [Ben Bolker](https://github.com/bbolker), McMaster University,
     Canada;
-  - [Rebecca Killick](https://github.com/rkillick), Lancaster
+-   [Rebecca Killick](https://github.com/rkillick), Lancaster
     University, UK;
-  - [Stephanie Hicks](https://github.com/stephaniehicks), Johns Hopkins
+-   [Stephanie Hicks](https://github.com/stephaniehicks), Johns Hopkins
     University, USA;
-  - [Paula Moraga](https://github.com/Paula-Moraga), King Abdullah
+-   [Paula Moraga](https://github.com/Paula-Moraga), King Abdullah
     University of Science and Technology, Saudi Arabia;
-  - [Leonardo Collado-Torres](https://github.com/lcolladotor), Lieber
+-   [Leonardo Collado-Torres](https://github.com/lcolladotor), Lieber
     Institute for Brain Development, USA;
-  - [Toby Hocking](https://github.com/tdhock), Northern Arizona
+-   [Toby Hocking](https://github.com/tdhock), Northern Arizona
     University, USA.
 
 ### Reviewers and guest editors
@@ -155,7 +155,8 @@ Alves](https://github.com/AlvesKS) · [Brooke
 Anderson](https://github.com/geanders) · [Alison
 Appling](https://github.com/aappling-usgs) · [Zebulun
 Arendsee](https://github.com/arendsee) · [Taylor
-Arnold](https://github.com/statsmaths) · [Dean
+Arnold](https://github.com/statsmaths) · [Al
+Asaad](https://github.com/alstat) · [Dean
 Attali](https://github.com/daattali) · [Mara
 Averick](https://github.com/batpigandme) · [Suzan
 Baert](https://github.com/suzanbaert) · [James

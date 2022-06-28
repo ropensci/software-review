@@ -155,7 +155,7 @@ Alves](https://github.com/AlvesKS) · [Brooke
 Anderson](https://github.com/geanders) · [Alison
 Appling](https://github.com/aappling-usgs) · [Zebulun
 Arendsee](https://github.com/arendsee) · [Taylor
-Arnold](https://github.com/statsmaths) · [Al
+Arnold](https://github.com/statsmaths) · [Al-Ahmadgaid B.
 Asaad](https://github.com/alstat) · [Dean
 Attali](https://github.com/daattali) · [Mara
 Averick](https://github.com/batpigandme) · [Suzan

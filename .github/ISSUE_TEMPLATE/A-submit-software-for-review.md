@@ -77,7 +77,7 @@ This package:
 - [ ] includes [documentation with examples for all functions, created with roxygen2](https://ropensci.github.io/dev_guide/building.html#documentation).
 - [ ] contains a vignette with examples of its essential functions and uses.
 - [ ] has a [test suite](https://ropensci.github.io/dev_guide/building.html#testing).
-- [ ] has [continuous integration](https://ropensci.github.io/dev_guide/ci.html), including reporting of test coverage using services such as Travis CI, Coveralls and/or CodeCov.
+- [ ] has [continuous integration](https://ropensci.github.io/dev_guide/ci.html), including reporting of test coverage.
 
 ## Publication options
 

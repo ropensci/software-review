@@ -2,7 +2,7 @@ on:
   workflow_dispatch:
   push:
     branches:
-      - master
+      - main
     paths:
       - README.Rmd
       - .github/workflows/main.yml

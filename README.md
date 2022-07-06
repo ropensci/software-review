@@ -184,7 +184,8 @@ Briatte](https://github.com/briatte) · [Eric
 Brown](https://github.com/eebrown) · [Julien
 Brun](https://github.com/brunj7) · [Jenny
 Bryan](https://github.com/jennybc) · [Lorenzo
-Busetto](https://github.com/lbusett) · [Kevin
+Busetto](https://github.com/lbusett) · [Brad
+Cannell](https://github.com/brad-cannell) · [Kevin
 Cazelles](https://github.com/KevCaz) · [Scott
 Chamberlain](https://github.com/sckott) · [Cathy
 Chamberlin](https://github.com/chamberlinc) · [Jennifer

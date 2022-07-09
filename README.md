@@ -244,7 +244,8 @@ Horst](https://github.com/allisonhorst) · [Sean
 Hughes](https://github.com/seaaan) · [James
 Hunter](https://github.com/jameshunterbr) · [Brandon
 Hurr](https://github.com/bhive01) · [Ger
-Inberg](https://github.com/ginberg) · [Najko
+Inberg](https://github.com/ginberg) · [Chris
+Jackson](https://github.com/chjackson) · [Najko
 Jahn](https://github.com/njahn82) · [Tamora D
 James](https://github.com/tdjames1) · [Mike
 Johnson](https://github.com/mikejohnson51) · [Will

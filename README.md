@@ -240,11 +240,12 @@ Hickey](https://github.com/PeteHaitch) · [Roel
 Hogervorst](https://github.com/rmhogervorst) · [Jeff
 Hollister](https://github.com/jhollist) · [Kelly
 Hondula](https://github.com/khondula) · [Allison
-Horst](https://github.com/allisonhorst) · [Sean
+Horst](https://github.com/allisonhorst) · [Nicholas
+Horton](https://github.com/nicholasjhorton) · [Sean
 Hughes](https://github.com/seaaan) · [James
 Hunter](https://github.com/jameshunterbr) · [Brandon
 Hurr](https://github.com/bhive01) · [Ger
-Inberg](https://github.com/ginberg) · [Chris
+Inberg](https://github.com/ginberg) · [Christopher
 Jackson](https://github.com/chjackson) · [Najko
 Jahn](https://github.com/njahn82) · [Tamora D
 James](https://github.com/tdjames1) · [Mike

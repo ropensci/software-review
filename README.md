@@ -240,8 +240,7 @@ Hickey](https://github.com/PeteHaitch) · [Roel
 Hogervorst](https://github.com/rmhogervorst) · [Jeff
 Hollister](https://github.com/jhollist) · [Kelly
 Hondula](https://github.com/khondula) · [Allison
-Horst](https://github.com/allisonhorst) · [Nicholas
-Horton](https://github.com/nicholasjhorton) · [Sean
+Horst](https://github.com/allisonhorst) · [Sean
 Hughes](https://github.com/seaaan) · [James
 Hunter](https://github.com/jameshunterbr) · [Brandon
 Hurr](https://github.com/bhive01) · [Ger

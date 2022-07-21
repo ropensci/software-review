@@ -316,7 +316,8 @@ Pilliard-Hellwig](https://github.com/rtaph) · [Rodrigo Neto
 Pires](https://github.com/bozaah) · [Lindsay
 Platt](https://github.com/lindsayplatt) · [Nicholas
 Potter](https://github.com/potterzot) · [Etienne
-Racine](https://github.com/etiennebr) · [Nistara
+Racine](https://github.com/etiennebr) · [Manuel
+Ramon](https://github.com/manuramon) · [Nistara
 Randhawa](https://github.com/nistara) · [David
 Ranzolin](https://github.com/daranzolin) · [Quentin
 Read](https://github.com/qdread) · [Neal
@@ -387,10 +388,8 @@ Zakharko](https://github.com/tzakharko) · [Hao
 Zhu](https://github.com/haozhu233) · [Chava
 Zibman](https://github.com/czibman) · [Naupaka
 Zimmerman](https://github.com/naupaka) · [Jake
-Zwart](https://github.com/jzwart) ·
-[Manuel](https://github.com/manuramon) ·
-[Rich](https://github.com/richfitz) ·
-[Claudia](https://github.com/cvitolo) ·
+Zwart](https://github.com/jzwart) · [Rich](https://github.com/richfitz)
+· [Claudia](https://github.com/cvitolo) ·
 [Jasmine](https://github.com/laijasmine) ·
 [Lluís](https://github.com/llrs) · [gaurav](https://github.com/soodoku)
 

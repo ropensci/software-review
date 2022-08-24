@@ -347,7 +347,8 @@ Sonkkila](https://github.com/tts) · [Adam
 Sparks](https://github.com/adamhsparks) · [Joseph
 Stachelek](https://github.com/jsta) · [Christine
 Stawitz](https://github.com/ChristineStawitz-NOAA) · [Irene
-Steves](https://github.com/isteves) · [Michael
+Steves](https://github.com/isteves) · [Alex
+Stringer](https://github.com/awstringer1) · [Michael
 Sumner](https://github.com/mdsumner) · [Chung-Kai
 Sun](https://github.com/cksun-usc) · [Sarah
 Supp](https://github.com/sarahsupp) · [Jason
@@ -389,11 +390,11 @@ Zakharko](https://github.com/tzakharko) · [Hao
 Zhu](https://github.com/haozhu233) · [Chava
 Zibman](https://github.com/czibman) · [Naupaka
 Zimmerman](https://github.com/naupaka) · [Jake
-Zwart](https://github.com/jzwart) · [NA](https://github.com/awstringer1)
-· [Rich](https://github.com/richfitz) ·
-[Claudia](https://github.com/cvitolo) ·
+Zwart](https://github.com/jzwart) · [Rich](https://github.com/richfitz)
+· [Claudia](https://github.com/cvitolo) ·
 [Jasmine](https://github.com/laijasmine) ·
-[Lluís](https://github.com/llrs) · [gaurav](https://github.com/soodoku)
+[ashish](https://github.com/duttashi) · [Lluís](https://github.com/llrs)
+· [gaurav](https://github.com/soodoku)
 
 We are also grateful to the following individuals who have served as
 guest editors.

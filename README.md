@@ -312,7 +312,8 @@ Ottolinger](https://github.com/ottlngr) · [Mark
 Padgham](https://github.com/mpadge) · [Marina
 Papadopoulou](https://github.com/marinapapa) · [Edzer
 Pebesma](https://github.com/edzer) · [Thomas Lin
-Pedersen](https://github.com/thomasp85) · [Rafael
+Pedersen](https://github.com/thomasp85) · [Marcelo S.
+Perlin](https://github.com/msperlin) · [Rafael
 Pilliard-Hellwig](https://github.com/rtaph) · [Rodrigo Neto
 Pires](https://github.com/bozaah) · [Lindsay
 Platt](https://github.com/lindsayplatt) · [Nicholas

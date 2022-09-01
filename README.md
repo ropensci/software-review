@@ -183,7 +183,8 @@ Bratt](https://github.com/aebratt) · [François
 Briatte](https://github.com/briatte) · [Eric
 Brown](https://github.com/eebrown) · [Julien
 Brun](https://github.com/brunj7) · [Jenny
-Bryan](https://github.com/jennybc) · [Lorenzo
+Bryan](https://github.com/jennybc) · [Lukas
+Burk](https://github.com/jemus42) · [Lorenzo
 Busetto](https://github.com/lbusett) · [Brad
 Cannell](https://github.com/brad-cannell) · [Kevin
 Cazelles](https://github.com/KevCaz) · [Scott
@@ -383,7 +384,8 @@ Windecker](https://github.com/smwindecker) · [Luke
 Winslow](https://github.com/lawinslow) · [David
 Winter](https://github.com/dwinter) · [Witold
 Wolski](https://github.com/wolski) · [Kara
-Woo](https://github.com/karawoo) · [Bruna
+Woo](https://github.com/karawoo) · [Marvin N.
+Wright](https://github.com/mnwright) · [Bruna
 Wundervald](https://github.com/brunaw) · [Lauren
 Yamane](https://github.com/layamane) · [Emily
 Zabor](https://github.com/zabore) · [Taras
@@ -391,11 +393,12 @@ Zakharko](https://github.com/tzakharko) · [Hao
 Zhu](https://github.com/haozhu233) · [Chava
 Zibman](https://github.com/czibman) · [Naupaka
 Zimmerman](https://github.com/naupaka) · [Jake
-Zwart](https://github.com/jzwart) · [Rich](https://github.com/richfitz)
-· [Claudia](https://github.com/cvitolo) ·
+Zwart](https://github.com/jzwart) ·
+[Flury](https://github.com/romanflury) ·
+[Rich](https://github.com/richfitz) ·
+[Claudia](https://github.com/cvitolo) ·
 [Jasmine](https://github.com/laijasmine) ·
-[ashish](https://github.com/duttashi) · [Lluís](https://github.com/llrs)
-· [gaurav](https://github.com/soodoku)
+[Lluís](https://github.com/llrs) · [gaurav](https://github.com/soodoku)
 
 We are also grateful to the following individuals who have served as
 guest editors.

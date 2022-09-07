@@ -192,7 +192,8 @@ Chamberlain](https://github.com/sckott) · [Cathy
 Chamberlin](https://github.com/chamberlinc) · [Jennifer
 Chang](https://github.com/j23414) · [Pierre
 Chausse](https://github.com/pchausse) · [Jorge
-Cimentada](https://github.com/cimentadaj) · [Chase
+Cimentada](https://github.com/cimentadaj) · [Nicholas
+Clark](https://github.com/nicholasjclark) · [Chase
 Clark](https://github.com/chasemc) · [Jon
 Clayden](https://github.com/jonclayden) · [Will
 Cornwell](https://github.com/wcornwell) · [Nic

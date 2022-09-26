@@ -396,6 +396,7 @@ Zibman](https://github.com/czibman) · [Naupaka
 Zimmerman](https://github.com/naupaka) · [Jake
 Zwart](https://github.com/jzwart) · [NA](https://github.com/nunesmatt) ·
 [Flury](https://github.com/romanflury) ·
+[Pachá](https://github.com/pachadotdev) ·
 [Rich](https://github.com/richfitz) ·
 [Claudia](https://github.com/cvitolo) ·
 [Jasmine](https://github.com/laijasmine) ·

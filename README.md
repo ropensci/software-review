@@ -302,7 +302,8 @@ Neuzerling](https://github.com/mdneuzerling) · [Dillon
 Niederhut](https://github.com/deniederhut) · [Rory
 Nolan](https://github.com/rorynolan) · [Kari
 Norman](https://github.com/karinorman) · [Jakub
-Nowosad](https://github.com/Nowosad) · [Daniel
+Nowosad](https://github.com/Nowosad) · [Matt
+Nunes](https://github.com/nunesmatt) · [Daniel
 Nüst](https://github.com/nuest) · [Joseph
 O’Brien](https://github.com/jmobrien) · [Paul
 Oldham](https://github.com/poldham) · [Samantha
@@ -394,7 +395,7 @@ Zakharko](https://github.com/tzakharko) · [Hao
 Zhu](https://github.com/haozhu233) · [Chava
 Zibman](https://github.com/czibman) · [Naupaka
 Zimmerman](https://github.com/naupaka) · [Jake
-Zwart](https://github.com/jzwart) · [NA](https://github.com/nunesmatt) ·
+Zwart](https://github.com/jzwart) ·
 [Flury](https://github.com/romanflury) ·
 [Pachá](https://github.com/pachadotdev) ·
 [Rich](https://github.com/richfitz) ·

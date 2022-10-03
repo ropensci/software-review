@@ -294,7 +294,8 @@ Minotti](https://github.com/pmnatural) · [Nichole
 Monhait](https://github.com/nmonhait) · [Kelsey
 Montgomery](https://github.com/kelshmo) · [Paula
 Moraga](https://github.com/Paula-Moraga) · [Ross
-Mounce](https://github.com/rossmounce) · [Lincoln
+Mounce](https://github.com/rossmounce) · [Athanasia Monika
+Mowinckel](https://github.com/drmowinckels) · [Lincoln
 Mullen](https://github.com/lmullen) · [Matt
 Mulvahill](https://github.com/mmulvahill) · [Maria Victoria
 Munafó](https://github.com/mvickm) · [David

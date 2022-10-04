@@ -185,7 +185,8 @@ Brown](https://github.com/eebrown) · [Julien
 Brun](https://github.com/brunj7) · [Jenny
 Bryan](https://github.com/jennybc) · [Lukas
 Burk](https://github.com/jemus42) · [Lorenzo
-Busetto](https://github.com/lbusett) · [Brad
+Busetto](https://github.com/lbusett) · [Mario Gavidia
+Calderón](https://github.com/quishqa) · [Brad
 Cannell](https://github.com/brad-cannell) · [Kevin
 Cazelles](https://github.com/KevCaz) · [Scott
 Chamberlain](https://github.com/sckott) · [Cathy

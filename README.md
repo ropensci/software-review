@@ -350,7 +350,7 @@ Siple](https://github.com/mcsiple) · [Peter
 Slaughter](https://github.com/gothub) · [Mike
 Smith](https://github.com/grimbough) · [Tuija
 Sonkkila](https://github.com/tts) · [Adam
-Sparks](https://github.com/adamhsparks) · [Joseph
+Sparks](https://github.com/adamhsparks) · [Jemma
 Stachelek](https://github.com/jsta) · [Christine
 Stawitz](https://github.com/ChristineStawitz-NOAA) · [Irene
 Steves](https://github.com/isteves) · [Alex

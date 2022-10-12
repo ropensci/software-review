@@ -353,7 +353,8 @@ Sonkkila](https://github.com/tts) · [Adam
 Sparks](https://github.com/adamhsparks) · [Jemma
 Stachelek](https://github.com/jsta) · [Christine
 Stawitz](https://github.com/ChristineStawitz-NOAA) · [Irene
-Steves](https://github.com/isteves) · [Alex
+Steves](https://github.com/isteves) · [Kelly
+Street](https://github.com/kstreet13) · [Alex
 Stringer](https://github.com/awstringer1) · [Michael
 Sumner](https://github.com/mdsumner) · [Chung-Kai
 Sun](https://github.com/cksun-usc) · [Sarah

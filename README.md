@@ -214,7 +214,8 @@ Garmonsway](https://github.com/nacnudus) · [Sharla
 Gelfand](https://github.com/sharlagelfand) · [Monica
 Gerber](https://github.com/monicagerber) · [Duncan
 Gillespie](https://github.com/dosgillespie) · [David
-Gohel](https://github.com/davidgohel) · [Laura
+Gohel](https://github.com/davidgohel) · [Rohit
+Goswami](https://github.com/HaoZeke) · [Laura
 Graham](https://github.com/laurajanegraham) · [Charles
 Gray](https://github.com/softloud) · [Matthias
 Grenié](https://github.com/Rekyt) · [Corinna

@@ -274,7 +274,8 @@ Maegan](https://github.com/kierisi) · [Tristan
 Mahr](https://github.com/tjmahr) · [Paula Andrea
 Martinez](https://github.com/orchid00) · [Joao
 Martins](https://github.com/zambujo) · [Ben
-Marwick](https://github.com/benmarwick) · [Miles
+Marwick](https://github.com/benmarwick) · [Claire
+Mason](https://github.com/clairemas0n) · [Miles
 McBain](https://github.com/milesmcbain) · [Lucy D’Agostino
 McGowan](https://github.com/LucyMcGowan) · [Amelia
 McNamara](https://github.com/AmeliaMN) · [Elaine

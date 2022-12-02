@@ -394,6 +394,7 @@ Zhu](https://github.com/haozhu233) · [Chava
 Zibman](https://github.com/czibman) · [Naupaka
 Zimmerman](https://github.com/naupaka) · [Jake
 Zwart](https://github.com/jzwart) ·
+[Bri](https://github.com/BriannaLind) ·
 [Flury](https://github.com/romanflury) ·
 [Pachá](https://github.com/pachadotdev) ·
 [Rich](https://github.com/richfitz) ·

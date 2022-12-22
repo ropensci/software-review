@@ -1,6 +1,6 @@
 ---
 name: Submit statistical software for review
-about: Use this template to submit statistical software for review
+about: 🚨ON HOLIDAY - NO NEW EDITORIAL ACTION UNTIL JAN 3🚨 - Use this template to submit statistical software for review
 
 ---
 

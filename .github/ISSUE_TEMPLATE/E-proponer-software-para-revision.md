@@ -1,6 +1,6 @@
 ---
 name: Preguntar si el software está dentro del alcance de rOpenSci
-about:  🚨ESTOY DE VACACIONES -  NO TENDREMOS ACTIVIDADES EDITORIALES HASTA EL TRES DE ENERO🚨 - ¿Quieres confirmar que tu paquete encaja para revisión, o quieres enviar un paquete estadistico? Usa esta plantilla para obtener repuesta de las editoras en Español (Experimental)
+about: ¿Quieres confirmar que tu paquete encaja para revisión, o quieres enviar un paquete estadistico? Usa esta plantilla para obtener repuesta de las editoras en Español (Experimental)
 ---
 
 <!---

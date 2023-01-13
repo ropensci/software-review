@@ -111,8 +111,6 @@ rOpenSci’s Software Peer Review process is run by:
 - [Maëlle Salmon](https://github.com/maelle), rOpenSci, France;
 - [Anna Krystalli](https://github.com/annakrystalli), University of
   Sheffield RSE, UK;
-- [Melina Vidoni](https://github.com/melvidoni), INGAR CONICET-UTN,
-  Australia;
 - [Mauro Lepore](https://github.com/maurolepore), 2 Degrees Investing
   Initiative, USA;
 - [Laura DeCicco](https://github.com/ldecicco-USGS), USGS, USA;

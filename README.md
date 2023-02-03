@@ -398,7 +398,9 @@ Zwart](https://github.com/jzwart) ·
 [Rich](https://github.com/richfitz) ·
 [Claudia](https://github.com/cvitolo) ·
 [Jasmine](https://github.com/laijasmine) ·
-[Lluís](https://github.com/llrs) · [gaurav](https://github.com/soodoku)
+[Lluís](https://github.com/llrs) ·
+[NA](https://github.com/becarioprecario) ·
+[gaurav](https://github.com/soodoku)
 
 We are also grateful to the following individuals who have served as
 guest editors.

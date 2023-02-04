@@ -395,8 +395,8 @@ Zwart](https://github.com/jzwart) ·
 [Bri](https://github.com/BriannaLind) ·
 [Flury](https://github.com/romanflury) ·
 [Pachá](https://github.com/pachadotdev) ·
-[Rich](https://github.com/richfitz) ·
-[Claudia](https://github.com/cvitolo) ·
+[NA](https://github.com/sammlapp) · [Rich](https://github.com/richfitz)
+· [Claudia](https://github.com/cvitolo) ·
 [Jasmine](https://github.com/laijasmine) ·
 [Lluís](https://github.com/llrs) ·
 [NA](https://github.com/becarioprecario) ·

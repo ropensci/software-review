@@ -253,7 +253,8 @@ Kamvar](https://github.com/zkamvar) · [Michael
 Kane](https://github.com/kaneplusplus) · [Andee
 Kaplan](https://github.com/andeek) · [Hazel
 Kavılı](https://github.com/UniversalTourist) · [Jonathan
-Keane](https://github.com/jonkeane) · [Os
+Keane](https://github.com/jonkeane) · [Christopher
+Kenny](https://github.com/christopherkenny) · [Os
 Keyes](https://github.com/Ironholds) · [Aaron A.
 King](https://github.com/kingaa) · [Michael
 Koontz](https://github.com/mikoontz) · [Bianca

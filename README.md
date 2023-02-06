@@ -183,7 +183,8 @@ Cazelles](https://github.com/KevCaz) · [Scott
 Chamberlain](https://github.com/sckott) · [Cathy
 Chamberlin](https://github.com/chamberlinc) · [Jennifer
 Chang](https://github.com/j23414) · [Pierre
-Chausse](https://github.com/pchausse) · [Jorge
+Chausse](https://github.com/pchausse) · [Marc
+Choisy](https://github.com/choisy) · [Jorge
 Cimentada](https://github.com/cimentadaj) · [Nicholas
 Clark](https://github.com/nicholasjclark) · [Chase
 Clark](https://github.com/chasemc) · [Jon
@@ -399,6 +400,7 @@ Zwart](https://github.com/jzwart) ·
 [NA](https://github.com/sammlapp) · [Rich](https://github.com/richfitz)
 · [Claudia](https://github.com/cvitolo) ·
 [Jasmine](https://github.com/laijasmine) ·
+[NA](https://github.com/Tinula-kariyawasam) ·
 [Lluís](https://github.com/llrs) ·
 [NA](https://github.com/becarioprecario) ·
 [gaurav](https://github.com/soodoku)

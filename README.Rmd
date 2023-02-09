@@ -122,8 +122,12 @@ if (Sys.getenv("AIRTABLE_API_KEY") == ""){
 if (Sys.getenv("AIRTABLE_ID") == ""){
   Sys.setenv(AIRTABLE_ID = params$AIRTABLE_ID)
 }
-editors <- c("Noam Ross", "Karthik Ram", "Maëlle Salmon",
-    "Melina Vidoni", "Anna Krystalli", "Mauro Lepore", "Laura DeCicco", "Julia Gustavsen")
+editors <- c(
+  "Noam Ross", "Karthik Ram", "Maëlle Salmon",
+  "Anna Krystalli", "Mauro Lepore", 
+  "Laura DeCicco", "Julia Gustavsen",
+  "Emily Riederer", "Adam Sparks", "Jeff Hollister"
+  )
 reviewers <- airtabler::airtable(base = Sys.getenv("AIRTABLE_ID"), 
                                 table = "reviewers-prod")
 reviewers <- reviewers$`reviewers-prod`$select_all()

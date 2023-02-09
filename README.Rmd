@@ -133,13 +133,17 @@ reviewers <- reviewers[purrr::map_lgl(reviewers$reviews,
 # get last names
 last_names <- humaniformat::last_name(trimws(reviewers$name))
 reviewers <- reviewers[order(last_names), ]
+reviewers$name[is.na(reviewers$name)] <- reviewers$github[is.na(reviewers$name)]
 cat(paste0("[", reviewers$name, "](https://github.com/", reviewers$github, ")", collapse = " \U00B7 "))
 ```
 
 We are also grateful to the following individuals who have served as guest editors.
 
-```{r guesteditors, echo=FALSE, results='asis'}
-guest_editors <- airtabler::airtable(base = Sys.getenv("AIRTABLE_ID"), 
+```{r}
+#| echo: false
+#| results: 'asis'
+#| eval: !expr has_airtable_access
+guest_editors <- airtabler::airtable(base = "app8dssb6a7PG6Vwj", 
                                 table = "guest-editors")
 guest_editors <- guest_editors$`guest-editors`$select_all()
 guest_editors <- guest_editors[!(guest_editors$name %in% c(editors, "???")), ]

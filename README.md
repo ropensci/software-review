@@ -395,18 +395,19 @@ Zakharko](https://github.com/tzakharko) · [Hao
 Zhu](https://github.com/haozhu233) · [Chava
 Zibman](https://github.com/czibman) · [Naupaka
 Zimmerman](https://github.com/naupaka) · [Jake
-Zwart](https://github.com/jzwart) · [NA](https://github.com/santikka) ·
+Zwart](https://github.com/jzwart) ·
+[santikka](https://github.com/santikka) ·
 [Bri](https://github.com/BriannaLind) ·
 [Flury](https://github.com/romanflury) ·
-[NA](https://github.com/eholmes) ·
+[eholmes](https://github.com/eholmes) ·
 [Pachá](https://github.com/pachadotdev) ·
 [Rich](https://github.com/richfitz) ·
 [Claudia](https://github.com/cvitolo) ·
 [Jasmine](https://github.com/laijasmine) ·
 [Lluís](https://github.com/llrs) ·
-[NA](https://github.com/becarioprecario) ·
+[becarioprecario](https://github.com/becarioprecario) ·
 [gaurav](https://github.com/soodoku) ·
-[NA](https://github.com/SebastianWojcik86)
+[SebastianWojcik86](https://github.com/SebastianWojcik86)
 
 We are also grateful to the following individuals who have served as
 guest editors.

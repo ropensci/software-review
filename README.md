@@ -233,8 +233,7 @@ Hepworth](https://github.com/arhepworth) · [Bea
 Hernandez](https://github.com/chucheria) · [Jim
 Hester](https://github.com/jimhester) · [Peter
 Hickey](https://github.com/PeteHaitch) · [Roel
-Hogervorst](https://github.com/rmhogervorst) · [Jeff
-Hollister](https://github.com/jhollist) · [Kelly
+Hogervorst](https://github.com/rmhogervorst) · [Kelly
 Hondula](https://github.com/khondula) · [Allison
 Horst](https://github.com/allisonhorst) · [Sean
 Hughes](https://github.com/seaaan) · [James
@@ -324,8 +323,7 @@ Ramon](https://github.com/manuramon) · [Nistara
 Randhawa](https://github.com/nistara) · [David
 Ranzolin](https://github.com/daranzolin) · [Quentin
 Read](https://github.com/qdread) · [Neal
-Richardson](https://github.com/nealrichardson) · [Emily
-Riederer](https://github.com/emilyriederer) · [tyler
+Richardson](https://github.com/nealrichardson) · [tyler
 rinker](https://github.com/trinker) · [Emily
 Robinson](https://github.com/robinsones) · [David
 Robinson](https://github.com/dgrtwo) · [Francisco
@@ -345,8 +343,7 @@ Silge](https://github.com/juliasilge) · [Margaret
 Siple](https://github.com/mcsiple) · [Peter
 Slaughter](https://github.com/gothub) · [Mike
 Smith](https://github.com/grimbough) · [Tuija
-Sonkkila](https://github.com/tts) · [Adam
-Sparks](https://github.com/adamhsparks) · [Jemma
+Sonkkila](https://github.com/tts) · [Jemma
 Stachelek](https://github.com/jsta) · [Christine
 Stawitz](https://github.com/ChristineStawitz-NOAA) · [Irene
 Steves](https://github.com/isteves) · [Kelly
@@ -412,8 +409,5 @@ Zwart](https://github.com/jzwart) ·
 We are also grateful to the following individuals who have served as
 guest editors.
 
-[Ana Laura Diedrichs](https://github.com/anadiedrichs) · [Jeff
-Hollister](https://github.com/jhollist) · [Emily
-Riederer](https://github.com/emilyriederer) · [Adam
-Sparks](https://github.com/adamhsparks) · [Hao
+[Ana Laura Diedrichs](https://github.com/anadiedrichs) · [Hao
 Zhu](https://github.com/haozhu233)

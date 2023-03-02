@@ -336,7 +336,8 @@ Russel](https://github.com/timelyportfolio) · [Alicia
 Schep](https://github.com/AliciaSchep) · [Klaus
 Schliep](https://github.com/KlausVigo) · [Clemens
 Schmid](https://github.com/nevrome) · [Patrick
-Schratz](https://github.com/pat-s) · [Marco
+Schratz](https://github.com/pat-s) · [Collin
+Schwantes](https://github.com/collinschwantes) · [Marco
 Sciaini](https://github.com/marcosci) · [Heidi
 Seibold](https://github.com/HeidiSeibold) · [Julia
 Silge](https://github.com/juliasilge) · [Margaret
@@ -347,7 +348,8 @@ Sonkkila](https://github.com/tts) · [Jemma
 Stachelek](https://github.com/jsta) · [Christine
 Stawitz](https://github.com/ChristineStawitz-NOAA) · [Irene
 Steves](https://github.com/isteves) · [Kelly
-Street](https://github.com/kstreet13) · [Alex
+Street](https://github.com/kstreet13) · [Matt
+Strimas-Mackey](https://github.com/mstrimas) · [Alex
 Stringer](https://github.com/awstringer1) · [Michael
 Sumner](https://github.com/mdsumner) · [Chung-Kai
 Sun](https://github.com/cksun-usc) · [Sarah

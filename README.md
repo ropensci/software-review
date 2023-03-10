@@ -383,7 +383,8 @@ Widgren](https://github.com/stewid) · [Anna
 Willoughby](https://github.com/arw36) · [Saras
 Windecker](https://github.com/smwindecker) · [Luke
 Winslow](https://github.com/lawinslow) · [David
-Winter](https://github.com/dwinter) · [Witold
+Winter](https://github.com/dwinter) · [Sebastian
+Wójcik](https://github.com/SebastianWojcik86) · [Witold
 Wolski](https://github.com/wolski) · [Kara
 Woo](https://github.com/karawoo) · [Marvin N.
 Wright](https://github.com/mnwright) · [Bruna
@@ -405,8 +406,7 @@ Zwart](https://github.com/jzwart) ·
 [Jasmine](https://github.com/laijasmine) ·
 [Lluís](https://github.com/llrs) ·
 [becarioprecario](https://github.com/becarioprecario) ·
-[gaurav](https://github.com/soodoku) ·
-[SebastianWojcik86](https://github.com/SebastianWojcik86)
+[gaurav](https://github.com/soodoku)
 
 We are also grateful to the following individuals who have served as
 guest editors.

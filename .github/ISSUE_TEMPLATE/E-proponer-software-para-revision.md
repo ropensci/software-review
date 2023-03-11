@@ -16,8 +16,6 @@ Idioma: <!--language-->es<!--end-language-->
 
 ---
 
-
-
 -   Pega el archivo DESCRIPTION completo dentro del siguiente bloque de código.
 
 ```
@@ -25,20 +23,17 @@ Idioma: <!--language-->es<!--end-language-->
 ```
 
 
-## Alcance 
+## Alcance
 
-- Por favor, indica qué categoría(s) aplica(n) a este paquete. 
-Las puedes encontrar en nuestras [políticas de inclusión de paquetes (Inglés)](https://ropensci.github.io/dev_guide/policies.html#package-categories) 
-y [categorías de paquetes estadistico (Inglés)](https://stats-devguide.ropensci.org/overview.html#overview-categories). 
-Por favor, tilda todas las apropiadas. 
+- Por favor, indica qué categoría(s) aplica(n) a este paquete. Las puedes encontrar en nuestras [políticas de inclusión de paquetes](https://devdevguide.netlify.app/es/softwarereview_policies.es.html#categor%C3%ADas-de-paquetes) y [categorías de paquetes estadistico (Inglés)](https://stats-devguide.ropensci.org/overview.html#overview-categories). Por favor, tilda todas las apropiadas.
 
-     **Packages de Ciclo de Vida de Datos**
-     
-        - [ ] obtención de datos (data retrieval)
+     **Paquetes de Ciclo de Vida de Datos**
+
+	- [ ] obtención de datos (data retrieval)
 	- [ ] extracción de datos (data extraction)
 	- [ ] manipulación de datos (data munging)
 	- [ ] depósito de datos (data deposition)
-        - [ ] validación y comprobación de datos (data validation and testing)
+    - [ ] validación y comprobación de datos (data validation and testing)
 	- [ ] automatización de flujo de trabajo (workflow automation)
 	- [ ] control de versiones (version control)
 	- [ ] manejo de citas y bibliometría (citation management and bibliometrics)
@@ -47,8 +42,8 @@ Por favor, tilda todas las apropiadas.
 	- [ ] enlaces a software de bases de datos (database software bindings)
 	- [ ] datos geoespaciales (geospatial data)
 	- [ ] datos de texto (text data)
-	
-     **Packages Estadisticos**
+
+     **Paquetes Estadisticos**
 
 	- [ ] Rutinas Bayesianas y Monte Carlo (Bayesian and Monte Carlo Routines)
 	- [ ] Reducción de Dimensionalidad, Análisis de Conglomerados y Aprendizaje no Supervisado (Dimensionality Reduction, Clustering, and Unsupervised Learning)
@@ -63,10 +58,11 @@ Por favor, tilda todas las apropiadas.
 
 - Si estás enviando un paquete estadistico, [incorporaste documentación de los estandares en su codigo utilizando el paquete **srr**](https://stats-devguide.ropensci.org/pkgdev.html#pkgdev-srr)?
 
-- ¿Cuál es la audiencia esperada y las aplicaciones científicas de este paquete? 
+- ¿Cuál es la audiencia esperada y las aplicaciones científicas de este paquete?
 
-- ¿Hay otros paquetes de R que logren el mismo objetivo? Si los hay, ¿cómo se diferencian del tuyo, o alcanzan nuestro [criterio del mejor de su categoría (documento en Inglés)](https://ropensci.github.io/dev_guide/policies.html#overlap)?
+- ¿Hay otros paquetes de R que logren el mismo objetivo? Si los hay, ¿cómo se diferencian del tuyo, o alcanzan nuestro [criterio del mejor de su categoría](https://devdevguide.netlify.app/es/softwarereview_policies.es.html#overlap)?
 
--   (Si aplica) ¿Tu paquete cumple con nuestras [guías de _Ética, Privacidad de Datos e Investigación de Sujetos Humanos_ (documento en Inglés)](https://devguide.ropensci.org/policies.html#ethics-data-privacy-and-human-subjects-research)?
+-   (Si aplica) ¿Tu paquete cumple con nuestras [guías de _Ética, Privacidad de Datos e Investigación con Sujetos Humanos_](https://devdevguide.netlify.app/es/softwarereview_policies.es.html#%C3%A9tica-privacidad-de-los-datos-e-investigaci%C3%B3n-con-sujetos-humanos)?
+
 
 -  ¿Tienes otras preguntas u otros comentarios?

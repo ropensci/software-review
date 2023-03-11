@@ -21,24 +21,21 @@ Versión Aceptada: A definir
 Idioma: <!--language-->es<!--end-language-->
 ---
 
-
-
 -   Pega el archivo DESCRIPTION completo dentro del siguiente bloque de código.
 
 ```
 
 ```
 
-
 ## Alcance
 
-- Por favor, indica qué categoría(s) aplica(n) a este paquete. Las puedes encontrar en nuestras [políticas de inclusión de paquetes (Inglés)](https://ropensci.github.io/dev_guide/policies.html#package-categories). Por favor, tilda todas las apropiadas. Si tienes dudas, te sugerimos que comiences un pre-envío.
+- Por favor, indica qué categoría(s) aplica(n) a este paquete. Las puedes encontrar en nuestras [políticas de inclusión de paquetes](https://devdevguide.netlify.app/es/softwarereview_policies.es.html#categor%C3%ADas-de-paquetes). Por favor, tilda todas las apropiadas. Si tienes dudas, te sugerimos que comiences un pre-envío.
 
 	- [ ] obtención de datos (data retrieval)
 	- [ ] extracción de datos (data extraction)
 	- [ ] manipulación de datos (data munging)
 	- [ ] depósito de datos (data deposition)
-        - [ ] validación y comprobación de datos (data validation and testing)
+    - [ ] validación y comprobación de datos (data validation and testing)
 	- [ ] automatización de flujo de trabajo (workflow automation)
 	- [ ] control de versiones (version control)
 	- [ ] manejo de citas y bibliometría (citation management and bibliometrics)
@@ -50,36 +47,32 @@ Idioma: <!--language-->es<!--end-language-->
 
 - Explica cómo y por qué el paquete encaja dentro de estas categorías (1 a 3 oraciones):
 
-
 - ¿Cuál es la audiencia esperada y las aplicaciones científicas de este paquete?
 
-- ¿Hay otros paquetes de R que logren el mismo objetivo? Si los hay, ¿cómo se diferencian del tuyo, o alcanzan nuestro [criterio del mejor de su categoría (documento en Inglés)](https://ropensci.github.io/dev_guide/policies.html#overlap)?
+- ¿Hay otros paquetes de R que logren el mismo objetivo? Si los hay, ¿cómo se diferencian del tuyo, o alcanzan nuestro [criterio del mejor de su categoría](https://devdevguide.netlify.app/es/softwarereview_policies.es.html#overlap)?
 
--   (Si aplica) ¿Tu paquete cumple con nuestras [guías de _Ética, Privacidad de Datos e Investigación de Sujetos Humanos_ (documento en Inglés)](https://devguide.ropensci.org/policies.html#ethics-data-privacy-and-human-subjects-research)?
+-   (Si aplica) ¿Tu paquete cumple con nuestras [guías de _Ética, Privacidad de Datos e Investigación con Sujetos Humanos_](https://devdevguide.netlify.app/es/softwarereview_policies.es.html#%C3%A9tica-privacidad-de-los-datos-e-investigaci%C3%B3n-con-sujetos-humanos)?
 
 - Si ya has hecho una consulta de pre-envío, por favor pega el enlace al _issue_ correspondiente, una publicación del foro, u otra discusión. Alternativamente, etiqueta al editor (con @tag) con el que te contactaste.
 
--   (Si aplica) Explique las razones de los [elementos `pkgcheck`](https://docs.ropensci.org/pkgcheck/) que su paquete no puede pasar.
-
-
+-   (Si aplica) Explique las razones por las cuales el paqute no satisface alguno de los [elementos de `pkgcheck`](https://docs.ropensci.org/pkgcheck/).
 
 ## Revisiones Técnicas
 
 Tilda los siguientes items para confirmar que los has completado:
 
-- [ ] He leído la [guía sobre paquetes de rOpenSci](https://devguide.ropensci.org/building.html).
-- [ ] He leído la [guía de autoría](https://devdevguide.netlify.app/authors-guide.html) y pienso mantener este paquete durante al menos 2 años o encontrar un reemplazo.
-
+- [ ] He leído la [guía de empaquetado de rOpenSci](https://devdevguide.netlify.app/es/pkg_building.es.html).
+- [ ] He leído la [guía de autoría](https://devdevguide.netlify.app/es/softwarereview_author.es.html) y pienso mantener este paquete durante al menos 2 años o encontrar un reemplazo.
 
 Este paquete:
 
 - [ ] No viola los Términos de Servicio de ningún servicio con los que interactúa.
 - [ ] Tiene una licencia aceptada por CRAN y OSI.
-- [ ] Contiene un [archivo README con instrucciones para instalar la versión de desarrollo](https://ropensci.github.io/dev_guide/building.html#readme).
-- [ ] Incluye [documentación con ejemplos para todas las funciones, creada con roxygen2](https://ropensci.github.io/dev_guide/building.html#documentation).
+- [ ] Contiene un [archivo README con instrucciones para instalar la versión de desarrollo](https://devdevguide.netlify.app/es/pkg_building.es.html#readme).
+- [ ] Incluye [documentación con ejemplos para todas las funciones, creada con roxygen2](https://devdevguide.netlify.app/es/pkg_building.es.html#documentaci%C3%B3n).
 - [ ] Contiene una viñeta (_vignette_) con ejemplos de sus funciones esenciales y su uso.
-- [ ] Tiene una [suite de tests (documento en Inglés)](https://devguide.ropensci.org/building.html#testing).
-- [ ] Tiene [integración contínua (documento en Inglés)](https://devguide.ropensci.org/ci.html), incluyendo reporte de cobertura de tests.
+- [ ] Tiene una [suite de tests](https://devdevguide.netlify.app/es/pkg_building.es.html#testeo).
+- [ ] Tiene [integración contínua](https://devdevguide.netlify.app/es/pkg_ci.es.html), incluyendo reporte de cobertura de tests.
 
 ## Opciones de Publicación
 
@@ -102,4 +95,4 @@ Este paquete:
 
 ## Código de Conducta
 
-- [ ] Estoy de acuerdo en cumplir el [Código de Conducta de rOpenSci (documento en Inglés)](https://ropensci.github.io/dev_guide/policies.html#code-of-conduct) durante el proceso de revisión, y en mantener mi paquete si éste es aceptado.
+- [ ] Estoy de acuerdo en cumplir el [Código de Conducta de rOpenSci](https://devdevguide.netlify.app/es/softwarereview_policies.es.html#code-of-conduct) durante el proceso de revisión, y en mantener mi paquete si éste es aceptado.

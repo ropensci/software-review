@@ -4,7 +4,7 @@ about: Usa esta plantilla para enviar un software a revisar en Español (Experim
 ---
 
 <!---
-A continuación, introduzca los valores de (1) el usuario de GitHub de la persona que envía el paquete (sustituyendo "@github_handle") y (2) la URL del repositorio (sustituyendo "https://repourl"). También se pueden especificar valores para otras personas con rol de autoría, sustituyendo "@github_handle1", "@github_handle2" - elimine esto si no lo necesita. NO BORRAR LOS SÍMBOLOS HTML (todo entre "<!" y ">"). Substituir sólo "@github_handle" y "https://repourl". Este comentario puede ser eliminado una vez que haya sido leído y comprendido.
+A continuación, introduce los valores de (1) el usuario de GitHub de la persona que envía el paquete (sustituyendo "@github_handle") y (2) la URL del repositorio (sustituyendo "https://repourl"). También se pueden especificar valores para otras personas con rol de autoría, sustituyendo "@github_handle1", "@github_handle2" - elimina esto si no lo necesitas. NO BORRAR LOS SÍMBOLOS HTML (todo entre "<!" y ">"). Substituye sólo "@github_handle" y "https://repourl". Este comentario puede ser eliminado una vez que lo hayas leído y comprendido.
 --->
 
 Nombre de la Persona Encargada: Nombre
@@ -14,8 +14,8 @@ Repositorio: <!--repourl-->https://repourl<!--end-repourl-->
 Versión Enviada:
 Tipo de Envio: <!--submission-type-->Estadístico<!--end-submission-type-->
 Nivel de etiquetas: <!--statsgrade-->bronce/plata/oro (seleccionar uno)<!--end-statsgrade-->
-Persona encargada de edición: <!--editor--> A definir <!--end-editor-->
-Personas encargadas de revisión: <!--reviewers-list--> A definir <!--end-reviewers-list-->
+Persona encargada de la edición: <!--editor--> A definir <!--end-editor-->
+Personas encargadas de la revisión: <!--reviewers-list--> A definir <!--end-reviewers-list-->
 <!--due-dates-list--><!--end-due-dates-list-->
 Archivo: A definir
 Versión Aceptada: A definir
@@ -46,7 +46,7 @@ Idioma: <!--language-->es<!--end-language-->
 ## Consulta pre-envío
 
 
-- [ ] Una consulta previa al envío fue aprovada en [el issue número <num_issue>] (#<num_issue>)<!--Reemplazar #<num_issue> con el número de issue de la consulta pre-envío.-->
+- [ ] Una consulta previa al envío fue aprovada en [el *issue* número <num_issue>] (#<num_issue>)<!--Reemplazar #<num_issue> con el número de issue de la consulta pre-envío.-->
 
 ## Información general
 
@@ -64,9 +64,9 @@ Idioma: <!--language-->es<!--end-language-->
 
 ## Etiquetas
 
--    A qué nivel de etiquetas intentas llegar? ([bronce, plata, oro](https://stats-devguide.ropensci.org/pkgdev.html#pkgdev-badges))
+-    ¿A qué nivel de etiquetas intentas llegar? ([bronce, plata, oro](https://stats-devguide.ropensci.org/pkgdev.html#pkgdev-badges))
 
--    Si quieres llegar a plata u oro, describe cuál de los [cuatro aspectos listados en el capítulo de la *Guía de autoría*](https://stats-devguide.ropensci.org/pkgdev.html#pkgdev-silver) son satisfechos por el paquete (al menos uno para plata, tres para oro).
+-    Si quieres llegar a plata u oro, describe cuál de los [cuatro aspectos listados en el capítulo de la *Guía de autoría* (en inglés)](https://stats-devguide.ropensci.org/pkgdev.html#pkgdev-silver) son alcanzados por el paquete (al menos uno para plata, tres para oro).
 
 
 ## Revisiones Técnicas
@@ -86,7 +86,7 @@ Este paquete:
 
 - [ ] No viola los Términos de Servicio de ningún servicio con los que interactúa.
 - [ ] Tiene una licencia aceptada por CRAN y OSI.
-- [ ] Contiene un [archivo README con instrucciones para instalar la versión de desarrollo](https://devdevguide.netlify.app/es/pkg_building.es.html#readme).
+- [ ] Contiene un [archivo *README* con instrucciones para instalar la versión de desarrollo](https://devdevguide.netlify.app/es/pkg_building.es.html#readme).
 
 ## Opciones de Publicación
 

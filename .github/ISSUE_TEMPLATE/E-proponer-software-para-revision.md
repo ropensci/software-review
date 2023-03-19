@@ -1,10 +1,10 @@
 ---
 name: Preguntar si el software está dentro del alcance de rOpenSci
-about: ¿Quieres confirmar que tu paquete encaja para revisión, o quieres enviar un paquete estadistico? Usa esta plantilla para obtener repuesta por parte del equipo editorial en Español (Experimental)
+about: ¿Quieres confirmar que tu paquete encaja en una revisión, o quieres enviar un paquete estadistico? Usa esta plantilla para obtener una repuesta por parte del equipo editorial en Español (Experimental)
 ---
 
 <!---
-A continuación, introduzca los valores de (1) el usuario de GitHub de la persona que envía el paquete (sustituyendo "@github_handle") y (2) la URL del repositorio (sustituyendo "https://repourl"). También se pueden especificar valores para otras personas con rol de autoría, sustituyendo "@github_handle1", "@github_handle2" - elimine esto si no lo necesita. NO BORRAR LOS SÍMBOLOS HTML (todo entre "<!" y ">"). Substituir sólo "@github_handle" y "https://repourl". Este comentario puede ser eliminado una vez que haya sido leído y comprendido.
+A continuación, introduce los valores de (1) el usuario de GitHub de la persona que envía el paquete (sustituyendo "@github_handle") y (2) la URL del repositorio (sustituyendo "https://repourl"). También se pueden especificar valores para otras personas con rol de autoría, sustituyendo "@github_handle1", "@github_handle2" - elimina esto si no lo necesitas. NO BORRAR LOS SÍMBOLOS HTML (todo entre "<!" y ">"). Substituye sólo "@github_handle" y "https://repourl". Este comentario puede ser eliminado una vez que lo hayas leído y comprendido.
 --->
 
 Nombre de la Persona Encargada: Nombre
@@ -56,7 +56,7 @@ Idioma: <!--language-->es<!--end-language-->
 
 - Explica cómo y por qué el paquete encaja dentro de estas categorías (1 a 3 oraciones):
 
-- Si estás enviando un paquete estadistico, [incorporaste documentación de los estandares en su codigo utilizando el paquete **srr**](https://stats-devguide.ropensci.org/pkgdev.html#pkgdev-srr)?
+- Si estás enviando un paquete estadistico, ¿[incorporaste documentación de los estandares en su codigo utilizando el paquete **srr**](https://stats-devguide.ropensci.org/pkgdev.html#pkgdev-srr)?
 
 - ¿Cuál es la audiencia esperada y las aplicaciones científicas de este paquete?
 

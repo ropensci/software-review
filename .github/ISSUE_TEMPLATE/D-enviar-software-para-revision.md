@@ -4,7 +4,7 @@ about: Usa esta plantilla para enviar un software a revisar en Español (Experim
 ---
 
 <!---
-A continuación, introduzca los valores de (1) el usuario de GitHub de la persona que envía el paquete (sustituyendo "@github_handle") y (2) la URL del repositorio (sustituyendo "https://repourl"). También se pueden especificar valores para otras personas con rol de autoría, sustituyendo "@github_handle1", "@github_handle2" - elimine esto si no lo necesita. NO BORRAR LOS SÍMBOLOS HTML (todo entre "<!" y ">"). Substituir sólo "@github_handle" y "https://repourl". Este comentario puede ser eliminado una vez que haya sido leído y comprendido.
+A continuación, introduce los valores de (1) el usuario de GitHub de la persona que envía el paquete (sustituyendo "@github_handle") y (2) la URL del repositorio (sustituyendo "https://repourl"). También se pueden especificar valores para otras personas con rol de autoría, sustituyendo "@github_handle1", "@github_handle2" - elimina esto si no lo necesitas. NO BORRAR LOS SÍMBOLOS HTML (todo entre "<!" y ">"). Substituye sólo "@github_handle" y "https://repourl". Este comentario puede ser eliminado una vez que lo hayas leído y comprendido.
 --->
 
 Nombre de la Persona Encargada: Nombre
@@ -13,8 +13,8 @@ Usuario GitHub de las Otras Personas con Autoría: (borrar si no hay) <!--author
 Repositorio: <!--repourl-->https://repourl<!--end-repourl-->
 Versión Enviada:
 Tipo de Envio: <!--submission-type-->Estándar<!--end-submission-type-->
-Persona encargada de edición: <!--editor--> A definir <!--end-editor-->
-Personas encargadas de revisión: <!--reviewers-list--> A definir <!--end-reviewers-list-->
+Persona encargada de la edición: <!--editor--> A definir <!--end-editor-->
+Personas encargadas de la revisión: <!--reviewers-list--> A definir <!--end-reviewers-list-->
 <!--due-dates-list--><!--end-due-dates-list-->
 Archivo: A definir
 Versión Aceptada: A definir
@@ -35,7 +35,7 @@ Idioma: <!--language-->es<!--end-language-->
 	- [ ] extracción de datos (data extraction)
 	- [ ] manipulación de datos (data munging)
 	- [ ] depósito de datos (data deposition)
-    - [ ] validación y comprobación de datos (data validation and testing)
+        - [ ] validación y comprobación de datos (data validation and testing)
 	- [ ] automatización de flujo de trabajo (workflow automation)
 	- [ ] control de versiones (version control)
 	- [ ] manejo de citas y bibliometría (citation management and bibliometrics)
@@ -53,9 +53,9 @@ Idioma: <!--language-->es<!--end-language-->
 
 -   (Si aplica) ¿Tu paquete cumple con nuestras [guías de _Ética, Privacidad de Datos e Investigación con Sujetos Humanos_](https://devdevguide.netlify.app/es/softwarereview_policies.es.html#%C3%A9tica-privacidad-de-los-datos-e-investigaci%C3%B3n-con-sujetos-humanos)?
 
-- Si ya has hecho una consulta de pre-envío, por favor pega el enlace al _issue_ correspondiente, una publicación del foro, u otra discusión. Alternativamente, etiqueta al editor (con @tag) con el que te contactaste.
+- Si ya has hecho una consulta de pre-envío, por favor pega el enlace al _issue_ correspondiente, una publicación del foro, u otra discusión. Alternativamente, etiqueta a la persona del equipo editorial (con @tag) con la que te contactaste.
 
--   (Si aplica) Explique las razones por las cuales el paqute no satisface alguno de los [elementos de `pkgcheck`](https://docs.ropensci.org/pkgcheck/).
+-   (Si aplica) Explique las razones por las cuales el paqute no satisface alguno de los [chequeos de `pkgcheck`](https://docs.ropensci.org/pkgcheck/).
 
 ## Revisiones Técnicas
 
@@ -84,11 +84,11 @@ Este paquete:
 <details>
 <summary>Opciones para MEE</summary>
 
-- [ ] Este paquete es novedoso y será de interés para la mayoría de quienes leen la revista.
+- [ ] Este paquete es novedoso y será de interés para la mayoría de las persona que leen la revista.
 - [ ] El manuscrito que describe el paquete no tiene más de 3000 palabras y está escrito en Inglés.
 - [ ] Tienes intenciones de archivar el código del paquete en un repositorio a largo plazo, que cumple los requerimientos de la revista (mira las [Políticas de Publicación de MEE (documento en Inglés)](http://besjournals.onlinelibrary.wiley.com/hub/journal/10.1111/(ISSN)2041-210X/journal-resources/policy-on-publishing-code.html))
 - (*Alcance: Considera los [Objetivos y Alcance de MEE (documento en Inglés)](http://besjournals.onlinelibrary.wiley.com/hub/journal/10.1111/(ISSN)2041-210X/aims-and-scope/read-full-aims-and-scope.html) para tu manuscrito. No otorgamos garatías de que tu manuscrito esté en el ámbito de MEE.*)
-- (*Aunque no es requerido, recomendamos tener un manuscrito completamente preparado y en Inglés, al momento de enviar.*)
+- (*Aunque no es requerido, recomendamos tener un manuscrito completamente preparado y en Inglés, al momento de enviar el paquete.*)
 - (*Por favor, no envíes tu paquete de forma separada a Methods in Ecology and Evolution*)
 
 </details>

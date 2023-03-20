@@ -1,0 +1,153 @@
+---
+output: github_document
+---
+
+```{r, echo = FALSE, message=FALSE, warning=FALSE}
+library("airtabler")
+library("purrr")
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment = "#>",
+  fig.path = "README-"
+)
+```
+
+![ropensci](icon_lettering_color.png)
+
+# Revisión por pares de software de rOpenSci
+
+<!-- README.es.md se genera a partir de README.es.Rmd. Por favor, edita ese archivo -->
+
+Gracias por considerar el envío de tu paquete al ecosistema de rOpenSci.
+Todos los paquetes contribuidos por miembros de la comunidad pasan por un proceso abierto de [revisión por pares](https://ropensci.org/blog/2017/09/01/nf-softwarereview/) para asegurar un nivel de calidad consistente. 
+Este proceso también nos permite controlar que tu paquete cumpla con nuestras recomendaciones y ofrece una oportunidad de intercambio para solicitar excepciones. 
+
+Este *README* provee una breve introducción a nuestro sistema de Revisión por Pares de Software tanto si vas a enviar o revisar un paquete. 
+Para más información, consulta nuestra [Guía de desarrollo](https://devdevguide.netlify.app/es/index.es.html).
+
+**Es obligatorio respetar nuestro código de conducta)[https://ropensci.org/codigo-de-conducta/] para todas las personas que participen en nuestro proceso de revisión**
+
+* [¿Por qué y cómo enviar tu paquete a rOpenSci?](#why-submit)
+* [¿Por qué y cómo revisar paquetes para rOpenSci?](#why-review)
+* [Más recursos](#further)
+* [Equipo editorial y de revisión](#editors)
+
+# <a href="#why-submit" name="why-submit"></a>¿Por qué y cómo enviar tu paquete a rOpenSci?
+
+-   En primer lugar, y sobre todo, esperamos que envíes tu paquete para su revisión **porque valoras la devolución**.
+    Nuestro objetivo es proporcionar una devolución útil a las personas que crearon el paquetes y que nuestro proceso de revisión sea abierto, no conflictivo y centrado en la mejora de la calidad del software.
+    
+-   Una vez a aceptado, tu paquete seguirá recibiendo **apoyo de los miembros de rOpenSci**. 
+    Mantendrás la propiedad y el control de tu paquete, pero podemos ayudarte con los problemas de mantenimiento en curso, como los relacionados con las actualizaciones de R y las dependencias, y las políticas de CRAN.  
+
+-   rOpenSci **difundirá tu paquete** a través de nuestra [página web](https://ropensci.org/packages/), [blog](https://ropensci.org/blog/) y [redes sociales](https://twitter.com/ropensci). Los paquetes de nuestra suite también tienen un [sitio web de documentación que se construye y despliega automáticamente después de cada _push_](#docsropensci).
+
+-   Los paquete de rOpenSci **se pueden incluir** en otros repositorios como CRAN y BioConductor.
+
+-   Los paquetes de rOpenSci que son relevantes para el [Journal of Open-Source Software](https://joss.theoj.org/) y añaden un artículo corto de acompañamiento pueden beneficiarse, a discreción de las/os editoras/es de JOSS, de un proceso de revisión acelerado.
+
+    
+Si quieres enviar un paquete, lee nuestra [guía para quienes envían un paquete](https://devdevguide.netlify.app/es/softwarereview_author.es.html) antes de abrir un *issue* de envío en este repositorio.
+
+## <a href="#why-review" name="why-review"></a>¿Por qué y cómo revisar paquetes para rOpenSci?
+
+
+-   Como en cualquier proceso de revisión por pares, esperamos que elijas revisar **para contribuir a rOpenSci y a las comunidades científicas**.
+    Nuestra misión de ampliar el acceso a los datos científicos y promover una cultura de investigación reproducible sólo es posible gracias a los esfuerzos voluntarios de miembros de la comunidad como tú.
+
+-   La revisión es una conversación bidireccional.
+    Al revisar los paquetes, tendrás la oportunidad de **seguir aprendiendo buenas prácticas de desarrollo de las personas que crean paquetes y otras/os revisoras/es**.
+-   La naturaleza abierta de nuestro proceso de revisión te permite **establecer redes y conocer colegas y personas que colaboran**. 
+    Nuestra comunidad es amigable y está llena de miembros con conocimiento en el desarrollo de R y en muchas otras áreas de la ciencia y la informática científica con ganas de ayudar.
+
+Para ofrecerte para revisar paquetes, completa [este breve formulario](https://ropensci.org/software-reviewer/) proporcionando tu información de contacto y tus áreas de experiencia. 
+Siempre buscamos más personas con experiencia en el desarrollo de paquetes en general y con conocimientos especializados en los campos en los que se utilizan los paquetes.
+   
+Por favor también lee [nuestra guía para personas que realizan revisiones](https://devdevguide.netlify.app/es/softwarereview_reviewer.es.html).
+
+## <a href="#further" name="further"></a>Más recursos
+
+Nuestra [Guía de desarrollo](https://devdevguide.netlify.app/es/index.es.html) también inlcuye:
+
+* [una guía para el equipo editorial](https://devdevguide.netlify.app/es/softwarereview_editor.es.html)
+
+* [nuestras políticas](https://devdevguide.netlify.app/es/softwarereview_policies.es.html)
+
+* capítulos dedicados a buenas prácticas para el mantenimiento de paquetes
+
+* diferentes plantillas: [plantilla de revisión](https://devdevguide.netlify.app/es/reviewtemplate.es.html), [plantilla para quien hace la edición](https://devdevguide.netlify.app/es/editortemplate.es.html), [plantilla para pedido de revisión](https://devdevguide.netlify.app/es/reviewrequesttemplate.es.html). 
+
+Nuestro proceso de revisión está en constante desarrollo de modo que promovemos las devoluciones y las discusiones sobre cómo mejorarlo en nuestro [foro](https://discuss.ropensci.org/) y en [los issues del repositorio ropensci/software-review-meta](https://github.com/ropensci/software-review-meta/issues).
+
+# <a href="#editors" name="editors"></a>Equipo editorial y de revisión
+
+### Editores/as asociados/as
+
+El proceso de revisión por pares del software de rOpenSci está dirigido por:
+
+* [Noam Ross](https://github.com/noamross), EcoHealth Alliance, EEUU;
+* [Karthik Ram](https://github.com/karthik), rOpenSci, EEUU;
+* [Maëlle Salmon](https://github.com/maelle), rOpenSci, Francia;
+* [Anna Krystalli](https://github.com/annakrystalli), University of Sheffield RSE, Reino Unido;
+* [Mauro Lepore](https://github.com/maurolepore), 2 Degrees Investing Initiative, EEUU;
+* [Laura DeCicco](https://github.com/ldecicco-USGS), USGS, EEUU;
+* [Julia Gustavsen](https://github.com/jooolia), Agroscope, Suiza;
+* [Emily Riederer](https://github.com/emilyriederer), Capital One, EEUU;
+* [Adam Sparks](https://github.com/adamhsparks), Department of Primary Industries and Regional Development;
+* [Jeff Hollister](https://github.com/jhollist), US Environmental Protection Agency.
+
+Editores/as asociados/as para software estadístico son:
+
+
+- [Ben Bolker](https://github.com/bbolker), McMaster University, Canadá;
+- [Rebecca Killick](https://github.com/rkillick), Lancaster University, Reino Unido;
+- [Stephanie Hicks](https://github.com/stephaniehicks), Johns Hopkins University, EEUU;
+- [Paula Moraga](https://github.com/Paula-Moraga), King Abdullah University of Science and Technology, Arabia Saudita;
+- [Leonardo Collado-Torres](https://github.com/lcolladotor), Lieber Institute for Brain Development, EEUU;
+- [Toby Hocking](https://github.com/tdhock), Northern Arizona University, EEUU.
+
+### Revisión y edición invitada
+
+Agradecemos a las siguientes personas, quienes ofrecieron su tiempo y experiencia para revisar paquetes enviaros a rOpenSci:
+
+```{r reviewers, echo=FALSE, results='asis'}
+if (Sys.getenv("AIRTABLE_API_KEY") == ""){
+  Sys.setenv(AIRTABLE_API_KEY = params$AIRTABLE_API_KEY)
+}
+if (Sys.getenv("AIRTABLE_ID") == ""){
+  Sys.setenv(AIRTABLE_ID = params$AIRTABLE_ID)
+}
+editors <- c(
+  "Noam Ross", "Karthik Ram", "Maëlle Salmon",
+  "Anna Krystalli", "Mauro Lepore", 
+  "Laura DeCicco", "Julia Gustavsen",
+  "Emily Riederer", "Adam Sparks", "Jeff Hollister"
+  )
+reviewers <- airtabler::airtable(base = Sys.getenv("AIRTABLE_ID"), 
+                                table = "reviewers-prod")
+reviewers <- reviewers$`reviewers-prod`$select_all()
+reviewers <- reviewers[purrr::map_lgl(reviewers$reviews, 
+                               ~!is.null(.)) & 
+                         !(reviewers$name %in% c(editors, "???")), ]
+# get last names
+last_names <- humaniformat::last_name(trimws(reviewers$name))
+reviewers <- reviewers[order(last_names), ]
+reviewers$name[is.na(reviewers$name)] <- reviewers$github[is.na(reviewers$name)]
+cat(paste0("[", reviewers$name, "](https://github.com/", reviewers$github, ")", collapse = " \U00B7 "))
+```
+
+También agradecemos a las siguientes personas que tomaron el rol de edición de forma invitada. 
+
+```{r}
+#| echo: false
+#| results: 'asis'
+guest_editors <- airtabler::airtable(base = "app8dssb6a7PG6Vwj", 
+                                table = "guest-editors")
+guest_editors <- guest_editors$`guest-editors`$select_all()
+guest_editors <- guest_editors[!(guest_editors$name %in% c(editors, "???")), ]
+# get last names
+last_names <- humaniformat::last_name(trimws(guest_editors$name))
+guest_editors <- guest_editors[order(last_names), ]
+cat(paste0("[", guest_editors$name, "](https://github.com/", guest_editors$github, ")", collapse = " \U00B7 "))
+```
+

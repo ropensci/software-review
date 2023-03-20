@@ -55,7 +55,7 @@ Idioma: <!--language-->es<!--end-language-->
 
 - Si ya has hecho una consulta de pre-envío, por favor pega el enlace al _issue_ correspondiente, una publicación del foro, u otra discusión. Alternativamente, etiqueta a la persona del equipo editorial (con @tag) con la que te contactaste.
 
--   (Si aplica) Explique las razones por las cuales el paqute no satisface alguno de los [chequeos de `pkgcheck`](https://docs.ropensci.org/pkgcheck/).
+-   (Si aplica) Explica las razones por las cuales el paquete no satisface alguno de los [chequeos de `pkgcheck`](https://docs.ropensci.org/pkgcheck/).
 
 ## Revisiones Técnicas
 

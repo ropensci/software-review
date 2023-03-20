@@ -56,7 +56,7 @@ Idioma: <!--language-->es<!--end-language-->
 
 - Explica cómo y por qué el paquete encaja dentro de estas categorías (1 a 3 oraciones):
 
-- Si estás enviando un paquete estadistico, ¿[incorporaste documentación de los estandares en su codigo utilizando el paquete **srr**](https://stats-devguide.ropensci.org/pkgdev.html#pkgdev-srr)?
+- Si estás enviando un paquete estadístico, ¿[incorporaste documentación de los estándares en su código utilizando el paquete **srr**](https://stats-devguide.ropensci.org/pkgdev.html#pkgdev-srr)?
 
 - ¿Cuál es la audiencia esperada y las aplicaciones científicas de este paquete?
 

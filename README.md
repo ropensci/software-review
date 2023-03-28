@@ -204,7 +204,8 @@ Fernandez](https://github.com/salvafern) · [Alexander
 Fischer](https://github.com/s3alfisc) · [Kim
 Fitter](https://github.com/kimnewzealand) · [Robert M
 Flight](https://github.com/rmflight) · [Sydney
-Foks](https://github.com/sfoks) · [Zachary Stephen Longiaru
+Foks](https://github.com/sfoks) · [Stephen
+Formel](https://github.com/sformel) · [Zachary Stephen Longiaru
 Foster](https://github.com/zachary-foster) · [Auriel
 Fournier](https://github.com/aurielfournier) · [Carl
 Ganz](https://github.com/carlganz) · [Duncan
@@ -245,7 +246,8 @@ Jahn](https://github.com/njahn82) · [Tamora D
 James](https://github.com/tdjames1) · [Mike
 Johnson](https://github.com/mikejohnson51) · [Will
 Jones](https://github.com/wjones127) · [Max
-Joseph](https://github.com/mbjoseph) · [Krunoslav
+Joseph](https://github.com/mbjoseph) · [Megha
+Joshi](https://github.com/meghapsimatrix) · [Krunoslav
 Juraic](https://github.com/kjuraic) · [Soumya
 Kalra](https://github.com/sokal1456) · [Zhian N.
 Kamvar](https://github.com/zkamvar) · [Michael

@@ -205,7 +205,7 @@ Fischer](https://github.com/s3alfisc) · [Kim
 Fitter](https://github.com/kimnewzealand) · [Robert M
 Flight](https://github.com/rmflight) · [Sydney
 Foks](https://github.com/sfoks) · [Stephen
-Formel](https://github.com/sformel) · [Zachary Stephen Longiaru
+Formel](https://github.com/sformel-usgs) · [Zachary Stephen Longiaru
 Foster](https://github.com/zachary-foster) · [Auriel
 Fournier](https://github.com/aurielfournier) · [Carl
 Ganz](https://github.com/carlganz) · [Duncan

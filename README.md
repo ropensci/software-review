@@ -206,7 +206,8 @@ Fernandez](https://github.com/salvafern) · [Alexander
 Fischer](https://github.com/s3alfisc) · [Kim
 Fitter](https://github.com/kimnewzealand) · [Robert M
 Flight](https://github.com/rmflight) · [Sydney
-Foks](https://github.com/sfoks) · [Zachary Stephen Longiaru
+Foks](https://github.com/sfoks) · [Stephen
+Formel](https://github.com/sformel-usgs) · [Zachary Stephen Longiaru
 Foster](https://github.com/zachary-foster) · [Auriel
 Fournier](https://github.com/aurielfournier) · [Carl
 Ganz](https://github.com/carlganz) · [Duncan
@@ -247,7 +248,8 @@ Jahn](https://github.com/njahn82) · [Tamora D
 James](https://github.com/tdjames1) · [Mike
 Johnson](https://github.com/mikejohnson51) · [Will
 Jones](https://github.com/wjones127) · [Max
-Joseph](https://github.com/mbjoseph) · [Krunoslav
+Joseph](https://github.com/mbjoseph) · [Megha
+Joshi](https://github.com/meghapsimatrix) · [Krunoslav
 Juraic](https://github.com/kjuraic) · [Soumya
 Kalra](https://github.com/sokal1456) · [Zhian N.
 Kamvar](https://github.com/zkamvar) · [Michael
@@ -338,7 +340,8 @@ Russel](https://github.com/timelyportfolio) · [Alicia
 Schep](https://github.com/AliciaSchep) · [Klaus
 Schliep](https://github.com/KlausVigo) · [Clemens
 Schmid](https://github.com/nevrome) · [Patrick
-Schratz](https://github.com/pat-s) · [Marco
+Schratz](https://github.com/pat-s) · [Collin
+Schwantes](https://github.com/collinschwantes) · [Marco
 Sciaini](https://github.com/marcosci) · [Heidi
 Seibold](https://github.com/HeidiSeibold) · [Julia
 Silge](https://github.com/juliasilge) · [Margaret
@@ -349,7 +352,8 @@ Sonkkila](https://github.com/tts) · [Jemma
 Stachelek](https://github.com/jsta) · [Christine
 Stawitz](https://github.com/ChristineStawitz-NOAA) · [Irene
 Steves](https://github.com/isteves) · [Kelly
-Street](https://github.com/kstreet13) · [Alex
+Street](https://github.com/kstreet13) · [Matt
+Strimas-Mackey](https://github.com/mstrimas) · [Alex
 Stringer](https://github.com/awstringer1) · [Michael
 Sumner](https://github.com/mdsumner) · [Chung-Kai
 Sun](https://github.com/cksun-usc) · [Sarah
@@ -383,7 +387,8 @@ Widgren](https://github.com/stewid) · [Anna
 Willoughby](https://github.com/arw36) · [Saras
 Windecker](https://github.com/smwindecker) · [Luke
 Winslow](https://github.com/lawinslow) · [David
-Winter](https://github.com/dwinter) · [Witold
+Winter](https://github.com/dwinter) · [Sebastian
+Wójcik](https://github.com/SebastianWojcik86) · [Witold
 Wolski](https://github.com/wolski) · [Kara
 Woo](https://github.com/karawoo) · [Marvin N.
 Wright](https://github.com/mnwright) · [Bruna
@@ -405,8 +410,7 @@ Zwart](https://github.com/jzwart) ·
 [Jasmine](https://github.com/laijasmine) ·
 [Lluís](https://github.com/llrs) ·
 [becarioprecario](https://github.com/becarioprecario) ·
-[gaurav](https://github.com/soodoku) ·
-[SebastianWojcik86](https://github.com/SebastianWojcik86)
+[gaurav](https://github.com/soodoku)
 
 We are also grateful to the following individuals who have served as
 guest editors.

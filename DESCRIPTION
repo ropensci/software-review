@@ -9,4 +9,4 @@ Imports:
   rmarkdown,
   knitr
 Remotes: 
-  maelle/airtabler@rownames
+  bergant/airtabler

@@ -17,6 +17,8 @@ knitr::opts_chunk$set(
 
 # rOpenSci Software Peer Review
 
+_[README en español](README.es.md)_
+
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
 Thank you for considering submitting your package to the rOpenSci suite. All

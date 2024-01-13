@@ -1,146 +1,163 @@
 
 ![ropensci](icon_lettering_color.png)
 
-# rOpenSci Software Peer Review
+# Revisión por pares del software rOpenSci
 
-*[README en español](README.es.md)*
+<!-- README.md se genera a partir de README.Rmd. Por favor, edita ese archivo -->
 
-<!-- README.md is generated from README.Rmd. Please edit that file -->
+Gracias por considerar el envío de tu paquete al ecosistema de rOpenSci.
+Todos los paquetes contribuidos por miembros de la comunidad pasan por
+un proceso abierto de [revisión por
+pares](https://ropensci.org/blog/2017/09/01/nf-softwarereview/) para
+asegurar un nivel de calidad consistente. Este proceso también nos
+permite controlar que tu paquete cumpla con nuestras recomendaciones y
+ofrece una oportunidad de intercambio para solicitar excepciones.
 
-Thank you for considering submitting your package to the rOpenSci suite.
-All the packages contributed by community members go through a process
-of [open peer
-review](https://ropensci.org/blog/2017/09/01/nf-softwarereview/) to
-ensure a consistent level of quality for our users. This process also
-allows us to ensure that your package meets our guidelines and provides
-opportunity for discussion where exceptions are requested.
+Este *README* provee una breve introducción a nuestro sistema de
+Revisión por Pares de Software tanto si vas a enviar o revisar un
+paquete. Para más información, consulta nuestra [Guía de
+desarrollo](https://devdevguide.netlify.app/es/index.es.html).
 
-This README is a short intro to Software Peer Review for you as a
-potential author or reviewer. For more information, consult our [gitbook
-“rOpenSci Packages: Development, Maintenance, and Peer
-Review”](https://devguide.ropensci.org/).
+**Es obligatorio respetar nuestro código de
+conducta)\[<https://ropensci.org/codigo-de-conducta/>\] para todas las
+personas que participen en nuestro proceso de revisión**
 
-**Our [code of conduct](https://ropensci.org/code-of-conduct/) is
-mandatory for everyone involved in our review process.**
+- [¿Por qué y cómo enviar tu paquete a rOpenSci?](#why-submit)
+- [¿Por qué y cómo revisar paquetes para rOpenSci?](#why-review)
+- [Más recursos](#further)
+- [Equipo editorial y de revisión](#editors)
 
-- [Why and how submit your package to rOpenSci?](#why-submit)
-- [Why and how review for rOpenSci?](#why-review)
-- [Further resources](#further)
-- [Editors and reviewers](#editors)
+# <a href="#why-submit" name="why-submit"></a>¿Por qué y cómo enviar tu paquete a rOpenSci?
 
-# <a href="#why-submit" name="why-submit"></a>Why and how submit your package to rOpenSci?
+- En primer lugar, y sobre todo, esperamos que envíes tu paquete para su
+  revisión **porque valoras la devolución**. Nuestro objetivo es
+  proporcionar una devolución útil a las personas que crearon el
+  paquetes y que nuestro proceso de revisión sea abierto, no conflictivo
+  y centrado en la mejora de la calidad del software.
 
-- First, and foremost, we hope you submit your package for review
-  **because you value the feedback**. We aim to provide useful feedback
-  to package authors and for our review process to be open,
-  non-adversarial, and focused on improving software quality.
-- Once aboard, your package will continue to receive **support from
-  rOpenSci members**. You’ll retain ownership and control of your
-  package, but we can help with ongoing maintenance issues such as those
-  associated with updates to R and dependencies and CRAN policies.
-- rOpenSci will **promote your package** through our
-  [webpage](https://ropensci.org/packages/),
-  [blog](https://ropensci.org/blog/), and [social
-  media](https://twitter.com/ropensci). Packages in our suite also get a
-  [documentation website that is automatically built and deployed after
-  each push](https://devguide.ropensci.org/building.html#docsropensci).
-- rOpenSci **packages can be cross-listed** with other repositories such
-  as CRAN and BioConductor.
-- rOpenSci packages that contain a short accompanying paper can, after
-  review, be automatically submitted to the [Journal of Open-Source
-  Software](http://joss.theoj.org/) for fast-tracked publication.
+- Una vez a aceptado, tu paquete seguirá recibiendo **apoyo de los
+  miembros de rOpenSci**. Mantendrás la propiedad y el control de tu
+  paquete, pero podemos ayudarte con los problemas de mantenimiento en
+  curso, como los relacionados con las actualizaciones de R y las
+  dependencias, y las políticas de CRAN.
 
-If you want to submit a package, read our [guide for
-authors](https://devguide.ropensci.org/authors-guide.html) before
-opening a submission issue in this repository.
+- rOpenSci **difundirá tu paquete** a través de nuestra [página
+  web](https://ropensci.org/packages/),
+  [blog](https://ropensci.org/blog/) y [redes
+  sociales](https://twitter.com/ropensci). Los paquetes de nuestra suite
+  también tienen un [sitio web de documentación que se construye y
+  despliega automáticamente después de cada *push*](#docsropensci).
 
-## <a href="#why-review" name="why-review"></a>Why and how to review packages for rOpenSci?
+- Los paquete de rOpenSci **se pueden incluir** en otros repositorios
+  como CRAN y BioConductor.
 
-- As in any peer-review process, we hope you choose to review **to give
-  back to the rOpenSci and scientific communities.** Our mission to
-  expand access to scientific data and promote a culture of reproducible
-  research is only possible through the volunteer efforts of community
-  members like you.
-- Review is a two-way conversation. By reviewing packages, you’ll have
-  the chance to **continue to learn development practices from authors
-  and other reviewers**.
-- The open nature of our review process allows you to **network and meet
-  colleagues and collaborators** through the review process. Our
-  community is friendly and filled with supportive members expert in R
-  development and many other areas of science and scientific computing.
+- Los paquetes de rOpenSci que son relevantes para el [Journal of
+  Open-Source Software](https://joss.theoj.org/) y añaden un artículo
+  corto de acompañamiento pueden beneficiarse, a discreción de las/os
+  editoras/es de JOSS, de un proceso de revisión acelerado.
 
-To volunteer to be one of our reviewers, please fill out this [short
-form](https://ropensci.org/software-reviewer/) providing your contact
-information and areas or expertise. We are always looking for more
-reviewers with both general package-writing experience and domain
-expertise in the fields packages are used for.
+Si quieres enviar un paquete, lee nuestra [guía para quienes envían un
+paquete](https://devdevguide.netlify.app/es/softwarereview_author.es.html)
+antes de abrir un *issue* de envío en este repositorio.
 
-Please also read [our guide for
-reviewers](https://devguide.ropensci.org/reviewerguide.html).
+## <a href="#why-review" name="why-review"></a>¿Por qué y cómo revisar paquetes para rOpenSci?
 
-## <a href="#further" name="further"></a>Further resources
+- Como en cualquier proceso de revisión por pares, esperamos que elijas
+  revisar **para contribuir a rOpenSci y a las comunidades
+  científicas**. Nuestra misión de ampliar el acceso a los datos
+  científicos y promover una cultura de investigación reproducible sólo
+  es posible gracias a los esfuerzos voluntarios de miembros de la
+  comunidad como tú.
 
-Our [gitbook “rOpenSci Packages: Development, Maintenance, and Peer
-Review”](https://devguide.ropensci.org/) also includes:
+- La revisión es una conversación bidireccional. Al revisar los
+  paquetes, tendrás la oportunidad de **seguir aprendiendo buenas
+  prácticas de desarrollo de las personas que crean paquetes y otras/os
+  revisoras/es**.
 
-- [a guide for editors](https://devguide.ropensci.org/editorguide.html)
+- La naturaleza abierta de nuestro proceso de revisión te permite
+  **establecer redes y conocer colegas y personas que colaboran**.
+  Nuestra comunidad es amigable y está llena de miembros con
+  conocimiento en el desarrollo de R y en muchas otras áreas de la
+  ciencia y la informática científica con ganas de ayudar.
 
-- [our policies](https://devguide.ropensci.org/policies.html)
+Para ofrecerte para revisar paquetes, completa [este breve
+formulario](https://ropensci.org/software-reviewer/) proporcionando tu
+información de contacto y tus áreas de experiencia. Siempre buscamos más
+personas con experiencia en el desarrollo de paquetes en general y con
+conocimientos especializados en los campos en los que se utilizan los
+paquetes.
 
-- chapters dedicating to good practice for package maintenance
+Por favor también lee [nuestra guía para personas que realizan
+revisiones](https://devdevguide.netlify.app/es/softwarereview_reviewer.es.html).
 
-- different templates: [review
-  template](https://devguide.ropensci.org/reviewtemplate.html),
-  [editor’s
-  template](https://devguide.ropensci.org/editortemplate.html), [review
-  request
-  template](https://devguide.ropensci.org/reviewrequesttemplate.html).
+## <a href="#further" name="further"></a>Más recursos
 
-Our review process is always in development, and we encourage feedback
-and discussion on how to improve the process on our
-[forum](https://discuss.ropensci.org/) and in the
-[ropensci/software-review-meta issue
-tracker](https://github.com/ropensci/software-review-meta/issues).
+Nuestra [Guía de
+desarrollo](https://devdevguide.netlify.app/es/index.es.html) también
+inlcuye:
 
-# <a href="#editors" name="editors"></a> Editors and reviewers
+- [una guía para el equipo
+  editorial](https://devdevguide.netlify.app/es/softwarereview_editor.es.html)
 
-### Associate editors
+- [nuestras
+  políticas](https://devdevguide.netlify.app/es/softwarereview_policies.es.html)
 
-rOpenSci’s Software Peer Review process is run by:
+- capítulos dedicados a buenas prácticas para el mantenimiento de
+  paquetes
 
-- [Noam Ross](https://github.com/noamross), EcoHealth Alliance, USA;
-- [Karthik Ram](https://github.com/karthik), rOpenSci, USA;
-- [Maëlle Salmon](https://github.com/maelle), rOpenSci, France;
+- diferentes plantillas: [plantilla de
+  revisión](https://devdevguide.netlify.app/es/reviewtemplate.es.html),
+  [plantilla para quien hace la
+  edición](https://devdevguide.netlify.app/es/editortemplate.es.html),
+  [plantilla para pedido de
+  revisión](https://devdevguide.netlify.app/es/reviewrequesttemplate.es.html).
+
+Nuestro proceso de revisión está en constante desarrollo de modo que
+promovemos las devoluciones y las discusiones sobre cómo mejorarlo en
+nuestro [foro](https://discuss.ropensci.org/) y en [los issues del
+repositorio
+ropensci/software-review-meta](https://github.com/ropensci/software-review-meta/issues).
+
+# <a href="#editors" name="editors"></a>Equipo editorial y de revisión
+
+### Editores/as asociados/as
+
+El proceso de revisión por pares del software de rOpenSci está dirigido
+por:
+
+- [Noam Ross](https://github.com/noamross), EcoHealth Alliance, EEUU;
+- [Karthik Ram](https://github.com/karthik), rOpenSci, EEUU;
+- [Maëlle Salmon](https://github.com/maelle), rOpenSci, Francia;
 - [Anna Krystalli](https://github.com/annakrystalli), University of
-  Sheffield RSE, UK;
+  Sheffield RSE, Reino Unido;
 - [Mauro Lepore](https://github.com/maurolepore), 2 Degrees Investing
-  Initiative, USA;
-- [Laura DeCicco](https://github.com/ldecicco-USGS), USGS, USA;
-- [Julia Gustavsen](https://github.com/jooolia), Agroscope, Switzerland;
-- [Emily Riederer](https://github.com/emilyriederer), Capital One, USA;
+  Initiative, EEUU;
+- [Laura DeCicco](https://github.com/ldecicco-USGS), USGS, EEUU;
+- [Julia Gustavsen](https://github.com/jooolia), Agroscope, Suiza;
+- [Emily Riederer](https://github.com/emilyriederer), Capital One, EEUU;
 - [Adam Sparks](https://github.com/adamhsparks), Department of Primary
   Industries and Regional Development;
 - [Jeff Hollister](https://github.com/jhollist), US Environmental
   Protection Agency.
 
-Associate editors for statistical software are:
+Editores/as asociados/as para software estadístico son:
 
-- [Ben Bolker](https://github.com/bbolker), McMaster University, Canada;
+- [Ben Bolker](https://github.com/bbolker), McMaster University, Canadá;
 - [Rebecca Killick](https://github.com/rkillick), Lancaster University,
-  UK;
+  Reino Unido;
 - [Stephanie Hicks](https://github.com/stephaniehicks), Johns Hopkins
-  University, USA;
+  University, EEUU;
 - [Paula Moraga](https://github.com/Paula-Moraga), King Abdullah
-  University of Science and Technology, Saudi Arabia;
+  University of Science and Technology, Arabia Saudita;
 - [Leonardo Collado-Torres](https://github.com/lcolladotor), Lieber
-  Institute for Brain Development, USA;
+  Institute for Brain Development, EEUU;
 - [Toby Hocking](https://github.com/tdhock), Northern Arizona
-  University, USA.
+  University, EEUU.
 
-### Reviewers and guest editors
+### Revisión y edición invitada
 
-We are grateful to the following individuals who have offered up their
-time and expertise to review packages submitted to rOpenSci.
+Agradecemos a las siguientes personas, quienes ofrecieron su tiempo y
+experiencia para revisar paquetes enviaros a rOpenSci:
 
 [Sam Albers](https://github.com/boshek) · [Toph
 Allen](https://github.com/toph-allen) · [Kaique dos S.
@@ -259,7 +276,8 @@ Kariyawasam](https://github.com/Tinula-kariyawasam) · [Hazel
 Kavılı](https://github.com/UniversalTourist) · [Jonathan
 Keane](https://github.com/jonkeane) · [Christopher T.
 Kenny](https://github.com/christopherkenny) · [Os
-Keyes](https://github.com/Ironholds) · [Aaron A.
+Keyes](https://github.com/Ironholds) · [Eunseop
+Kim](https://github.com/markean) · [Aaron A.
 King](https://github.com/kingaa) · [Michael
 Koontz](https://github.com/mikoontz) · [Bianca
 Kramer](https://github.com/bmkramer) · [Will
@@ -267,7 +285,8 @@ Landau](https://github.com/wlandau) · [Sam
 Lapp](https://github.com/sammlapp) · [Erin
 LeDell](https://github.com/ledell) · [Thomas
 Leeper](https://github.com/leeper) · [Sam
-Levin](https://github.com/levisc8) · [Stephanie
+Levin](https://github.com/levisc8) · [Lisa
+Levinson](https://github.com/lisalevinson) · [Stephanie
 Locke](https://github.com/stephlocke) · [Marion
 Louveaux](https://github.com/marionlouveaux) · [Robin
 Lovelace](https://github.com/robinlovelace) · [Julia Stewart
@@ -330,7 +349,8 @@ Read](https://github.com/qdread) · [Neal
 Richardson](https://github.com/nealrichardson) · [tyler
 rinker](https://github.com/trinker) · [Emily
 Robinson](https://github.com/robinsones) · [David
-Robinson](https://github.com/dgrtwo) · [Francisco
+Robinson](https://github.com/dgrtwo) · [Alec
+Robitaille](https://github.com/robitalec) · [Francisco
 Rodriguez-Sanchez](https://github.com/Pakillo) · [Julia
 Romanowska](https://github.com/jromanowska) · [Xavier
 Rotllan-Puig](https://github.com/xavi-rp) · [Bob
@@ -366,7 +386,8 @@ Thompson](https://github.com/jenniferthompson) · [Joe
 Thorley](https://github.com/joethorley) · [Tiffany
 Timbers](https://github.com/ttimbers) · [Tan
 Tran](https://github.com/vinhtantran) · [Tim
-Trice](https://github.com/timtrice) · [Kyle
+Trice](https://github.com/timtrice) · [utku
+turk](https://github.com/utkuturk) · [Kyle
 Ueyama](https://github.com/khueyama) · [Ted
 Underwood](https://github.com/tedunderwood) · [Adithi R.
 Upadhya](https://github.com/adithirgis) · [Kevin
@@ -412,8 +433,8 @@ Zwart](https://github.com/jzwart) ·
 [becarioprecario](https://github.com/becarioprecario) ·
 [gaurav](https://github.com/soodoku)
 
-We are also grateful to the following individuals who have served as
-guest editors.
+También agradecemos a las siguientes personas que tomaron el rol de
+edición de forma invitada.
 
 [Ana Laura Diedrichs](https://github.com/anadiedrichs) · [Hao
 Zhu](https://github.com/haozhu233)

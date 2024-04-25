@@ -117,7 +117,7 @@ eic$period_start <- as.Date(eic$period_start)
 eic$period_end <- as.Date(eic$period_end)
 today <- Sys.Date ()
 eic_now <- eic [which (eic$period_start <= today & eic$period_end >= today), ]
-eic_name <- eic_now$acting_aic_name [[1]]
+eic_name <- eic_now$acting_eic_name [[1]]
 eic_id <- eic_now$acting_eic
 eic_in_rev_table <- which(reviewers$id == eic_id)
 eic_github <- reviewers$github[eic_in_rev_table]

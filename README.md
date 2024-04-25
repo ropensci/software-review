@@ -103,7 +103,9 @@ tracker](https://github.com/ropensci/software-review-meta/issues).
 # <a href="#editors" name="editors"></a> Editors and reviewers
 
 rOpenSci’s Software Peer Review process is run by our team of dedicated
-editors and reviewers.
+editors and reviewers. Information on the current team, and the current
+status of software peer review, can be seen on our [interactive
+dashboard](https://ropensci-review-tools.github.io/dashboard/).
 
 ### Editor-in-Chief
 

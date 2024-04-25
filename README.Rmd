@@ -87,7 +87,7 @@ on how to improve the process on our [forum](https://discuss.ropensci.org/) and 
 
 # <a href="#editors" name="editors"></a> Editors and reviewers
 
-rOpenSci's Software Peer Review process is run our team of staff and volunteer editors and reviewers.
+rOpenSci's Software Peer Review process is run by our team of dedicated editors and reviewers.
 
 ```{r get-airtable-data, warning=FALSE, echo=FALSE}
 if (Sys.getenv("AIRTABLE_API_KEY") == ""){

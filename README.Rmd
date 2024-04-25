@@ -97,17 +97,17 @@ if (Sys.getenv("AIRTABLE_ID") == ""){
   Sys.setenv(AIRTABLE_ID = params$AIRTABLE_ID)
 }
 
-at_eic <- airtabler::airtable(base = Sys.getenv("AIRTABLE_ID"), 
+at_eic <- airtabler::airtable(base = Sys.getenv("AIRTABLE_ID"),
                               table = "editor-in-chief-rotation")
 eic <- at_eic$`editor-in-chief-rotation`$select_all()
 
-at_rev <- airtabler::airtable(base = Sys.getenv("AIRTABLE_ID"), 
+at_rev <- airtabler::airtable(base = Sys.getenv("AIRTABLE_ID"),
                               table = "reviewers-prod")
 reviewers <- at_rev$`reviewers-prod`$select_all()
 
-aic_guest <- airtabler::airtable(base = "app8dssb6a7PG6Vwj", 
+at_guest <- airtabler::airtable(base = "app8dssb6a7PG6Vwj",
                                  table = "guest-editors")
-guest_editors <- aic_guest$`guest-editors`$select_all()
+guest_editors <- at_guest$`guest-editors`$select_all()
 ```
 
 ### Editor-in-Chief

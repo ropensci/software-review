@@ -142,15 +142,9 @@ editors_all <- editors_all[order(last_names), ]
 
 editors_past <- editors_all[grep("Emeritus", editors_all$editor), ]
 editors <- editors_all[which(!editors_all$name %in% editors_past$name), ]
-editors_stats <- editors[grep("Statistics", editors$editor), ]
-# index of general editors plus hand-coded names of those who act as both
-# general and stats editors:
-eds_both <- c ("Adam Sparks")
-index <- which(!editors$name %in% editors_stats$name | editors$name %in% eds_both)
-editors <- editors[index, ]
 ```
 
-Our current team of editors for general software includes:
+Our current team of editors for software peer-review includes:
 
 ```{r gen_ed_out-fn, echo=FALSE}
 gen_ed_out <- function(ed_dat) {
@@ -163,14 +157,6 @@ gen_ed_out <- function(ed_dat) {
 ```
 ```{r editors-out, echo=FALSE, results='asis'}
 cat(gen_ed_out(editors), sep = "")
-```
-
-### Statistics editors
-
-Our current team of editors for statistical software includes:
-
-```{r editors-stats-out, echo=FALSE, results='asis'}
-cat(gen_ed_out(editors_stats), sep = "")
 ```
 
 ### Reviewers and former editors

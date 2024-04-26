@@ -112,7 +112,7 @@ dashboard](https://ropensci-review-tools.github.io/dashboard/).
 We rotate our Editor-in-Chief, generally every three months. Our current
 Editor-in-Chief is [Laura DeCicco](https://github.com/ldecicco-usgs).
 
-### General editors
+### Editorial team
 
 Our current team of editors for software peer-review includes:
 

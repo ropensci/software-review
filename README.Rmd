@@ -132,7 +132,7 @@ cat(out, sep = "")
 ```
 
 
-### General editors
+### Editorial team
 
 ```{r editors, echo=FALSE}
 editor_index_all <- purrr::map_lgl(reviewers$editor, ~!is.null(.))

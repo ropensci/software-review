@@ -184,7 +184,8 @@ cat(gen_ed_out(editors_past), sep = "")
 And the following who have served as guest editors.
 
 ```{r guest-editors-out, echo=FALSE, results='asis'}
-guest_editors <- guest_editors[!(guest_editors$name %in% c(editors_all$name, "???")), ]
+guest_editors <- guest_editors[!(guest_editors$name %in%
+    c(editors_all$name, eic_name, "???")), ]
 # get last names
 last_names <- humaniformat::last_name(trimws(guest_editors$name))
 guest_editors <- guest_editors[order(last_names), ]

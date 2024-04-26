@@ -459,6 +459,5 @@ served as editors.
 
 And the following who have served as guest editors.
 
-- [Laura DeCicco](https://github.com/ldecicco-usgs),;
 - [Ana Laura Diedrichs](https://github.com/anadiedrichs),;
 - [Hao Zhu](https://github.com/haozhu233),.

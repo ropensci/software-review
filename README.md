@@ -1,5 +1,8 @@
 
-![ropensci](icon_lettering_color.png)
+<figure>
+<img src="icon_lettering_color.png" alt="ropensci" />
+<figcaption aria-hidden="true">ropensci</figcaption>
+</figure>
 
 # rOpenSci Software Peer Review
 
@@ -110,13 +113,13 @@ dashboard](https://ropensci-review-tools.github.io/dashboard/).
 ### Editor-in-Chief
 
 We rotate our Editor-in-Chief, generally every three months. Our current
-Editor-in-Chief is [Laura DeCicco](https://github.com/ldecicco-usgs).
+Editor-in-Chief is [Julia Gustavsen](https://github.com/jooolia).
 
 ### Editorial team
 
 Our current team of editors for software peer-review includes:
 
-- [Julia Gustavsen](https://github.com/jooolia), Agroscope;
+- [Laura DeCicco](https://github.com/ldecicco-usgs);
 - [Jouni Helske](https://github.com/helske), University of Jyväskylä,
   Finland;
 - [Toby Hocking](https://github.com/tdhock), Northern Arizona
@@ -133,7 +136,8 @@ Our current team of editors for software peer-review includes:
 - [Emily Riederer](https://github.com/emilyriederer), Capital One;
 - [Francisco Rodriguez-Sanchez](https://github.com/Pakillo), Universidad
   de Sevilla, Spain;
-- [Noam Ross](https://github.com/noamross), EcoHealth Alliance;
+- [Noam Ross](https://github.com/noamross), rOpenSci and EcoHealth
+  Alliance;
 - [Maëlle Salmon](https://github.com/maelle), rOpenSci;
 - [Margaret Siple](https://github.com/mcsiple), National Oceanic and
   Atmospheric Administration;
@@ -203,8 +207,7 @@ Crema](https://github.com/ercrema) · [Verónica
 Cruz-Alonso](https://github.com/VeruGHub) · [Ildiko
 Czeller](https://github.com/czeildi) · [Tad
 Dallas](https://github.com/taddallas) · [Kauê de
-Sousa](https://github.com/kauedesousa) · [Laura
-DeCicco](https://github.com/ldecicco-usgs) · [Christophe
+Sousa](https://github.com/kauedesousa) · [Christophe
 Dervieux](https://github.com/cderv) · [Amanda
 Dobbyn](https://github.com/aedobbyn) · [Jasmine
 Dumas](https://github.com/jasdumas) · [Remko
@@ -238,10 +241,12 @@ Gray](https://github.com/softloud) · [Matthias
 Grenié](https://github.com/Rekyt) · [Corinna
 Gries](https://github.com/cgries) · [Hugo
 Gruson](https://github.com/bisaloo) · [Ernest
-Guevarra](https://github.com/ernestguevarra) · [W Kyle
+Guevarra](https://github.com/ernestguevarra) · [Julia
+Gustavsen](https://github.com/jooolia) · [W Kyle
 Hamilton](https://github.com/kylehamilton) · [Ivan
 Hanigan](https://github.com/ivanhanigan) · [Jeffrey
-Hanson](https://github.com/jeffreyhanson) · [Rayna
+Hanson](https://github.com/jeffreyhanson) · [Jon
+Harmon](https://github.com/jonthegeek) · [Rayna
 Harris](https://github.com/raynamharris) · [Ted
 Hart](https://github.com/emhart) · [Nujcharee
 Haswell](https://github.com/nujcharee) · [Verena

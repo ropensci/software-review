@@ -464,5 +464,5 @@ served as editors.
 
 And the following who have served as guest editors.
 
-- [Ana Laura Diedrichs](https://github.com/anadiedrichs),;
-- [Hao Zhu](https://github.com/haozhu233),.
+- [Ana Laura Diedrichs](https://github.com/anadiedrichs);
+- [Hao Zhu](https://github.com/haozhu233).

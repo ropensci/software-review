@@ -141,8 +141,7 @@ Our current team of editors for software peer-review includes:
 - [Maëlle Salmon](https://github.com/maelle), rOpenSci;
 - [Margaret Siple](https://github.com/mcsiple), National Oceanic and
   Atmospheric Administration;
-- [Adam Sparks](https://github.com/adamhsparks), DPIRD, East Perth, WA,
-  AUS;
+- [Adam Sparks](https://github.com/adamhsparks), Curtin University;
 - [Emi Tanaka](https://github.com/emitanaka), Australian National
   University.
 

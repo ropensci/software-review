@@ -188,7 +188,8 @@ Bryan](https://github.com/jennybc) · [Lukas
 Burk](https://github.com/jemus42) · [Lorenzo
 Busetto](https://github.com/lbusett) · [Maria Paula
 Caldas](https://github.com/mpaulacaldas) · [Mario Gavidia
-Calderón](https://github.com/quishqa) · [Brad
+Calderón](https://github.com/quishqa) · [Carlos
+Cámara-Menoyo](https://github.com/ccamara) · [Brad
 Cannell](https://github.com/brad-cannell) · [Joaquin
 Cavieres](https://github.com/jcavieresg) · [Kevin
 Cazelles](https://github.com/KevCaz) · [Cathy

@@ -54,7 +54,7 @@ Language: <!--language-->en<!--end-language-->
 	- [ ] Exploratory Data Analysis (EDA) and Summary Statistics
 	- [ ] Spatial Analyses
 	- [ ] Time Series Analyses
-    - [ ] Probability Distributions
+	- [ ] Probability Distributions
 
 
 - Explain how and why the package falls under these categories (briefly, 1-2 sentences).  Please note any areas you are unsure of:

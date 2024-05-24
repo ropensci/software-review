@@ -59,7 +59,7 @@ Si no estás seguro, te sugerimos que comiences un pre-envío.
 	- [ ] Análisis Exploratorio de Datos (Exploratory Data Analysis (EDA) and Summary Statistics)
 	- [ ] Análisis Espacial (Spatial Analyses)
 	- [ ] Análisis de Series Temporales (Time Series Analyses)
-    - [ ] Distribuciones de Probabilidad (Probability Distributions)
+	- [ ] Distribuciones de Probabilidad (Probability Distributions)
 
 
 - Explica cómo y por qué el paquete encaja dentro de estas categorías (1 a 3 oraciones):

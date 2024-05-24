@@ -27,7 +27,7 @@ Language: <!--language-->en<!--end-language-->
 
 ## Scope 
 
-- Please indicate which category or categories from our [package fit policies](https://ropensci.github.io/dev_guide/policies.html#package-categories) or [statistical package categories](https://stats-devguide.ropensci.org/overview.html#overview-categories) this package falls under. (Please check an appropriate box below):
+- Please indicate which category or categories from our [package fit policies](https://ropensci.github.io/dev_guide/policies.html#package-categories) or [statistical package categories](https://stats-devguide.ropensci.org/overview.html#overview-categories) this package falls under. (Please check one or more appropriate boxes below):
 
     **Data Lifecycle Packages**
 
@@ -54,6 +54,7 @@ Language: <!--language-->en<!--end-language-->
 	- [ ] Exploratory Data Analysis (EDA) and Summary Statistics
 	- [ ] Spatial Analyses
 	- [ ] Time Series Analyses
+    - [ ] Probability Distributions
 
 
 - Explain how and why the package falls under these categories (briefly, 1-2 sentences).  Please note any areas you are unsure of:

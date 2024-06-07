@@ -210,7 +210,8 @@ Dallas](https://github.com/taddallas) · [Kauê de
 Sousa](https://github.com/kauedesousa) · [Christophe
 Dervieux](https://github.com/cderv) · [Amanda
 Dobbyn](https://github.com/aedobbyn) · [Jasmine
-Dumas](https://github.com/jasdumas) · [Remko
+Dumas](https://github.com/jasdumas) · [Dewey
+Dunnington](https://github.com/paleolimbot) · [Remko
 Duursma](https://github.com/RemkoDuursma) · [Mark
 Edmondson](https://github.com/MarkEdmondson1234) · [Paul
 Egeler](https://github.com/pegeler) · [Evan

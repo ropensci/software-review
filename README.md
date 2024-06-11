@@ -372,7 +372,8 @@ Rudis](https://github.com/hrbrmstr) · [Edgar
 Ruiz](https://github.com/edgararuiz) · [Kent
 Russel](https://github.com/timelyportfolio) · [Michael
 Sachs](https://github.com/sachsmc) · [Sheila
-Saia](https://github.com/sheilasaia) · [Alicia
+Saia](https://github.com/sheilasaia) · [Chitra M
+Saraswati](https://github.com/chitrams) · [Alicia
 Schep](https://github.com/AliciaSchep) · [Klaus
 Schliep](https://github.com/KlausVigo) · [Clemens
 Schmid](https://github.com/nevrome) · [Patrick

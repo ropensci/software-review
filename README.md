@@ -380,7 +380,8 @@ Schliep](https://github.com/KlausVigo) · [Clemens
 Schmid](https://github.com/nevrome) · [Patrick
 Schratz](https://github.com/pat-s) · [Collin
 Schwantes](https://github.com/collinschwantes) · [Marco
-Sciaini](https://github.com/marcosci) · [Heidi
+Sciaini](https://github.com/marcosci) · [Eric
+Scott](https://github.com/Aariq) · [Heidi
 Seibold](https://github.com/HeidiSeibold) · [Julia
 Silge](https://github.com/juliasilge) · [Peter
 Slaughter](https://github.com/gothub) · [Mike

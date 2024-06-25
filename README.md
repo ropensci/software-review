@@ -443,6 +443,7 @@ Zibman](https://github.com/czibman) · [Naupaka
 Zimmerman](https://github.com/naupaka) · [Jake
 Zwart](https://github.com/jzwart) ·
 [santikka](https://github.com/santikka) ·
+[kasselhingee](https://github.com/kasselhingee) ·
 [Bri](https://github.com/BriannaLind) ·
 [Flury](https://github.com/romanflury) ·
 [Vincent](https://github.com/vincentvanhees) ·

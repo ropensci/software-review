@@ -190,8 +190,7 @@ Busetto](https://github.com/lbusett) · [Maria Paula
 Caldas](https://github.com/mpaulacaldas) · [Mario Gavidia
 Calderón](https://github.com/quishqa) · [Carlos
 Cámara-Menoyo](https://github.com/ccamara) · [Brad
-Cannell](https://github.com/brad-cannell) · [Felipe
-Carvalho](https://github.com/OldLipe) · [Joaquin
+Cannell](https://github.com/brad-cannell) · [Joaquin
 Cavieres](https://github.com/jcavieresg) · [Kevin
 Cazelles](https://github.com/KevCaz) · [Cathy
 Chamberlin](https://github.com/chamberlinc) · [Jennifer
@@ -441,8 +440,8 @@ Zakharko](https://github.com/tzakharko) · [Hao
 Zhu](https://github.com/haozhu233) · [Chava
 Zibman](https://github.com/czibman) · [Naupaka
 Zimmerman](https://github.com/naupaka) · [Jake
-Zwart](https://github.com/jzwart) ·
-[santikka](https://github.com/santikka) ·
+Zwart](https://github.com/jzwart) · [Felipe](https://github.com/OldLipe)
+· [santikka](https://github.com/santikka) ·
 [kasselhingee](https://github.com/kasselhingee) ·
 [Bri](https://github.com/BriannaLind) ·
 [Flury](https://github.com/romanflury) ·

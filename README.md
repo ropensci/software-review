@@ -170,7 +170,8 @@ Basaraba](https://github.com/calebasaraba) · [John
 Baumgartner](https://github.com/johnbaums) · [Marcus
 Beck](https://github.com/fawda123) · [Gabriel
 Becker](https://github.com/gmbecker) · [Jason
-Becker](https://github.com/jsonbecker) · [Dom
+Becker](https://github.com/jsonbecker) · [Salvador Jesus Fernandez
+Bejarano](https://github.com/salvafern) · [Dom
 Bennett](https://github.com/DomBennett) · [Ken
 Benoit](https://github.com/kbenoit) · [Aaron
 Berdanier](https://github.com/berdaniera) · [Fred
@@ -216,8 +217,7 @@ Duursma](https://github.com/RemkoDuursma) · [Mark
 Edmondson](https://github.com/MarkEdmondson1234) · [Paul
 Egeler](https://github.com/pegeler) · [Evan
 Eskew](https://github.com/eveskew) · [Harry
-Eslick](https://github.com/harryeslick) · [Salvador
-Fernandez](https://github.com/salvafern) · [Alexander
+Eslick](https://github.com/harryeslick) · [Alexander
 Fischer](https://github.com/s3alfisc) · [Kim
 Fitter](https://github.com/kimnewzealand) · [Robert M
 Flight](https://github.com/rmflight) · [Sydney

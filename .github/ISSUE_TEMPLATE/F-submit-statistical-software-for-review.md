@@ -33,7 +33,7 @@ Language: <!--language-->en<!--end-language-->
 
 ## Scope 
 
-- Please indicate which of our [statistical package categories](https://stats-devguide.ropensci.org/overview.html#overview-categories) this package falls under. (Please check one appropriate box below):
+- Please indicate which of our [statistical package categories](https://stats-devguide.ropensci.org/overview.html#overview-categories) this package falls under. (Please check one or more appropriate boxes below):
 
      **Statistical Packages**
 
@@ -44,6 +44,7 @@ Language: <!--language-->en<!--end-language-->
 	- [ ] Exploratory Data Analysis (EDA) and Summary Statistics
 	- [ ] Spatial Analyses
 	- [ ] Time Series Analyses
+	- [ ] Probability Distributions
 
 ## Pre-submission Inquiry
 

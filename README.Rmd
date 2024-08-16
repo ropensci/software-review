@@ -15,7 +15,7 @@ knitr::opts_chunk$set(
 )
 ```
 
-![ropensci](icon_lettering_color.png)
+![](icon_lettering_color.png)
 
 # rOpenSci Software Peer Review
 
@@ -94,92 +94,45 @@ on how to improve the process on our [forum](https://discuss.ropensci.org/) and 
 rOpenSci's Software Peer Review process is run by our team of dedicated editors and reviewers.
 Information on the current team, and the current status of software peer review, can be seen on our [interactive dashboard](https://ropensci-review-tools.github.io/dashboard/).
 
-```{r get-airtable-data, warning=FALSE, echo=FALSE}
-if (Sys.getenv("AIRTABLE_API_KEY") == ""){
-  Sys.setenv(AIRTABLE_API_KEY = params$AIRTABLE_API_KEY)
-}
-if (Sys.getenv("AIRTABLE_ID") == ""){
-  Sys.setenv(AIRTABLE_ID = params$AIRTABLE_ID)
-}
+```{r}
+#| echo: false
+#| results: 'asis'
+source(file.path("scripts", "airtable-get-data.R"), local = knitr::knit_global())
 
-at_eic <- airtabler::airtable(base = Sys.getenv("AIRTABLE_ID"),
-                              table = "editor-in-chief-rotation")
-eic <- at_eic$`editor-in-chief-rotation`$select_all()
-
-at_rev <- airtabler::airtable(base = Sys.getenv("AIRTABLE_ID"),
-                              table = "reviewers-prod")
-reviewers <- at_rev$`reviewers-prod`$select_all()
-
-at_guest <- airtabler::airtable(base = "app8dssb6a7PG6Vwj",
-                                 table = "guest-editors")
-guest_editors <- at_guest$`guest-editors`$select_all()
 ```
+
 
 ### Editor-in-Chief
 
-```{r eic, echo=FALSE, results='asis'}
-eic$period_start <- as.Date(eic$period_start)
-eic$period_end <- as.Date(eic$period_end)
-today <- Sys.Date ()
-eic_now <- eic [which (eic$period_start <= today & eic$period_end >= today), ]
-eic_name <- eic_now$acting_eic_name [[1]]
-eic_id <- eic_now$acting_eic
-eic_in_rev_table <- which(reviewers$id == eic_id)
-eic_github <- reviewers$github[eic_in_rev_table]
+```{r}
+#| echo: false
+#| results: 'asis'
+source(file.path("scripts", "airtable-get-eic.R"), local = knitr::knit_global())
 
-out <- paste0(
-    "We rotate our Editor-in-Chief, generally every three months. ",
-    "Our current Editor-in-Chief is [", eic_name, "](https://github.com/",
-    eic_github, ").\n"
-)
-cat(out, sep = "")
 ```
 
 
 ### Editorial team
 
-```{r editors, echo=FALSE}
-editor_index_all <- purrr::map_lgl(reviewers$editor, ~!is.null(.))
-editors_all <- reviewers[which(editor_index_all), c("name", "github", "Affiliation", "editor")]
-editors_all <- editors_all [which(!editors_all$name == eic_name), ]
-last_names <- humaniformat::last_name(trimws(editors_all$name))
-editors_all <- editors_all[order(last_names), ]
-
-editors_past <- editors_all[grep("Emeritus", editors_all$editor), ]
-editors <- editors_all[which(!editors_all$name %in% editors_past$name), ]
-```
 
 Our current team of editors for software peer-review includes:
 
-```{r gen_ed_out-fn, echo=FALSE}
-gen_ed_out <- function(ed_dat) {
-    if (!"Affiliation" %in% names(ed_dat)) {
-        ed_dat$Affiliation <- NA_character_
-    }
-    out <- gsub("(,\\sNA|\\s);", ";", paste0(
-        "- [", ed_dat$name, "](https://github.com/", ed_dat$github, "), ",
-        ed_dat$Affiliation, ";\n"))
-    out[length(out)] <- gsub(";\\n$", ".\n", out[length(out)])
-    return(out)
-}
-```
-```{r editors-out, echo=FALSE, results='asis'}
-cat(gen_ed_out(editors), sep = "")
+```{r}
+#| echo: false
+#| results: 'asis'
+source(file.path("scripts", "airtable-get-editors.R"), local = knitr::knit_global())
+
 ```
 
 ### Reviewers and former editors
 
 We are grateful to the following individuals who have offered up their time and expertise to review packages submitted to rOpenSci.
 
-```{r reviewers, echo=FALSE, results='asis'}
-reviewers <- reviewers[purrr::map_lgl(reviewers$reviews, 
-                               ~!is.null(.)) & 
-                         !(reviewers$name %in% c(editors_all$name, "???")), ]
-# get last names
-last_names <- humaniformat::last_name(trimws(reviewers$name))
-reviewers <- reviewers[order(last_names), ]
-reviewers$name[is.na(reviewers$name)] <- reviewers$github[is.na(reviewers$name)]
-cat(paste0("[", reviewers$name, "](https://github.com/", reviewers$github, ")", collapse = " \U00B7 "))
+```{r}
+#| echo: false
+#| results: 'asis'
+source(file.path("scripts", "airtable-get-reviewers.R"), local = knitr::knit_global())
+
 ```
 
 We are also grateful to the following individuals who have previously served as editors.
@@ -191,10 +144,5 @@ cat(gen_ed_out(editors_past), sep = "")
 And the following who have served as guest editors.
 
 ```{r guest-editors-out, echo=FALSE, results='asis'}
-guest_editors <- guest_editors[!(guest_editors$name %in%
-    c(editors_all$name, eic_name, "???")), ]
-# get last names
-last_names <- humaniformat::last_name(trimws(guest_editors$name))
-guest_editors <- guest_editors[order(last_names), ]
 cat(gen_ed_out(guest_editors), sep = "")
 ```

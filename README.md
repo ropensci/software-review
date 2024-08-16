@@ -1,8 +1,5 @@
 
-<figure>
-<img src="icon_lettering_color.png" alt="ropensci" />
-<figcaption aria-hidden="true">ropensci</figcaption>
-</figure>
+![](icon_lettering_color.png)
 
 # rOpenSci Software Peer Review
 
@@ -471,4 +468,5 @@ served as editors.
 And the following who have served as guest editors.
 
 - [Ana Laura Diedrichs](https://github.com/anadiedrichs);
+- [Adam Sparks](https://github.com/adamhsparks);
 - [Hao Zhu](https://github.com/haozhu233).

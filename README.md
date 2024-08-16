@@ -6,6 +6,8 @@
 
 # rOpenSci Software Peer Review
 
+*[README en español](README.es.md)*
+
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
 Thank you for considering submitting your package to the rOpenSci suite.

@@ -25,7 +25,7 @@ Idioma: <!--language-->es<!--end-language-->
 
 ## Alcance
 
-- Por favor, indica qué categoría(s) aplica(n) a este paquete. Las puedes encontrar en nuestras [políticas de inclusión de paquetes](https://devdevguide.netlify.app/es/softwarereview_policies.es.html#categor%C3%ADas-de-paquetes) y [categorías de paquetes estadistico (Inglés)](https://stats-devguide.ropensci.org/overview.html#overview-categories). Por favor, tilda todas las apropiadas.
+- Por favor, indica qué categoría(s) aplica(n) a este paquete. Las puedes encontrar en nuestras [políticas de inclusión de paquetes](https://devguide.ropensci.org/es/softwarereview_policies.es.html#package-categories) y [categorías de paquetes estadistico (Inglés)](https://stats-devguide.ropensci.org/overview.html#overview-categories). Por favor, tilda todas las apropiadas.
 
      **Paquetes de Ciclo de Vida de Datos**
 
@@ -60,9 +60,9 @@ Idioma: <!--language-->es<!--end-language-->
 
 - ¿Cuál es la audiencia esperada y las aplicaciones científicas de este paquete?
 
-- ¿Hay otros paquetes de R que logren el mismo objetivo? Si los hay, ¿cómo se diferencian del tuyo, o alcanzan nuestro [criterio del mejor de su categoría](https://devdevguide.netlify.app/es/softwarereview_policies.es.html#overlap)?
+- ¿Hay otros paquetes de R que logren el mismo objetivo? Si los hay, ¿cómo se diferencian del tuyo, o alcanzan nuestro [criterio del mejor de su categoría](https://devguide.ropensci.org/es/softwarereview_policies.es.html#overlap)?
 
--   (Si aplica) ¿Tu paquete cumple con nuestras [guías de _Ética, Privacidad de Datos e Investigación con Sujetos Humanos_](https://devdevguide.netlify.app/es/softwarereview_policies.es.html#%C3%A9tica-privacidad-de-los-datos-e-investigaci%C3%B3n-con-sujetos-humanos)?
+-   (Si aplica) ¿Tu paquete cumple con nuestras [guías de _Ética, Privacidad de Datos e Investigación con Sujetos Humanos_](https://devguide.ropensci.org/es/softwarereview_policies.es.html#ethics-data-privacy-and-human-subjects-research)?
 
 
 -  ¿Tienes otras preguntas u otros comentarios?

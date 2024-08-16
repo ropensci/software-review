@@ -29,7 +29,7 @@ Idioma: <!--language-->es<!--end-language-->
 
 ## Alcance
 
-- Por favor, indica qué categoría(s) aplica(n) a este paquete. Las puedes encontrar en nuestras [políticas de inclusión de paquetes](https://devdevguide.netlify.app/es/softwarereview_policies.es.html#categor%C3%ADas-de-paquetes). Por favor, tilda todas las apropiadas. Si tienes dudas, te sugerimos que comiences un pre-envío.
+- Por favor, indica qué categoría(s) aplica(n) a este paquete. Las puedes encontrar en nuestras [políticas de inclusión de paquetes](https://devguide.ropensci.org/es/softwarereview_policies.es.html#package-categories). Por favor, tilda todas las apropiadas. Si tienes dudas, te sugerimos que comiences un pre-envío.
 
 	- [ ] obtención de datos (data retrieval)
 	- [ ] extracción de datos (data extraction)
@@ -49,9 +49,9 @@ Idioma: <!--language-->es<!--end-language-->
 
 - ¿Cuál es la audiencia esperada y las aplicaciones científicas de este paquete?
 
-- ¿Hay otros paquetes de R que logren el mismo objetivo? Si los hay, ¿cómo se diferencian del tuyo, o alcanzan nuestro [criterio del mejor de su categoría](https://devdevguide.netlify.app/es/softwarereview_policies.es.html#overlap)?
+- ¿Hay otros paquetes de R que logren el mismo objetivo? Si los hay, ¿cómo se diferencian del tuyo, o alcanzan nuestro [criterio del mejor de su categoría](https://devguide.ropensci.org/es/softwarereview_policies.es.html#overlap)?
 
--   (Si aplica) ¿Tu paquete cumple con nuestras [guías de _Ética, Privacidad de Datos e Investigación con Sujetos Humanos_](https://devdevguide.netlify.app/es/softwarereview_policies.es.html#%C3%A9tica-privacidad-de-los-datos-e-investigaci%C3%B3n-con-sujetos-humanos)?
+-   (Si aplica) ¿Tu paquete cumple con nuestras [guías de _Ética, Privacidad de Datos e Investigación con Sujetos Humanos_](https://devguide.ropensci.org/es/softwarereview_policies.es.html#ethics-data-privacy-and-human-subjects-research)?
 
 - Si ya has hecho una consulta de pre-envío, por favor pega el enlace al _issue_ correspondiente, una publicación del foro, u otra discusión. Alternativamente, etiqueta a la persona del equipo editorial (con @tag) con la que te contactaste.
 
@@ -61,18 +61,18 @@ Idioma: <!--language-->es<!--end-language-->
 
 Tilda los siguientes items para confirmar que los has completado:
 
-- [ ] He leído la [guía de empaquetado de rOpenSci](https://devdevguide.netlify.app/es/pkg_building.es.html).
-- [ ] He leído la [guía de autoría](https://devdevguide.netlify.app/es/softwarereview_author.es.html) y pienso mantener este paquete durante al menos 2 años o encontrar un reemplazo.
+- [ ] He leído la [guía de empaquetado de rOpenSci](https://devguide.ropensci.org/es/pkg_building.es.html).
+- [ ] He leído la [guía de autoría](https://devguide.ropensci.org/es/softwarereview_author.es.html) y pienso mantener este paquete durante al menos 2 años o encontrar un reemplazo.
 
 Este paquete:
 
 - [ ] No viola los Términos de Servicio de ningún servicio con los que interactúa.
 - [ ] Tiene una licencia aceptada por CRAN y OSI.
-- [ ] Contiene un [archivo README con instrucciones para instalar la versión de desarrollo](https://devdevguide.netlify.app/es/pkg_building.es.html#readme).
-- [ ] Incluye [documentación con ejemplos para todas las funciones, creada con roxygen2](https://devdevguide.netlify.app/es/pkg_building.es.html#documentaci%C3%B3n).
+- [ ] Contiene un [archivo README con instrucciones para instalar la versión de desarrollo](https://devguide.ropensci.org/es/pkg_building.es.html#readme).
+- [ ] Incluye [documentación con ejemplos para todas las funciones, creada con roxygen2](https://devguide.ropensci.org/es/pkg_building.es.html#documentation).
 - [ ] Contiene una viñeta (_vignette_) con ejemplos de sus funciones esenciales y su uso.
-- [ ] Tiene una [suite de tests](https://devdevguide.netlify.app/es/pkg_building.es.html#testeo).
-- [ ] Tiene [integración contínua](https://devdevguide.netlify.app/es/pkg_ci.es.html), incluyendo reporte de cobertura de tests.
+- [ ] Tiene una [suite de tests](https://devguide.ropensci.org/es/pkg_building.es.html#testing).
+- [ ] Tiene [integración contínua](https://devguide.ropensci.org/es/pkg_ci.es.html), incluyendo reporte de cobertura de tests.
 
 ## Opciones de Publicación
 
@@ -95,4 +95,4 @@ Este paquete:
 
 ## Código de Conducta
 
-- [ ] Estoy de acuerdo en cumplir el [Código de Conducta de rOpenSci](https://devdevguide.netlify.app/es/softwarereview_policies.es.html#code-of-conduct) durante el proceso de revisión, y en mantener mi paquete si éste es aceptado.
+- [ ] Estoy de acuerdo en cumplir el [Código de Conducta de rOpenSci](https://devguide.ropensci.org//es/softwarereview_policies.es.html#code-of-conduct) durante el proceso de revisión, y en mantener mi paquete si éste es aceptado.

@@ -8,7 +8,9 @@ library("purrr")
 knitr::opts_chunk$set(
   collapse = TRUE,
   comment = "#>",
-  fig.path = "README-"
+  fig.path = "README-",
+  message = FALSE,
+  warning = FALSE
 )
 ```
 

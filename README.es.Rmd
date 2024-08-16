@@ -85,71 +85,63 @@ Nuestro proceso de revisión está en constante desarrollo de modo que promovemo
 
 ### Editores/as asociados/as
 
-El proceso de revisión por pares del software de rOpenSci está dirigido por:
+```{r}
+#| echo: false
+#| results: 'asis'
+source(file.path("scripts", "airtable-get-data.R"), local = knitr::knit_global())
 
-* [Noam Ross](https://github.com/noamross), EcoHealth Alliance, EEUU;
-* [Karthik Ram](https://github.com/karthik), rOpenSci, EEUU;
-* [Maëlle Salmon](https://github.com/maelle), rOpenSci, Francia;
-* [Anna Krystalli](https://github.com/annakrystalli), University of Sheffield RSE, Reino Unido;
-* [Mauro Lepore](https://github.com/maurolepore), 2 Degrees Investing Initiative, EEUU;
-* [Laura DeCicco](https://github.com/ldecicco-USGS), USGS, EEUU;
-* [Julia Gustavsen](https://github.com/jooolia), Agroscope, Suiza;
-* [Emily Riederer](https://github.com/emilyriederer), Capital One, EEUU;
-* [Adam Sparks](https://github.com/adamhsparks), Department of Primary Industries and Regional Development;
-* [Jeff Hollister](https://github.com/jhollist), US Environmental Protection Agency.
-
-Editores/as asociados/as para software estadístico son:
+```
 
 
-- [Ben Bolker](https://github.com/bbolker), McMaster University, Canadá;
-- [Rebecca Killick](https://github.com/rkillick), Lancaster University, Reino Unido;
-- [Stephanie Hicks](https://github.com/stephaniehicks), Johns Hopkins University, EEUU;
-- [Paula Moraga](https://github.com/Paula-Moraga), King Abdullah University of Science and Technology, Arabia Saudita;
-- [Leonardo Collado-Torres](https://github.com/lcolladotor), Lieber Institute for Brain Development, EEUU;
-- [Toby Hocking](https://github.com/tdhock), Northern Arizona University, EEUU.
+### Líder Editorial
+
+```{r}
+#| echo: false
+#| results: 'asis'
+out <- paste0(
+    "Cambiamos lideres editoriales, aproximadamente cada 3 meses. ",
+    "Hoy es [", eic_name, "](https://github.com/",
+    eic_github, ").\n"
+)
+cat(out, sep = "")
+
+```
+
+
+### Equipo editorial asociado
+
+Nuestro equipo editorial asociado incluye:
+
+```{r}
+#| echo: false
+#| results: 'asis'
+source(file.path("scripts", "airtable-get-editors.R"), local = knitr::knit_global())
+
+```
+
 
 ### Revisión y edición invitada
 
 Agradecemos a las siguientes personas, quienes ofrecieron su tiempo y experiencia para revisar paquetes enviados a rOpenSci:
 
-```{r reviewers, echo=FALSE, results='asis'}
-if (Sys.getenv("AIRTABLE_API_KEY") == ""){
-  Sys.setenv(AIRTABLE_API_KEY = params$AIRTABLE_API_KEY)
-}
-if (Sys.getenv("AIRTABLE_ID") == ""){
-  Sys.setenv(AIRTABLE_ID = params$AIRTABLE_ID)
-}
-editors <- c(
-  "Noam Ross", "Karthik Ram", "Maëlle Salmon",
-  "Anna Krystalli", "Mauro Lepore", 
-  "Laura DeCicco", "Julia Gustavsen",
-  "Emily Riederer", "Adam Sparks", "Jeff Hollister"
-  )
-reviewers <- airtabler::airtable(base = Sys.getenv("AIRTABLE_ID"), 
-                                table = "reviewers-prod")
-reviewers <- reviewers$`reviewers-prod`$select_all()
-reviewers <- reviewers[purrr::map_lgl(reviewers$reviews, 
-                               ~!is.null(.)) & 
-                         !(reviewers$name %in% c(editors, "???")), ]
-# get last names
-last_names <- humaniformat::last_name(trimws(reviewers$name))
-reviewers <- reviewers[order(last_names), ]
-reviewers$name[is.na(reviewers$name)] <- reviewers$github[is.na(reviewers$name)]
-cat(paste0("[", reviewers$name, "](https://github.com/", reviewers$github, ")", collapse = " \U00B7 "))
-```
-
-También agradecemos a las siguientes personas que tomaron el rol de edición de forma invitada. 
-
 ```{r}
 #| echo: false
 #| results: 'asis'
-guest_editors <- airtabler::airtable(base = "app8dssb6a7PG6Vwj", 
-                                table = "guest-editors")
-guest_editors <- guest_editors$`guest-editors`$select_all()
-guest_editors <- guest_editors[!(guest_editors$name %in% c(editors, "???")), ]
-# get last names
-last_names <- humaniformat::last_name(trimws(guest_editors$name))
-guest_editors <- guest_editors[order(last_names), ]
-cat(paste0("[", guest_editors$name, "](https://github.com/", guest_editors$github, ")", collapse = " \U00B7 "))
+source(file.path("scripts", "airtable-get-reviewers.R"), local = knitr::knit_global())
+
 ```
+
+También agradecemos a las siguientes personas que tenian antes el rol de revisión. 
+
+```{r editors_past, echo=FALSE, results='asis'}
+cat(gen_ed_out(editors_past), sep = "")
+```
+
+
+También agradecemos a las siguientes personas que tomaron el rol de edición de forma invitada. 
+
+```{r guest-editors-out, echo=FALSE, results='asis'}
+cat(gen_ed_out(guest_editors), sep = "")
+```
+
 

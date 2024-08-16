@@ -127,37 +127,40 @@ ropensci/software-review-meta](https://github.com/ropensci/software-review-meta/
 
 ### Editores/as asociados/as
 
-El proceso de revisión por pares del software de rOpenSci está dirigido
-por:
+### Líder Editorial
 
-- [Noam Ross](https://github.com/noamross), EcoHealth Alliance, EEUU;
-- [Karthik Ram](https://github.com/karthik), rOpenSci, EEUU;
-- [Maëlle Salmon](https://github.com/maelle), rOpenSci, Francia;
-- [Anna Krystalli](https://github.com/annakrystalli), University of
-  Sheffield RSE, Reino Unido;
-- [Mauro Lepore](https://github.com/maurolepore), 2 Degrees Investing
-  Initiative, EEUU;
-- [Laura DeCicco](https://github.com/ldecicco-USGS), USGS, EEUU;
-- [Julia Gustavsen](https://github.com/jooolia), Agroscope, Suiza;
-- [Emily Riederer](https://github.com/emilyriederer), Capital One, EEUU;
-- [Adam Sparks](https://github.com/adamhsparks), Department of Primary
-  Industries and Regional Development;
-- [Jeff Hollister](https://github.com/jhollist), US Environmental
-  Protection Agency.
+Cambiamos lideres editoriales, aproximadamente cada 3 meses. Hoy es
+[Adam Sparks](https://github.com/adamhsparks).
 
-Editores/as asociados/as para software estadístico son:
+### Equipo editorial asociado
 
-- [Ben Bolker](https://github.com/bbolker), McMaster University, Canadá;
-- [Rebecca Killick](https://github.com/rkillick), Lancaster University,
-  Reino Unido;
-- [Stephanie Hicks](https://github.com/stephaniehicks), Johns Hopkins
-  University, EEUU;
-- [Paula Moraga](https://github.com/Paula-Moraga), King Abdullah
-  University of Science and Technology, Arabia Saudita;
-- [Leonardo Collado-Torres](https://github.com/lcolladotor), Lieber
-  Institute for Brain Development, EEUU;
+Nuestro equipo editorial asociado incluye:
+
+- [Laura DeCicco](https://github.com/ldecicco-usgs);
+- [Julia Gustavsen](https://github.com/jooolia), Agroscope;
+- [Jouni Helske](https://github.com/helske), University of Jyväskylä,
+  Finland;
 - [Toby Hocking](https://github.com/tdhock), Northern Arizona
-  University, EEUU.
+  University, USA;
+- [Jeff Hollister](https://github.com/jhollist), US Environmental
+  Protection Agency;
+- [Rebecca Killick](https://github.com/rkillick), Lancaster University,
+  U.K.;
+- [Anna Krystalli](https://github.com/annakrystalli);
+- [Mauro Lepore](https://github.com/maurolepore), 2 Degrees Investing
+  Initiative;
+- [Beatriz Milz](https://github.com/beatrizmilz), University of Sao
+  Paulo - Institute of Energy and Environment;
+- [Emily Riederer](https://github.com/emilyriederer), Capital One;
+- [Francisco Rodriguez-Sanchez](https://github.com/Pakillo), Universidad
+  de Sevilla, Spain;
+- [Noam Ross](https://github.com/noamross), rOpenSci and EcoHealth
+  Alliance;
+- [Maëlle Salmon](https://github.com/maelle), rOpenSci;
+- [Margaret Siple](https://github.com/mcsiple), National Oceanic and
+  Atmospheric Administration;
+- [Emi Tanaka](https://github.com/emitanaka), Australian National
+  University.
 
 ### Revisión y edición invitada
 
@@ -166,8 +169,7 @@ experiencia para revisar paquetes enviados a rOpenSci:
 
 [Sam Albers](https://github.com/boshek) · [Toph
 Allen](https://github.com/toph-allen) · [Kaique dos S.
-Alves](https://github.com/AlvesKS) · [Brooke
-Anderson](https://github.com/geanders) · [Alison
+Alves](https://github.com/AlvesKS) · [Alison
 Appling](https://github.com/aappling-usgs) · [Denisse Fierro
 Arcos](https://github.com/lidefi87) · [Zebulun
 Arendsee](https://github.com/arendsee) · [Taylor
@@ -208,8 +210,7 @@ Calderón](https://github.com/quishqa) · [Carlos
 Cámara-Menoyo](https://github.com/ccamara) · [Brad
 Cannell](https://github.com/brad-cannell) · [Joaquin
 Cavieres](https://github.com/jcavieresg) · [Kevin
-Cazelles](https://github.com/KevCaz) · [Scott
-Chamberlain](https://github.com/sckott) · [Cathy
+Cazelles](https://github.com/KevCaz) · [Cathy
 Chamberlin](https://github.com/chamberlinc) · [Jennifer
 Chang](https://github.com/j23414) · [Pierre
 Chausse](https://github.com/pchausse) · [Jorge
@@ -331,13 +332,11 @@ Mecum](https://github.com/amoeba) · [Nolwenn Le
 Meur](https://github.com/nolwenn) · [François
 Michonneau](https://github.com/fmichonneau) · [Mario
 Miguel](https://github.com/leocadio-miguel) · [Helen
-Miller](https://github.com/helenmiller16) · [Beatriz
-Milz](https://github.com/beatrizmilz) · [Jessica
+Miller](https://github.com/helenmiller16) · [Jessica
 Minnier](https://github.com/jminnier) · [Priscilla
 Minotti](https://github.com/pmnatural) · [Nichole
 Monhait](https://github.com/nmonhait) · [Kelsey
-Montgomery](https://github.com/kelshmo) · [Paula
-Moraga](https://github.com/Paula-Moraga) · [Natalia
+Montgomery](https://github.com/kelshmo) · [Natalia
 Morandeira](https://github.com/nmorandeira) · [Ross
 Mounce](https://github.com/rossmounce) · [Athanasia Monika
 Mowinckel](https://github.com/drmowinckels) · [Lincoln
@@ -381,8 +380,7 @@ Richardson](https://github.com/nealrichardson) · [tyler
 rinker](https://github.com/trinker) · [Emily
 Robinson](https://github.com/robinsones) · [David
 Robinson](https://github.com/dgrtwo) · [Alec
-Robitaille](https://github.com/robitalec) · [Francisco
-Rodriguez-Sanchez](https://github.com/Pakillo) · [Sam
+Robitaille](https://github.com/robitalec) · [Sam
 Rogers](https://github.com/rogerssam) · [Julia
 Romanowska](https://github.com/jromanowska) · [Xavier
 Rotllan-Puig](https://github.com/xavi-rp) · [Bob
@@ -400,12 +398,12 @@ Schwantes](https://github.com/collinschwantes) · [Marco
 Sciaini](https://github.com/marcosci) · [Eric
 Scott](https://github.com/Aariq) · [Heidi
 Seibold](https://github.com/HeidiSeibold) · [Julia
-Silge](https://github.com/juliasilge) · [Margaret
-Siple](https://github.com/mcsiple) · [Peter
+Silge](https://github.com/juliasilge) · [Peter
 Slaughter](https://github.com/gothub) · [Mike
 Smith](https://github.com/grimbough) · [Tuija
 Sonkkila](https://github.com/tts) · [Øystein
-Sørensen](https://github.com/osorensen) · [Jemma
+Sørensen](https://github.com/osorensen) · [Adam
+Sparks](https://github.com/adamhsparks) · [Jemma
 Stachelek](https://github.com/jsta) · [Christine
 Stawitz](https://github.com/ChristineStawitz-NOAA) · [Irene
 Steves](https://github.com/isteves) · [Kelly
@@ -414,8 +412,7 @@ Strimas-Mackey](https://github.com/mstrimas) · [Alex
 Stringer](https://github.com/awstringer1) · [Michael
 Sumner](https://github.com/mdsumner) · [Chung-Kai
 Sun](https://github.com/cksun-usc) · [Sarah
-Supp](https://github.com/sarahsupp) · [Emi
-Tanaka](https://github.com/emitanaka) · [Jason
+Supp](https://github.com/sarahsupp) · [Jason
 Taylor](https://github.com/jmt2080ad) · [Filipe
 Teixeira](https://github.com/FilipeamTeixeira) · [Andy
 Teucher](https://github.com/ateucher) · [Jennifer
@@ -475,9 +472,20 @@ Zwart](https://github.com/jzwart) · [Felipe](https://github.com/OldLipe)
 [becarioprecario](https://github.com/becarioprecario) ·
 [gaurav](https://github.com/soodoku)
 
+También agradecemos a las siguientes personas que tenian antes el rol de
+revisión.
+
+- [Brooke Anderson](https://github.com/geanders);
+- [Scott Chamberlain](https://github.com/sckott);
+- [Paula Moraga](https://github.com/Paula-Moraga), King Abdullah
+  University of Science and Technology (KAUST), Saudi Arabia;
+- [Karthik Ram](https://github.com/karthik), University of California,
+  Berkeley, rOpenSci;
+- [Melina Vidoni](https://github.com/melvidoni).
+
 También agradecemos a las siguientes personas que tomaron el rol de
 edición de forma invitada.
 
-[Ana Laura Diedrichs](https://github.com/anadiedrichs) · [Francisco
-Rodriguez-Sanchez](https://github.com/Pakillo) · [Hao
-Zhu](https://github.com/haozhu233)
+- [Ana Laura Diedrichs](https://github.com/anadiedrichs);
+- [Adam Sparks](https://github.com/adamhsparks);
+- [Hao Zhu](https://github.com/haozhu233).

@@ -16,7 +16,7 @@ knitr::opts_chunk$set(
 
 # Revisión por pares del software rOpenSci
 
-<!-- README.md se genera a partir de README.Rmd. Por favor, edita ese archivo -->
+<!-- README.es.md se genera a partir de README.es.Rmd. Por favor, edita ese archivo -->
 
 Gracias por considerar el envío de tu paquete al ecosistema de rOpenSci.
 Todos los paquetes contribuidos por miembros de la comunidad pasan por un proceso abierto de [revisión por pares](https://ropensci.org/blog/2017/09/01/nf-softwarereview/) para asegurar un nivel de calidad consistente. 

@@ -164,23 +164,6 @@ Editores/as asociados/as para software estadístico son:
 Agradecemos a las siguientes personas, quienes ofrecieron su tiempo y
 experiencia para revisar paquetes enviados a rOpenSci:
 
-    #> Warning in value[[jj]][ri] <- if (is.factor(xij)) as.vector(xij) else xij:
-    #> number of items to replace is not a multiple of replacement length
-    #> Warning in names(value[[jj]])[ri] <- nm: number of items to replace is not a
-    #> multiple of replacement length
-    #> Warning in value[[jj]][ri] <- if (is.factor(xij)) as.vector(xij) else xij:
-    #> number of items to replace is not a multiple of replacement length
-    #> Warning in names(value[[jj]])[ri] <- nm: number of items to replace is not a
-    #> multiple of replacement length
-    #> Warning in value[[jj]][ri] <- if (is.factor(xij)) as.vector(xij) else xij:
-    #> number of items to replace is not a multiple of replacement length
-    #> Warning in names(value[[jj]])[ri] <- nm: number of items to replace is not a
-    #> multiple of replacement length
-    #> Warning in value[[jj]][ri] <- if (is.factor(xij)) as.vector(xij) else xij:
-    #> number of items to replace is not a multiple of replacement length
-    #> Warning in names(value[[jj]])[ri] <- nm: number of items to replace is not a
-    #> multiple of replacement length
-
 [Sam Albers](https://github.com/boshek) · [Toph
 Allen](https://github.com/toph-allen) · [Kaique dos S.
 Alves](https://github.com/AlvesKS) · [Brooke

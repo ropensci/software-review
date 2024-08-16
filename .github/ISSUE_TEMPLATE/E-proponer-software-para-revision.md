@@ -1,22 +1,20 @@
 ---
 name: Preguntar si el software está dentro del alcance de rOpenSci
-about: ¿Quieres confirmar que tu paquete encaja para revisión, o quieres enviar un paquete estadistico? Usa esta plantilla para obtener repuesta de las editoras en Español (Experimental)
+about: ¿Quieres confirmar que tu paquete encaja en una revisión, o quieres enviar un paquete estadistico? Usa esta plantilla para obtener una repuesta por parte del equipo editorial en Español (Experimental)
 ---
 
 <!---
-A continuación, introduzca los valores de (1) el usuario de GitHub de la persona que envía el paquete (sustituyendo "@github_handle") y (2) la URL del repositorio (sustituyendo "https://repourl"). También se pueden especificar valores para autores de paquetes adicionales, sustituyendo "@github_handle1", "@github_handle2" - elimine esto si no lo necesita. NO BORRAR LOS SÍMBOLOS HTML (todo entre "<!" y ">"). Sustituir sólo "@github_handle" y "https://repourl". Este comentario puede ser eliminado una vez que haya sido leído y comprendido.
+A continuación, introduce los valores de (1) el usuario de GitHub de la persona que envía el paquete (sustituyendo "@github_handle") y (2) la URL del repositorio (sustituyendo "https://repourl"). También se pueden especificar valores para otras personas con rol de autoría, sustituyendo "@github_handle1", "@github_handle2" - elimina esto si no lo necesitas. NO BORRAR LOS SÍMBOLOS HTML (todo entre "<!" y ">"). Substituye sólo "@github_handle" y "https://repourl". Este comentario puede ser eliminado una vez que lo hayas leído y comprendido.
 --->
 
 Nombre de la Persona Encargada: Nombre
 Usuario GitHub de la Persona Encargada: <!--author1-->@github_handle<!--end-author1-->
-Usuario GitHub de las Otras Autoras del Paquete: (borra si solo hay una autora) <!--author-others-->@github_handle1, @github_handle2<!--end-author-others-->
+Usuario GitHub de las Otras Personas con Autoría: (borrar si no hay) <!--author-others-->@github_handle1, @github_handle2<!--end-author-others-->
 Repositorio: <!--repourl-->https://repourl<!--end-repourl-->
 Tipo de Envio: <!--submission-type-->pre-envio<!--end-submission-type-->
 Idioma: <!--language-->es<!--end-language-->
 
 ---
-
-
 
 -   Pega el archivo DESCRIPTION completo dentro del siguiente bloque de código.
 
@@ -25,32 +23,27 @@ Idioma: <!--language-->es<!--end-language-->
 ```
 
 
-## Alcance 
+## Alcance
 
-- Por favor, indica qué categoría(s) aplican a este paquete. 
-Las puedes encontrar en nuestras [políticas de inclusión de paquetes (Inglés)](https://ropensci.github.io/dev_guide/policies.html#package-categories) 
-y [categorías de paquetes estadistico (Inglés)](https://stats-devguide.ropensci.org/overview.html#overview-categories). 
-Por favor, tilda todas las apropiadas. 
-Si no estás seguro, te sugerimos que comiences un pre-envío.
+- Por favor, indica qué categoría(s) aplica(n) a este paquete. Las puedes encontrar en nuestras [políticas de inclusión de paquetes](https://devguide.ropensci.org/es/softwarereview_policies.es.html#package-categories) y [categorías de paquetes estadistico (Inglés)](https://stats-devguide.ropensci.org/overview.html#overview-categories). Por favor, tilda todas las apropiadas.
 
+     **Paquetes de Ciclo de Vida de Datos**
 
-     **Packages de Ciclo de Vida de Datos**
-     
-	- [ ] recuperación de datos (data retrieval)
+	- [ ] obtención de datos (data retrieval)
 	- [ ] extracción de datos (data extraction)
-	- [ ] munging de datos (data munging)
-	- [ ] disposición o declaración de datos (data deposition)
-    - [ ] validación y prueba de datos (data validation and testing)
-	- [ ] automatización de flujos de trabajo (workflow automation)
+	- [ ] manipulación de datos (data munging)
+	- [ ] depósito de datos (data deposition)
+    - [ ] validación y comprobación de datos (data validation and testing)
+	- [ ] automatización de flujo de trabajo (workflow automation)
 	- [ ] control de versiones (version control)
 	- [ ] manejo de citas y bibliometría (citation management and bibliometrics)
-	- [ ] envoltorios de software científico (scientific software wrappers)
-	- [ ] herramientas para trabajo de campo y reproducibilidad (field and lab reproducibility tools)
-	- [ ] ligamientos con software de base de datos (database software bindings)
+	- [ ] capa de interfaz de software científico (scientific software wrappers)
+	- [ ] herramientas de reproducibilidad de campo y laboratorio (field and lab reproducibility tools)
+	- [ ] enlaces a software de bases de datos (database software bindings)
 	- [ ] datos geoespaciales (geospatial data)
-	- [ ] análisis de texto (text analysis)
-	
-     **Packages Estadisticos**
+	- [ ] datos de texto (text data)
+
+     **Paquetes Estadisticos**
 
 	- [ ] Rutinas Bayesianas y Monte Carlo (Bayesian and Monte Carlo Routines)
 	- [ ] Reducción de Dimensionalidad, Análisis de Conglomerados y Aprendizaje no Supervisado (Dimensionality Reduction, Clustering, and Unsupervised Learning)
@@ -64,12 +57,13 @@ Si no estás seguro, te sugerimos que comiences un pre-envío.
 
 - Explica cómo y por qué el paquete encaja dentro de estas categorías (1 a 3 oraciones):
 
-- Si esta enviando un paquete estadistico, [incorporó documentación de los estandares en su codigo utilizando el paquete **srr**](https://stats-devguide.ropensci.org/pkgdev.html#pkgdev-srr)?
+- Si estás enviando un paquete estadístico, ¿[incorporaste documentación de los estándares en su código utilizando el paquete **srr**](https://stats-devguide.ropensci.org/pkgdev.html#pkgdev-srr)?
 
-- ¿Cuál es la audiencia esperada y las aplicaciones científicas de este paquete? 
+- ¿Cuál es la audiencia esperada y las aplicaciones científicas de este paquete?
 
-- ¿Hay otros paquetes de R que logren el mismo objetivo? Si los hay, ¿cómo se diferencian del tuyo, o alcanzan nuestro [criterio del mejor de su categoría (documento en Inglés)](https://ropensci.github.io/dev_guide/policies.html#overlap)?
+- ¿Hay otros paquetes de R que logren el mismo objetivo? Si los hay, ¿cómo se diferencian del tuyo, o alcanzan nuestro [criterio del mejor de su categoría](https://devguide.ropensci.org/es/softwarereview_policies.es.html#overlap)?
 
--   (Si aplica) ¿Tu paquete cumple con nuestras [guías de _Ética, Privacidad de Datos e Investigación de Sujetos Humanos_ (documento en Inglés)](https://devguide.ropensci.org/policies.html#ethics-data-privacy-and-human-subjects-research)?
+-   (Si aplica) ¿Tu paquete cumple con nuestras [guías de _Ética, Privacidad de Datos e Investigación con Sujetos Humanos_](https://devguide.ropensci.org/es/softwarereview_policies.es.html#ethics-data-privacy-and-human-subjects-research)?
+
 
 -  ¿Tienes otras preguntas u otros comentarios?

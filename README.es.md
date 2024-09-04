@@ -356,7 +356,8 @@ O’Brien](https://github.com/jmobrien) · [Paul
 Oldham](https://github.com/poldham) · [Samantha
 Oliver](https://github.com/limnoliver) · [Dan
 Olner](https://github.com/DanOlner) · [Jeroen
-Ooms](https://github.com/jeroen) · [Luis
+Ooms](https://github.com/jeroen) · [Victor
+Ordu](https://github.com/BroVic) · [Luis
 Osorio](https://github.com/luismurao) · [Philipp
 Ottolinger](https://github.com/ottlngr) · [Mark
 Padgham](https://github.com/mpadge) · [Marina

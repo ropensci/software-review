@@ -262,7 +262,8 @@ Gruson](https://github.com/bisaloo) · [Ernest
 Guevarra](https://github.com/ernestguevarra) · [W Kyle
 Hamilton](https://github.com/kylehamilton) · [Ivan
 Hanigan](https://github.com/ivanhanigan) · [Jeffrey
-Hanson](https://github.com/jeffreyhanson) · [Jon
+Hanson](https://github.com/jeffreyhanson) · [Liz
+Hare](https://github.com/LizHareDogs) · [Jon
 Harmon](https://github.com/jonthegeek) · [Rayna
 Harris](https://github.com/raynamharris) · [Ted
 Hart](https://github.com/emhart) · [Nujcharee

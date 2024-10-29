@@ -319,7 +319,8 @@ Miller](https://github.com/helenmiller16) · [Jessica
 Minnier](https://github.com/jminnier) · [Priscilla
 Minotti](https://github.com/pmnatural) · [Nichole
 Monhait](https://github.com/nmonhait) · [Kelsey
-Montgomery](https://github.com/kelshmo) · [Natalia
+Montgomery](https://github.com/kelshmo) · [Ronny Alexander Hernández
+Mora](https://github.com/ronnyhdez) · [Natalia
 Morandeira](https://github.com/nmorandeira) · [Ross
 Mounce](https://github.com/rossmounce) · [Athanasia Monika
 Mowinckel](https://github.com/drmowinckels) · [Lincoln

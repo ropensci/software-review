@@ -112,7 +112,7 @@ dashboard](https://ropensci-review-tools.github.io/dashboard/).
 ### Editor-in-Chief
 
 We rotate our Editor-in-Chief, generally every three months. Our current
-Editor-in-Chief is [Adam Sparks](https://github.com/adamhsparks).
+Editor-in-Chief is [Emily Riederer](https://github.com/emilyriederer).
 
 ### Editorial team
 
@@ -133,7 +133,6 @@ Our current team of editors for software peer-review includes:
   Initiative;
 - [Beatriz Milz](https://github.com/beatrizmilz), University of Sao
   Paulo - Institute of Energy and Environment;
-- [Emily Riederer](https://github.com/emilyriederer), Capital One;
 - [Francisco Rodriguez-Sanchez](https://github.com/Pakillo), Universidad
   de Sevilla, Spain;
 - [Noam Ross](https://github.com/noamross), rOpenSci and EcoHealth
@@ -141,6 +140,7 @@ Our current team of editors for software peer-review includes:
 - [Maëlle Salmon](https://github.com/maelle), rOpenSci;
 - [Margaret Siple](https://github.com/mcsiple), National Oceanic and
   Atmospheric Administration;
+- [Adam Sparks](https://github.com/adamhsparks), Curtin University;
 - [Emi Tanaka](https://github.com/emitanaka), Australian National
   University.
 
@@ -361,7 +361,8 @@ Ramon](https://github.com/manuramon) · [Nistara
 Randhawa](https://github.com/nistara) · [David
 Ranzolin](https://github.com/daranzolin) · [Quentin
 Read](https://github.com/qdread) · [Neal
-Richardson](https://github.com/nealrichardson) · [tyler
+Richardson](https://github.com/nealrichardson) · [Emily
+Riederer](https://github.com/emilyriederer) · [tyler
 rinker](https://github.com/trinker) · [Emily
 Robinson](https://github.com/robinsones) · [David
 Robinson](https://github.com/dgrtwo) · [Alec
@@ -387,8 +388,7 @@ Silge](https://github.com/juliasilge) · [Peter
 Slaughter](https://github.com/gothub) · [Mike
 Smith](https://github.com/grimbough) · [Tuija
 Sonkkila](https://github.com/tts) · [Øystein
-Sørensen](https://github.com/osorensen) · [Adam
-Sparks](https://github.com/adamhsparks) · [Jemma
+Sørensen](https://github.com/osorensen) · [Jemma
 Stachelek](https://github.com/jsta) · [Christine
 Stawitz](https://github.com/ChristineStawitz-NOAA) · [Irene
 Steves](https://github.com/isteves) · [Kelly
@@ -471,5 +471,5 @@ served as editors.
 And the following who have served as guest editors.
 
 - [Ana Laura Diedrichs](https://github.com/anadiedrichs);
-- [Adam Sparks](https://github.com/adamhsparks);
+- [Emily Riederer](https://github.com/emilyriederer);
 - [Hao Zhu](https://github.com/haozhu233).

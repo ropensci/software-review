@@ -118,7 +118,9 @@ Editor-in-Chief is [Emily Riederer](https://github.com/emilyriederer).
 
 Our current team of editors for software peer-review includes:
 
+- [Marc Choisy](https://github.com/choisy), University of Oxford;
 - [Laura DeCicco](https://github.com/ldecicco-usgs);
+- [Stéphane Guerrier](https://github.com/stephaneguerrier);
 - [Julia Gustavsen](https://github.com/jooolia), Agroscope;
 - [Jouni Helske](https://github.com/helske), University of Jyväskylä,
   Finland;
@@ -142,7 +144,9 @@ Our current team of editors for software peer-review includes:
   Atmospheric Administration;
 - [Adam Sparks](https://github.com/adamhsparks), Curtin University;
 - [Emi Tanaka](https://github.com/emitanaka), Australian National
-  University.
+  University;
+- [Sebastian Wójcik](https://github.com/SebastianWojcik86), Statistics
+  Poland, University of Rzeszów (Institute of Mathematics).
 
 ### Reviewers and former editors
 
@@ -319,7 +323,7 @@ Miller](https://github.com/helenmiller16) · [Jessica
 Minnier](https://github.com/jminnier) · [Priscilla
 Minotti](https://github.com/pmnatural) · [Nichole
 Monhait](https://github.com/nmonhait) · [Kelsey
-Montgomery](https://github.com/kelshmo) · [Ronny Alexander Hernández
+Montgomery](https://github.com/kelshmo) · [Ronny A. Hernández
 Mora](https://github.com/ronnyhdez) · [Natalia
 Morandeira](https://github.com/nmorandeira) · [Ross
 Mounce](https://github.com/rossmounce) · [Athanasia Monika
@@ -429,8 +433,7 @@ Widgren](https://github.com/stewid) · [Anna
 Willoughby](https://github.com/arw36) · [Saras
 Windecker](https://github.com/smwindecker) · [Luke
 Winslow](https://github.com/lawinslow) · [David
-Winter](https://github.com/dwinter) · [Sebastian
-Wójcik](https://github.com/SebastianWojcik86) · [Witold
+Winter](https://github.com/dwinter) · [Witold
 Wolski](https://github.com/wolski) · [Kara
 Woo](https://github.com/karawoo) · [Marvin N.
 Wright](https://github.com/mnwright) · [Jacob

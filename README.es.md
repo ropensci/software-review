@@ -158,6 +158,8 @@ Nuestro equipo editorial asociado incluye:
 - [Noam Ross](https://github.com/noamross), rOpenSci and EcoHealth
   Alliance;
 - [Maëlle Salmon](https://github.com/maelle), rOpenSci;
+- [Candace Savonen](https://github.com/cansavvy), Fred Hutchinson Cancer
+  Center;
 - [Margaret Siple](https://github.com/mcsiple), National Oceanic and
   Atmospheric Administration;
 - [Adam Sparks](https://github.com/adamhsparks), Curtin University;
@@ -171,7 +173,8 @@ Nuestro equipo editorial asociado incluye:
 Agradecemos a las siguientes personas, quienes ofrecieron su tiempo y
 experiencia para revisar paquetes enviados a rOpenSci:
 
-[Sam Albers](https://github.com/boshek) · [Toph
+[Em Markowitz (NOAA)](https://github.com/EmilyMarkowitz-NOAA) · [Sam
+Albers](https://github.com/boshek) · [Toph
 Allen](https://github.com/toph-allen) · [Kaique dos S.
 Alves](https://github.com/AlvesKS) · [Alison
 Appling](https://github.com/aappling-usgs) · [Denisse Fierro

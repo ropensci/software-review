@@ -140,6 +140,8 @@ Our current team of editors for software peer-review includes:
 - [Noam Ross](https://github.com/noamross), rOpenSci and EcoHealth
   Alliance;
 - [Maëlle Salmon](https://github.com/maelle), rOpenSci;
+- [Candace Savonen](https://github.com/cansavvy), Fred Hutchinson Cancer
+  Center;
 - [Margaret Siple](https://github.com/mcsiple), National Oceanic and
   Atmospheric Administration;
 - [Adam Sparks](https://github.com/adamhsparks), Curtin University;
@@ -153,7 +155,8 @@ Our current team of editors for software peer-review includes:
 We are grateful to the following individuals who have offered up their
 time and expertise to review packages submitted to rOpenSci.
 
-[Sam Albers](https://github.com/boshek) · [Toph
+[Em Markowitz (NOAA)](https://github.com/EmilyMarkowitz-NOAA) · [Sam
+Albers](https://github.com/boshek) · [Toph
 Allen](https://github.com/toph-allen) · [Kaique dos S.
 Alves](https://github.com/AlvesKS) · [Alison
 Appling](https://github.com/aappling-usgs) · [Denisse Fierro

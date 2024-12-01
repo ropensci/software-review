@@ -136,6 +136,7 @@ Cambiamos lideres editoriales, aproximadamente cada 3 meses. Hoy es
 
 Nuestro equipo editorial asociado incluye:
 
+- [Maria Paula Caldas](https://github.com/mpaulacaldas), OECD;
 - [Marc Choisy](https://github.com/choisy), University of Oxford;
 - [Laura DeCicco](https://github.com/ldecicco-usgs);
 - [Stéphane Guerrier](https://github.com/stephaneguerrier);
@@ -211,8 +212,7 @@ Brown](https://github.com/eebrown) · [Julien
 Brun](https://github.com/brunj7) · [Jenny
 Bryan](https://github.com/jennybc) · [Lukas
 Burk](https://github.com/jemus42) · [Lorenzo
-Busetto](https://github.com/lbusett) · [Maria Paula
-Caldas](https://github.com/mpaulacaldas) · [Mario Gavidia
+Busetto](https://github.com/lbusett) · [Mario Gavidia
 Calderón](https://github.com/quishqa) · [Carlos
 Cámara-Menoyo](https://github.com/ccamara) · [Brad
 Cannell](https://github.com/brad-cannell) · [Joaquin
@@ -462,7 +462,8 @@ Wujciak-Jens](https://github.com/assignUser) · [Bruna
 Wundervald](https://github.com/brunaw) · [Lauren
 Yamane](https://github.com/layamane) · [Emily
 Zabor](https://github.com/zabore) · [Taras
-Zakharko](https://github.com/tzakharko) · [Hao
+Zakharko](https://github.com/tzakharko) · [Sherry
+Zhang](https://github.com/huizezhang-sherry) · [Hao
 Zhu](https://github.com/haozhu233) · [Chava
 Zibman](https://github.com/czibman) · [Naupaka
 Zimmerman](https://github.com/naupaka) · [Jake

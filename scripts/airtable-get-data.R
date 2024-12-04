@@ -47,7 +47,7 @@ guest_editors <- at_guest$`guest-editors`$select_all()
 guest_editors <- airtabler::airtable(base = "app8dssb6a7PG6Vwj",
                                 table = "guest-editors")
 guest_editors <- guest_editors$`guest-editors`$select_all(fields = list("name", "github"))
-guest_editors <- guest_editors[!(guest_editors$name %in% c(editors$name, "???")), ]
+guest_editors <- guest_editors[!(guest_editors$name %in% c(editors$name, eic_name, "???")), ]
 last_names <- humaniformat::last_name(trimws(guest_editors$name))
 guest_editors <- guest_editors[order(last_names), ]
 

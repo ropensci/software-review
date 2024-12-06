@@ -497,5 +497,4 @@ También agradecemos a las siguientes personas que tomaron el rol de
 edición de forma invitada.
 
 - [Ana Laura Diedrichs](https://github.com/anadiedrichs);
-- [Emily Riederer](https://github.com/emilyriederer);
 - [Hao Zhu](https://github.com/haozhu233).

@@ -346,7 +346,8 @@ Minotti](https://github.com/pmnatural) · [Nichole
 Monhait](https://github.com/nmonhait) · [Kelsey
 Montgomery](https://github.com/kelshmo) · [Ronny A. Hernández
 Mora](https://github.com/ronnyhdez) · [Natalia
-Morandeira](https://github.com/nmorandeira) · [Ross
+Morandeira](https://github.com/nmorandeira) · [George
+Moroz](https://github.com/agricolamz) · [Ross
 Mounce](https://github.com/rossmounce) · [Athanasia Monika
 Mowinckel](https://github.com/drmowinckels) · [Lincoln
 Mullen](https://github.com/lmullen) · [Matt

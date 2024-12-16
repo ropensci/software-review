@@ -141,6 +141,8 @@ Nuestro equipo editorial asociado incluye:
 - [Laura DeCicco](https://github.com/ldecicco-usgs);
 - [Stéphane Guerrier](https://github.com/stephaneguerrier);
 - [Julia Gustavsen](https://github.com/jooolia), Agroscope;
+- [Alex Hayes](https://github.com/alexpghayes), University of
+  Wisconsin-Madison;
 - [Jouni Helske](https://github.com/helske), University of Jyväskylä,
   Finland;
 - [Toby Hocking](https://github.com/tdhock), Northern Arizona
@@ -399,7 +401,7 @@ Rotllan-Puig](https://github.com/xavi-rp) · [Bob
 Rudis](https://github.com/hrbrmstr) · [Edgar
 Ruiz](https://github.com/edgararuiz) · [Kent
 Russel](https://github.com/timelyportfolio) · [Michael
-Sachs](https://github.com/sachsmc) · [Sheila
+Sachs](https://github.com/sachsmc) · [Sheila M.
 Saia](https://github.com/sheilasaia) · [Chitra M
 Saraswati](https://github.com/chitrams) · [Alicia
 Schep](https://github.com/AliciaSchep) · [Klaus

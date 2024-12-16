@@ -53,7 +53,7 @@ Idioma: <!--language-->es<!--end-language-->
 
 -   (Si aplica) ¿Tu paquete cumple con nuestras [guías de _Ética, Privacidad de Datos e Investigación con Sujetos Humanos_](https://devguide.ropensci.org/es/softwarereview_policies.es.html#ethics-data-privacy-and-human-subjects-research)?
 
-- Si ya has hecho una consulta de pre-envío, por favor pega el enlace al _issue_ correspondiente, una publicación del foro, u otra discusión. Alternativamente, etiqueta a la persona del equipo editorial (con @tag) con la que te contactaste.
+- Si ya has hecho una consulta de pre-envío, por favor pega el enlace al _issue_ correspondiente, una publicación del foro, u otra discusión. Alternativamente, etiqueta a la persona del equipo editorial (con `@tag`) con la que te contactaste.
 
 -   (Si aplica) Explica las razones por las cuales el paquete no satisface alguno de los [chequeos de `pkgcheck`](https://docs.ropensci.org/pkgcheck/).
 

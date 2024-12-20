@@ -138,6 +138,7 @@ Our current team of editors for software peer-review includes:
   Initiative;
 - [Beatriz Milz](https://github.com/beatrizmilz), University of Sao
   Paulo - Institute of Energy and Environment;
+- [S’busiso Mkhondwane](https://github.com/Sibusiso16);
 - [Francisco Rodriguez-Sanchez](https://github.com/Pakillo), Universidad
   de Sevilla, Spain;
 - [Noam Ross](https://github.com/noamross), rOpenSci and EcoHealth
@@ -312,7 +313,8 @@ MacDonald](https://github.com/aammd) · [Jesse
 Maegan](https://github.com/kierisi) · [Mike
 Mahoney](https://github.com/mikemahoney218) · [Tristan
 Mahr](https://github.com/tjmahr) · [Paula Andrea
-Martinez](https://github.com/orchid00) · [Joao
+Martinez](https://github.com/orchid00) · [Anthony
+Martinez](https://github.com/amart90) · [Joao
 Martins](https://github.com/zambujo) · [Ben
 Marwick](https://github.com/benmarwick) · [Claire
 Mason](https://github.com/clairemas0n) · [Miles

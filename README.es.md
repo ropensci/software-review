@@ -169,6 +169,8 @@ Nuestro equipo editorial asociado incluye:
 - [Adam Sparks](https://github.com/adamhsparks), Curtin University;
 - [Emi Tanaka](https://github.com/emitanaka), Australian National
   University;
+- [Tiffany Timbers](https://github.com/ttimbers), University of British
+  Columbia;
 - [Sebastian Wójcik](https://github.com/SebastianWojcik86), Statistics
   Poland, University of Rzeszów (Institute of Mathematics).
 
@@ -330,7 +332,8 @@ M.A.](https://github.com/Kattuvan) · [Andrew
 MacDonald](https://github.com/aammd) · [Jesse
 Maegan](https://github.com/kierisi) · [Mike
 Mahoney](https://github.com/mikemahoney218) · [Tristan
-Mahr](https://github.com/tjmahr) · [Paula Andrea
+Mahr](https://github.com/tjmahr) · [Yohann
+Mansiaux](https://github.com/ymansiaux) · [Paula Andrea
 Martinez](https://github.com/orchid00) · [Anthony
 Martinez](https://github.com/amart90) · [Joao
 Martins](https://github.com/zambujo) · [Ben
@@ -433,8 +436,7 @@ Teixeira](https://github.com/FilipeamTeixeira) · [Andy
 Teucher](https://github.com/ateucher) · [Jennifer
 Thompson](https://github.com/jenniferthompson) · [Joe
 Thorley](https://github.com/joethorley) · [Nicholas
-Tierney](https://github.com/njtierney) · [Tiffany
-Timbers](https://github.com/ttimbers) · [Tan
+Tierney](https://github.com/njtierney) · [Tan
 Tran](https://github.com/vinhtantran) · [Tim
 Trice](https://github.com/timtrice) · [Utku
 Turk](https://github.com/utkuturk) · [Kyle

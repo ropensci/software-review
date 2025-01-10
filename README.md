@@ -154,7 +154,8 @@ Our current team of editors for software peer-review includes:
 - [Tiffany Timbers](https://github.com/ttimbers), University of British
   Columbia;
 - [Sebastian Wójcik](https://github.com/SebastianWojcik86), Statistics
-  Poland, University of Rzeszów (Institute of Mathematics).
+  Poland, University of Rzeszów (Institute of Mathematics);
+- [Kiran](https://github.com/Kiranp).
 
 ### Reviewers and former editors
 
@@ -421,7 +422,8 @@ Thorley](https://github.com/joethorley) · [Nicholas
 Tierney](https://github.com/njtierney) · [Tan
 Tran](https://github.com/vinhtantran) · [Tim
 Trice](https://github.com/timtrice) · [Utku
-Turk](https://github.com/utkuturk) · [Kyle
+Turk](https://github.com/utkuturk) · [Zoë
+Turner](https://github.com/Lextuga007) · [Kyle
 Ueyama](https://github.com/khueyama) · [Ted
 Underwood](https://github.com/tedunderwood) · [Adithi R.
 Upadhya](https://github.com/adithirgis) · [Kevin

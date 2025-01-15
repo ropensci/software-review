@@ -1,6 +1,6 @@
 ---
 name: Submit a presubmission inquiry
-about: 🚨ON HOLIDAY - NO NEW EDITORIAL ACTION UNTIL JAN 6🚨 - Not sure your software fits, or submitting a statistical package? Use this template to get a quick response from
+about: Not sure your software fits, or submitting a statistical package? Use this template to get a quick response from
   the editors
 
 ---

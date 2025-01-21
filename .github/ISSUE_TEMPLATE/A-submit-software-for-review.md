@@ -1,7 +1,6 @@
 ---
 name: Submit software for review 
 about:Use this template to submit software for review
-
 ---
 
 <!---

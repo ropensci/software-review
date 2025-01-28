@@ -417,7 +417,8 @@ Schratz](https://github.com/pat-s) · [Collin
 Schwantes](https://github.com/collinschwantes) · [Marco
 Sciaini](https://github.com/marcosci) · [Eric
 Scott](https://github.com/Aariq) · [Heidi
-Seibold](https://github.com/HeidiSeibold) · [Julia
+Seibold](https://github.com/HeidiSeibold) · [David Antony
+Selby](https://github.com/Selbosh) · [Julia
 Silge](https://github.com/juliasilge) · [Peter
 Slaughter](https://github.com/gothub) · [Mike
 Smith](https://github.com/grimbough) · [Tuija

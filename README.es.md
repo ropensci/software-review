@@ -130,7 +130,7 @@ ropensci/software-review-meta](https://github.com/ropensci/software-review-meta/
 ### Líder Editorial
 
 Cambiamos lideres editoriales, aproximadamente cada 3 meses. Hoy es
-[Emily Riederer](https://github.com/emilyriederer).
+[Mauro Lepore](https://github.com/maurolepore).
 
 ### Equipo editorial asociado
 
@@ -152,11 +152,10 @@ Nuestro equipo editorial asociado incluye:
 - [Rebecca Killick](https://github.com/rkillick), Lancaster University,
   U.K.;
 - [Anna Krystalli](https://github.com/annakrystalli);
-- [Mauro Lepore](https://github.com/maurolepore), 2 Degrees Investing
-  Initiative;
 - [Beatriz Milz](https://github.com/beatrizmilz), University of Sao
   Paulo - Institute of Energy and Environment;
 - [S’busiso Mkhondwane](https://github.com/Sibusiso16);
+- [Emily Riederer](https://github.com/emilyriederer), Capital One;
 - [Francisco Rodriguez-Sanchez](https://github.com/Pakillo), Universidad
   de Sevilla, Spain;
 - [Noam Ross](https://github.com/noamross), rOpenSci and EcoHealth
@@ -321,7 +320,8 @@ Kramer](https://github.com/bmkramer) · [Will
 Landau](https://github.com/wlandau) · [Sam
 Lapp](https://github.com/sammlapp) · [Erin
 LeDell](https://github.com/ledell) · [Thomas
-Leeper](https://github.com/leeper) · [Sam
+Leeper](https://github.com/leeper) · [Mauro
+Lepore](https://github.com/maurolepore) · [Sam
 Levin](https://github.com/levisc8) · [Lisa
 Levinson](https://github.com/lisalevinson) · [Stephanie
 Locke](https://github.com/stephlocke) · [Marion
@@ -395,8 +395,7 @@ Ramon](https://github.com/manuramon) · [Nistara
 Randhawa](https://github.com/nistara) · [David
 Ranzolin](https://github.com/daranzolin) · [Quentin
 Read](https://github.com/qdread) · [Neal
-Richardson](https://github.com/nealrichardson) · [Emily
-Riederer](https://github.com/emilyriederer) · [tyler
+Richardson](https://github.com/nealrichardson) · [tyler
 rinker](https://github.com/trinker) · [Emily
 Robinson](https://github.com/robinsones) · [David
 Robinson](https://github.com/dgrtwo) · [Alec

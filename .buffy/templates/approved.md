@@ -13,7 +13,7 @@ To-dos:
 
 ## If you want your repository to remain under its current owner
 
-- [ ] Make a pull request to the [JSON file](https://github.com/ropensci/roregistry/blob/gh-pages/info/not_transferred.json) that list not transferred repositories. [Example commit](https://github.com/ropensci/roregistry/commit/9568a77c2081f89d58406efcc9089ef83d09fe59)
+- [ ] Make a pull request to the [JSON file](https://github.com/ropensci/roregistry/blob/gh-pages/info/not_transferred.json) that lists all repositories that have not been transferred. [Example commit](https://github.com/ropensci/roregistry/commit/9568a77c2081f89d58406efcc9089ef83d09fe59)
 
 ## For everyone
 

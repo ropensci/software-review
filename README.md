@@ -51,8 +51,8 @@ mandatory for everyone involved in our review process.**
   Software](http://joss.theoj.org/) for fast-tracked publication.
 
 If you want to submit a package, read our [guide for
-authors](https://devguide.ropensci.org/authors-guide.html) before
-opening a submission issue in this repository.
+authors](https://devguide.ropensci.org/softwarereview_author.html)
+before opening a submission issue in this repository.
 
 ## <a href="#why-review" name="why-review"></a>Why and how to review packages for rOpenSci?
 

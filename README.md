@@ -119,6 +119,7 @@ Editor-in-Chief is [Mauro Lepore](https://github.com/maurolepore).
 Our current team of editors for software peer-review includes:
 
 - [Maria Paula Caldas](https://github.com/mpaulacaldas), OECD;
+- [Cathy Chamberlin](https://github.com/chamberlinc), ORISE - EPA;
 - [Marc Choisy](https://github.com/choisy), University of Oxford;
 - [Laura DeCicco](https://github.com/ldecicco-usgs);
 - [Stéphane Guerrier](https://github.com/stephaneguerrier);
@@ -137,6 +138,7 @@ Our current team of editors for software peer-review includes:
 - [Beatriz Milz](https://github.com/beatrizmilz), University of Sao
   Paulo - Institute of Energy and Environment;
 - [S’busiso Mkhondwane](https://github.com/Sibusiso16);
+- [ChanYub Park](https://github.com/mrchypark), SKTelecom;
 - [Emily Riederer](https://github.com/emilyriederer), Capital One;
 - [Francisco Rodriguez-Sanchez](https://github.com/Pakillo), Universidad
   de Sevilla, Spain;
@@ -152,8 +154,11 @@ Our current team of editors for software peer-review includes:
   University;
 - [Tiffany Timbers](https://github.com/ttimbers), University of British
   Columbia;
+- [Anatolii Tsyplenkov](https://github.com/atsyplenkov), Manaaki Whenua
+  – Landcare Research;
 - [Sebastian Wójcik](https://github.com/SebastianWojcik86), Statistics
   Poland, University of Rzeszów (Institute of Mathematics);
+- [Sherry Zhang](https://github.com/huizezhang-sherry);
 - [Kiran](https://github.com/Kiranp).
 
 ### Reviewers and former editors
@@ -165,8 +170,7 @@ time and expertise to review packages submitted to rOpenSci.
 Albers](https://github.com/boshek) · [Toph
 Allen](https://github.com/toph-allen) · [Kaique dos S.
 Alves](https://github.com/AlvesKS) · [Alison
-Appling](https://github.com/aappling-usgs) · [Denisse Fierro
-Arcos](https://github.com/lidefi87) · [Zebulun
+Appling](https://github.com/aappling-usgs) · [Zebulun
 Arendsee](https://github.com/arendsee) · [Taylor
 Arnold](https://github.com/statsmaths) · [Al-Ahmadgaid B.
 Asaad](https://github.com/alstat) · [Dean
@@ -204,8 +208,7 @@ Calderón](https://github.com/quishqa) · [Carlos
 Cámara-Menoyo](https://github.com/ccamara) · [Brad
 Cannell](https://github.com/brad-cannell) · [Joaquin
 Cavieres](https://github.com/jcavieresg) · [Kevin
-Cazelles](https://github.com/KevCaz) · [Cathy
-Chamberlin](https://github.com/chamberlinc) · [Jennifer
+Cazelles](https://github.com/KevCaz) · [Jennifer
 Chang](https://github.com/j23414) · [Pierre
 Chausse](https://github.com/pchausse) · [Jorge
 Cimentada](https://github.com/cimentadaj) · [Nicholas
@@ -228,7 +231,8 @@ Duursma](https://github.com/RemkoDuursma) · [Mark
 Edmondson](https://github.com/MarkEdmondson1234) · [Paul
 Egeler](https://github.com/pegeler) · [Evan
 Eskew](https://github.com/eveskew) · [Harry
-Eslick](https://github.com/harryeslick) · [Alexander
+Eslick](https://github.com/harryeslick) · [Denisse
+Fierro-Arcos](https://github.com/lidefi87) · [Alexander
 Fischer](https://github.com/s3alfisc) · [Kim
 Fitter](https://github.com/kimnewzealand) · [Robert M
 Flight](https://github.com/rmflight) · [Sydney
@@ -398,7 +402,7 @@ Schratz](https://github.com/pat-s) · [Collin
 Schwantes](https://github.com/collinschwantes) · [Marco
 Sciaini](https://github.com/marcosci) · [Eric
 Scott](https://github.com/Aariq) · [Heidi
-Seibold](https://github.com/HeidiSeibold) · [David Antony
+Seibold](https://github.com/HeidiSeibold) · [David
 Selby](https://github.com/Selbosh) · [Julia
 Silge](https://github.com/juliasilge) · [Peter
 Slaughter](https://github.com/gothub) · [Mike
@@ -453,8 +457,7 @@ Wujciak-Jens](https://github.com/assignUser) · [Bruna
 Wundervald](https://github.com/brunaw) · [Lauren
 Yamane](https://github.com/layamane) · [Emily
 Zabor](https://github.com/zabore) · [Taras
-Zakharko](https://github.com/tzakharko) · [Sherry
-Zhang](https://github.com/huizezhang-sherry) · [Hao
+Zakharko](https://github.com/tzakharko) · [Hao
 Zhu](https://github.com/haozhu233) · [Chava
 Zibman](https://github.com/czibman) · [Naupaka
 Zimmerman](https://github.com/naupaka) · [Jake

@@ -159,6 +159,7 @@ Our current team of editors for software peer-review includes:
 - [Sebastian Wójcik](https://github.com/SebastianWojcik86), Statistics
   Poland, University of Rzeszów (Institute of Mathematics);
 - [Sherry Zhang](https://github.com/huizezhang-sherry);
+- [Steve](https://github.com/SteveLane);
 - [Kiran](https://github.com/Kiranp).
 
 ### Reviewers and former editors

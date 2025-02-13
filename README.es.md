@@ -177,6 +177,7 @@ Nuestro equipo editorial asociado incluye:
 - [Sebastian Wójcik](https://github.com/SebastianWojcik86), Statistics
   Poland, University of Rzeszów (Institute of Mathematics);
 - [Sherry Zhang](https://github.com/huizezhang-sherry);
+- [Steve](https://github.com/SteveLane);
 - [Kiran](https://github.com/Kiranp).
 
 ### Revisión y edición invitada

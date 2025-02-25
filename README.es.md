@@ -136,14 +136,8 @@ Cambiamos lideres editoriales, aproximadamente cada 3 meses. Hoy es
 
 Nuestro equipo editorial asociado incluye:
 
-- [Maria Paula Caldas](https://github.com/mpaulacaldas), OECD;
-- [Cathy Chamberlin](https://github.com/chamberlinc), ORISE - EPA;
-- [Marc Choisy](https://github.com/choisy), University of Oxford;
 - [Laura DeCicco](https://github.com/ldecicco-usgs);
-- [Stéphane Guerrier](https://github.com/stephaneguerrier);
 - [Julia Gustavsen](https://github.com/jooolia), Agroscope;
-- [Alex Hayes](https://github.com/alexpghayes), University of
-  Wisconsin-Madison;
 - [Jouni Helske](https://github.com/helske), University of Jyväskylä,
   Finland;
 - [Toby Hocking](https://github.com/tdhock), Northern Arizona
@@ -155,30 +149,17 @@ Nuestro equipo editorial asociado incluye:
 - [Anna Krystalli](https://github.com/annakrystalli);
 - [Beatriz Milz](https://github.com/beatrizmilz), University of Sao
   Paulo - Institute of Energy and Environment;
-- [S’busiso Mkhondwane](https://github.com/Sibusiso16);
-- [ChanYub Park](https://github.com/mrchypark), SKTelecom;
 - [Emily Riederer](https://github.com/emilyriederer), Capital One;
 - [Francisco Rodriguez-Sanchez](https://github.com/Pakillo), Universidad
   de Sevilla, Spain;
 - [Noam Ross](https://github.com/noamross), rOpenSci and EcoHealth
   Alliance;
 - [Maëlle Salmon](https://github.com/maelle), rOpenSci;
-- [Candace Savonen](https://github.com/cansavvy), Fred Hutchinson Cancer
-  Center;
 - [Margaret Siple](https://github.com/mcsiple), National Oceanic and
   Atmospheric Administration;
 - [Adam Sparks](https://github.com/adamhsparks), Curtin University;
 - [Emi Tanaka](https://github.com/emitanaka), Australian National
-  University;
-- [Tiffany Timbers](https://github.com/ttimbers), University of British
-  Columbia;
-- [Anatolii Tsyplenkov](https://github.com/atsyplenkov), Manaaki Whenua
-  – Landcare Research;
-- [Sebastian Wójcik](https://github.com/SebastianWojcik86), Statistics
-  Poland, University of Rzeszów (Institute of Mathematics);
-- [Sherry Zhang](https://github.com/huizezhang-sherry);
-- [Steve](https://github.com/SteveLane);
-- [Kiran](https://github.com/Kiranp).
+  University.
 
 ### Revisión y edición invitada
 
@@ -222,12 +203,14 @@ Brown](https://github.com/eebrown) · [Julien
 Brun](https://github.com/brunj7) · [Jenny
 Bryan](https://github.com/jennybc) · [Lukas
 Burk](https://github.com/jemus42) · [Lorenzo
-Busetto](https://github.com/lbusett) · [Mario Gavidia
+Busetto](https://github.com/lbusett) · [Maria Paula
+Caldas](https://github.com/mpaulacaldas) · [Mario Gavidia
 Calderón](https://github.com/quishqa) · [Carlos
 Cámara-Menoyo](https://github.com/ccamara) · [Brad
 Cannell](https://github.com/brad-cannell) · [Joaquin
 Cavieres](https://github.com/jcavieresg) · [Kevin
-Cazelles](https://github.com/KevCaz) · [Jennifer
+Cazelles](https://github.com/KevCaz) · [Cathy
+Chamberlin](https://github.com/chamberlinc) · [Jennifer
 Chang](https://github.com/j23414) · [Pierre
 Chausse](https://github.com/pchausse) · [Jorge
 Cimentada](https://github.com/cimentadaj) · [Nicholas
@@ -442,7 +425,8 @@ Teixeira](https://github.com/FilipeamTeixeira) · [Andy
 Teucher](https://github.com/ateucher) · [Jennifer
 Thompson](https://github.com/jenniferthompson) · [Joe
 Thorley](https://github.com/joethorley) · [Nicholas
-Tierney](https://github.com/njtierney) · [Tan
+Tierney](https://github.com/njtierney) · [Tiffany
+Timbers](https://github.com/ttimbers) · [Tan
 Tran](https://github.com/vinhtantran) · [Tim
 Trice](https://github.com/timtrice) · [Utku
 Turk](https://github.com/utkuturk) · [Zoë
@@ -468,7 +452,8 @@ Widgren](https://github.com/stewid) · [Anna
 Willoughby](https://github.com/arw36) · [Saras
 Windecker](https://github.com/smwindecker) · [Luke
 Winslow](https://github.com/lawinslow) · [David
-Winter](https://github.com/dwinter) · [Witold
+Winter](https://github.com/dwinter) · [Sebastian
+Wójcik](https://github.com/SebastianWojcik86) · [Witold
 Wolski](https://github.com/wolski) · [Kara
 Woo](https://github.com/karawoo) · [Marvin N.
 Wright](https://github.com/mnwright) · [Jacob
@@ -476,7 +461,8 @@ Wujciak-Jens](https://github.com/assignUser) · [Bruna
 Wundervald](https://github.com/brunaw) · [Lauren
 Yamane](https://github.com/layamane) · [Emily
 Zabor](https://github.com/zabore) · [Taras
-Zakharko](https://github.com/tzakharko) · [Hao
+Zakharko](https://github.com/tzakharko) · [Sherry
+Zhang](https://github.com/huizezhang-sherry) · [Hao
 Zhu](https://github.com/haozhu233) · [Chava
 Zibman](https://github.com/czibman) · [Naupaka
 Zimmerman](https://github.com/naupaka) · [Jake

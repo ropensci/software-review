@@ -411,7 +411,8 @@ Slaughter](https://github.com/gothub) · [Mike
 Smith](https://github.com/grimbough) · [Tuija
 Sonkkila](https://github.com/tts) · [Øystein
 Sørensen](https://github.com/osorensen) · [Jemma
-Stachelek](https://github.com/jsta) · [Christine
+Stachelek](https://github.com/jsta) · [Aymeric
+Stamm](https://github.com/astamm) · [Christine
 Stawitz](https://github.com/ChristineStawitz-NOAA) · [Irene
 Steves](https://github.com/isteves) · [Kelly
 Street](https://github.com/kstreet13) · [Matt

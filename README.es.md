@@ -372,7 +372,8 @@ Pebesma](https://github.com/edzer) · [Thomas Lin
 Pedersen](https://github.com/thomasp85) · [Antonio J.
 Pérez-Luque](https://github.com/ajpelu) · [Marcelo S.
 Perlin](https://github.com/msperlin) · [Rafael
-Pilliard-Hellwig](https://github.com/rtaph) · [Rodrigo Neto
+Pilliard-Hellwig](https://github.com/rtaph) · [July
+Pilowsky](https://github.com/japilo) · [Rodrigo Neto
 Pires](https://github.com/bozaah) · [Lindsay
 Platt](https://github.com/lindsayplatt) · [Nicholas
 Potter](https://github.com/potterzot) · [Joanne

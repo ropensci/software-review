@@ -2,7 +2,10 @@ Approved! Thanks @{{issue_author}} for submitting and {{reviewers-list}} for you
 
 To-dos:
 
-## If you want to transfer your repository to  rOpenSci's "ropensci" GitHub organization
+## Repository transfer
+
+Usually repositories are transferred to the rOpenSci GitHub organization.
+You can however ask for an exception, please ping the editor in charge of the submission.
 
 - [ ] Transfer the repo to rOpenSci's "ropensci" GitHub organization under "Settings" in your repo.  I have invited you to a team that should allow you to do so. You will need to [enable two-factor authentication](https://docs.github.com/en/authentication/securing-your-account-with-two-factor-authentication-2fa/configuring-two-factor-authentication) for your GitHub account.
 **This invitation will expire after one week. If it happens write a comment `@ropensci-review-bot invite me to ropensci/<package-name>` which will re-send an invitation.**
@@ -11,11 +14,7 @@ To-dos:
 - [ ] Fix any links in badges for CI and coverage to point to the new repository URL. 
 - [ ] Delete your current code of conduct file if you had one since rOpenSci's default one will apply, see https://devguide.ropensci.org/collaboration.html#coc-file
 
-## If you want your repository to remain under its current owner
-
-- [ ] Make a pull request to the [JSON file](https://github.com/ropensci/roregistry/blob/gh-pages/info/not_transferred.json) that lists all repositories that have not been transferred. [Example commit](https://github.com/ropensci/roregistry/commit/9568a77c2081f89d58406efcc9089ef83d09fe59)
-
-## For everyone
+## Other steps
 
 - [ ] If you already had a `pkgdown` website **and are ok relying only on [rOpenSci central docs building and branding](https://devguide.ropensci.org/ci.html#even-more-ci-ropensci-docs)**,
     * deactivate the automatic deployment you might have set up

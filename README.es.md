@@ -238,7 +238,8 @@ Fierro-Arcos](https://github.com/lidefi87) · [Alexander
 Fischer](https://github.com/s3alfisc) · [Kim
 Fitter](https://github.com/kimnewzealand) · [Robert M
 Flight](https://github.com/rmflight) · [Sydney
-Foks](https://github.com/sfoks) · [Stephen
+Foks](https://github.com/sfoks) · [Air
+Forbes](https://github.com/heyairf) · [Stephen
 Formel](https://github.com/sformel-usgs) · [Zachary Stephen Longiaru
 Foster](https://github.com/zachary-foster) · [Auriel
 Fournier](https://github.com/aurielfournier) · [Kaija

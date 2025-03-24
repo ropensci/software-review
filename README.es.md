@@ -220,15 +220,15 @@ Clayden](https://github.com/jonclayden) · [Dena Jane
 Clink](https://github.com/DenaJGibbon) · [Will
 Cornwell](https://github.com/wcornwell) · [Nic
 Crane](https://github.com/thisisnic) · [Enrico
-Crema](https://github.com/ercrema) · [Verónica
+Crema](https://github.com/ercrema) · [Lorena Abad
+Crespo](https://github.com/loreabad6) · [Verónica
 Cruz-Alonso](https://github.com/VeruGHub) · [Ildiko
 Czeller](https://github.com/czeildi) · [Tad
 Dallas](https://github.com/taddallas) · [Kauê de
 Sousa](https://github.com/kauedesousa) · [Christophe
 Dervieux](https://github.com/cderv) · [Amanda
 Dobbyn](https://github.com/aedobbyn) · [Jasmine
-Dumas](https://github.com/jasdumas) · [Dewey
-Dunnington](https://github.com/paleolimbot) · [Remko
+Dumas](https://github.com/jasdumas) · [Remko
 Duursma](https://github.com/RemkoDuursma) · [Mark
 Edmondson](https://github.com/MarkEdmondson1234) · [Paul
 Egeler](https://github.com/pegeler) · [Evan
@@ -309,7 +309,8 @@ Kramer](https://github.com/bmkramer) · [Will
 Landau](https://github.com/wlandau) · [Sam
 Lapp](https://github.com/sammlapp) · [Erin
 LeDell](https://github.com/ledell) · [Thomas
-Leeper](https://github.com/leeper) · [Mauro
+Leeper](https://github.com/leeper) · [Alex
+Leith](https://github.com/alexgleith) · [Mauro
 Lepore](https://github.com/maurolepore) · [Sam
 Levin](https://github.com/levisc8) · [Lisa
 Levinson](https://github.com/lisalevinson) · [Stephanie

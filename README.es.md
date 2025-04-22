@@ -166,7 +166,8 @@ Nuestro equipo editorial asociado incluye:
 Agradecemos a las siguientes personas, quienes ofrecieron su tiempo y
 experiencia para revisar paquetes enviados a rOpenSci:
 
-[Em Markowitz (NOAA)](https://github.com/EmilyMarkowitz-NOAA) · [Sam
+[Em Markowitz (NOAA)](https://github.com/EmilyMarkowitz-NOAA) · [Lorena
+Abad](https://github.com/loreabad6) · [Sam
 Albers](https://github.com/boshek) · [Toph
 Allen](https://github.com/toph-allen) · [Kaique dos S.
 Alves](https://github.com/AlvesKS) · [Alison
@@ -220,8 +221,7 @@ Clayden](https://github.com/jonclayden) · [Dena Jane
 Clink](https://github.com/DenaJGibbon) · [Will
 Cornwell](https://github.com/wcornwell) · [Nic
 Crane](https://github.com/thisisnic) · [Enrico
-Crema](https://github.com/ercrema) · [Lorena Abad
-Crespo](https://github.com/loreabad6) · [Verónica
+Crema](https://github.com/ercrema) · [Verónica
 Cruz-Alonso](https://github.com/VeruGHub) · [Ildiko
 Czeller](https://github.com/czeildi) · [Tad
 Dallas](https://github.com/taddallas) · [Kauê de
@@ -489,7 +489,8 @@ También agradecemos a las siguientes personas que tenian antes el rol de
 revisión.
 
 - [Brooke Anderson](https://github.com/geanders);
-- [Scott Chamberlain](https://github.com/sckott);
+- [Scott Chamberlain](https://github.com/sckott), Fred Hutch Cancer
+  Center;
 - [Paula Moraga](https://github.com/Paula-Moraga), King Abdullah
   University of Science and Technology (KAUST), Saudi Arabia;
 - [Karthik Ram](https://github.com/karthik), University of California,

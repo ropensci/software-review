@@ -311,7 +311,8 @@ Martinez](https://github.com/orchid00) · [Anthony
 Martinez](https://github.com/amart90) · [Joao
 Martins](https://github.com/zambujo) · [Ben
 Marwick](https://github.com/benmarwick) · [Claire
-Mason](https://github.com/clairemas0n) · [Miles
+Mason](https://github.com/clairemas0n) · [Tom
+Matthews](https://github.com/txm676) · [Miles
 McBain](https://github.com/milesmcbain) · [Lucy D’Agostino
 McGowan](https://github.com/LucyMcGowan) · [Amelia
 McNamara](https://github.com/AmeliaMN) · [Elaine

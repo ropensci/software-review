@@ -112,7 +112,7 @@ dashboard](https://ropensci-review-tools.github.io/dashboard/).
 ### Editor-in-Chief
 
 We rotate our Editor-in-Chief, generally every three months. Our current
-Editor-in-Chief is [Mauro Lepore](https://github.com/maurolepore).
+Editor-in-Chief is [Mark Padgham](https://github.com/mpadge).
 
 ### Editorial team
 
@@ -129,6 +129,8 @@ Our current team of editors for software peer-review includes:
 - [Rebecca Killick](https://github.com/rkillick), Lancaster University,
   U.K.;
 - [Anna Krystalli](https://github.com/annakrystalli);
+- [Mauro Lepore](https://github.com/maurolepore), 2 Degrees Investing
+  Initiative;
 - [Beatriz Milz](https://github.com/beatrizmilz), University of Sao
   Paulo - Institute of Energy and Environment;
 - [Emily Riederer](https://github.com/emilyriederer), Capital One;
@@ -292,8 +294,7 @@ Landau](https://github.com/wlandau) · [Sam
 Lapp](https://github.com/sammlapp) · [Erin
 LeDell](https://github.com/ledell) · [Thomas
 Leeper](https://github.com/leeper) · [Alex
-Leith](https://github.com/alexgleith) · [Mauro
-Lepore](https://github.com/maurolepore) · [Sam
+Leith](https://github.com/alexgleith) · [Sam
 Levin](https://github.com/levisc8) · [Lisa
 Levinson](https://github.com/lisalevinson) · [Stephanie
 Locke](https://github.com/stephlocke) · [Marion
@@ -406,7 +407,8 @@ Strimas-Mackey](https://github.com/mstrimas) · [Alex
 Stringer](https://github.com/awstringer1) · [Michael
 Sumner](https://github.com/mdsumner) · [Chung-Kai
 Sun](https://github.com/cksun-usc) · [Sarah
-Supp](https://github.com/sarahsupp) · [Jason
+Supp](https://github.com/sarahsupp) · [Phanikumar
+tata](https://github.com/tataphani) · [Jason
 Taylor](https://github.com/jmt2080ad) · [Filipe
 Teixeira](https://github.com/FilipeamTeixeira) · [Andy
 Teucher](https://github.com/ateucher) · [Jennifer

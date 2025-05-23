@@ -417,7 +417,8 @@ Thorley](https://github.com/joethorley) · [Nicholas
 Tierney](https://github.com/njtierney) · [Tiffany
 Timbers](https://github.com/ttimbers) · [Tan
 Tran](https://github.com/vinhtantran) · [Tim
-Trice](https://github.com/timtrice) · [Utku
+Trice](https://github.com/timtrice) · [Sunny
+Tseng](https://github.com/SunnyTseng) · [Utku
 Turk](https://github.com/utkuturk) · [Zoë
 Turner](https://github.com/Lextuga007) · [Kyle
 Ueyama](https://github.com/khueyama) · [Ted

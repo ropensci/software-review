@@ -210,7 +210,8 @@ Busetto](https://github.com/lbusett) · [Maria Paula
 Caldas](https://github.com/mpaulacaldas) · [Mario Gavidia
 Calderón](https://github.com/quishqa) · [Carlos
 Cámara-Menoyo](https://github.com/ccamara) · [Brad
-Cannell](https://github.com/brad-cannell) · [Joaquin
+Cannell](https://github.com/brad-cannell) · [Paul
+Carteron](https://github.com/paul-carteron) · [Joaquin
 Cavieres](https://github.com/jcavieresg) · [Kevin
 Cazelles](https://github.com/KevCaz) · [Cathy
 Chamberlin](https://github.com/chamberlinc) · [Jennifer

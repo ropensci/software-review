@@ -289,7 +289,8 @@ Kenny](https://github.com/christopherkenny) · [Os
 Keyes](https://github.com/Ironholds) · [Eunseop
 Kim](https://github.com/markean) · [Aaron A.
 King](https://github.com/kingaa) · [Michael
-Koontz](https://github.com/mikoontz) · [Bianca
+Koontz](https://github.com/mikoontz) · [Alexandros
+Kouretsis](https://github.com/AleKoure) · [Bianca
 Kramer](https://github.com/bmkramer) · [Will
 Landau](https://github.com/wlandau) · [Sam
 Lapp](https://github.com/sammlapp) · [Erin

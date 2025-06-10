@@ -479,6 +479,7 @@ Zibman](https://github.com/czibman) · [Naupaka
 Zimmerman](https://github.com/naupaka) · [Jake
 Zwart](https://github.com/jzwart) · [Felipe](https://github.com/OldLipe)
 · [santikka](https://github.com/santikka) ·
+[brock](https://github.com/katrinabrock) ·
 [kasselhingee](https://github.com/kasselhingee) ·
 [Bri](https://github.com/BriannaLind) ·
 [Flury](https://github.com/romanflury) ·

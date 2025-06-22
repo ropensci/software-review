@@ -5,65 +5,65 @@ about: Não tem certeza de que seu software se encaixa ou está enviando um paco
 ---
 
 <!---
-Below, please enter values for (1) submitting author GitHub handle (replacing "@github_handle"); and (2) Repository URL (replacing "https://repourl"). Values for additional package authors may also be specified, replacing "@github_handle1", "@github_handle2" - delete these if not needed. DO NOT DELETE HTML SYMBOLS (everything between "<!" and ">"). Replace only "@github_handle" and "https://repourl". This comment may be deleted once it has been read and understood.
+Abaixo, por favor insira os valores para (1) o nome de usuário no GitHub da pessoa responsável pela submissão do pacote (substituindo "@github_handle"); e (2) a URL do repositório (substituindo "https://repourl"). Também podem ser especificados valores para autores(as) adicionais do pacote, substituindo  "@github_handle1", "@github_handle2" - delete esses textos caso não seja necessário. NÃO EXCLUA OS SÍMBOLOS HTML (tudo entre "<!" e ">"). Substitua apenas "@github_handle" e "https://repourl". Este comentário pode ser apagado após ser lido e compreendido.
 --->
 
-Submitting Author Name: Name
-Submitting Author Github Handle: <!--author1-->@github_handle<!--end-author1-->
-Other Package Authors Github handles: (comma separated, delete if none) <!--author-others-->@github_handle1, @github_handle2<!--end-author-others-->
-Repository:  <!--repourl-->https://repourl<!--end-repourl-->
-Submission type: <!--submission-type-->Pre-submission<!--end-submission-type-->
-Language: <!--language-->en<!--end-language-->
+Nome da pessoa responsável pela submissão: Nome
+Usuário do GitHub da pessoa responsável pela submissão: <!--author1-->@github_handle<!--end-author1-->
+Usuário do GitHub de outras pessoas com autoria: (separados por vírgula, apague se não houver) <!--author-others-->@github_handle1, @github_handle2<!--end-author-others-->
+Repositório:  <!--repourl-->https://repourl<!--end-repourl-->
+Tipo de submissão: <!--submission-type-->Pré-submissão<!--end-submission-type-->
+Idioma: <!--language-->pt<!--end-language-->
 
 ---
 
--   Paste the full DESCRIPTION file inside a code block below:
+-   Cole o conteúdo completo do arquivo DESCRIPTION dentro de um bloco de código abaixo:
 
 ```
 
 ```
 
 
-## Scope 
+## Escopo 
 
-- Please indicate which category or categories from our [package fit policies](https://ropensci.github.io/dev_guide/policies.html#package-categories) or [statistical package categories](https://stats-devguide.ropensci.org/overview.html#overview-categories) this package falls under. (Please check one or more appropriate boxes below):
+- Por favor, indique a(s) categoria(s) que se aplicam ao pacote. É possível consultar as categorias na nossa [política de revisão por pares](https://ropensci.github.io/dev_guide/policies.html#package-categories) ou nas [categorias de pacotes estatísticos](https://stats-devguide.ropensci.org/overview.html#overview-categories). Marque as opções apropriadas abaixo:
 
-    **Data Lifecycle Packages**
+    **Pacotes de ciclo de vida de dados**
 
-	- [ ] data retrieval
-	- [ ] data extraction
-	- [ ] data munging
-	- [ ] data deposition
-    - [ ] data validation and testing
-	- [ ] workflow automation
-	- [ ] version control
-	- [ ] citation management and bibliometrics
-	- [ ] scientific software wrappers
-	- [ ] field and lab reproducibility tools
-	- [ ] database software bindings
-	- [ ] geospatial data
-	- [ ] text analysis
+	- [ ] obtenção/recuperação de dados (data retrieval)
+	- [ ] extração de dados (data extraction)
+	- [ ] processamento de dados (data munging)
+	- [ ] depósito de dados (data deposition)
+    - [ ] validação e teste de dados (data validation and testing)
+	- [ ] automação de fluxos de trabalho (workflow automation)
+	- [ ] controle de versão (version control)
+	- [ ] gerenciamento de citações e bibliometria (citation management and bibliometrics)
+	- [ ] _wrappers_ de software científico (scientific software wrappers)
+	- [ ] ferramentas de reprodutibilidade de campo e laboratório (field and lab reproducibility tools)
+	- [ ] vinculações de software de banco de dados (database software bindings)
+	- [ ] dados geoespaciais (geospatial data)
+	- [ ] análise de texto (text analysis)
     
-     **Statistical Packages**
+     **Pacotes estatísticos**
 
-	- [ ] Bayesian and Monte Carlo Routines
-	- [ ] Dimensionality Reduction, Clustering, and Unsupervised Learning
-	- [ ] Machine Learning
-	- [ ] Regression and Supervised Learning
-	- [ ] Exploratory Data Analysis (EDA) and Summary Statistics
-	- [ ] Spatial Analyses
-	- [ ] Time Series Analyses
-	- [ ] Probability Distributions
+	- [ ] Rotinas Bayesianas e de Monte Carlo (Bayesian and Monte Carlo Routines)
+	- [ ] Redução de Dimensionalidade, Agrupamento e Aprendizado Não Supervisionado (Dimensionality Reduction, Clustering, and Unsupervised Learning)
+	- [ ] Aprendizado de Máquina (Machine Learning)
+	- [ ] Regressão e Aprendizado Supervisionado (Regression and Supervised Learning)
+	- [ ] Análise Exploratória de Dados e Estatística Descritiva (Exploratory Data Analysis (EDA) and Summary Statistics)
+	- [ ] Análises Espaciais (Spatial Analyses)
+	- [ ] Análises de Séries Temporais (Time Series Analyses)
+	- [ ] Distribuições de Probabilidade (Probability Distributions)
 
 
-- Explain how and why the package falls under these categories (briefly, 1-2 sentences).  Please note any areas you are unsure of:
+- Explique como e por que o pacote se enquadra nessas categorias (brevemente, 1–2 frases). Por favor, indique quaisquer áreas sobre as quais você tenha dúvidas:
 
-- If submitting a statistical package, have you already [incorporated documentation of standards into your code via the **srr** package](https://stats-devguide.ropensci.org/pkgdev.html#pkgdev-srr)?
+- Se estiver submetendo um pacote estatístico, você já [incorporou a documentação de padrões no seu código por meio do pacote **srr**](https://stats-devguide.ropensci.org/pkgdev.html#pkgdev-srr)?
 
--   Who is the target audience and what are scientific applications of this package?  
+-   Quem é o público-alvo e quais são as aplicações científicas deste pacote?
 
--   Are there other R packages that accomplish the same thing? If so, how does yours differ or meet [our criteria for best-in-category](https://ropensci.github.io/dev_guide/policies.html#overlap)?
+- Existem outros pacotes em R que realizam a mesma tarefa? Se sim, como o seu difere ou atende aos [nossos critérios de melhor da categoria](https://ropensci.github.io/dev_guide/policies.html#overlap)?
 
--   (If applicable) Does your package comply with our [guidance around _Ethics, Data Privacy and Human Subjects Research_](https://devguide.ropensci.org/policies.html#ethics-data-privacy-and-human-subjects-research)?
+-   (Se aplicável) Seu pacote está em conformidade com a nossa [orientação sobre _Ética, Privacidade de Dados e Pesquisa com Seres Humanos_](https://devguide.ropensci.org/policies.html#ethics-data-privacy-and-human-subjects-research)?
 
--  Any other questions or issues we should be aware of?:
+-  Alguma outra dúvida ou questão que deveríamos estar cientes?

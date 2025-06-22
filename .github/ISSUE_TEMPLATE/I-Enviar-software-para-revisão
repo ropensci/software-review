@@ -74,29 +74,29 @@ Este pacote:
 - [ ] possui uma licença aceita pelo CRAN e pela OSI.
 - [ ] contém um [README com instruções para instalar a versão de desenvolvimento](https://ropensci.github.io/dev_guide/building.html#readme).
 - [ ] inclui [documentação com exemplos para todas as funções, criada com roxygen2](https://ropensci.github.io/dev_guide/building.html#documentation).
-- [ ] contains a vignette with examples of its essential functions and uses.
-- [ ] has a [test suite](https://ropensci.github.io/dev_guide/building.html#testing).
-- [ ] has [continuous integration](https://ropensci.github.io/dev_guide/ci.html), including reporting of test coverage.
+- [ ] contém uma *vignette* com exemplos de suas funções essenciais e usos.
+- [ ] possui um [conjunto de testes](https://ropensci.github.io/dev_guide/building.html#testing).
+- [ ] tem [integração contínua](https://ropensci.github.io/dev_guide/ci.html), incluindo relatório de cobertura de testes.
 
-## Publication options
+## Opções de publicação
 
-- [ ] Do you intend for this package to go on CRAN?
-- [ ] Do you intend for this package to go on Bioconductor?
+- [ ] Você pretende publicar este pacote no CRAN?
+- [ ] Você pretende publicar este pacote no Bioconductor?
 
-- [ ] Do you wish to submit an Applications Article about your package to [Methods in Ecology and Evolution](http://besjournals.onlinelibrary.wiley.com/hub/journal/10.1111/(ISSN)2041-210X/)? If so:
+- [ ] Você deseja submeter um Artigo de Aplicação sobre seu pacote para a revista [Methods in Ecology and Evolution](http://besjournals.onlinelibrary.wiley.com/hub/journal/10.1111/(ISSN)2041-210X/)? Se sim:
 
 <details>
 <summary>MEE Options</summary>
 
-- [ ] The package is novel and will be of interest to the broad readership of the journal.
-- [ ] The manuscript describing the package is no longer than 3000 words.
-- [ ] You intend to archive the code for the package in a long-term repository which meets the requirements of the journal (see [MEE's Policy on Publishing Code](https://besjournals.onlinelibrary.wiley.com/hub/journal/2041210x/policyonpublishingcode.html))
-- (*Scope: Do consider MEE's [Aims and Scope](http://besjournals.onlinelibrary.wiley.com/hub/journal/10.1111/(ISSN)2041-210X/aims-and-scope/read-full-aims-and-scope.html) for your manuscript. We make no guarantee that your manuscript will be within MEE scope.*)
-- (*Although not required, we strongly recommend having a full manuscript prepared when you submit here.*)
-- (*Please do not submit your package separately to Methods in Ecology and Evolution*)
+- [ ] O pacote é inovador e será de interesse para a ampla audiência da revista.
+- [ ]  O manuscrito que descreve o pacote tem no máximo 3000 palavras.
+- [ ] Você pretende arquivar o código do pacote em um repositório de longo prazo que atenda aos requisitos da revista (ver [Política da MEE sobre Publicação de Código](https://besjournals.onlinelibrary.wiley.com/hub/journal/2041210x/policyonpublishingcode.html))
+- (*Escopo: Considere os [Objetivos e Escopo](http://besjournals.onlinelibrary.wiley.com/hub/journal/10.1111/(ISSN)2041-210X/aims-and-scope/read-full-aims-and-scope.html) da MEE para seu manuscrito. Não garantimos que seu manuscrito esteja dentro do escopo da MEE.*)
+- (*Embora não seja obrigatório, recomendamos fortemente ter um manuscrito completo preparado ao submeter aqui.*)
+- (*Por favor, não submeta seu pacote separadamente para a Methods in Ecology and Evolution*)
 
 </details>
 
-## Code of conduct
+## Código de conduta
 
-- [ ] I agree to abide by [rOpenSci's Code of Conduct](https://ropensci.org/code-of-conduct/) during the review process and in maintaining my package should it be accepted.
+- [ ] Concordo em seguir o [Código de Conduta do rOpenSci](https://ropensci.org/code-of-conduct/) durante o processo de revisão e na manutenção do meu pacote, caso ele seja aceito.

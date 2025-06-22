@@ -4,19 +4,19 @@ about: Use este modelo para enviar um software para revisão
 ---
 
 <!---
-Below, please enter values for (1) submitting author GitHub handle (replacing "@github_handle@); and (2) Repository URL (replacing "https://repourl"). Values for additional package authors may also be specified, replacing "@github_handle1", "@github_handle2" - delete these if not needed. DO NOT DELETE HTML SYMBOLS (everything between "<!" and ">"). Replace only "@github_handle" and "https://repourl". This comment may be deleted once it has been read and understood.
+Abaixo, por favor insira valores para (1) o nome de usuário no GitHub da pessoa responsável pela submissão do pacote (substituindo "@github_handle@); e (2) a URL do repositório (substituindo "https://repourl"). Também podem ser especificados valores para autores(as) adicionais do pacote, substituindo  "@github_handle1", "@github_handle2" - delete esses textos caso não seja necessário.  DO NOT DELETE HTML SYMBOLS (everything between "<!" and ">"). NÃO EXCLUA OS SÍMBOLOS HTML (tudo entre "<!" e ">"). Substitua apenas "@github_handle" e "https://repourl". Este comentário pode ser apagado após ser lido e compreendido.
 --->
 
-Submitting Author Name: Name
-Submitting Author Github Handle: <!--author1-->@github_handle<!--end-author1-->
-Other Package Authors Github handles: (comma separated, delete if none) <!--author-others-->@github_handle1, @github_handle2<!--end-author-others-->
-Repository:  <!--repourl-->https://repourl<!--end-repourl-->
-Version submitted:
-Submission type: <!--submission-type-->Standard<!--end-submission-type-->
-Editor: <!--editor--> TBD <!--end-editor-->
-Reviewers: <!--reviewers-list--> TBD <!--end-reviewers-list-->
+Nome da pessoa responsável pela submissão: Nome
+Usuário do GitHub da pessoa responsável pela submissão: <!--author1-->@github_handle<!--end-author1-->
+Usuário do GitHub de outras pessoas com autoria: (separados por vírgula, apague se não houver) <!--author-others-->@github_handle1, @github_handle2<!--end-author-others-->
+Repositório:  <!--repourl-->https://repourl<!--end-repourl-->
+Versão submetida:
+Tipo de submissão: <!--submission-type-->Padrão<!--end-submission-type-->
+Pessoa responsável pela edição: <!--editor--> a definir <!--end-editor-->
+Revisores(as) : <!--reviewers-list--> a definir <!--end-reviewers-list-->
 <!--due-dates-list--><!--end-due-dates-list-->
-Archive: TBD
+Arquivo: A definir
 Version accepted: TBD
 Language: <!--language-->en<!--end-language-->
 

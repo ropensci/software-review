@@ -17,35 +17,35 @@ Pessoa responsável pela edição: <!--editor--> a definir <!--end-editor-->
 Revisores(as) : <!--reviewers-list--> a definir <!--end-reviewers-list-->
 <!--due-dates-list--><!--end-due-dates-list-->
 Arquivo: A definir
-Version accepted: TBD
-Language: <!--language-->en<!--end-language-->
+Versão aceita: A definir
+Idioma: <!--language-->pt<!--end-language-->
 
 ---
 
 
 
--   Paste the full DESCRIPTION file inside a code block below:
+-   Cole o conteúdo completo do arquivo DESCRIPTION dentro de um bloco de código abaixo:
 
 ```
 
 ```
 
 
-## Scope
+## Escopo
 
 - Please indicate which category or categories from our [package fit policies](https://devguide.ropensci.org/softwarereview_policies.html#package-categories) this package falls under: (Please check an appropriate box below. If you are unsure, we suggest you make a pre-submission inquiry.):
 
-	- [ ] data retrieval
-	- [ ] data extraction
-	- [ ] data munging
-	- [ ] data deposition
-    - [ ] data validation and testing
-	- [ ] workflow automation
-	- [ ] version control
-	- [ ] citation management and bibliometrics
-	- [ ] scientific software wrappers
-	- [ ] field and lab reproducibility tools
-	- [ ] database software bindings
+	- [ ] obtenção/recuperação de dados (data retrieval)
+	- [ ] extração de dados (data extraction)
+	- [ ] processamento de dados (data munging)
+	- [ ] depósito de dados (data deposition)
+    - [ ] validação e teste de dados (data validation and testing)
+	- [ ] automação de fluxos de trabalho (workflow automation)
+	- [ ] controle de versão (version control)
+	- [ ] gerenciamento de citações e bibliometria (citation management and bibliometrics)
+	- [ ] _wrappers_ de software científico (scientific software wrappers)
+	- [ ] ferramentas de reprodutibilidade de campo e laboratório (field and lab reproducibility tools)
+	- [ ] vinculações de software de banco de dados (database software bindings)
 	- [ ] geospatial data
 
 - Explain how and why the package falls under these categories (briefly, 1-2 sentences):

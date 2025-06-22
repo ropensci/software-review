@@ -48,32 +48,32 @@ Idioma: <!--language-->pt<!--end-language-->
 	- [ ] vinculações de software de banco de dados (database software bindings)
 	- [ ] geospatial data
 
-- Explain how and why the package falls under these categories (briefly, 1-2 sentences):
+- Explique como e por que o pacote se enquadra nessas categorias (brevemente, 1–2 frases): 
 
 
--   Who is the target audience and what are scientific applications of this package?
+-   Quem é o público-alvo e quais são as aplicações científicas deste pacote?
 
--   Are there other R packages that accomplish the same thing? If so, how does yours differ or meet [our criteria for best-in-category](https://ropensci.github.io/dev_guide/policies.html#overlap)?
+-   Existem outros pacotes em R que realizam a mesma tarefa? Se sim, como o seu difere ou atende aos [nossos critérios de melhor da categoria](https://ropensci.github.io/dev_guide/policies.html#overlap)?
 
--   (If applicable) Does your package comply with our [guidance around _Ethics, Data Privacy and Human Subjects Research_](https://devguide.ropensci.org/policies.html#ethics-data-privacy-and-human-subjects-research)?
+-   (Se aplicável) Seu pacote está em conformidade com a nossa [orientação sobre _Ética, Privacidade de Dados e Pesquisa com Seres Humanos_](https://devguide.ropensci.org/policies.html#ethics-data-privacy-and-human-subjects-research)?
 
--   If you made a pre-submission inquiry, please paste the link to the corresponding issue, forum post, or other discussion, or `@tag` the editor you contacted.
+- Se você fez uma consulta prévia de submissão, por favor, cole o link para a issue correspondente, post no fórum ou outra discussão, ou `@marque` o(a) editor(a) que você contatou.
 
--   Explain reasons for any [`pkgcheck` items](https://docs.ropensci.org/pkgcheck/) which your package is unable to pass.
+- Explique os motivos para quaisquer [itens do `pkgcheck`](https://docs.ropensci.org/pkgcheck/) que seu pacote não consegue cumprir.
 
-## Technical checks
+## Verificações técnicas
 
-Confirm each of the following by checking the box.
+Confirme cada um dos itens abaixo marcando a caixa.
 
-- [ ] I have read the [rOpenSci packaging guide](https://devguide.ropensci.org/building.html).
-- [ ] I have read the [author guide](https://devguide.ropensci.org/softwarereview_author.html) and I expect to maintain this package for at least 2 years or to find a replacement.
+- [ ] Eu li o [guia de desenvolvimento de pacotes da rOpenSci](https://devguide.ropensci.org/building.html).
+- [ ] Eu li o [guia de autores(as)](https://devguide.ropensci.org/softwarereview_author.html) e espero manter este pacote por pelo menos 2 anos ou encontrar uma pessoa substituta.
 
-This package:
+Este pacote:
 
-- [ ] does not violate the Terms of Service of any service it interacts with.
-- [ ] has a CRAN and OSI accepted license.
-- [ ] contains a [README with instructions for installing the development version](https://ropensci.github.io/dev_guide/building.html#readme).
-- [ ] includes [documentation with examples for all functions, created with roxygen2](https://ropensci.github.io/dev_guide/building.html#documentation).
+- [ ] não viola os Termos de Serviço de nenhum serviço com o qual interage.
+- [ ] possui uma licença aceita pelo CRAN e pela OSI.
+- [ ] contém um [README com instruções para instalar a versão de desenvolvimento](https://ropensci.github.io/dev_guide/building.html#readme).
+- [ ] inclui [documentação com exemplos para todas as funções, criada com roxygen2](https://ropensci.github.io/dev_guide/building.html#documentation).
 - [ ] contains a vignette with examples of its essential functions and uses.
 - [ ] has a [test suite](https://ropensci.github.io/dev_guide/building.html#testing).
 - [ ] has [continuous integration](https://ropensci.github.io/dev_guide/ci.html), including reporting of test coverage.

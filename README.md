@@ -324,7 +324,8 @@ McVey](https://github.com/eamcvey) · [Bryce
 Mecum](https://github.com/amoeba) · [Nolwenn Le
 Meur](https://github.com/nolwenn) · [François
 Michonneau](https://github.com/fmichonneau) · [Mario
-Miguel](https://github.com/leocadio-miguel) · [Helen
+Miguel](https://github.com/leocadio-miguel) · [David Lawrence
+Miller](https://github.com/dill) · [Helen
 Miller](https://github.com/helenmiller16) · [Jessica
 Minnier](https://github.com/jminnier) · [Priscilla
 Minotti](https://github.com/pmnatural) · [Nichole

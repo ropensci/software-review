@@ -137,7 +137,6 @@ Cambiamos lideres editoriales, aproximadamente cada 3 meses. Hoy es
 Nuestro equipo editorial asociado incluye:
 
 - [Laura DeCicco](https://github.com/ldecicco-usgs);
-- [Julia Gustavsen](https://github.com/jooolia), Agroscope;
 - [Jouni Helske](https://github.com/helske), University of Jyväskylä,
   Finland;
 - [Toby Hocking](https://github.com/tdhock), Northern Arizona
@@ -253,7 +252,8 @@ Ganz](https://github.com/carlganz) · [Duncan
 Garmonsway](https://github.com/nacnudus) · [Jan Laurens
 Geffert](https://github.com/JanLauGe) · [Sharla
 Gelfand](https://github.com/sharlagelfand) · [Monica
-Gerber](https://github.com/monicagerber) · [Duncan
+Gerber](https://github.com/monicagerber) · [Alex
+Gibberd](https://github.com/AlexGibberd) · [Duncan
 Gillespie](https://github.com/dosgillespie) · [David
 Gohel](https://github.com/davidgohel) · [A. Cagri
 gokcek](https://github.com/cagrigokcek) · [Guadalupe
@@ -437,7 +437,8 @@ Teucher](https://github.com/ateucher) · [Jennifer
 Thompson](https://github.com/jenniferthompson) · [Joe
 Thorley](https://github.com/joethorley) · [Nicholas
 Tierney](https://github.com/njtierney) · [Tiffany
-Timbers](https://github.com/ttimbers) · [Tan
+Timbers](https://github.com/ttimbers) · [Daniel
+Timothy](https://github.com/CompBioDan) · [Tan
 Tran](https://github.com/vinhtantran) · [Tim
 Trice](https://github.com/timtrice) · [Sunny
 Tseng](https://github.com/SunnyTseng) · [Utku
@@ -500,6 +501,7 @@ revisión.
 - [Brooke Anderson](https://github.com/geanders);
 - [Scott Chamberlain](https://github.com/sckott), Fred Hutch Cancer
   Center;
+- [Julia Gustavsen](https://github.com/jooolia), Agroscope;
 - [Paula Moraga](https://github.com/Paula-Moraga), King Abdullah
   University of Science and Technology (KAUST), Saudi Arabia;
 - [Karthik Ram](https://github.com/karthik), University of California,
@@ -510,4 +512,5 @@ También agradecemos a las siguientes personas que tomaron el rol de
 edición de forma invitada.
 
 - [Ana Laura Diedrichs](https://github.com/anadiedrichs);
+- [Julia Gustavsen](https://github.com/jooolia);
 - [Hao Zhu](https://github.com/haozhu233).

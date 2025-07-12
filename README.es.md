@@ -280,7 +280,8 @@ Held](https://github.com/maxheld83) · [Anna
 Hepworth](https://github.com/arhepworth) · [Bea
 Hernandez](https://github.com/chucheria) · [Jim
 Hester](https://github.com/jimhester) · [Peter
-Hickey](https://github.com/PeteHaitch) · [Roel
+Hickey](https://github.com/PeteHaitch) · [Tan
+Ho](https://github.com/tanho63) · [Roel
 Hogervorst](https://github.com/rmhogervorst) · [Kelly
 Hondula](https://github.com/khondula) · [Allison
 Horst](https://github.com/allisonhorst) · [Sean

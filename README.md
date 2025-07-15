@@ -187,7 +187,8 @@ Brown](https://github.com/eebrown) · [Julien
 Brun](https://github.com/brunj7) · [Jenny
 Bryan](https://github.com/jennybc) · [Lukas
 Burk](https://github.com/jemus42) · [Lorenzo
-Busetto](https://github.com/lbusett) · [Maria Paula
+Busetto](https://github.com/lbusett) · [Kyle F
+Butts](https://github.com/kylebutts) · [Maria Paula
 Caldas](https://github.com/mpaulacaldas) · [Mario Gavidia
 Calderón](https://github.com/quishqa) · [Carlos
 Cámara-Menoyo](https://github.com/ccamara) · [Brad
@@ -304,7 +305,8 @@ Levinson](https://github.com/lisalevinson) · [Stephanie
 Locke](https://github.com/stephlocke) · [Marion
 Louveaux](https://github.com/marionlouveaux) · [Robin
 Lovelace](https://github.com/robinlovelace) · [Julia Stewart
-Lowndes](https://github.com/jules32) · [Tim
+Lowndes](https://github.com/jules32) · [adam
+loy](https://github.com/aloy) · [Tim
 Lucas](https://github.com/timcdlucas) · [Muralidhar,
 M.A.](https://github.com/Kattuvan) · [Andrew
 MacDonald](https://github.com/aammd) · [Jesse
@@ -374,7 +376,8 @@ Racine](https://github.com/etiennebr) · [Manuel
 Ramon](https://github.com/manuramon) · [Nistara
 Randhawa](https://github.com/nistara) · [David
 Ranzolin](https://github.com/daranzolin) · [Quentin
-Read](https://github.com/qdread) · [Neal
+Read](https://github.com/qdread) · [Nicola
+Rennie](https://github.com/nrennie) · [Neal
 Richardson](https://github.com/nealrichardson) · [tyler
 rinker](https://github.com/trinker) · [Emily
 Robinson](https://github.com/robinsones) · [David

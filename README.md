@@ -112,13 +112,12 @@ dashboard](https://ropensci-review-tools.github.io/dashboard/).
 ### Editor-in-Chief
 
 We rotate our Editor-in-Chief, generally every three months. Our current
-Editor-in-Chief is [Mark Padgham](https://github.com/mpadge).
+Editor-in-Chief is [Laura DeCicco](https://github.com/ldecicco-usgs).
 
 ### Editorial team
 
 Our current team of editors for software peer-review includes:
 
-- [Laura DeCicco](https://github.com/ldecicco-usgs);
 - [Jouni Helske](https://github.com/helske), University of Jyväskylä,
   Finland;
 - [Toby Hocking](https://github.com/tdhock), Northern Arizona
@@ -132,6 +131,7 @@ Our current team of editors for software peer-review includes:
   Initiative;
 - [Beatriz Milz](https://github.com/beatrizmilz), University of Sao
   Paulo - Institute of Energy and Environment;
+- [Mark Padgham](https://github.com/mpadge);
 - [Emily Riederer](https://github.com/emilyriederer), Capital One;
 - [Francisco Rodriguez-Sanchez](https://github.com/Pakillo), Universidad
   de Sevilla, Spain;
@@ -210,7 +210,8 @@ Crema](https://github.com/ercrema) · [Verónica
 Cruz-Alonso](https://github.com/VeruGHub) · [Ildiko
 Czeller](https://github.com/czeildi) · [Tad
 Dallas](https://github.com/taddallas) · [Kauê de
-Sousa](https://github.com/kauedesousa) · [Christophe
+Sousa](https://github.com/kauedesousa) · [Laura
+DeCicco](https://github.com/ldecicco-usgs) · [Christophe
 Dervieux](https://github.com/cderv) · [Amanda
 Dobbyn](https://github.com/aedobbyn) · [Jasmine
 Dumas](https://github.com/jasdumas) · [Christophe
@@ -358,8 +359,7 @@ Olner](https://github.com/DanOlner) · [Jeroen
 Ooms](https://github.com/jeroen) · [Victor
 Ordu](https://github.com/BroVic) · [Luis
 Osorio](https://github.com/luismurao) · [Philipp
-Ottolinger](https://github.com/ottlngr) · [Mark
-Padgham](https://github.com/mpadge) · [Marina
+Ottolinger](https://github.com/ottlngr) · [Marina
 Papadopoulou](https://github.com/marinapapa) · [Edzer
 Pebesma](https://github.com/edzer) · [Thomas Lin
 Pedersen](https://github.com/thomasp85) · [Antonio J.

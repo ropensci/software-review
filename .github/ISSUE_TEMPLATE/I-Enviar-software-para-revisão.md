@@ -46,7 +46,7 @@ Idioma: <!--language-->pt<!--end-language-->
 	- [ ] _wrappers_ de software científico (scientific software wrappers)
 	- [ ] ferramentas de reprodutibilidade de campo e laboratório (field and lab reproducibility tools)
 	- [ ] vinculações de software de banco de dados (database software bindings)
-	- [ ] geospatial data
+	- [ ] dados geoespaciais (geospatial data)
     - [ ] tradução (translation)
 
 - Explique como e por que o pacote se enquadra nessas categorias (brevemente, 1–2 frases): 

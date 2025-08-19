@@ -306,8 +306,8 @@ Levinson](https://github.com/lisalevinson) · [Stephanie
 Locke](https://github.com/stephlocke) · [Marion
 Louveaux](https://github.com/marionlouveaux) · [Robin
 Lovelace](https://github.com/robinlovelace) · [Julia Stewart
-Lowndes](https://github.com/jules32) · [adam
-loy](https://github.com/aloy) · [Tim
+Lowndes](https://github.com/jules32) · [Adam
+Loy](https://github.com/aloy) · [Tim
 Lucas](https://github.com/timcdlucas) · [Muralidhar,
 M.A.](https://github.com/Kattuvan) · [Andrew
 MacDonald](https://github.com/aammd) · [Jesse
@@ -366,7 +366,7 @@ Pedersen](https://github.com/thomasp85) · [Antonio J.
 Pérez-Luque](https://github.com/ajpelu) · [Marcelo S.
 Perlin](https://github.com/msperlin) · [Rafael
 Pilliard-Hellwig](https://github.com/rtaph) · [July
-Pilowsky](https://github.com/japilo) · [Rodrigo Neto
+Pilowsky](https://github.com/japilo) · [Rodrigo
 Pires](https://github.com/bozaah) · [Lindsay
 Platt](https://github.com/lindsayplatt) · [Nicholas
 Potter](https://github.com/potterzot) · [Joanne

@@ -35,7 +35,7 @@ Idioma: <!--language-->es<!--end-language-->
 	- [ ] extracción de datos (data extraction)
 	- [ ] manipulación de datos (data munging)
 	- [ ] depósito de datos (data deposition)
-        - [ ] validación y comprobación de datos (data validation and testing)
+    - [ ] validación y comprobación de datos (data validation and testing)
 	- [ ] automatización de flujo de trabajo (workflow automation)
 	- [ ] control de versiones (version control)
 	- [ ] manejo de citas y bibliometría (citation management and bibliometrics)
@@ -43,6 +43,7 @@ Idioma: <!--language-->es<!--end-language-->
 	- [ ] herramientas de reproducibilidad de campo y laboratorio (field and lab reproducibility tools)
 	- [ ] enlaces a software de bases de datos (database software bindings)
 	- [ ] datos geoespaciales (geospatial data)
+	- [ ] tradución (translation)
 
 - Explica cómo y por qué el paquete encaja dentro de estas categorías (1 a 3 oraciones):
 

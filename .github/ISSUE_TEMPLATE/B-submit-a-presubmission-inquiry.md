@@ -43,7 +43,7 @@ Language: <!--language-->en<!--end-language-->
 	- [ ] field and lab reproducibility tools
 	- [ ] database software bindings
 	- [ ] geospatial data
-	- [ ] text analysis
+	- [ ] translation
     
      **Statistical Packages**
 

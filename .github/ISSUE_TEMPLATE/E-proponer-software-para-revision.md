@@ -41,7 +41,7 @@ Idioma: <!--language-->es<!--end-language-->
 	- [ ] herramientas de reproducibilidad de campo y laboratorio (field and lab reproducibility tools)
 	- [ ] enlaces a software de bases de datos (database software bindings)
 	- [ ] datos geoespaciales (geospatial data)
-	- [ ] datos de texto (text data)
+	- [ ] tradución (translation)
 
      **Paquetes Estadisticos**
 

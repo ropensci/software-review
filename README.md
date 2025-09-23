@@ -287,7 +287,8 @@ Kamvar](https://github.com/zkamvar) · [Michael
 Kane](https://github.com/kaneplusplus) · [Andee
 Kaplan](https://github.com/andeek) · [Tinula
 Kariyawasam](https://github.com/Tinula-kariyawasam) · [Hazel
-Kavılı](https://github.com/UniversalTourist) · [Jonathan
+Kavılı](https://github.com/UniversalTourist) · [Ella
+Kaye](https://github.com/EllaKaye) · [Jonathan
 Keane](https://github.com/jonkeane) · [Christopher T.
 Kenny](https://github.com/christopherkenny) · [Os
 Keyes](https://github.com/Ironholds) · [Eunseop

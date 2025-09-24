@@ -243,7 +243,8 @@ Gohel](https://github.com/davidgohel) · [A. Cagri
 gokcek](https://github.com/cagrigokcek) · [Guadalupe
 Gonzalez](https://github.com/guadag12) · [Rohit
 Goswami](https://github.com/HaoZeke) · [Laura
-Graham](https://github.com/laurajanegraham) · [Charles
+Graham](https://github.com/laurajanegraham) · [João
+Granja-Correia](https://github.com/joaojcorreia) · [Charles
 Gray](https://github.com/softloud) · [Matthias
 Grenié](https://github.com/Rekyt) · [Corinna
 Gries](https://github.com/cgries) · [Hugo

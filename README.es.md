@@ -448,7 +448,8 @@ Timbers](https://github.com/ttimbers) · [Daniel
 Timothy](https://github.com/CompBioDan) · [Tan
 Tran](https://github.com/vinhtantran) · [Tim
 Trice](https://github.com/timtrice) · [Sunny
-Tseng](https://github.com/SunnyTseng) · [Utku
+Tseng](https://github.com/SunnyTseng) · [Anatolii
+Tsyplenkov](https://github.com/atsyplenkov) · [Utku
 Turk](https://github.com/utkuturk) · [Zoë
 Turner](https://github.com/Lextuga007) · [Kyle
 Ueyama](https://github.com/khueyama) · [Ted

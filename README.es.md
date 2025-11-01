@@ -130,18 +130,17 @@ ropensci/software-review-meta](https://github.com/ropensci/software-review-meta/
 ### Líder Editorial
 
 Cambiamos lideres editoriales, aproximadamente cada 3 meses. Hoy es
-[Laura DeCicco](https://github.com/ldecicco-usgs).
+[Jeff Hollister](https://github.com/jhollist).
 
 ### Equipo editorial asociado
 
 Nuestro equipo editorial asociado incluye:
 
+- [Laura DeCicco](https://github.com/ldecicco-usgs);
 - [Jouni Helske](https://github.com/helske), University of Jyväskylä,
   Finland;
 - [Toby Hocking](https://github.com/tdhock), Northern Arizona
   University, USA;
-- [Jeff Hollister](https://github.com/jhollist), US Environmental
-  Protection Agency;
 - [Rebecca Killick](https://github.com/rkillick), Lancaster University,
   U.K.;
 - [Anna Krystalli](https://github.com/annakrystalli);
@@ -228,8 +227,7 @@ Crema](https://github.com/ercrema) · [Verónica
 Cruz-Alonso](https://github.com/VeruGHub) · [Ildiko
 Czeller](https://github.com/czeildi) · [Tad
 Dallas](https://github.com/taddallas) · [Kauê de
-Sousa](https://github.com/kauedesousa) · [Laura
-DeCicco](https://github.com/ldecicco-usgs) · [Christophe
+Sousa](https://github.com/kauedesousa) · [Christophe
 Dervieux](https://github.com/cderv) · [Amanda
 Dobbyn](https://github.com/aedobbyn) · [Jasmine
 Dumas](https://github.com/jasdumas) · [Christophe
@@ -285,7 +283,8 @@ Hernandez](https://github.com/chucheria) · [Jim
 Hester](https://github.com/jimhester) · [Peter
 Hickey](https://github.com/PeteHaitch) · [Tan
 Ho](https://github.com/tanho63) · [Roel
-Hogervorst](https://github.com/rmhogervorst) · [Kelly
+Hogervorst](https://github.com/rmhogervorst) · [Jeff
+Hollister](https://github.com/jhollist) · [Kelly
 Hondula](https://github.com/khondula) · [Allison
 Horst](https://github.com/allisonhorst) · [Sean
 Hughes](https://github.com/seaaan) · [James

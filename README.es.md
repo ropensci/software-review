@@ -315,7 +315,8 @@ Kim](https://github.com/markean) · [Aaron A.
 King](https://github.com/kingaa) · [Michael
 Koontz](https://github.com/mikoontz) · [Alexandros
 Kouretsis](https://github.com/AleKoure) · [Bianca
-Kramer](https://github.com/bmkramer) · [Will
+Kramer](https://github.com/bmkramer) · [Robert
+Kubinec](https://github.com/saudiwin) · [Will
 Landau](https://github.com/wlandau) · [Sam
 Lapp](https://github.com/sammlapp) · [Erin
 LeDell](https://github.com/ledell) · [Thomas

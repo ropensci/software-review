@@ -299,7 +299,8 @@ Jimenez-Jacinto](https://github.com/vjimenez9) · [Mike
 Johnson](https://github.com/mikejohnson51) · [Will
 Jones](https://github.com/wjones127) · [Max
 Joseph](https://github.com/mbjoseph) · [Megha
-Joshi](https://github.com/meghapsimatrix) · [Krunoslav
+Joshi](https://github.com/meghapsimatrix) · [Nerea Piñeiro
+Juncal](https://github.com/NPJuncal) · [Krunoslav
 Juraic](https://github.com/kjuraic) · [Soumya
 Kalra](https://github.com/sokal1456) · [Zhian N.
 Kamvar](https://github.com/zkamvar) · [Michael

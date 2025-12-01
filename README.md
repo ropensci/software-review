@@ -428,8 +428,7 @@ Teucher](https://github.com/ateucher) · [Jennifer
 Thompson](https://github.com/jenniferthompson) · [Joe
 Thorley](https://github.com/joethorley) · [Nicholas
 Tierney](https://github.com/njtierney) · [Tiffany
-Timbers](https://github.com/ttimbers) · [Daniel
-Timothy](https://github.com/CompBioDan) · [Tan
+Timbers](https://github.com/ttimbers) · [Tan
 Tran](https://github.com/vinhtantran) · [Tim
 Trice](https://github.com/timtrice) · [Sunny
 Tseng](https://github.com/SunnyTseng) · [Anatolii
@@ -445,7 +444,8 @@ Dunné](https://github.com/FvD) · [Mauricio
 Vargas](https://github.com/pachamaltese) · [Remi
 Vergnon](https://github.com/remsamp) · [Jake
 Wagner](https://github.com/jacobpwagner) · [Ben
-Ward](https://github.com/BenJWard) · [Elin
+Ward](https://github.com/BenJWard) · [Daniel
+Ward](https://github.com/CompBioDan) · [Elin
 Waring](https://github.com/elinw) · [Rachel
 Warnock](https://github.com/rachelwarnock) · [Leah
 Wasser](https://github.com/lwasser) · [David

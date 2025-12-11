@@ -247,7 +247,8 @@ Granja-Correia](https://github.com/joaojcorreia) · [Charles
 Gray](https://github.com/softloud) · [Matthias
 Grenié](https://github.com/Rekyt) · [Corinna
 Gries](https://github.com/cgries) · [Hugo
-Gruson](https://github.com/bisaloo) · [Ernest
+Gruson](https://github.com/bisaloo) · [Hugo
+Gruson](https://github.com/Bisaloo) · [Ernest
 Guevarra](https://github.com/ernestguevarra) · [W Kyle
 Hamilton](https://github.com/kylehamilton) · [Ivan
 Hanigan](https://github.com/ivanhanigan) · [Jeffrey

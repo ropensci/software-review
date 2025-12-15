@@ -24,7 +24,6 @@ You can however ask for an exception, please ping the editor in charge of the su
     * In addition, in your DESCRIPTION file, include the docs link in the `URL` field alongside the link to the GitHub repository, e.g.: `URL: https://docs.ropensci.org/foobar, https://github.com/ropensci/foobar`
 - [ ] Skim the docs of the [pkgdown automatic deployment](https://devguide.ropensci.org/building.html#docsropensci), in particular if your website needs MathJax.
 - [ ] Increment the package version to reflect the changes you made during review. In NEWS.md, add a heading for the new version and one bullet for each user-facing change, and each developer-facing change that you think is relevant.
-- [ ] We're starting to roll out software metadata files to all rOpenSci packages via the Codemeta initiative, see https://docs.ropensci.org/codemetar/ for how to include it in your package, after installing the package - should be easy as running `codemetar::write_codemeta()` in the root of your package.
 - [ ] You can add this installation method to your package README `install.packages("<package-name>", repos = c('https://ropensci.r-universe.dev', 'https://cloud.r-project.org'))` thanks to [R-universe](https://ropensci.org/blog/2021/06/22/setup-runiverse/).
 
 Should you want to acknowledge your reviewers in your package DESCRIPTION, you can do so by making them [`"rev"`-type contributors in the `Authors@R` field](https://devguide.ropensci.org/building.html#authorship) (with their consent). 

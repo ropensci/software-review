@@ -1,6 +1,6 @@
 ---
 name: Enviar uma consulta de pré-submissão
-about: 🚨ON HOLIDAY - NO NEW EDITORIAL ACTION UNTIL JAN 6🚨 Não tem certeza de que seu software se encaixa ou está enviando um pacote estatístico? Use este modelo para obter uma resposta rápida dos editores
+about: 🚨ON HOLIDAY - NO NEW EDITORIAL ACTION UNTIL JAN 5🚨 Não tem certeza de que seu software se encaixa ou está enviando um pacote estatístico? Use este modelo para obter uma resposta rápida dos editores
 
 ---
 

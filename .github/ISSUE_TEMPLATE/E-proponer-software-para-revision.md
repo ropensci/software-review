@@ -1,6 +1,6 @@
 ---
 name: Preguntar si el software está dentro del alcance de rOpenSci
-about: 🚨ON HOLIDAY - NO NEW EDITORIAL ACTION UNTIL JAN 6🚨 ¿Quieres confirmar que tu paquete encaja en una revisión, o quieres enviar un paquete estadistico? Usa esta plantilla para obtener una repuesta por parte del equipo editorial en Español (Experimental)
+about: 🚨ON HOLIDAY - NO NEW EDITORIAL ACTION UNTIL JAN 5🚨 ¿Quieres confirmar que tu paquete encaja en una revisión, o quieres enviar un paquete estadistico? Usa esta plantilla para obtener una repuesta por parte del equipo editorial en Español (Experimental)
 ---
 
 <!---

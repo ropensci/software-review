@@ -1,6 +1,6 @@
 ---
 name: Submit software for review 
-about: 🚨ON HOLIDAY - NO NEW EDITORIAL ACTION UNTIL JAN 6🚨 Use this template to submit software for review
+about: 🚨ON HOLIDAY - NO NEW EDITORIAL ACTION UNTIL JAN 5🚨 Use this template to submit software for review
 ---
 
 <!---

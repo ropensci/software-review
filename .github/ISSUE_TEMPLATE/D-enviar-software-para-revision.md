@@ -1,6 +1,6 @@
 ---
 name: Enviar software para revisión
-about: 🚨ON HOLIDAY - NO NEW EDITORIAL ACTION UNTIL JAN 5🚨 Usa esta plantilla para enviar un software a revisar en Español (Experimental)
+about: Usa esta plantilla para enviar un software a revisar en Español (Experimental)
 ---
 
 <!---

@@ -351,7 +351,8 @@ Munafó](https://github.com/mvickm) · [David
 Neuzerling](https://github.com/mdneuzerling) · [Dillon
 Niederhut](https://github.com/deniederhut) · [Joel
 Nitta](https://github.com/joelnitta) · [Rory
-Nolan](https://github.com/rorynolan) · [Kari
+Nolan](https://github.com/rorynolan) · [Simon
+Nolte](https://github.com/smnnlt) · [Kari
 Norman](https://github.com/karinorman) · [Jakub
 Nowosad](https://github.com/Nowosad) · [Matt
 Nunes](https://github.com/nunesmatt) · [Daniel

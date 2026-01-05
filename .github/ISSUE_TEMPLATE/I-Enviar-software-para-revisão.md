@@ -1,6 +1,7 @@
 ---
 name: Enviar software para revisão 
-about: 🚨ON HOLIDAY - NO NEW EDITORIAL ACTION UNTIL JAN 5🚨 Use este modelo para enviar um software para revisão
+about: Use este modelo para enviar um software para revisão
+
 ---
 
 <!---

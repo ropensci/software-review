@@ -164,7 +164,8 @@ Balamuta](https://github.com/coatless) · [Vikram
 Baliga](https://github.com/vbaliga) · [David
 Bapst](https://github.com/dwbapst) · [Joëlle
 Barido-Sottani](https://github.com/bjoelle) · [Allison
-Barner](https://github.com/abarner) · [Cale
+Barner](https://github.com/abarner) · [Tanguy
+Barthelemy](https://github.com/TanguyBarthelemy) · [Cale
 Basaraba](https://github.com/calebasaraba) · [John
 Baumgartner](https://github.com/johnbaums) · [Marcus
 Beck](https://github.com/fawda123) · [Gabriel

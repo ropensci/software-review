@@ -130,7 +130,7 @@ ropensci/software-review-meta](https://github.com/ropensci/software-review-meta/
 ### Líder Editorial
 
 Cambiamos lideres editoriales, aproximadamente cada 3 meses. Hoy es
-[Jeff Hollister](https://github.com/jhollist).
+[Emily Riederer](https://github.com/emilyriederer).
 
 ### Equipo editorial asociado
 
@@ -141,6 +141,8 @@ Nuestro equipo editorial asociado incluye:
   Finland;
 - [Toby Hocking](https://github.com/tdhock), Northern Arizona
   University, USA;
+- [Jeff Hollister](https://github.com/jhollist), US Environmental
+  Protection Agency;
 - [Rebecca Killick](https://github.com/rkillick), Lancaster University,
   U.K.;
 - [Anna Krystalli](https://github.com/annakrystalli);
@@ -149,7 +151,6 @@ Nuestro equipo editorial asociado incluye:
 - [Beatriz Milz](https://github.com/beatrizmilz), University of Sao
   Paulo - Institute of Energy and Environment;
 - [Mark Padgham](https://github.com/mpadge);
-- [Emily Riederer](https://github.com/emilyriederer), Capital One;
 - [Francisco Rodriguez-Sanchez](https://github.com/Pakillo), Universidad
   de Sevilla, Spain;
 - [Noam Ross](https://github.com/noamross), rOpenSci and EcoHealth
@@ -286,8 +287,7 @@ Hernandez](https://github.com/chucheria) · [Jim
 Hester](https://github.com/jimhester) · [Peter
 Hickey](https://github.com/PeteHaitch) · [Tan
 Ho](https://github.com/tanho63) · [Roel
-Hogervorst](https://github.com/rmhogervorst) · [Jeff
-Hollister](https://github.com/jhollist) · [Kelly
+Hogervorst](https://github.com/rmhogervorst) · [Kelly
 Hondula](https://github.com/khondula) · [Allison
 Horst](https://github.com/allisonhorst) · [Sean
 Hughes](https://github.com/seaaan) · [James
@@ -403,7 +403,8 @@ Randhawa](https://github.com/nistara) · [David
 Ranzolin](https://github.com/daranzolin) · [Quentin
 Read](https://github.com/qdread) · [Nicola
 Rennie](https://github.com/nrennie) · [Neal
-Richardson](https://github.com/nealrichardson) · [tyler
+Richardson](https://github.com/nealrichardson) · [Emily
+Riederer](https://github.com/emilyriederer) · [tyler
 rinker](https://github.com/trinker) · [Emily
 Robinson](https://github.com/robinsones) · [David
 Robinson](https://github.com/dgrtwo) · [Alec

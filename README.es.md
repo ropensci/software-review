@@ -231,7 +231,8 @@ Cruz-Alonso](https://github.com/VeruGHub) · [Ildiko
 Czeller](https://github.com/czeildi) · [Tad
 Dallas](https://github.com/taddallas) · [Kauê de
 Sousa](https://github.com/kauedesousa) · [Christophe
-Dervieux](https://github.com/cderv) · [Amanda
+Dervieux](https://github.com/cderv) · [Dylan
+Dijk](https://github.com/DylanDijk) · [Amanda
 Dobbyn](https://github.com/aedobbyn) · [Jasmine
 Dumas](https://github.com/jasdumas) · [Christophe
 Dutang](https://github.com/dutangc) · [Remko
@@ -272,7 +273,8 @@ Gruson](https://github.com/Bisaloo) · [Ernest
 Guevarra](https://github.com/ernestguevarra) · [W Kyle
 Hamilton](https://github.com/kylehamilton) · [Ivan
 Hanigan](https://github.com/ivanhanigan) · [Jeffrey
-Hanson](https://github.com/jeffreyhanson) · [Liz
+Hanson](https://github.com/jeffreyhanson) · [Sebastian
+Hanß](https://github.com/bitbacchus) · [Liz
 Hare](https://github.com/LizHareDogs) · [Jon
 Harmon](https://github.com/jonthegeek) · [Rayna
 Harris](https://github.com/raynamharris) · [Ted

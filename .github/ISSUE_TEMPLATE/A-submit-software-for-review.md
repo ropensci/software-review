@@ -49,6 +49,7 @@ Language: <!--language-->en<!--end-language-->
 	- [ ] database software bindings
 	- [ ] geospatial data
 	- [ ] translation
+    - [ ] rOpenSci internal tools 
 
 - Explain how and why the package falls under these categories (briefly, 1-2 sentences):
 

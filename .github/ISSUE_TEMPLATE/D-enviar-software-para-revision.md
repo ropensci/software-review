@@ -44,6 +44,7 @@ Idioma: <!--language-->es<!--end-language-->
 	- [ ] enlaces a software de bases de datos (database software bindings)
 	- [ ] datos geoespaciales (geospatial data)
 	- [ ] tradución (translation)
+    - [ ] herramientas internas de rOpenSci 
 
 - Explica cómo y por qué el paquete encaja dentro de estas categorías (1 a 3 oraciones):
 

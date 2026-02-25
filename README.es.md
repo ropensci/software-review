@@ -160,7 +160,9 @@ Nuestro equipo editorial asociado incluye:
   Atmospheric Administration;
 - [Adam Sparks](https://github.com/adamhsparks), Curtin University;
 - [Emi Tanaka](https://github.com/emitanaka), Australian National
-  University.
+  University;
+- [Sebastian Wójcik](https://github.com/SebastianWojcik86), Statistics
+  Poland, University of Rzeszów (Institute of Mathematics).
 
 ### Revisión y edición invitada
 
@@ -447,7 +449,8 @@ Sumner](https://github.com/mdsumner) · [Chung-Kai
 Sun](https://github.com/cksun-usc) · [Sarah
 Supp](https://github.com/sarahsupp) · [phanikumar s
 tata](https://github.com/tataphani) · [Jason
-Taylor](https://github.com/jmt2080ad) · [Filipe
+Taylor](https://github.com/jmt2080ad) · [Simon
+Taylor](https://github.com/staylo16) · [Filipe
 Teixeira](https://github.com/FilipeamTeixeira) · [Christian
 Testa](https://github.com/ctesta01) · [Andy
 Teucher](https://github.com/ateucher) · [Jennifer
@@ -483,8 +486,7 @@ Widgren](https://github.com/stewid) · [Anna
 Willoughby](https://github.com/arw36) · [Saras
 Windecker](https://github.com/smwindecker) · [Luke
 Winslow](https://github.com/lawinslow) · [David
-Winter](https://github.com/dwinter) · [Sebastian
-Wójcik](https://github.com/SebastianWojcik86) · [Witold
+Winter](https://github.com/dwinter) · [Witold
 Wolski](https://github.com/wolski) · [Kara
 Woo](https://github.com/karawoo) · [Marvin N.
 Wright](https://github.com/mnwright) · [Jacob

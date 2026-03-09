@@ -81,6 +81,13 @@ This package:
 - [ ] has a [test suite](https://ropensci.github.io/dev_guide/building.html#testing).
 - [ ] has [continuous integration](https://ropensci.github.io/dev_guide/ci.html), including reporting of test coverage.
 
+## Use of Generative AI
+
+- [ ] Generative AI tools were used to produce some of the material in this submission.
+
+If so, please describe usage, and include links to any relevant aspects of your repository. (Explicit advice is not yet included in our _Dev Guide_; we are hoping to update very soon, and ask your cooperation and transparency in the meantime.)
+
+
 ## Publication options
 
 - [ ] Do you intend for this package to go on CRAN?

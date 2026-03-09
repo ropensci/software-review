@@ -75,6 +75,13 @@ Este paquete:
 - [ ] Tiene una [suite de tests](https://devguide.ropensci.org/es/pkg_building.es.html#testing).
 - [ ] Tiene [integración contínua](https://devguide.ropensci.org/es/pkg_ci.es.html), incluyendo reporte de cobertura de tests.
 
+## Uso de IA generativa
+
+- [ ] Se han utilizado herramientas de IA generativa para producir parte del material de esta presentación.
+
+Si es así, describa su uso e incluya enlaces a cualquier aspecto relevante de su repositorio. (Aún no se incluyen consejos explícitos en nuestra Guía de desarrollo; esperamos actualizarla muy pronto y, mientras tanto, le pedimos su colaboración y transparencia).
+
+
 ## Opciones de Publicación
 
 - [ ] ¿Tienes intenciones de publicar este paquete en CRAN?

@@ -118,6 +118,7 @@ Editor-in-Chief is [Emily Riederer](https://github.com/emilyriederer).
 
 Our current team of editors for software peer-review includes:
 
+- [Marc Choisy](https://github.com/choisy), University of Oxford;
 - [Laura DeCicco](https://github.com/ldecicco-usgs);
 - [Jouni Helske](https://github.com/helske), University of Jyväskylä,
   Finland;
@@ -125,6 +126,7 @@ Our current team of editors for software peer-review includes:
   University, USA;
 - [Jeff Hollister](https://github.com/jhollist), US Environmental
   Protection Agency;
+- [Cynthia Huang](https://github.com/cynthiahqy);
 - [Rebecca Killick](https://github.com/rkillick), Lancaster University,
   U.K.;
 - [Anna Krystalli](https://github.com/annakrystalli);
@@ -198,7 +200,8 @@ Cámara-Menoyo](https://github.com/ccamara) · [Brad
 Cannell](https://github.com/brad-cannell) · [Paul
 CARTERON](https://github.com/paul-carteron) · [Joaquin
 Cavieres](https://github.com/jcavieresg) · [Kevin
-Cazelles](https://github.com/KevCaz) · [Cathy
+Cazelles](https://github.com/KevCaz) · [Mine
+Cetinkaya-Rundel](https://github.com/mine-cetinkaya-rundel) · [Cathy
 Chamberlin](https://github.com/chamberlinc) · [Jennifer
 Chang](https://github.com/j23414) · [Pierre
 Chausse](https://github.com/pchausse) · [Jorge
@@ -366,7 +369,8 @@ Nunes](https://github.com/nunesmatt) · [Daniel
 Nüst](https://github.com/nuest) · [Lauren
 O’Brien](https://github.com/obrl-soil) · [Joseph
 O’Brien](https://github.com/jmobrien) · [Paul
-Oldham](https://github.com/poldham) · [Samantha
+Oldham](https://github.com/poldham) · [Jeff
+Oliver](https://github.com/jcoliver) · [Samantha
 Oliver](https://github.com/limnoliver) · [Dan
 Olner](https://github.com/DanOlner) · [Jeroen
 Ooms](https://github.com/jeroen) · [Victor

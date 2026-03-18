@@ -138,6 +138,7 @@ Nuestro equipo editorial asociado incluye:
 
 - [Marc Choisy](https://github.com/choisy), University of Oxford;
 - [Laura DeCicco](https://github.com/ldecicco-usgs);
+- [Stéphane Guerrier](https://github.com/stephaneguerrier);
 - [Jouni Helske](https://github.com/helske), University of Jyväskylä,
   Finland;
 - [Toby Hocking](https://github.com/tdhock), Northern Arizona
@@ -211,7 +212,8 @@ Brun](https://github.com/brunj7) · [Jenny
 Bryan](https://github.com/jennybc) · [Lukas
 Burk](https://github.com/jemus42) · [Lorenzo
 Busetto](https://github.com/lbusett) · [Kyle F
-Butts](https://github.com/kylebutts) · [Maria Paula
+Butts](https://github.com/kylebutts) · [Collin
+Cademartori](https://github.com/collin-cademartori) · [Maria Paula
 Caldas](https://github.com/mpaulacaldas) · [Mario Gavidia
 Calderón](https://github.com/quishqa) · [Carlos
 Cámara-Menoyo](https://github.com/ccamara) · [Brad
@@ -238,7 +240,8 @@ Dallas](https://github.com/taddallas) · [Kauê de
 Sousa](https://github.com/kauedesousa) · [Christophe
 Dervieux](https://github.com/cderv) · [Dylan
 Dijk](https://github.com/DylanDijk) · [Amanda
-Dobbyn](https://github.com/aedobbyn) · [Jasmine
+Dobbyn](https://github.com/aedobbyn) · [Kathryn
+Doering](https://github.com/k-doering-NOAA) · [Jasmine
 Dumas](https://github.com/jasdumas) · [Christophe
 Dutang](https://github.com/dutangc) · [Remko
 Duursma](https://github.com/RemkoDuursma) · [Mark

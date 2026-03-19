@@ -79,7 +79,7 @@ Este paquete:
 
 - [ ] Se han utilizado herramientas de IA generativa para producir parte del material de esta presentación.
 
-Si es así, describa su uso e incluya enlaces a cualquier aspecto relevante de su repositorio. (Aún no se incluyen consejos explícitos en nuestra Guía de desarrollo; esperamos actualizarla muy pronto y, mientras tanto, le pedimos su colaboración y transparencia).
+Si es así, describe su uso e incluye enlaces a cualquier aspecto relevante de tu repositorio. (Aún no se incluyen consejos explícitos en nuestra Guía de desarrollo; esperamos actualizarla muy pronto y, mientras tanto, te pedimos tu colaboración y transparencia).
 
 
 ## Opciones de Publicación

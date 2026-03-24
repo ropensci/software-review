@@ -68,3 +68,9 @@ Idioma: <!--language-->es<!--end-language-->
 
 
 -  ¿Tienes otras preguntas u otros comentarios?
+
+## Uso de IA generativa
+
+- [ ] Se han utilizado herramientas de IA generativa para producir parte del material del paquete que se envía a revisión.
+
+Si es así, describe su uso e incluye enlaces a cualquier aspecto relevante de tu repositorio. Consulta [nuestra entrada del blog](https://ropensci.org/blog/2026/02/26/ropensci-ai-policy/) para más información. (Aún no se incluyen consejos explícitos en nuestra Guía de desarrollo; esperamos actualizarla muy pronto y, mientras tanto, te pedimos tu colaboración y transparencia).

@@ -68,3 +68,9 @@ Language: <!--language-->en<!--end-language-->
 -   (If applicable) Does your package comply with our [guidance around _Ethics, Data Privacy and Human Subjects Research_](https://devguide.ropensci.org/policies.html#ethics-data-privacy-and-human-subjects-research)?
 
 -  Any other questions or issues we should be aware of?:
+
+## Use of Generative AI
+
+- [ ] Generative AI tools were used to produce some of the material in this submission.
+
+If so, please describe usage, and include links to any relevant aspects of your repository. See [our blog post](https://ropensci.org/blog/2026/02/26/ropensci-ai-policy/) for background. (Explicit advice is not yet included in our _Dev Guide_; we are hoping to update very soon, and ask your cooperation and transparency in the meantime.)

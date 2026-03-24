@@ -80,13 +80,6 @@ Este pacote:
 - [ ] possui um [conjunto de testes](https://ropensci.github.io/dev_guide/building.html#testing).
 - [ ] tem [integração contínua](https://ropensci.github.io/dev_guide/ci.html), incluindo relatório de cobertura de testes.
 
-## Utilização de IA generativa
-
-- [ ] Foram utilizadas ferramentas de IA generativa para produzir parte do material desta submissão.
-
-Se for o caso, descreva a utilização e inclua links para quaisquer aspetos relevantes do seu repositório. Consulte a [nossa publicação no blogue](https://ropensci.org/blog/2026/02/26/ropensci-ai-policy/) para obter mais informações. (Ainda não incluímos recomendações explícitas no nosso Guia de Desenvolvimento; esperamos atualizá-lo em breve e, entretanto, pedimos a sua colaboração e transparência.)
-
-
 ## Opções de publicação
 
 - [ ] Você pretende publicar este pacote no CRAN?

@@ -118,9 +118,12 @@ Editor-in-Chief is [Emily Riederer](https://github.com/emilyriederer).
 
 Our current team of editors for software peer-review includes:
 
+- [Maria Paula Caldas](https://github.com/mpaulacaldas), OECD;
 - [Marc Choisy](https://github.com/choisy), University of Oxford;
 - [Laura DeCicco](https://github.com/ldecicco-usgs);
 - [Stéphane Guerrier](https://github.com/stephaneguerrier);
+- [Alex Hayes](https://github.com/alexpghayes), University of
+  Wisconsin-Madison;
 - [Jouni Helske](https://github.com/helske), University of Jyväskylä,
   Finland;
 - [Toby Hocking](https://github.com/tdhock), Northern Arizona
@@ -135,19 +138,25 @@ Our current team of editors for software peer-review includes:
   Initiative;
 - [Beatriz Milz](https://github.com/beatrizmilz), University of Sao
   Paulo - Institute of Energy and Environment;
+- [S’busiso Mkhondwane](https://github.com/Sibusiso16);
 - [Mark Padgham](https://github.com/mpadge);
 - [Francisco Rodriguez-Sanchez](https://github.com/Pakillo), Universidad
   de Sevilla, Spain;
 - [Noam Ross](https://github.com/noamross), rOpenSci and EcoHealth
   Alliance;
 - [Maëlle Salmon](https://github.com/maelle), rOpenSci;
+- [Candace Savonen](https://github.com/cansavvy), Fred Hutchinson Cancer
+  Center;
 - [Margaret Siple](https://github.com/mcsiple), National Oceanic and
   Atmospheric Administration;
 - [Adam Sparks](https://github.com/adamhsparks), Curtin University;
 - [Emi Tanaka](https://github.com/emitanaka), Australian National
   University;
+- [Tiffany Timbers](https://github.com/ttimbers), University of British
+  Columbia;
 - [Sebastian Wójcik](https://github.com/SebastianWojcik86), Statistics
-  Poland, University of Rzeszów (Institute of Mathematics).
+  Poland, University of Rzeszów (Institute of Mathematics);
+- [Kiran](https://github.com/Kiranp).
 
 ### Reviewers and former editors
 
@@ -170,8 +179,7 @@ Balamuta](https://github.com/coatless) · [Vikram
 Baliga](https://github.com/vbaliga) · [David
 Bapst](https://github.com/dwbapst) · [Joëlle
 Barido-Sottani](https://github.com/bjoelle) · [Allison
-Barner](https://github.com/abarner) · [Tanguy
-Barthelemy](https://github.com/TanguyBarthelemy) · [Cale
+Barner](https://github.com/abarner) · [Cale
 Basaraba](https://github.com/calebasaraba) · [John
 Baumgartner](https://github.com/johnbaums) · [Marcus
 Beck](https://github.com/fawda123) · [Gabriel
@@ -195,8 +203,7 @@ Bryan](https://github.com/jennybc) · [Lukas
 Burk](https://github.com/jemus42) · [Lorenzo
 Busetto](https://github.com/lbusett) · [Kyle F
 Butts](https://github.com/kylebutts) · [Collin
-Cademartori](https://github.com/collin-cademartori) · [Maria Paula
-Caldas](https://github.com/mpaulacaldas) · [Mario Gavidia
+Cademartori](https://github.com/collin-cademartori) · [Mario Gavidia
 Calderón](https://github.com/quishqa) · [Carlos
 Cámara-Menoyo](https://github.com/ccamara) · [Brad
 Cannell](https://github.com/brad-cannell) · [Paul
@@ -372,7 +379,7 @@ Nunes](https://github.com/nunesmatt) · [Daniel
 Nüst](https://github.com/nuest) · [Lauren
 O’Brien](https://github.com/obrl-soil) · [Joseph
 O’Brien](https://github.com/jmobrien) · [Paul
-Oldham](https://github.com/poldham) · [Jeff
+Oldham](https://github.com/poldham) · [Jeffrey C.
 Oliver](https://github.com/jcoliver) · [Samantha
 Oliver](https://github.com/limnoliver) · [Dan
 Olner](https://github.com/DanOlner) · [Jeroen
@@ -445,8 +452,7 @@ Testa](https://github.com/ctesta01) · [Andy
 Teucher](https://github.com/ateucher) · [Jennifer
 Thompson](https://github.com/jenniferthompson) · [Joe
 Thorley](https://github.com/joethorley) · [Nicholas
-Tierney](https://github.com/njtierney) · [Tiffany
-Timbers](https://github.com/ttimbers) · [Tan
+Tierney](https://github.com/njtierney) · [Tan
 Tran](https://github.com/vinhtantran) · [Tim
 Trice](https://github.com/timtrice) · [Sunny
 Tseng](https://github.com/SunnyTseng) · [Anatolii
@@ -496,6 +502,7 @@ Zwart](https://github.com/jzwart) · [Felipe](https://github.com/OldLipe)
 [Flury](https://github.com/romanflury) ·
 [Vincent](https://github.com/vincentvanhees) ·
 [eholmes](https://github.com/eholmes) ·
+[BARTHELEMY](https://github.com/TanguyBarthelemy) ·
 [Pachá](https://github.com/pachadotdev) ·
 [Rich](https://github.com/richfitz) ·
 [Claudia](https://github.com/cvitolo) ·

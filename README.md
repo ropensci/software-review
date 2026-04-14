@@ -230,7 +230,8 @@ Sousa](https://github.com/kauedesousa) · [Christophe
 Dervieux](https://github.com/cderv) · [Dylan
 Dijk](https://github.com/DylanDijk) · [Amanda
 Dobbyn](https://github.com/aedobbyn) · [Kathryn
-Doering](https://github.com/k-doering-NOAA) · [Jasmine
+Doering](https://github.com/k-doering-NOAA) · [Haolin
+Dong](https://github.com/donghl17) · [Jasmine
 Dumas](https://github.com/jasdumas) · [Christophe
 Dutang](https://github.com/dutangc) · [Remko
 Duursma](https://github.com/RemkoDuursma) · [Mark
@@ -387,7 +388,8 @@ Ooms](https://github.com/jeroen) · [Victor
 Ordu](https://github.com/BroVic) · [Luis
 Osorio](https://github.com/luismurao) · [Philipp
 Ottolinger](https://github.com/ottlngr) · [Marina
-Papadopoulou](https://github.com/marinapapa) · [Edzer
+Papadopoulou](https://github.com/marinapapa) · [Michael
+Pascale](https://github.com/MichaelPascale) · [Edzer
 Pebesma](https://github.com/edzer) · [Thomas Lin
 Pedersen](https://github.com/thomasp85) · [Antonio J.
 Pérez-Luque](https://github.com/ajpelu) · [Marcelo S.

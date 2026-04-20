@@ -67,3 +67,9 @@ Idioma: <!--language-->pt<!--end-language-->
 -   (Se aplicável) Seu pacote está em conformidade com a nossa [orientação sobre _Ética, Privacidade de Dados e Pesquisa com Seres Humanos_](https://devguide.ropensci.org/policies.html#ethics-data-privacy-and-human-subjects-research)?
 
 -  Alguma outra dúvida ou questão que deveríamos estar cientes?
+
+## Utilização de IA generativa
+
+- [ ] Foram utilizadas ferramentas de IA generativa para produzir parte do material desta submissão.
+
+Se for o caso, descreva a utilização e inclua links para quaisquer aspetos relevantes do seu repositório. Consulte a [nossa publicação no blogue](https://ropensci.org/blog/2026/02/26/ropensci-ai-policy/) para obter mais informações. (Ainda não incluímos recomendações explícitas no nosso Guia de Desenvolvimento; esperamos atualizá-lo em breve e, entretanto, pedimos a sua colaboração e transparência.)

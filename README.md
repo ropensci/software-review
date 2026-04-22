@@ -155,7 +155,9 @@ Our current team of editors for software peer-review includes:
 - [Margaret Siple](https://github.com/MargaretSiple-NOAA);
 - [Adam Sparks](https://github.com/adamhsparks), Curtin University;
 - [Emi Tanaka](https://github.com/emitanaka), Australian National
-  University.
+  University;
+- [Nicholas Tierney](https://github.com/njtierney), Telethon Kids
+  Institute.
 
 ### Reviewers and former editors
 
@@ -448,8 +450,7 @@ Teixeira](https://github.com/FilipeamTeixeira) · [Christian
 Testa](https://github.com/ctesta01) · [Andy
 Teucher](https://github.com/ateucher) · [Jennifer
 Thompson](https://github.com/jenniferthompson) · [Joe
-Thorley](https://github.com/joethorley) · [Nicholas
-Tierney](https://github.com/njtierney) · [Tiffany
+Thorley](https://github.com/joethorley) · [Tiffany
 Timbers](https://github.com/ttimbers) · [Tan
 Tran](https://github.com/vinhtantran) · [Tim
 Trice](https://github.com/timtrice) · [Sunny

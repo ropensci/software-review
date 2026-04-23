@@ -159,6 +159,7 @@ Nuestro equipo editorial asociado incluye:
 - [Beatriz Milz](https://github.com/beatrizmilz), University of Sao
   Paulo - Institute of Energy and Environment;
 - [Ronny A. Hernández Mora](https://github.com/ronnyhdez);
+- [Joel Nitta](https://github.com/joelnitta), Chiba University;
 - [Lauren O’Brien](https://github.com/obrl-soil);
 - [Mark Padgham](https://github.com/mpadge);
 - [Alec Robitaille](https://github.com/robitalec), Memorial University /
@@ -387,8 +388,7 @@ Mullen](https://github.com/lmullen) · [Matt
 Mulvahill](https://github.com/mmulvahill) · [Maria Victoria
 Munafó](https://github.com/mvickm) · [David
 Neuzerling](https://github.com/mdneuzerling) · [Dillon
-Niederhut](https://github.com/deniederhut) · [Joel
-Nitta](https://github.com/joelnitta) · [Rory
+Niederhut](https://github.com/deniederhut) · [Rory
 Nolan](https://github.com/rorynolan) · [Simon
 Nolte](https://github.com/smnnlt) · [Kari
 Norman](https://github.com/karinorman) · [Jakub

@@ -480,7 +480,8 @@ Ueyama](https://github.com/khueyama) · [Ted
 Underwood](https://github.com/tedunderwood) · [Adithi R.
 Upadhya](https://github.com/adithirgis) · [Kevin
 Ushey](https://github.com/kevinushey) · [Josef
-Uyeda](https://github.com/uyedaj) · [Frans van
+Uyeda](https://github.com/uyedaj) · [Ulduz
+Vafadarshamasbi](https://github.com/vafadaru) · [Frans van
 Dunné](https://github.com/FvD) · [Mauricio
 Vargas](https://github.com/pachamaltese) · [Remi
 Vergnon](https://github.com/remsamp) · [Jake

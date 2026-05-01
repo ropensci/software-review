@@ -130,7 +130,7 @@ ropensci/software-review-meta](https://github.com/ropensci/software-review-meta/
 ### Líder Editorial
 
 Cambiamos lideres editoriales, aproximadamente cada 3 meses. Hoy es
-[Emily Riederer](https://github.com/emilyriederer).
+[Mauro Lepore](https://github.com/maurolepore).
 
 ### Equipo editorial asociado
 
@@ -152,8 +152,6 @@ Nuestro equipo editorial asociado incluye:
 - [Rebecca Killick](https://github.com/rkillick), Lancaster University,
   U.K.;
 - [Anna Krystalli](https://github.com/annakrystalli);
-- [Mauro Lepore](https://github.com/maurolepore), 2 Degrees Investing
-  Initiative;
 - [Lucy D’Agostino McGowan](https://github.com/LucyMcGowan), Wake Forest
   University;
 - [Beatriz Milz](https://github.com/beatrizmilz), University of Sao
@@ -162,6 +160,7 @@ Nuestro equipo editorial asociado incluye:
 - [Joel Nitta](https://github.com/joelnitta), Chiba University;
 - [Lauren O’Brien](https://github.com/obrl-soil);
 - [Mark Padgham](https://github.com/mpadge);
+- [Emily Riederer](https://github.com/emilyriederer), Capital One;
 - [Alec Robitaille](https://github.com/robitalec), Memorial University /
   Canadian Forestry Service;
 - [Francisco Rodriguez-Sanchez](https://github.com/Pakillo), Universidad
@@ -239,7 +238,8 @@ Cimentada](https://github.com/cimentadaj) · [Nicholas
 Clark](https://github.com/nicholasjclark) · [Chase
 Clark](https://github.com/chasemc) · [Jon
 Clayden](https://github.com/jonclayden) · [Dena Jane
-Clink](https://github.com/DenaJGibbon) · [Will
+Clink](https://github.com/DenaJGibbon) · [José Daniel
+Conejeros](https://github.com/JDConejeros) · [Will
 Cornwell](https://github.com/wcornwell) · [Pao
 Corrales](https://github.com/paocorrales) · [Nic
 Crane](https://github.com/thisisnic) · [Enrico
@@ -344,7 +344,8 @@ Landau](https://github.com/wlandau) · [Sam
 Lapp](https://github.com/sammlapp) · [Erin
 LeDell](https://github.com/ledell) · [Thomas
 Leeper](https://github.com/leeper) · [Alex
-Leith](https://github.com/alexgleith) · [Sam
+Leith](https://github.com/alexgleith) · [Mauro
+Lepore](https://github.com/maurolepore) · [Sam
 Levin](https://github.com/levisc8) · [Lisa
 Levinson](https://github.com/lisalevinson) · [Stephanie
 Locke](https://github.com/stephlocke) · [Marion
@@ -423,8 +424,7 @@ Randhawa](https://github.com/nistara) · [David
 Ranzolin](https://github.com/daranzolin) · [Quentin
 Read](https://github.com/qdread) · [Nicola
 Rennie](https://github.com/nrennie) · [Neal
-Richardson](https://github.com/nealrichardson) · [Emily
-Riederer](https://github.com/emilyriederer) · [tyler
+Richardson](https://github.com/nealrichardson) · [tyler
 rinker](https://github.com/trinker) · [Emily
 Robinson](https://github.com/robinsones) · [David
 Robinson](https://github.com/dgrtwo) · [Sam
@@ -435,7 +435,8 @@ Rudis](https://github.com/hrbrmstr) · [Edgar
 Ruiz](https://github.com/edgararuiz) · [Kent
 Russel](https://github.com/timelyportfolio) · [Michael
 Sachs](https://github.com/sachsmc) · [Sheila M.
-Saia](https://github.com/sheilasaia) · [Chitra M
+Saia](https://github.com/sheilasaia) · [Yanina Bellini
+Saibene](https://github.com/yabellini) · [Chitra M
 Saraswati](https://github.com/chitrams) · [Alicia
 Schep](https://github.com/AliciaSchep) · [Klaus
 Schliep](https://github.com/KlausVigo) · [Clemens

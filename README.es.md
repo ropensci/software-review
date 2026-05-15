@@ -371,7 +371,8 @@ Matthews](https://github.com/txm676) · [Miles
 McBain](https://github.com/milesmcbain) · [Amelia
 McNamara](https://github.com/AmeliaMN) · [Elaine
 McVey](https://github.com/eamcvey) · [Bryce
-Mecum](https://github.com/amoeba) · [Nolwenn Le
+Mecum](https://github.com/amoeba) · [Jorrit
+Mesman](https://github.com/jorritmesman) · [Nolwenn Le
 Meur](https://github.com/nolwenn) · [François
 Michonneau](https://github.com/fmichonneau) · [Mario
 Miguel](https://github.com/leocadio-miguel) · [David L

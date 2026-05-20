@@ -341,7 +341,8 @@ MacDonald](https://github.com/aammd) · [Jesse
 Maegan](https://github.com/kierisi) · [Mike
 Mahoney](https://github.com/mikemahoney218) · [Tristan
 Mahr](https://github.com/tjmahr) · [Christina
-Maimone](https://github.com/cmaimone) · [Yohann
+Maimone](https://github.com/cmaimone) · [Milan
+Malfait](https://github.com/milanmlft) · [Yohann
 Mansiaux](https://github.com/ymansiaux) · [Paula Andrea
 Martinez](https://github.com/orchid00) · [Anthony
 Martinez](https://github.com/amart90) · [Joao

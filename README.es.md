@@ -207,7 +207,8 @@ Becker](https://github.com/jsonbecker) · [Salvador Jesus Fernandez
 Bejarano](https://github.com/salvafern) · [Dom
 Bennett](https://github.com/DomBennett) · [Ken
 Benoit](https://github.com/kbenoit) · [Aaron
-Berdanier](https://github.com/berdaniera) · [Fred
+Berdanier](https://github.com/berdaniera) · [Sangeeta
+Bhatia](https://github.com/sangeetabhatia03) · [Fred
 Boehm](https://github.com/fboehm) · [Carl
 Boettiger](https://github.com/cboettig) · [Will
 Bolton](https://github.com/WillOnGit) · [Ben

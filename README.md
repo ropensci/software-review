@@ -323,7 +323,8 @@ Koontz](https://github.com/mikoontz) · [Alexandros
 Kouretsis](https://github.com/AleKoure) · [Bianca
 Kramer](https://github.com/bmkramer) · [Rainer M
 Krug](https://github.com/rkrug) · [Robert
-Kubinec](https://github.com/saudiwin) · [Will
+Kubinec](https://github.com/saudiwin) · [Joshua
+Lambert](https://github.com/joshwlambert) · [Will
 Landau](https://github.com/wlandau) · [Sam
 Lapp](https://github.com/sammlapp) · [Erin
 LeDell](https://github.com/ledell) · [Thomas
@@ -368,7 +369,8 @@ Minotti](https://github.com/pmnatural) · [Nichole
 Monhait](https://github.com/nmonhait) · [Kelsey
 Montgomery](https://github.com/kelshmo) · [Natalia
 Morandeira](https://github.com/nmorandeira) · [George
-Moroz](https://github.com/agricolamz) · [Ross
+Moroz](https://github.com/agricolamz) · [Rob
+Moss](https://github.com/robmoss) · [Ross
 Mounce](https://github.com/rossmounce) · [Athanasia Monika
 Mowinckel](https://github.com/drmowinckels) · [Lincoln
 Mullen](https://github.com/lmullen) · [Matt

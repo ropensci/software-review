@@ -147,8 +147,7 @@ Our current team of editors for software peer-review includes:
   Canadian Forestry Service;
 - [Francisco Rodriguez-Sanchez](https://github.com/Pakillo), Universidad
   de Sevilla, Spain;
-- [Noam Ross](https://github.com/noamross), rOpenSci and EcoHealth
-  Alliance;
+- [Noam Ross](https://github.com/noamross), rOpenSci;
 - [Maëlle Salmon](https://github.com/maelle), rOpenSci;
 - [Margaret Siple](https://github.com/mcsiple), National Oceanic and
   Atmospheric Administration;

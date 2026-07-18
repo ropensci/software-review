@@ -512,6 +512,7 @@ Zwart](https://github.com/jzwart) · [Felipe](https://github.com/OldLipe)
 [BARTHELEMY](https://github.com/TanguyBarthelemy) ·
 [Pachá](https://github.com/pachadotdev) ·
 [Rich](https://github.com/richfitz) ·
+[krzbar](https://github.com/krzbar) ·
 [Claudia](https://github.com/cvitolo) ·
 [Jasmine](https://github.com/laijasmine) ·
 [Zack](https://github.com/zackarno) · [Lluís](https://github.com/llrs) ·

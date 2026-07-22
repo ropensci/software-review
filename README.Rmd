@@ -87,7 +87,7 @@ Our [gitbook "rOpenSci Packages: Development, Maintenance, and Peer Review"](htt
 * different templates: [review template](https://devguide.ropensci.org/reviewtemplate.html), [editor's template](https://devguide.ropensci.org/editortemplate.html), [review request template](https://devguide.ropensci.org/reviewrequesttemplate.html).
 
 Our review process is always in development, and we encourage feedback and discussion
-on how to improve the process on our [forum](https://discuss.ropensci.org/) and in the [ropensci/software-review-meta issue tracker](https://github.com/ropensci/software-review-meta/issues).
+on how to improve the process on our [forum](http://web.archive.org/web/20260316135936/https://discuss.ropensci.org/) and in the [ropensci/software-review-meta issue tracker](https://github.com/ropensci/software-review-meta/issues).
 
 # <a href="#editors" name="editors"></a> Editors and reviewers
 

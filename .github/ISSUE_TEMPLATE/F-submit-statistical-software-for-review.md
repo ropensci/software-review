@@ -48,7 +48,7 @@ Language: <!--language-->en<!--end-language-->
 
 ## Pre-submission Inquiry
 
-- [ ] A pre-submission inquiry has been approved in [issue#<issue_num>](#<issue_num>)<!--Replace #<issue_num> with the issue number of the Pres-submission inquiry-->
+- [ ] A pre-submission inquiry has been approved in [issue#<issue_num>](https://github.com/ropensci/software-review/issues/<issue_num>)<!--Replace <issue_num> with the issue number of the Pres-submission inquiry-->
 
 
 ## General Information

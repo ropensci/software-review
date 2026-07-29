@@ -161,8 +161,8 @@ Nuestro equipo editorial asociado incluye:
 - [Lauren O’Brien](https://github.com/obrl-soil);
 - [Mark Padgham](https://github.com/mpadge);
 - [Emily Riederer](https://github.com/emilyriederer), Capital One;
-- [Alec Robitaille](https://github.com/robitalec), Memorial University /
-  Canadian Forestry Service;
+- [Alec Robitaille](https://github.com/robitalec), Memorial University
+  of Newfoundland and Labrador;
 - [Francisco Rodriguez-Sanchez](https://github.com/Pakillo), Universidad
   de Sevilla, Spain;
 - [Noam Ross](https://github.com/noamross), rOpenSci;

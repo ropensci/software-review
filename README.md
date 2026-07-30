@@ -118,6 +118,7 @@ Editor-in-Chief is [Mauro Lepore](https://github.com/maurolepore).
 
 Our current team of editors for software peer-review includes:
 
+- [Etienne Bacher](https://github.com/etiennebacher), None;
 - [Natalia da Silva](https://github.com/natydasilva), Universidad de la
   República in Montevideo, Uruguay;
 - [Laura DeCicco](https://github.com/ldecicco-usgs);

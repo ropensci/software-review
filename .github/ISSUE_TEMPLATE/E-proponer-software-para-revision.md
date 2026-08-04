@@ -1,6 +1,7 @@
 ---
 name: Preguntar si el software está dentro del alcance de rOpenSci
 about: ¿Quieres confirmar que tu paquete encaja en una revisión, o quieres enviar un paquete estadistico? Usa esta plantilla para obtener una repuesta por parte del equipo editorial en Español (Experimental)
+labels: "0/presubmission"
 
 ---
 

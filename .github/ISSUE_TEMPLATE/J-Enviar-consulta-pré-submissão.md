@@ -1,6 +1,7 @@
 ---
 name: Enviar uma consulta de pré-submissão
 about: Não tem certeza de que seu software se encaixa ou está enviando um pacote estatístico? Use este modelo para obter uma resposta rápida dos editores
+labels: "0/presubmission"
 
 ---
 

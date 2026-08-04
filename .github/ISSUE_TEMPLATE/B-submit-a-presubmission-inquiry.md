@@ -2,6 +2,7 @@
 name: Submit a presubmission inquiry
 about: Not sure your software fits, or submitting a statistical package? Use this template to get a quick response from
   the editors
+labels: "0/presubmission"
 
 ---
 

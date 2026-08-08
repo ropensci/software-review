@@ -243,7 +243,8 @@ Clayden](https://github.com/jonclayden) · [Dena Jane
 Clink](https://github.com/DenaJGibbon) · [José Daniel
 Conejeros](https://github.com/JDConejeros) · [Will
 Cornwell](https://github.com/wcornwell) · [Pao
-Corrales](https://github.com/paocorrales) · [Nic
+Corrales](https://github.com/paocorrales) · [Diana García
+Cortés](https://github.com/ddiannae) · [Nic
 Crane](https://github.com/thisisnic) · [Enrico
 Crema](https://github.com/ercrema) · [Verónica
 Cruz-Alonso](https://github.com/VeruGHub) · [Ildiko
@@ -423,7 +424,8 @@ Pires](https://github.com/bozaah) · [Lindsay
 Platt](https://github.com/lindsayplatt) · [Nicholas
 Potter](https://github.com/potterzot) · [Joanne
 Potts](https://github.com/TheAnalyticalEdge) · [Josep
-Pueyo-Ros](https://github.com/jospueyo) · [Etienne
+Pueyo-Ros](https://github.com/jospueyo) · [Allan
+Quadros](https://github.com/allanvc) · [Etienne
 Racine](https://github.com/etiennebr) · [Manuel
 Ramon](https://github.com/manuramon) · [Nistara
 Randhawa](https://github.com/nistara) · [David

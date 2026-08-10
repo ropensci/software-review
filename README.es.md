@@ -240,8 +240,7 @@ Cimentada](https://github.com/cimentadaj) · [Nicholas
 Clark](https://github.com/nicholasjclark) · [Chase
 Clark](https://github.com/chasemc) · [Jon
 Clayden](https://github.com/jonclayden) · [Dena Jane
-Clink](https://github.com/DenaJGibbon) · [José Daniel
-Conejeros](https://github.com/JDConejeros) · [Will
+Clink](https://github.com/DenaJGibbon) · [Will
 Cornwell](https://github.com/wcornwell) · [Pao
 Corrales](https://github.com/paocorrales) · [Diana García
 Cortés](https://github.com/ddiannae) · [Nic

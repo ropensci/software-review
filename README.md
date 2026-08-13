@@ -393,7 +393,8 @@ Ooms](https://github.com/jeroen) · [Victor
 Ordu](https://github.com/BroVic) · [Luis
 Osorio](https://github.com/luismurao) · [Philipp
 Ottolinger](https://github.com/ottlngr) · [Marina
-Papadopoulou](https://github.com/marinapapa) · [Michael
+Papadopoulou](https://github.com/marinapapa) · [Josiah
+Parry](https://github.com/JosiahParry) · [Michael
 Pascale](https://github.com/MichaelPascale) · [Edzer
 Pebesma](https://github.com/edzer) · [Thomas Lin
 Pedersen](https://github.com/thomasp85) · [Antonio J.

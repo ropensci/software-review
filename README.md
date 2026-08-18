@@ -287,7 +287,8 @@ Haunschmid](https://github.com/expectopatronum) · [Stephanie
 Hazlitt](https://github.com/stephhazlitt) · [Max
 Held](https://github.com/maxheld83) · [Anna
 Hepworth](https://github.com/arhepworth) · [Bea
-Hernandez](https://github.com/chucheria) · [Jim
+Hernandez](https://github.com/chucheria) · [Jenna
+Hershberger](https://github.com/jmh579) · [Jim
 Hester](https://github.com/jimhester) · [Peter
 Hickey](https://github.com/PeteHaitch) · [Tan
 Ho](https://github.com/tanho63) · [Roel
@@ -479,7 +480,8 @@ Vargas](https://github.com/pachamaltese) · [Remi
 Vergnon](https://github.com/remsamp) · [Jake
 Wagner](https://github.com/jacobpwagner) · [Ben
 Ward](https://github.com/BenJWard) · [Daniel
-Ward](https://github.com/CompBioDan) · [Elin
+Ward](https://github.com/CompBioDan) · [David
+Waring](https://github.com/dwaring87) · [Elin
 Waring](https://github.com/elinw) · [Rachel
 Warnock](https://github.com/rachelwarnock) · [Leah
 Wasser](https://github.com/lwasser) · [David

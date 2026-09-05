@@ -195,7 +195,8 @@ Asaad](https://github.com/alstat) · [Dean
 Attali](https://github.com/daattali) · [Mara
 Averick](https://github.com/batpigandme) · [Suzan
 Baert](https://github.com/suzanbaert) · [James
-Balamuta](https://github.com/coatless) · [Vikram
+Balamuta](https://github.com/coatless) · [Shandiya
+Balasubramaniam](https://github.com/shandiya) · [Vikram
 Baliga](https://github.com/vbaliga) · [David
 Bapst](https://github.com/dwbapst) · [Joëlle
 Barido-Sottani](https://github.com/bjoelle) · [Allison

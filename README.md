@@ -218,7 +218,8 @@ Cazelles](https://github.com/KevCaz) · [Mine
 Cetinkaya-Rundel](https://github.com/mine-cetinkaya-rundel) · [Cathy
 Chamberlin](https://github.com/chamberlinc) · [Jennifer
 Chang](https://github.com/j23414) · [Pierre
-Chausse](https://github.com/pchausse) · [Jorge
+Chausse](https://github.com/pchausse) · [Aleksei
+Chirkunov](https://github.com/alexzerg) · [Jorge
 Cimentada](https://github.com/cimentadaj) · [Nicholas
 Clark](https://github.com/nicholasjclark) · [Chase
 Clark](https://github.com/chasemc) · [Jon

@@ -543,5 +543,4 @@ served as editors.
 And the following who have served as guest editors.
 
 - [Ana Laura Diedrichs](https://github.com/anadiedrichs);
-- [Julia Gustavsen](https://github.com/jooolia);
 - [Hao Zhu](https://github.com/haozhu233).

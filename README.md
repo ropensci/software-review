@@ -356,7 +356,8 @@ Martins](https://github.com/zambujo) · [Ben
 Marwick](https://github.com/benmarwick) · [Claire
 Mason](https://github.com/clairemas0n) · [Joan
 Maspons](https://github.com/jmaspons) · [Tom
-Matthews](https://github.com/txm676) · [Miles
+Matthews](https://github.com/txm676) · [Florian
+Mayer](https://github.com/florianm) · [Miles
 McBain](https://github.com/milesmcbain) · [Amelia
 McNamara](https://github.com/AmeliaMN) · [Elaine
 McVey](https://github.com/eamcvey) · [Bryce

@@ -1,4 +1,3 @@
-
 <figure>
 <img src="icon_lettering_color.png" alt="ropensci" />
 <figcaption aria-hidden="true">ropensci</figcaption>
@@ -119,8 +118,7 @@ inlcuye:
 
 Nuestro proceso de revisión está en constante desarrollo de modo que
 promovemos las devoluciones y las discusiones sobre cómo mejorarlo en
-nuestro [foro](https://discuss.ropensci.org/) y en [los issues del
-repositorio
+[los issues del repositorio
 ropensci/software-review-meta](https://github.com/ropensci/software-review-meta/issues).
 
 # <a href="#editors" name="editors"></a>Equipo editorial y de revisión

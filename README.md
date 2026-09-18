@@ -1,4 +1,3 @@
-
 ![](icon_lettering_color.png)
 
 # rOpenSci Software Peer Review
@@ -97,8 +96,7 @@ Review”](https://devguide.ropensci.org/) also includes:
   template](https://devguide.ropensci.org/reviewrequesttemplate.html).
 
 Our review process is always in development, and we encourage feedback
-and discussion on how to improve the process on our
-[forum](https://discuss.ropensci.org/) and in the
+and discussion on how to improve the process in the
 [ropensci/software-review-meta issue
 tracker](https://github.com/ropensci/software-review-meta/issues).
 

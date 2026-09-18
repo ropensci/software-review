@@ -79,7 +79,7 @@ Nuestra [Guía de desarrollo](https://devguide.ropensci.org/es/index.es.html) ta
 
 * diferentes plantillas: [plantilla de revisión](https://devguide.ropensci.org/es/reviewtemplate.es.html), [plantilla para quien hace la edición](https://devguide.ropensci.org/es/editortemplate.es.html), [plantilla para pedido de revisión](https://devguide.ropensci.org/es/reviewrequesttemplate.es.html). 
 
-Nuestro proceso de revisión está en constante desarrollo de modo que promovemos las devoluciones y las discusiones sobre cómo mejorarlo en nuestro [foro](https://discuss.ropensci.org/) y en [los issues del repositorio ropensci/software-review-meta](https://github.com/ropensci/software-review-meta/issues).
+Nuestro proceso de revisión está en constante desarrollo de modo que promovemos las devoluciones y las discusiones sobre cómo mejorarlo en [los issues del repositorio ropensci/software-review-meta](https://github.com/ropensci/software-review-meta/issues).
 
 # <a href="#editors" name="editors"></a>Equipo editorial y de revisión
 

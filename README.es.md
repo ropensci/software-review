@@ -1,3 +1,4 @@
+
 <figure>
 <img src="icon_lettering_color.png" alt="ropensci" />
 <figcaption aria-hidden="true">ropensci</figcaption>

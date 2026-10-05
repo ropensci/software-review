@@ -216,7 +216,8 @@ Bolton](https://github.com/WillOnGit) · [Ben
 Bond-Lamberty](https://github.com/bpbond) · [Anne-Sophie
 Bonnet-Lebrun](https://github.com/asbonnetlebrun) · [Alison
 Boyer](https://github.com/alisonboyer) · [Abby
-Bratt](https://github.com/aebratt) · [François
+Bratt](https://github.com/aebratt) · [Patrick
+Breheny](https://github.com/pbreheny) · [François
 Briatte](https://github.com/briatte) · [Eric
 Brown](https://github.com/eebrown) · [Julien
 Brun](https://github.com/brunj7) · [Jenny

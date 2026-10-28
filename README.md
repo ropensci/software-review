@@ -134,8 +134,7 @@ Our current team of editors for software peer-review includes:
 - [Rebecca Killick](https://github.com/rkillick), Lancaster University,
   U.K.;
 - [Anna Krystalli](https://github.com/annakrystalli);
-- [Mauro Lepore](https://github.com/maurolepore), 2 Degrees Investing
-  Initiative;
+- [Mauro Lepore](https://github.com/maurolepore);
 - [Lucy D’Agostino McGowan](https://github.com/LucyMcGowan), Wake Forest
   University;
 - [Beatriz Milz](https://github.com/beatrizmilz), University of Sao

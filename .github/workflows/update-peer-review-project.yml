@@ -1,0 +1,51 @@
+name: Sync All Repos to Project
+
+on:
+  schedule:
+    # Runs every day at midnight (adjust as needed)
+    - cron: '0 0 * * *'
+  workflow_dispatch: # Allows manual trigger from the GitHub Actions tab
+
+jobs:
+  sync-issues:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Add open issues from all target repos to project
+        env:
+          GH_TOKEN: ${{ secrets.ADD_TO_PROJECT_PAT }}
+          PROJECT_NUMBER: 12
+          PROJECT_OWNER: "ropensci"
+        run: |
+          # Define your repos across orgs
+          REPOS=(
+            "ropensci/dev_guide"
+            "ropensci/statistical-software-review-book"
+            "ropensci/roweb3"
+            "ropensci/software-review"
+            "ropensci/software-review-meta"
+            "ropensci-org/badges"
+            "ropensci-org/buffy"
+            "ropensci-review-tools/dashboard"
+            "ropensci-review-tools/pkgcheck-action"
+            "ropensci-review-tools/pkgcheck"
+            "ropensci-review-tools/pkgmatch"
+            "ropensci-review-tools/pkgstats"
+            "ropensci-review-tools/roreviewapi"
+            "ropensci-review-tools/srr"
+            "ropenscilabs/statistical-software-review"
+          )
+
+          for REPO in "${REPOS[@]}"; do
+            echo "Processing repository: $REPO..."
+            
+            # Fetch URLs of all open issues in the repo
+            ISSUE_URLS=$(gh issue list --repo "$REPO" --state open --limit 500 --json url --jq '.[].url')
+            
+            for URL in $ISSUE_URLS; do
+              # gh project item-add is idempotent (won't duplicate if already in project)
+              gh project item-add $PROJECT_NUMBER --owner "$PROJECT_OWNER" --url "$URL" > /dev/null 2>&1 || true
+            done
+          done
+          
+          echo "Done syncing all issues!"
+  

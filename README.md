@@ -111,7 +111,7 @@ dashboard](https://ropensci-review-tools.github.io/dashboard/).
 ### Editor-in-Chief
 
 We rotate our Editor-in-Chief, generally every three months. Our current
-Editor-in-Chief is [Adam Sparks](https://github.com/adamhsparks).
+Editor-in-Chief is [Mauro Lepore](https://github.com/maurolepore).
 
 ### Editorial team
 
@@ -134,7 +134,6 @@ Our current team of editors for software peer-review includes:
 - [Rebecca Killick](https://github.com/rkillick), Lancaster University,
   U.K.;
 - [Anna Krystalli](https://github.com/annakrystalli);
-- [Mauro Lepore](https://github.com/maurolepore);
 - [Lucy D’Agostino McGowan](https://github.com/LucyMcGowan), Wake Forest
   University;
 - [Beatriz Milz](https://github.com/beatrizmilz), University of Sao
@@ -153,6 +152,7 @@ Our current team of editors for software peer-review includes:
 - [Margaret Siple](https://github.com/mcsiple), National Oceanic and
   Atmospheric Administration;
 - [Margaret Siple](https://github.com/MargaretSiple-NOAA);
+- [Adam Sparks](https://github.com/adamhsparks), Curtin University;
 - [Emi Tanaka](https://github.com/emitanaka), Australian National
   University;
 - [Nicholas Tierney](https://github.com/njtierney), Telethon Kids
@@ -332,7 +332,8 @@ Landau](https://github.com/wlandau) · [Sam
 Lapp](https://github.com/sammlapp) · [Erin
 LeDell](https://github.com/ledell) · [Thomas
 Leeper](https://github.com/leeper) · [Alex
-Leith](https://github.com/alexgleith) · [Sam
+Leith](https://github.com/alexgleith) · [Mauro
+Lepore](https://github.com/maurolepore) · [Sam
 Levin](https://github.com/levisc8) · [Lisa
 Levinson](https://github.com/lisalevinson) · [Stephanie
 Locke](https://github.com/stephlocke) · [Marion
@@ -445,8 +446,7 @@ Silge](https://github.com/juliasilge) · [Peter
 Slaughter](https://github.com/gothub) · [Mike
 Smith](https://github.com/grimbough) · [Tuija
 Sonkkila](https://github.com/tts) · [Øystein
-Sørensen](https://github.com/osorensen) · [Adam
-Sparks](https://github.com/adamhsparks) · [Jemma
+Sørensen](https://github.com/osorensen) · [Jemma
 Stachelek](https://github.com/jsta) · [Aymeric
 Stamm](https://github.com/astamm) · [Christine
 Stawitz](https://github.com/ChristineStawitz-NOAA) · [Irene

@@ -156,6 +156,8 @@ Our current team of editors for software peer-review includes:
 - [Emi Tanaka](https://github.com/emitanaka), Australian National
   University;
 - [Nicholas Tierney](https://github.com/njtierney), Telethon Kids
+  Institute;
+- [Saras Windecker](https://github.com/smwindecker), Telethon Kids
   Institute.
 
 ### Reviewers and former editors
@@ -494,8 +496,7 @@ Weber](https://github.com/lmweber) · [Marc
 Weber](https://github.com/mhweber) · [Karissa
 Whiting](https://github.com/karissawhiting) · [Stefan
 Widgren](https://github.com/stewid) · [Anna
-Willoughby](https://github.com/arw36) · [Saras
-Windecker](https://github.com/smwindecker) · [Luke
+Willoughby](https://github.com/arw36) · [Luke
 Winslow](https://github.com/lawinslow) · [David
 Winter](https://github.com/dwinter) · [Sebastian
 Wójcik](https://github.com/SebastianWojcik86) · [Witold

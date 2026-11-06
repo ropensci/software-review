@@ -474,7 +474,7 @@ Steves](https://github.com/isteves) · [Kelly
 Street](https://github.com/kstreet13) · [Matt
 Strimas-Mackey](https://github.com/mstrimas) · [Alex
 Stringer](https://github.com/awstringer1) · [Michael
-Sumner](https://github.com/mdsumner) · [Catherine (Cat)
+Sumner](https://github.com/mdsumner) · [Cat
 Sun](https://github.com/catherinecsun) · [Chung-Kai
 Sun](https://github.com/cksun-usc) · [Sarah
 Supp](https://github.com/sarahsupp) · [phanikumar s

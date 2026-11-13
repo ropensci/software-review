@@ -165,8 +165,7 @@ Our current team of editors for software peer-review includes:
 We are grateful to the following individuals who have offered up their
 time and expertise to review packages submitted to rOpenSci.
 
-[Em Markowitz (NOAA)](https://github.com/EmilyMarkowitz-NOAA) · [Lorena
-Abad](https://github.com/loreabad6) · [Sam
+[Em Markowitz (NOAA)](https://github.com/EmilyMarkowitz-NOAA) · [Sam
 Albers](https://github.com/boshek) · [Toph
 Allen](https://github.com/toph-allen) · [Kaique dos S.
 Alves](https://github.com/AlvesKS) · [Alison

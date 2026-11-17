@@ -381,7 +381,8 @@ McBain](https://github.com/milesmcbain) · [Daniel
 McDonald](https://github.com/dajmcdon) · [Amelia
 McNamara](https://github.com/AmeliaMN) · [Elaine
 McVey](https://github.com/eamcvey) · [Bryce
-Mecum](https://github.com/amoeba) · [Jorrit
+Mecum](https://github.com/amoeba) · [Maria Alejandra Torres
+Meraz](https://github.com/mariameraz) · [Jorrit
 Mesman](https://github.com/jorritmesman) · [Nolwenn Le
 Meur](https://github.com/nolwenn) · [François
 Michonneau](https://github.com/fmichonneau) · [Mario
@@ -452,7 +453,8 @@ Sachs](https://github.com/sachsmc) · [Sheila M.
 Saia](https://github.com/sheilasaia) · [Yanina Bellini
 Saibene](https://github.com/yabellini) · [Chitra M
 Saraswati](https://github.com/chitrams) · [Alicia
-Schep](https://github.com/AliciaSchep) · [Klaus
+Schep](https://github.com/AliciaSchep) · [Robert W
+Schlegel](https://github.com/robwschlegel) · [Klaus
 Schliep](https://github.com/KlausVigo) · [Clemens
 Schmid](https://github.com/nevrome) · [Patrick
 Schratz](https://github.com/pat-s) · [Collin
@@ -460,7 +462,8 @@ Schwantes](https://github.com/collinschwantes) · [Marco
 Sciaini](https://github.com/marcosci) · [Eric
 Scott](https://github.com/Aariq) · [Heidi
 Seibold](https://github.com/HeidiSeibold) · [David
-Selby](https://github.com/Selbosh) · [Julia
+Selby](https://github.com/Selbosh) · [Pere Moles
+Seró](https://github.com/peremoles) · [Julia
 Silge](https://github.com/juliasilge) · [Peter
 Slaughter](https://github.com/gothub) · [Mike
 Smith](https://github.com/grimbough) · [Tuija

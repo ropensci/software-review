@@ -5,7 +5,9 @@ on:
       - main
     paths:
       - README.Rmd
+      - README.es.Rmd
       - .github/workflows/main.yml
+      - scripts/**
   schedule:
     - cron:  '0 12 * * *'
 

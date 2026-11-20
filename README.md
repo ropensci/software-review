@@ -141,7 +141,6 @@ Our current team of editors for software peer-review includes:
 - [Ronny A. Hernández Mora](https://github.com/ronnyhdez);
 - [Joel Nitta](https://github.com/joelnitta), Chiba University;
 - [Lauren O’Brien](https://github.com/obrl-soil);
-- [Mark Padgham](https://github.com/mpadge);
 - [Emily Riederer](https://github.com/emilyriederer), Capital One;
 - [Alec Robitaille](https://github.com/robitalec), Memorial University
   of Newfoundland and Labrador;
@@ -377,8 +376,7 @@ Morandeira](https://github.com/nmorandeira) · [George
 Moroz](https://github.com/agricolamz) · [Rob
 Moss](https://github.com/robmoss) · [Ross
 Mounce](https://github.com/rossmounce) · [Athanasia Monika
-Mowinckel](https://github.com/drmowinckels) · [Lincoln
-Mullen](https://github.com/lmullen) · [Matt
+Mowinckel](https://github.com/drmowinckels) · [Matt
 Mulvahill](https://github.com/mmulvahill) · [Maria Victoria
 Munafó](https://github.com/mvickm) · [David
 Neuzerling](https://github.com/mdneuzerling) · [Dillon
@@ -459,8 +457,7 @@ Stringer](https://github.com/awstringer1) · [Michael
 Sumner](https://github.com/mdsumner) · [Cat
 Sun](https://github.com/catherinecsun) · [Chung-Kai
 Sun](https://github.com/cksun-usc) · [Sarah
-Supp](https://github.com/sarahsupp) · [Emi
-Tanaka](https://github.com/emitanaka) · [phanikumar s
+Supp](https://github.com/sarahsupp) · [phanikumar s
 tata](https://github.com/tataphani) · [Jason
 Taylor](https://github.com/jmt2080ad) · [Simon
 Taylor](https://github.com/staylo16) · [Filipe
@@ -535,13 +532,19 @@ We are also grateful to the following individuals who have previously
 served as editors.
 
 - [Brooke Anderson](https://github.com/geanders);
+- [Ben Bolker](https://github.com/bbolker);
 - [Scott Chamberlain](https://github.com/sckott), Fred Hutch Cancer
   Center;
+- [Leonardo Collado-Torres](https://github.com/lcolladotor);
 - [Julia Gustavsen](https://github.com/jooolia), Agroscope;
+- [Stephanie Hicks](https://github.com/stephaniehicks);
 - [Paula Moraga](https://github.com/Paula-Moraga), King Abdullah
   University of Science and Technology (KAUST), Saudi Arabia;
+- [Lincoln Mullen](https://github.com/lmullen), George Mason University;
+- [Mark Padgham](https://github.com/mpadge);
 - [Karthik Ram](https://github.com/karthik), University of California,
   Berkeley, rOpenSci;
+- [Emi Tanaka](https://github.com/emitanaka), Monash University;
 - [Melina Vidoni](https://github.com/melvidoni).
 
 And the following who have served as guest editors.

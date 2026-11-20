@@ -135,7 +135,7 @@ Cambiamos lideres editoriales, aproximadamente cada 3 meses. Hoy es
 
 Nuestro equipo editorial asociado incluye:
 
-- [Etienne Bacher](https://github.com/etiennebacher), None;
+- [Etienne Bacher](https://github.com/etiennebacher);
 - [Natalia da Silva](https://github.com/natydasilva), Universidad de la
   República in Montevideo, Uruguay;
 - [Laura DeCicco](https://github.com/ldecicco-usgs);

@@ -33,7 +33,7 @@ at_guest <- airtabler::airtable(base = "app8dssb6a7PG6Vwj",
                                  table = "guest-editors")
 
 
-editor_index_all <- purrr::map_lgl(reviewers$editor, ~!is.null(.) && !anyNA(.) && . != "Guest")
+editor_index_all <- purrr::map_lgl(reviewers$editor, ~!is.null(.) && !anyNA(.) && "Guest" %in% .)
 editors_all <- reviewers[which(editor_index_all), c("name", "github", "Affiliation", "editor")]
 editors_all <- editors_all [which(!editors_all$name == eic_name), ]
 last_names <- humaniformat::last_name(trimws(editors_all$name))

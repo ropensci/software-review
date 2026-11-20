@@ -132,6 +132,7 @@ Our current team of editors for software peer-review includes:
   Protection Agency;
 - [Rebecca Killick](https://github.com/rkillick), Lancaster University,
   U.K.;
+- [Mauro Lepore](https://github.com/maurolepore);
 - [Lucy D’Agostino McGowan](https://github.com/LucyMcGowan), Wake Forest
   University;
 - [Beatriz Milz](https://github.com/beatrizmilz), University of Sao
@@ -324,8 +325,7 @@ Landau](https://github.com/wlandau) · [Sam
 Lapp](https://github.com/sammlapp) · [Erin
 LeDell](https://github.com/ledell) · [Thomas
 Leeper](https://github.com/leeper) · [Alex
-Leith](https://github.com/alexgleith) · [Mauro
-Lepore](https://github.com/maurolepore) · [Sam
+Leith](https://github.com/alexgleith) · [Sam
 Levin](https://github.com/levisc8) · [Lisa
 Levinson](https://github.com/lisalevinson) · [Stephanie
 Locke](https://github.com/stephlocke) · [Marion

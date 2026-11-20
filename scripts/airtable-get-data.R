@@ -47,7 +47,7 @@ editors_all <- reviewers[
   which(editor_index_all),
   c("name", "github", "Affiliation", "editor")
 ]
-editors_all <- editors_all[which(!editors_all$name == eic_name), ]
+
 last_names <- humaniformat::last_name(trimws(editors_all$name))
 editors_all <- editors_all[order(last_names), ]
 

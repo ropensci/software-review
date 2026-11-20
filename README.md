@@ -350,7 +350,7 @@ Mason](https://github.com/clairemas0n) · [Joan
 Maspons](https://github.com/jmaspons) · [Tom
 Matthews](https://github.com/txm676) · [Florian
 Mayer](https://github.com/florianm) · [Miles
-McBain](https://github.com/milesmcbain) · [Daniel
+McBain](https://github.com/milesmcbain) · [Daniel J.
 McDonald](https://github.com/dajmcdon) · [Amelia
 McNamara](https://github.com/AmeliaMN) · [Elaine
 McVey](https://github.com/eamcvey) · [Bryce
@@ -505,8 +505,10 @@ Zhang](https://github.com/huizezhang-sherry) · [Hao
 Zhu](https://github.com/haozhu233) · [Chava
 Zibman](https://github.com/czibman) · [Naupaka
 Zimmerman](https://github.com/naupaka) · [Jake
-Zwart](https://github.com/jzwart) · [Felipe](https://github.com/OldLipe)
-· [santikka](https://github.com/santikka) ·
+Zwart](https://github.com/jzwart) ·
+[loreabad6](https://github.com/loreabad6) ·
+[Felipe](https://github.com/OldLipe) ·
+[santikka](https://github.com/santikka) ·
 [brock](https://github.com/katrinabrock) ·
 [kasselhingee](https://github.com/kasselhingee) ·
 [Bri](https://github.com/BriannaLind) ·

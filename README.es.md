@@ -171,8 +171,6 @@ Nuestro equipo editorial asociado incluye:
   Atmospheric Administration;
 - [Margaret Siple](https://github.com/MargaretSiple-NOAA);
 - [Adam Sparks](https://github.com/adamhsparks), Curtin University;
-- [Emi Tanaka](https://github.com/emitanaka), Australian National
-  University;
 - [Nicholas Tierney](https://github.com/njtierney), Telethon Kids
   Institute;
 - [Saras Windecker](https://github.com/smwindecker), Telethon Kids
@@ -479,7 +477,8 @@ Stringer](https://github.com/awstringer1) · [Michael
 Sumner](https://github.com/mdsumner) · [Cat
 Sun](https://github.com/catherinecsun) · [Chung-Kai
 Sun](https://github.com/cksun-usc) · [Sarah
-Supp](https://github.com/sarahsupp) · [phanikumar s
+Supp](https://github.com/sarahsupp) · [Emi
+Tanaka](https://github.com/emitanaka) · [phanikumar s
 tata](https://github.com/tataphani) · [Jason
 Taylor](https://github.com/jmt2080ad) · [Simon
 Taylor](https://github.com/staylo16) · [Filipe

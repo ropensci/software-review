@@ -164,8 +164,6 @@ Nuestro equipo editorial asociado incluye:
   de Sevilla, Spain;
 - [Noam Ross](https://github.com/noamross), rOpenSci;
 - [Maëlle Salmon](https://github.com/maelle), rOpenSci;
-- [Margaret Siple](https://github.com/mcsiple), National Oceanic and
-  Atmospheric Administration;
 - [Margaret Siple](https://github.com/MargaretSiple-NOAA);
 - [Adam Sparks](https://github.com/adamhsparks), Curtin University;
 - [Nicholas Tierney](https://github.com/njtierney), Telethon Kids

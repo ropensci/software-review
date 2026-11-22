@@ -569,6 +569,7 @@ edición de forma invitada.
 - [Etienne Bacher](https://github.com/etiennebacher);
 - [Ana Laura Diedrichs](https://github.com/anadiedrichs), Universidad
   Tecnológica Nacional;
+- [Rohit Goswami](https://github.com/HaoZeke), University of Iceland;
 - [Saras Windecker](https://github.com/smwindecker), Telethon Kids
   Institute;
 - [Hao Zhu](https://github.com/haozhu233), Tufts University.

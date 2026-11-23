@@ -19,6 +19,7 @@ Personas encargadas de la revisión: <!--reviewers-list--> A definir <!--end-rev
 Archivo: A definir
 Versión Aceptada: A definir
 Idioma: <!--language-->es<!--end-language-->
+
 ---
 
 -   Pega el archivo DESCRIPTION completo dentro del siguiente bloque de código.

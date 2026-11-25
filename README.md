@@ -128,8 +128,6 @@ Our current team of editors for software peer-review includes:
   Finland;
 - [Toby Hocking](https://github.com/tdhock), Northern Arizona
   University, USA;
-- [Jeff Hollister](https://github.com/jhollist), US Environmental
-  Protection Agency;
 - [Rebecca Killick](https://github.com/rkillick), Lancaster University,
   U.K.;
 - [Mauro Lepore](https://github.com/maurolepore);
@@ -255,7 +253,8 @@ Geffert](https://github.com/JanLauGe) · [Sharla
 Gelfand](https://github.com/sharlagelfand) · [Monica
 Gerber](https://github.com/monicagerber) · [Alex
 Gibberd](https://github.com/AlexGibberd) · [Duncan
-Gillespie](https://github.com/dosgillespie) · [David
+Gillespie](https://github.com/dosgillespie) · [Federico
+Giovannetti](https://github.com/FedeGiovannetti) · [David
 Gohel](https://github.com/davidgohel) · [A. Cagri
 gokcek](https://github.com/cagrigokcek) · [Guadalupe
 Gonzalez](https://github.com/guadag12) · [Rohit
@@ -414,7 +413,8 @@ Rennie](https://github.com/nrennie) · [Neal
 Richardson](https://github.com/nealrichardson) · [tyler
 rinker](https://github.com/trinker) · [Emily
 Robinson](https://github.com/robinsones) · [David
-Robinson](https://github.com/dgrtwo) · [Sam
+Robinson](https://github.com/dgrtwo) · [Lucia
+ROdriguez-Planes](https://github.com/luciairp) · [Sam
 Rogers](https://github.com/rogerssam) · [Julia
 Romanowska](https://github.com/jromanowska) · [Xavier
 Rotllan-Puig](https://github.com/xavi-rp) · [Bob
@@ -507,6 +507,7 @@ Zibman](https://github.com/czibman) · [Naupaka
 Zimmerman](https://github.com/naupaka) · [Jake
 Zwart](https://github.com/jzwart) ·
 [loreabad6](https://github.com/loreabad6) ·
+[MarinaCock](https://github.com/MarinaCock) ·
 [Felipe](https://github.com/OldLipe) ·
 [santikka](https://github.com/santikka) ·
 [brock](https://github.com/katrinabrock) ·
@@ -535,6 +536,8 @@ served as editors.
 - [Leonardo Collado-Torres](https://github.com/lcolladotor);
 - [Julia Gustavsen](https://github.com/jooolia), Agroscope;
 - [Stephanie Hicks](https://github.com/stephaniehicks);
+- [Jeff Hollister](https://github.com/jhollist), US Environmental
+  Protection Agency;
 - [Anna Krystalli](https://github.com/annakrystalli);
 - [Paula Moraga](https://github.com/Paula-Moraga), King Abdullah
   University of Science and Technology (KAUST), Saudi Arabia;
